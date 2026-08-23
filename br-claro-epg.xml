@@ -33204,11 +33204,11 @@
   <programme start="20260823000000 -0300" stop="20260823010000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Sportscenter - Ao Vivo</title>
   </programme>
-  <programme start="20260823010000 -0300" stop="20260823013000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Inside Serie A</title>
-  </programme>
   <programme start="20260823010000 -0300" stop="20260823020000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Bola da Vez: Duda Sampaio</title>
+  </programme>
+  <programme start="20260823010000 -0300" stop="20260823013000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Inside Serie A</title>
   </programme>
   <programme start="20260823013000 -0300" stop="20260823023000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Sportscenter</title>
@@ -33216,11 +33216,11 @@
   <programme start="20260823020000 -0300" stop="20260823023000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Inside Serie A</title>
   </programme>
-  <programme start="20260823023000 -0300" stop="20260823053000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Ciclismo: La Vuelta</title>
-  </programme>
   <programme start="20260823023000 -0300" stop="20260823033000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Destaques da Conmebol Libertadores</title>
+  </programme>
+  <programme start="20260823023000 -0300" stop="20260823053000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Ciclismo: La Vuelta</title>
   </programme>
   <programme start="20260823033000 -0300" stop="20260823052500 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">VT - West Ham x Charlton Athletic</title>
