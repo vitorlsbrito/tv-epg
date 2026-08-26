@@ -3174,13 +3174,13 @@
   <programme start="20260827230000 -0300" stop="20260828000000 -0300" channel="rede_tv.claro.br">
     <title lang="pt">Sob Medida</title>
   </programme>
-  <programme start="20260826001500 -0300" stop="20260826011500 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260826000000 -0300" stop="20260826010000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">The Noite com Danilo Gentili</title>
   </programme>
-  <programme start="20260826011500 -0300" stop="20260826014500 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260826010000 -0300" stop="20260826013000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Operação Mesquita</title>
   </programme>
-  <programme start="20260826014500 -0300" stop="20260826060000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260826013000 -0300" stop="20260826060000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">SBT Notícias</title>
   </programme>
   <programme start="20260826060000 -0300" stop="20260826083000 -0300" channel="sbt_(vtv).claro.br">
@@ -3214,27 +3214,27 @@
     <title lang="pt">SBT Brasil</title>
   </programme>
   <programme start="20260826204500 -0300" stop="20260826211500 -0300" channel="sbt_(vtv).claro.br">
-    <title lang="pt">A História de Joana - A Virgem</title>
-  </programme>
-  <programme start="20260826211500 -0300" stop="20260826220000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Amor Valente</title>
   </programme>
-  <programme start="20260826220000 -0300" stop="20260826230000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260826211500 -0300" stop="20260826214500 -0300" channel="sbt_(vtv).claro.br">
+    <title lang="pt">A História de Joana - A Virgem</title>
+  </programme>
+  <programme start="20260826214500 -0300" stop="20260826223000 -0300" channel="sbt_(vtv).claro.br">
+    <title lang="pt">Sessão +SBT</title>
+  </programme>
+  <programme start="20260826223000 -0300" stop="20260827000000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Programa do Ratinho</title>
   </programme>
-  <programme start="20260826230000 -0300" stop="20260827003000 -0300" channel="sbt_(vtv).claro.br">
-    <title lang="pt">SBT Repórter</title>
-  </programme>
-  <programme start="20260827003000 -0300" stop="20260827013000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260827000000 -0300" stop="20260827010000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">The Noite com Danilo Gentili</title>
   </programme>
-  <programme start="20260827013000 -0300" stop="20260827020000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260827010000 -0300" stop="20260827013000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Operação Mesquita</title>
   </programme>
-  <programme start="20260827020000 -0300" stop="20260827023000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260827013000 -0300" stop="20260827020000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Passe de Milhões</title>
   </programme>
-  <programme start="20260827023000 -0300" stop="20260827060000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260827020000 -0300" stop="20260827060000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">SBT Notícias</title>
   </programme>
   <programme start="20260827060000 -0300" stop="20260827083000 -0300" channel="sbt_(vtv).claro.br">
@@ -3267,16 +3267,13 @@
   <programme start="20260827194500 -0300" stop="20260827204500 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">SBT Brasil</title>
   </programme>
-  <programme start="20260827204500 -0300" stop="20260827211500 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260827204500 -0300" stop="20260827213000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Amor Valente</title>
   </programme>
-  <programme start="20260827211500 -0300" stop="20260827213000 -0300" channel="sbt_(vtv).claro.br">
-    <title lang="pt">A História de Joana - A Virgem</title>
+  <programme start="20260827213000 -0300" stop="20260827220000 -0300" channel="sbt_(vtv).claro.br">
+    <title lang="pt">Sessão +SBT</title>
   </programme>
-  <programme start="20260827213000 -0300" stop="20260827221500 -0300" channel="sbt_(vtv).claro.br">
-    <title lang="pt">Sessão + SBT</title>
-  </programme>
-  <programme start="20260827221500 -0300" stop="20260827231500 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20260827220000 -0300" stop="20260827231500 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Programa do Ratinho</title>
   </programme>
   <programme start="20260827231500 -0300" stop="20260828004500 -0300" channel="sbt_(vtv).claro.br">
@@ -9858,17 +9855,23 @@
   <programme start="20260827234500 -0300" stop="20260828010000 -0300" channel="record_news.claro.br">
     <title lang="pt">Jornal da Record</title>
   </programme>
-  <programme start="20260826000000 -0300" stop="20260826020000 -0300" channel="band_sports.claro.br">
+  <programme start="20260826000000 -0300" stop="20260826003000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Review Fórmula E: E-Prix de Londres</title>
+  </programme>
+  <programme start="20260826003000 -0300" stop="20260826004500 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20260826004500 -0300" stop="20260826023000 -0300" channel="band_sports.claro.br">
     <title lang="pt">VT - Spartak Moscou x Zenit</title>
   </programme>
-  <programme start="20260826020000 -0300" stop="20260826030000 -0300" channel="band_sports.claro.br">
+  <programme start="20260826023000 -0300" stop="20260826033000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Depois do Jogo</title>
   </programme>
-  <programme start="20260826030000 -0300" stop="20260826040000 -0300" channel="band_sports.claro.br">
+  <programme start="20260826033000 -0300" stop="20260826043000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Papo de Paddock</title>
   </programme>
-  <programme start="20260826040000 -0300" stop="20260826050000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">Stock Car Paddock Fan</title>
+  <programme start="20260826043000 -0300" stop="20260826050000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Review Fórmula E: E-Prix de Londres</title>
   </programme>
   <programme start="20260826050000 -0300" stop="20260826060000 -0300" channel="band_sports.claro.br">
     <title lang="pt">TCR South America</title>
@@ -9903,19 +9906,19 @@
   <programme start="20260826120000 -0300" stop="20260826140000 -0300" channel="band_sports.claro.br">
     <title lang="pt">G4 - Ao Vivo</title>
   </programme>
-  <programme start="20260826140000 -0300" stop="20260826144500 -0300" channel="band_sports.claro.br">
+  <programme start="20260826140000 -0300" stop="20260826145000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Sala do Esporte - Ao Vivo</title>
   </programme>
-  <programme start="20260826144500 -0300" stop="20260826170000 -0300" channel="band_sports.claro.br">
+  <programme start="20260826145000 -0300" stop="20260826170000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Al Diriyah x Al-Kholood - Ao Vivo</title>
   </programme>
   <programme start="20260826170000 -0300" stop="20260826180000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Donos da Bola</title>
   </programme>
-  <programme start="20260826180000 -0300" stop="20260826200000 -0300" channel="band_sports.claro.br">
+  <programme start="20260826180000 -0300" stop="20260826195000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Bola Rolando - Ao Vivo</title>
   </programme>
-  <programme start="20260826200000 -0300" stop="20260826220000 -0300" channel="band_sports.claro.br">
+  <programme start="20260826195000 -0300" stop="20260826220000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Campeonato Paulista de Basquete: Corinthians x Bauru - Ao Vivo</title>
   </programme>
   <programme start="20260826220000 -0300" stop="20260826233000 -0300" channel="band_sports.claro.br">
@@ -9924,7 +9927,10 @@
   <programme start="20260826233000 -0300" stop="20260827003000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Depois do Jogo - Ao Vivo</title>
   </programme>
-  <programme start="20260827003000 -0300" stop="20260827023000 -0300" channel="band_sports.claro.br">
+  <programme start="20260827003000 -0300" stop="20260827004500 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20260827004500 -0300" stop="20260827023000 -0300" channel="band_sports.claro.br">
     <title lang="pt">VT - Al Diriyah x Al-Kholood</title>
   </programme>
   <programme start="20260827023000 -0300" stop="20260827040000 -0300" channel="band_sports.claro.br">
@@ -9933,8 +9939,11 @@
   <programme start="20260827040000 -0300" stop="20260827050000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Depois do Jogo</title>
   </programme>
-  <programme start="20260827050000 -0300" stop="20260827071500 -0300" channel="band_sports.claro.br">
+  <programme start="20260827050000 -0300" stop="20260827060000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Respirando a Semana de Vela</title>
+  </programme>
+  <programme start="20260827060000 -0300" stop="20260827071500 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Sail GP</title>
   </programme>
   <programme start="20260827071500 -0300" stop="20260827073000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Oléé</title>
@@ -9969,10 +9978,10 @@
   <programme start="20260827170000 -0300" stop="20260827180000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Donos da Bola</title>
   </programme>
-  <programme start="20260827180000 -0300" stop="20260827200000 -0300" channel="band_sports.claro.br">
+  <programme start="20260827180000 -0300" stop="20260827195000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Bola Rolando - Ao Vivo</title>
   </programme>
-  <programme start="20260827200000 -0300" stop="20260827213000 -0300" channel="band_sports.claro.br">
+  <programme start="20260827195000 -0300" stop="20260827213000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Copa do Brasil de Futsal: Joinville x Minas - Ao Vivo</title>
   </programme>
   <programme start="20260827213000 -0300" stop="20260827220000 -0300" channel="band_sports.claro.br">
@@ -11493,14 +11502,23 @@
   <programme start="20260827234500 -0300" stop="20260828000900 -0300" channel="hgtv.claro.br">
     <title lang="pt">Piscinas Espetaculares</title>
   </programme>
-  <programme start="20260826013000 -0300" stop="20260826033000 -0300" channel="cnn_brasil.claro.br">
-    <title lang="pt">Hora H</title>
+  <programme start="20260826005000 -0300" stop="20260826013700 -0300" channel="cnn_brasil.claro.br">
+    <title lang="pt">CNN Entrevistas com Candidatos: Flávio Roscoe (PL)</title>
   </programme>
-  <programme start="20260826033000 -0300" stop="20260826040000 -0300" channel="cnn_brasil.claro.br">
-    <title lang="pt">O Grande Debate</title>
+  <programme start="20260826013700 -0300" stop="20260826023700 -0300" channel="cnn_brasil.claro.br">
+    <title lang="pt">WW</title>
   </programme>
-  <programme start="20260826040000 -0300" stop="20260826055500 -0300" channel="cnn_brasil.claro.br">
+  <programme start="20260826023700 -0300" stop="20260826032200 -0300" channel="cnn_brasil.claro.br">
+    <title lang="pt">O Grande Debate Eleições</title>
+  </programme>
+  <programme start="20260826032200 -0300" stop="20260826042500 -0300" channel="cnn_brasil.claro.br">
     <title lang="pt">CNN Prime Time</title>
+  </programme>
+  <programme start="20260826042500 -0300" stop="20260826051200 -0300" channel="cnn_brasil.claro.br">
+    <title lang="pt">CNN Entrevistas com Candidatos: Flávio Roscoe (PL)</title>
+  </programme>
+  <programme start="20260826051200 -0300" stop="20260826055500 -0300" channel="cnn_brasil.claro.br">
+    <title lang="pt">O Grande Debate Eleições</title>
   </programme>
   <programme start="20260826055500 -0300" stop="20260826060000 -0300" channel="cnn_brasil.claro.br">
     <title lang="pt">CNN Agro News</title>
@@ -19212,8 +19230,11 @@
   <programme start="20260827041000 -0300" stop="20260827053500 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Finis Hominis</title>
   </programme>
-  <programme start="20260827053500 -0300" stop="20260827072000 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260827053500 -0300" stop="20260827071600 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Anabazys</title>
+  </programme>
+  <programme start="20260827071600 -0300" stop="20260827072000 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto: Amálgama Brasil</title>
   </programme>
   <programme start="20260827072000 -0300" stop="20260827083500 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Ensaio Sobre O Silêncio</title>
@@ -19263,8 +19284,11 @@
   <programme start="20260827163000 -0300" stop="20260827180000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Uma Noite Em 67</title>
   </programme>
-  <programme start="20260827180000 -0300" stop="20260827190000 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260827180000 -0300" stop="20260827185700 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">1961 - Legalidade</title>
+  </programme>
+  <programme start="20260827185700 -0300" stop="20260827190000 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Pílulas Espelho</title>
   </programme>
   <programme start="20260827190000 -0300" stop="20260827201500 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">É Tudo Verdade: Samuel Wainer</title>
@@ -19284,7 +19308,7 @@
   <programme start="20260827220100 -0300" stop="20260827224000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Maratona Choque De Cultura - A Série - Força da Natureza</title>
   </programme>
-  <programme start="20260827224000 -0300" stop="20260828002500 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260827224000 -0300" stop="20260828002100 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">A Última Chance</title>
   </programme>
   <programme start="20260826013000 -0300" stop="20260826040000 -0300" channel="telecine_premium.claro.br">
@@ -24894,9 +24918,6 @@
   <programme start="20260827231700 -0300" stop="20260828003700 -0300" channel="tv5_monde.claro.br">
     <title lang="pt">Mes Amis Espagnols</title>
   </programme>
-  <programme start="20260826005500 -0300" stop="20260826024000 -0300" channel="combate.claro.br">
-    <title lang="pt">Volta Ao Mundo Bambas 11</title>
-  </programme>
   <programme start="20260826024000 -0300" stop="20260826031000 -0300" channel="combate.claro.br">
     <title lang="pt">Lições De Combate - Muay Thai</title>
   </programme>
@@ -24936,20 +24957,23 @@
   <programme start="20260827020500 -0300" stop="20260827040500 -0300" channel="combate.claro.br">
     <title lang="pt">UFC BJJ 10</title>
   </programme>
-  <programme start="20260827040500 -0300" stop="20260827080500 -0300" channel="combate.claro.br">
+  <programme start="20260827040500 -0300" stop="20260827063500 -0300" channel="combate.claro.br">
     <title lang="pt">Connect Heroes</title>
   </programme>
-  <programme start="20260827080500 -0300" stop="20260827120500 -0300" channel="combate.claro.br">
-    <title lang="pt">Connect Heroes</title>
+  <programme start="20260827063500 -0300" stop="20260827103500 -0300" channel="combate.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
   </programme>
-  <programme start="20260827120500 -0300" stop="20260827160500 -0300" channel="combate.claro.br">
-    <title lang="pt">Connect Heroes</title>
+  <programme start="20260827103500 -0300" stop="20260827143500 -0300" channel="combate.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
   </programme>
-  <programme start="20260827160500 -0300" stop="20260827200500 -0300" channel="combate.claro.br">
-    <title lang="pt">Connect Heroes</title>
+  <programme start="20260827143500 -0300" stop="20260827183500 -0300" channel="combate.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
   </programme>
-  <programme start="20260827200500 -0300" stop="20260827235900 -0300" channel="combate.claro.br">
-    <title lang="pt">Connect Heroes</title>
+  <programme start="20260827183500 -0300" stop="20260827223500 -0300" channel="combate.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
+  </programme>
+  <programme start="20260827223500 -0300" stop="20260827235900 -0300" channel="combate.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
   </programme>
   <programme start="20260827235900 -0300" stop="20260828040000 -0300" channel="combate.claro.br">
     <title lang="pt">Programação Combate</title>
@@ -28536,13 +28560,13 @@
   <programme start="20260827230000 -0300" stop="20260828000000 -0300" channel="rede_tv_hd.claro.br">
     <title lang="pt">Sob Medida</title>
   </programme>
-  <programme start="20260826001500 -0300" stop="20260826011500 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260826000000 -0300" stop="20260826010000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">The Noite com Danilo Gentili</title>
   </programme>
-  <programme start="20260826011500 -0300" stop="20260826014500 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260826010000 -0300" stop="20260826013000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">Operação Mesquita</title>
   </programme>
-  <programme start="20260826014500 -0300" stop="20260826060000 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260826013000 -0300" stop="20260826060000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">SBT Notícias</title>
   </programme>
   <programme start="20260826060000 -0300" stop="20260826083000 -0300" channel="sbt_hd_(vtv).claro.br">
@@ -28576,27 +28600,27 @@
     <title lang="pt">SBT Brasil</title>
   </programme>
   <programme start="20260826204500 -0300" stop="20260826211500 -0300" channel="sbt_hd_(vtv).claro.br">
-    <title lang="pt">A História de Joana - A Virgem</title>
-  </programme>
-  <programme start="20260826211500 -0300" stop="20260826220000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">Amor Valente</title>
   </programme>
-  <programme start="20260826220000 -0300" stop="20260826230000 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260826211500 -0300" stop="20260826214500 -0300" channel="sbt_hd_(vtv).claro.br">
+    <title lang="pt">A História de Joana - A Virgem</title>
+  </programme>
+  <programme start="20260826214500 -0300" stop="20260826223000 -0300" channel="sbt_hd_(vtv).claro.br">
+    <title lang="pt">Sessão +SBT</title>
+  </programme>
+  <programme start="20260826223000 -0300" stop="20260827000000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">Programa do Ratinho</title>
   </programme>
-  <programme start="20260826230000 -0300" stop="20260827003000 -0300" channel="sbt_hd_(vtv).claro.br">
-    <title lang="pt">SBT Repórter</title>
-  </programme>
-  <programme start="20260827003000 -0300" stop="20260827013000 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260827000000 -0300" stop="20260827010000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">The Noite com Danilo Gentili</title>
   </programme>
-  <programme start="20260827013000 -0300" stop="20260827020000 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260827010000 -0300" stop="20260827013000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">Operação Mesquita</title>
   </programme>
-  <programme start="20260827020000 -0300" stop="20260827023000 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260827013000 -0300" stop="20260827020000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">Passe de Milhões</title>
   </programme>
-  <programme start="20260827023000 -0300" stop="20260827060000 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260827020000 -0300" stop="20260827060000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">SBT Notícias</title>
   </programme>
   <programme start="20260827060000 -0300" stop="20260827083000 -0300" channel="sbt_hd_(vtv).claro.br">
@@ -28629,16 +28653,13 @@
   <programme start="20260827194500 -0300" stop="20260827204500 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">SBT Brasil</title>
   </programme>
-  <programme start="20260827204500 -0300" stop="20260827211500 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260827204500 -0300" stop="20260827213000 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">Amor Valente</title>
   </programme>
-  <programme start="20260827211500 -0300" stop="20260827213000 -0300" channel="sbt_hd_(vtv).claro.br">
-    <title lang="pt">A História de Joana - A Virgem</title>
+  <programme start="20260827213000 -0300" stop="20260827220000 -0300" channel="sbt_hd_(vtv).claro.br">
+    <title lang="pt">Sessão +SBT</title>
   </programme>
-  <programme start="20260827213000 -0300" stop="20260827221500 -0300" channel="sbt_hd_(vtv).claro.br">
-    <title lang="pt">Sessão + SBT</title>
-  </programme>
-  <programme start="20260827221500 -0300" stop="20260827231500 -0300" channel="sbt_hd_(vtv).claro.br">
+  <programme start="20260827220000 -0300" stop="20260827231500 -0300" channel="sbt_hd_(vtv).claro.br">
     <title lang="pt">Programa do Ratinho</title>
   </programme>
   <programme start="20260827231500 -0300" stop="20260828004500 -0300" channel="sbt_hd_(vtv).claro.br">
@@ -30042,80 +30063,74 @@
   <programme start="20260827234100 -0300" stop="20260828000500 -0300" channel="food_network_hd.claro.br">
     <title lang="pt">Giada em Casa</title>
   </programme>
-  <programme start="20260826003000 -0300" stop="20260826013000 -0300" channel="sportv_2_hd_.claro.br">
+  <programme start="20260826003000 -0300" stop="20260826023000 -0300" channel="sportv_2_hd_.claro.br">
     <title lang="pt">Diamond League - 12ª Etapa - Lausanne, Suiça</title>
   </programme>
-  <programme start="20260826013000 -0300" stop="20260826033000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Diamond League - 9ª Etapa - Eugene, EUA</title>
+  <programme start="20260826023000 -0300" stop="20260826043000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - 13ª Etapa - Silésia, Polônia</title>
   </programme>
-  <programme start="20260826033000 -0300" stop="20260826053000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Diamond League - 8ª Etapa - Paris, França</title>
+  <programme start="20260826043000 -0300" stop="20260826063000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - Salto Com Vara Masculino - Lausanne, Suiça</title>
   </programme>
-  <programme start="20260826053000 -0300" stop="20260826060000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Fome de Medalha</title>
+  <programme start="20260826063000 -0300" stop="20260826083000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - 12ª Etapa - Lausanne, Suiça</title>
   </programme>
-  <programme start="20260826060000 -0300" stop="20260826084500 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Osasco x Pinheiros</title>
+  <programme start="20260826083000 -0300" stop="20260826103000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - 13ª Etapa - Silésia, Polônia</title>
   </programme>
-  <programme start="20260826084500 -0300" stop="20260826104500 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Brasil x Austrália</title>
+  <programme start="20260826103000 -0300" stop="20260826123000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - Salto Com Vara Masculino - Lausanne, Suiça</title>
   </programme>
-  <programme start="20260826104500 -0300" stop="20260826130000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Brasil x Nova Zelândia - Ao Vivo</title>
+  <programme start="20260826123000 -0300" stop="20260826143000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - Salto Com Vara Masculino - Zurique, Suiça - Ao Vivo</title>
   </programme>
-  <programme start="20260826130000 -0300" stop="20260826150000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Diamond League - Salto Com Vara Masculino - Lausanne, Suiça - Ao Vivo</title>
-  </programme>
-  <programme start="20260826150000 -0300" stop="20260826170000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Diamond League - 11ª Etapa - Londres, Inglaterra</title>
-  </programme>
-  <programme start="20260826170000 -0300" stop="20260826173000 -0300" channel="sportv_2_hd_.claro.br">
+  <programme start="20260826143000 -0300" stop="20260826152500 -0300" channel="sportv_2_hd_.claro.br">
     <title lang="pt">Lendas - Usain Bolt</title>
   </programme>
-  <programme start="20260826173000 -0300" stop="20260826180000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Fome de Medalha</title>
-  </programme>
-  <programme start="20260826180000 -0300" stop="20260826203000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">NFL: Carolina Panthers x Arizona Cardinals</title>
-  </programme>
-  <programme start="20260826203000 -0300" stop="20260827013000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv</title>
-  </programme>
-  <programme start="20260827013000 -0300" stop="20260827033000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Diamond League - 9ª Etapa - Eugene, EUA</title>
-  </programme>
-  <programme start="20260827033000 -0300" stop="20260827053000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Diamond League - 8ª Etapa - Paris, França</title>
-  </programme>
-  <programme start="20260827053000 -0300" stop="20260827060000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Fome de Medalha</title>
-  </programme>
-  <programme start="20260827060000 -0300" stop="20260827084500 -0300" channel="sportv_2_hd_.claro.br">
+  <programme start="20260826152500 -0300" stop="20260826181500 -0300" channel="sportv_2_hd_.claro.br">
     <title lang="pt">VT - Osasco x Pinheiros</title>
   </programme>
-  <programme start="20260827084500 -0300" stop="20260827104500 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Brasil x Austrália</title>
+  <programme start="20260826181500 -0300" stop="20260826203000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Corinthians x Taubaté - Ao Vivo</title>
   </programme>
-  <programme start="20260827104500 -0300" stop="20260827130000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+  <programme start="20260826203000 -0300" stop="20260826210000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Vem Com Elas</title>
+  </programme>
+  <programme start="20260826210000 -0300" stop="20260826234500 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Vasco x Vitória - Ao Vivo</title>
+  </programme>
+  <programme start="20260826234500 -0300" stop="20260827000000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Lendas - Usain Bolt</title>
+  </programme>
+  <programme start="20260827000000 -0300" stop="20260827043000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Ginástica Rítmica - Finais - Frankfurt, Alemanha</title>
+  </programme>
+  <programme start="20260827043000 -0300" stop="20260827063000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Ginástica Artística: Finais Por Aparelhos - Rio de Janeiro</title>
+  </programme>
+  <programme start="20260827063000 -0300" stop="20260827072500 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">SLS - Liga Mundial de Skate Street: Final Feminina</title>
+  </programme>
+  <programme start="20260827072500 -0300" stop="20260827090000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">SLS - Liga Mundial de Skate Street: Final Masculina</title>
+  </programme>
+  <programme start="20260827090000 -0300" stop="20260827110000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">VT - Brasil x Japão</title>
+  </programme>
+  <programme start="20260827110000 -0300" stop="20260827130000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - 12ª Etapa - Lausanne, Suiça</title>
   </programme>
   <programme start="20260827130000 -0300" stop="20260827150000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+    <title lang="pt">Diamond League - 13ª Etapa - Silésia, Polônia</title>
   </programme>
   <programme start="20260827150000 -0300" stop="20260827170000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Diamond League - 11ª Etapa - Londres, Inglaterra</title>
+    <title lang="pt">Diamond League - 14ª Etapa - Zurique, Suiça - Ao Vivo</title>
   </programme>
-  <programme start="20260827170000 -0300" stop="20260827173000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Lendas - Usain Bolt</title>
-  </programme>
-  <programme start="20260827173000 -0300" stop="20260827180000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Fome de Medalha</title>
-  </programme>
-  <programme start="20260827180000 -0300" stop="20260827203000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">NFL: Carolina Panthers x Arizona Cardinals</title>
+  <programme start="20260827170000 -0300" stop="20260827203000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Road To Glory</title>
   </programme>
   <programme start="20260827203000 -0300" stop="20260828000000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+    <title lang="pt">NFL: New England Patriots x Cleveland Browns - Ao Vivo</title>
   </programme>
   <programme start="20260826002800 -0300" stop="20260826011700 -0300" channel="gnt_hd_.claro.br">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
@@ -30447,14 +30462,14 @@
   <programme start="20260827234900 -0300" stop="20260828003900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Cirurgiões: No Limite Da Vida</title>
   </programme>
-  <programme start="20260826001500 -0300" stop="20260826003200 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20260826001500 -0300" stop="20260826004700 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Especial Guilherme Guedes</title>
   </programme>
-  <programme start="20260826003200 -0300" stop="20260826011400 -0300" channel="multishow_hd_.claro.br">
-    <title lang="pt">A Vila</title>
-  </programme>
-  <programme start="20260826011400 -0300" stop="20260826014400 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20260826004700 -0300" stop="20260826011700 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
+  </programme>
+  <programme start="20260826011700 -0300" stop="20260826014400 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Tô De Graça</title>
   </programme>
   <programme start="20260826014400 -0300" stop="20260826021100 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Chaves</title>
@@ -31128,113 +31143,56 @@
   <programme start="20260827234200 -0300" stop="20260828004000 -0300" channel="viva_hd.claro.br">
     <title lang="pt">Belíssima</title>
   </programme>
-  <programme start="20260826000000 -0300" stop="20260826004500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">WSL Replay 2026 - Lexus Us Open</title>
+  <programme start="20260826030000 -0300" stop="20260826050000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Teahupo'o</title>
   </programme>
-  <programme start="20260826004500 -0300" stop="20260826013000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Amazing Riders</title>
+  <programme start="20260826050000 -0300" stop="20260826070000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Teahupo'o</title>
   </programme>
-  <programme start="20260826013000 -0300" stop="20260826020500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Amazing Riders</title>
+  <programme start="20260826070000 -0300" stop="20260826111000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Jungle Fight 152 - Card Completo</title>
   </programme>
-  <programme start="20260826020500 -0300" stop="20260826040500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Diamond League - 11ª Etapa - Londres, Inglaterra</title>
-  </programme>
-  <programme start="20260826040500 -0300" stop="20260826061500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Diamond League - 10ª Etapa - Mônaco</title>
-  </programme>
-  <programme start="20260826061500 -0300" stop="20260826081500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Diamond League - 9ª Etapa - Eugene, EUA</title>
-  </programme>
-  <programme start="20260826081500 -0300" stop="20260826101500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Hungria</title>
-  </programme>
-  <programme start="20260826101500 -0300" stop="20260826121500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Bélgica</title>
-  </programme>
-  <programme start="20260826121500 -0300" stop="20260826135000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP de Barcelona-Catalunha</title>
-  </programme>
-  <programme start="20260826135000 -0300" stop="20260826154500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Áustria</title>
-  </programme>
-  <programme start="20260826154500 -0300" stop="20260826174000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Grã Bretanha</title>
-  </programme>
-  <programme start="20260826174000 -0300" stop="20260826180000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa)</title>
-  </programme>
-  <programme start="20260826180000 -0300" stop="20260826190000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Na Ponta dos Dedos</title>
-  </programme>
-  <programme start="20260826190000 -0300" stop="20260826193000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Lendas - Ayrton Senna</title>
-  </programme>
-  <programme start="20260826193000 -0300" stop="20260826220000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Grand Prix De Judô - Finais - Lima, Peru</title>
-  </programme>
-  <programme start="20260826220000 -0300" stop="20260827003000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Grand Prix De Judô - Finais - Lima, Peru</title>
-  </programme>
-  <programme start="20260827003000 -0300" stop="20260827025000 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20260826111000 -0300" stop="20260826133500 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Jungle Fight 153 - Card Completo</title>
   </programme>
-  <programme start="20260827025000 -0300" stop="20260827031500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Sessão Combate</title>
+  <programme start="20260826133500 -0300" stop="20260826160500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Jungle Fight 154 - Fight do Milhão</title>
   </programme>
-  <programme start="20260827031500 -0300" stop="20260827034000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Sessão Combate</title>
+  <programme start="20260826160500 -0300" stop="20260826165500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Acesso Total Judô</title>
   </programme>
-  <programme start="20260827034000 -0300" stop="20260827043000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">SLS - Liga Mundial de Skate Street: Final Feminina</title>
+  <programme start="20260826165500 -0300" stop="20260827030000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Circuito Mundial de Surfe - Etapa de Cloudbreak - Ao Vivo</title>
   </programme>
-  <programme start="20260827043000 -0300" stop="20260827052000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">SLS - Liga Mundial de Skate Street: Wildcard Masculino</title>
+  <programme start="20260827030000 -0300" stop="20260827050000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Teahupo'o</title>
   </programme>
-  <programme start="20260827052000 -0300" stop="20260827063500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">SLS - Liga Mundial de Skate Street: Final Masculina</title>
+  <programme start="20260827050000 -0300" stop="20260827070000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Diamond League - Salto Com Vara Masculino - Lausanne, Suiça</title>
   </programme>
-  <programme start="20260827063500 -0300" stop="20260827070000 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20260827070000 -0300" stop="20260827090000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Diamond League - 12ª Etapa - Lausanne, Suiça</title>
+  </programme>
+  <programme start="20260827090000 -0300" stop="20260827110000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Diamond League - 13ª Etapa - Silésia, Polônia</title>
+  </programme>
+  <programme start="20260827110000 -0300" stop="20260827130000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Fórmula 1 - GP da Hungria</title>
+  </programme>
+  <programme start="20260827130000 -0300" stop="20260827150000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Fórmula 1 - GP da Holanda</title>
+  </programme>
+  <programme start="20260827150000 -0300" stop="20260827160000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Fórmula 1 - GP da Bélgica - Melhores Momentos</title>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827162500 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">A Onda</title>
   </programme>
-  <programme start="20260827070000 -0300" stop="20260827085000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
+  <programme start="20260827162500 -0300" stop="20260827165500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">A Onda</title>
   </programme>
-  <programme start="20260827085000 -0300" stop="20260827103500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
-  </programme>
-  <programme start="20260827103500 -0300" stop="20260827123500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
-  </programme>
-  <programme start="20260827123500 -0300" stop="20260827131000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Meu Nome É João Chianca</title>
-  </programme>
-  <programme start="20260827131000 -0300" stop="20260827140000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">SLS - Liga Mundial de Skate Street: Final Feminina</title>
-  </programme>
-  <programme start="20260827140000 -0300" stop="20260827151500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">SLS - Liga Mundial de Skate Street: Final Masculina</title>
-  </programme>
-  <programme start="20260827151500 -0300" stop="20260827155000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Skate Para Sempre</title>
-  </programme>
-  <programme start="20260827155000 -0300" stop="20260827163000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Skate Para Sempre</title>
-  </programme>
-  <programme start="20260827163000 -0300" stop="20260827171000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Skate Para Sempre</title>
-  </programme>
-  <programme start="20260827171000 -0300" stop="20260827191500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Diamond League - 11ª Etapa - Londres, Inglaterra</title>
-  </programme>
-  <programme start="20260827191500 -0300" stop="20260827213000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Programação sportv 3</title>
-  </programme>
-  <programme start="20260827213000 -0300" stop="20260827221500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Faixa Olímpica: Especial Superação</title>
-  </programme>
-  <programme start="20260827221500 -0300" stop="20260828001500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Hungria</title>
+  <programme start="20260827165500 -0300" stop="20260828030000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Circuito Mundial de Surfe - Etapa de Cloudbreak - Ao Vivo</title>
   </programme>
   <programme start="20260826003000 -0300" stop="20260826013000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arquitetos Brasileiros: Adriana Levisky</title>
@@ -47718,9 +47676,6 @@
   <programme start="20260827233000 -0300" stop="20260828030000 -0300" channel="tv_aparecida_(espelho).claro.br">
     <title lang="pt">Medalhão.com</title>
   </programme>
-  <programme start="20260826005500 -0300" stop="20260826024000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Volta Ao Mundo Bambas 11</title>
-  </programme>
   <programme start="20260826024000 -0300" stop="20260826031000 -0300" channel="combate_hd.claro.br">
     <title lang="pt">Lições De Combate - Muay Thai</title>
   </programme>
@@ -47760,20 +47715,23 @@
   <programme start="20260827020500 -0300" stop="20260827040500 -0300" channel="combate_hd.claro.br">
     <title lang="pt">UFC BJJ 10</title>
   </programme>
-  <programme start="20260827040500 -0300" stop="20260827080500 -0300" channel="combate_hd.claro.br">
+  <programme start="20260827040500 -0300" stop="20260827063500 -0300" channel="combate_hd.claro.br">
     <title lang="pt">Connect Heroes</title>
   </programme>
-  <programme start="20260827080500 -0300" stop="20260827120500 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Connect Heroes</title>
+  <programme start="20260827063500 -0300" stop="20260827103500 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
   </programme>
-  <programme start="20260827120500 -0300" stop="20260827160500 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Connect Heroes</title>
+  <programme start="20260827103500 -0300" stop="20260827143500 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
   </programme>
-  <programme start="20260827160500 -0300" stop="20260827200500 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Connect Heroes</title>
+  <programme start="20260827143500 -0300" stop="20260827183500 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
   </programme>
-  <programme start="20260827200500 -0300" stop="20260827235900 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Connect Heroes</title>
+  <programme start="20260827183500 -0300" stop="20260827223500 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
+  </programme>
+  <programme start="20260827223500 -0300" stop="20260827235900 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Lições De Combate - Wrestling</title>
   </programme>
   <programme start="20260827235900 -0300" stop="20260828040000 -0300" channel="combate_hd.claro.br">
     <title lang="pt">Programação Combate</title>
@@ -48066,254 +48024,182 @@
   <programme start="20260827220000 -0300" stop="20260828000000 -0300" channel="premiere_hd_5_.claro.br">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
   </programme>
-  <programme start="20260826001000 -0300" stop="20260826004000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Atlético-MG x Grêmio</title>
+  <programme start="20260826002500 -0300" stop="20260826005500 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Bragantino x Grêmio</title>
   </programme>
-  <programme start="20260826004000 -0300" stop="20260826011000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Chapecoense x Bahia</title>
+  <programme start="20260826005500 -0300" stop="20260826012500 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Vitória x Bahia</title>
   </programme>
-  <programme start="20260826011000 -0300" stop="20260826014000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - São Paulo x Coritiba</title>
+  <programme start="20260826012500 -0300" stop="20260826015500 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Internacional x Atlético-MG</title>
   </programme>
-  <programme start="20260826014000 -0300" stop="20260826021000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Internacional x Remo</title>
+  <programme start="20260826015500 -0300" stop="20260826022500 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Botafogo x Athletico-PR</title>
   </programme>
-  <programme start="20260826021000 -0300" stop="20260826024000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Fluminense x Palmeiras</title>
+  <programme start="20260826022500 -0300" stop="20260826025500 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Fluminense x Remo</title>
   </programme>
-  <programme start="20260826024000 -0300" stop="20260826031000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Athletico-PR x Bragantino</title>
+  <programme start="20260826025500 -0300" stop="20260826032500 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Santos x Mirassol</title>
   </programme>
-  <programme start="20260826031000 -0300" stop="20260826034000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Mirassol x Flamengo</title>
+  <programme start="20260826032500 -0300" stop="20260826035500 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Coritiba x Corinthians</title>
   </programme>
-  <programme start="20260826034000 -0300" stop="20260826041000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vitória x Botafogo</title>
+  <programme start="20260826035500 -0300" stop="20260826042500 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Chapecoense x São Paulo</title>
   </programme>
-  <programme start="20260826041000 -0300" stop="20260826050000 -0300" channel="premiere_clubes_hd.claro.br">
+  <programme start="20260826042500 -0300" stop="20260826053000 -0300" channel="premiere_clubes_hd.claro.br">
     <title lang="pt">Giro Da Rodada - Brasileirão - 23ª Rodada</title>
-  </programme>
-  <programme start="20260826050000 -0300" stop="20260826053000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vasco x Santos</title>
   </programme>
   <programme start="20260826053000 -0300" stop="20260826060000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Atlético-MG x Grêmio</title>
+    <title lang="pt">VT - Vasco x Santos</title>
   </programme>
   <programme start="20260826060000 -0300" stop="20260826063000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Chapecoense x Bahia</title>
+    <title lang="pt">VT - Atlético-MG x Grêmio</title>
   </programme>
   <programme start="20260826063000 -0300" stop="20260826070000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - São Paulo x Coritiba</title>
+    <title lang="pt">VT - Chapecoense x Bahia</title>
   </programme>
   <programme start="20260826070000 -0300" stop="20260826073000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Internacional x Remo</title>
+    <title lang="pt">VT - São Paulo x Coritiba</title>
   </programme>
   <programme start="20260826073000 -0300" stop="20260826080000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Fluminense x Palmeiras</title>
+    <title lang="pt">VT - Internacional x Remo</title>
   </programme>
   <programme start="20260826080000 -0300" stop="20260826083000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Athletico-PR x Bragantino</title>
+    <title lang="pt">VT - Fluminense x Palmeiras</title>
   </programme>
   <programme start="20260826083000 -0300" stop="20260826090000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Mirassol x Flamengo</title>
-  </programme>
-  <programme start="20260826090000 -0300" stop="20260826093000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vitória x Botafogo</title>
-  </programme>
-  <programme start="20260826093000 -0300" stop="20260826103000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 23ª Rodada</title>
-  </programme>
-  <programme start="20260826103000 -0300" stop="20260826110000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Cruzeiro x Botafogo</title>
-  </programme>
-  <programme start="20260826110000 -0300" stop="20260826113000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Bahia x Corinthians</title>
-  </programme>
-  <programme start="20260826113000 -0300" stop="20260826120000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Santos x Chapecoense</title>
-  </programme>
-  <programme start="20260826120000 -0300" stop="20260826123000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vasco x Mirassol</title>
-  </programme>
-  <programme start="20260826123000 -0300" stop="20260826130000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Flamengo x São Paulo</title>
-  </programme>
-  <programme start="20260826130000 -0300" stop="20260826133000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Grêmio x Fluminense</title>
-  </programme>
-  <programme start="20260826133000 -0300" stop="20260826140000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Palmeiras x Atlético-MG</title>
-  </programme>
-  <programme start="20260826140000 -0300" stop="20260826143000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Bragantino x Coritiba</title>
-  </programme>
-  <programme start="20260826143000 -0300" stop="20260826150000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Remo x Vitória</title>
-  </programme>
-  <programme start="20260826150000 -0300" stop="20260826160000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 20ª Rodada</title>
-  </programme>
-  <programme start="20260826160000 -0300" stop="20260826163000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Mirassol x Remo</title>
-  </programme>
-  <programme start="20260826163000 -0300" stop="20260826170000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vitória x Palmeiras</title>
-  </programme>
-  <programme start="20260826170000 -0300" stop="20260826173000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Fluminense x Bahia</title>
-  </programme>
-  <programme start="20260826173000 -0300" stop="20260826180000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Corinthians x Athletico-PR</title>
-  </programme>
-  <programme start="20260826180000 -0300" stop="20260826183000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Coritiba x Cruzeiro</title>
-  </programme>
-  <programme start="20260826183000 -0300" stop="20260826193000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 21ª Rodada</title>
-  </programme>
-  <programme start="20260826193000 -0300" stop="20260826200000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Palmeiras x Internacional</title>
-  </programme>
-  <programme start="20260826200000 -0300" stop="20260826203000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Bahia x Vasco</title>
-  </programme>
-  <programme start="20260826203000 -0300" stop="20260826210000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Bragantino x Corinthians</title>
-  </programme>
-  <programme start="20260826210000 -0300" stop="20260826234000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">Palmeiras x Santos - Ao Vivo</title>
-  </programme>
-  <programme start="20260826234000 -0300" stop="20260827000000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Botafogo x Fluminense</title>
-  </programme>
-  <programme start="20260827000000 -0300" stop="20260827010000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 22ª Rodada</title>
-  </programme>
-  <programme start="20260827010000 -0300" stop="20260827013000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vasco x Santos</title>
-  </programme>
-  <programme start="20260827013000 -0300" stop="20260827020000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Atlético-MG x Grêmio</title>
-  </programme>
-  <programme start="20260827020000 -0300" stop="20260827023000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Chapecoense x Bahia</title>
-  </programme>
-  <programme start="20260827023000 -0300" stop="20260827030000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - São Paulo x Coritiba</title>
-  </programme>
-  <programme start="20260827030000 -0300" stop="20260827033000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Internacional x Remo</title>
-  </programme>
-  <programme start="20260827033000 -0300" stop="20260827040000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Fluminense x Palmeiras</title>
-  </programme>
-  <programme start="20260827040000 -0300" stop="20260827043000 -0300" channel="premiere_clubes_hd.claro.br">
     <title lang="pt">VT - Athletico-PR x Bragantino</title>
   </programme>
-  <programme start="20260827043000 -0300" stop="20260827050000 -0300" channel="premiere_clubes_hd.claro.br">
+  <programme start="20260826090000 -0300" stop="20260826093000 -0300" channel="premiere_clubes_hd.claro.br">
     <title lang="pt">VT - Mirassol x Flamengo</title>
   </programme>
-  <programme start="20260827050000 -0300" stop="20260827053000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vitória x Botafogo</title>
-  </programme>
-  <programme start="20260827053000 -0300" stop="20260827063000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 23ª Rodada</title>
-  </programme>
-  <programme start="20260827063000 -0300" stop="20260827070000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Cruzeiro x Botafogo</title>
-  </programme>
-  <programme start="20260827070000 -0300" stop="20260827073000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Bahia x Chapecoense</title>
-  </programme>
-  <programme start="20260827073000 -0300" stop="20260827080000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Santos x Chapecoense</title>
-  </programme>
-  <programme start="20260827080000 -0300" stop="20260827083000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vasco x Mirassol</title>
-  </programme>
-  <programme start="20260827083000 -0300" stop="20260827090000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Flamengo x São Paulo</title>
-  </programme>
-  <programme start="20260827090000 -0300" stop="20260827093000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Grêmio x Fluminense</title>
-  </programme>
-  <programme start="20260827093000 -0300" stop="20260827100000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Palmeiras x Atlético-MG</title>
-  </programme>
-  <programme start="20260827100000 -0300" stop="20260827103000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Bragantino x Coritiba</title>
-  </programme>
-  <programme start="20260827103000 -0300" stop="20260827110000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Remo x Vitória</title>
-  </programme>
-  <programme start="20260827110000 -0300" stop="20260827120000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 20ª Rodada</title>
-  </programme>
-  <programme start="20260827120000 -0300" stop="20260827123000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Mirassol x Remo</title>
-  </programme>
-  <programme start="20260827123000 -0300" stop="20260827130000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vitória x Palmeiras</title>
-  </programme>
-  <programme start="20260827130000 -0300" stop="20260827133000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Fluminense x Bahia</title>
-  </programme>
-  <programme start="20260827133000 -0300" stop="20260827140000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Corinthians x Athletico-PR</title>
-  </programme>
-  <programme start="20260827140000 -0300" stop="20260827143000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Coritiba x Cruzeiro</title>
-  </programme>
-  <programme start="20260827143000 -0300" stop="20260827153000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 21ª Rodada</title>
-  </programme>
-  <programme start="20260827153000 -0300" stop="20260827160000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Palmeiras x Internacional</title>
-  </programme>
-  <programme start="20260827160000 -0300" stop="20260827163000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Bahia x Vasco</title>
-  </programme>
-  <programme start="20260827163000 -0300" stop="20260827170000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Bragantino x Corinthians</title>
-  </programme>
-  <programme start="20260827170000 -0300" stop="20260827173000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Santos x Athletico-PR</title>
-  </programme>
-  <programme start="20260827173000 -0300" stop="20260827180000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Flamengo x Vitória</title>
-  </programme>
-  <programme start="20260827180000 -0300" stop="20260827183000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Grêmio x São Paulo</title>
-  </programme>
-  <programme start="20260827183000 -0300" stop="20260827190000 -0300" channel="premiere_clubes_hd.claro.br">
+  <programme start="20260826093000 -0300" stop="20260826100000 -0300" channel="premiere_clubes_hd.claro.br">
     <title lang="pt">Campeonato Brasileiro de Futebol</title>
   </programme>
+  <programme start="20260826100000 -0300" stop="20260826103000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Vitória x Botafogo</title>
+  </programme>
+  <programme start="20260826103000 -0300" stop="20260826113000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 23ª Rodada</title>
+  </programme>
+  <programme start="20260826113000 -0300" stop="20260826123000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Cruzeiro x Atlético-MG</title>
+  </programme>
+  <programme start="20260826123000 -0300" stop="20260826133000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Chapecoense x Cruzeiro</title>
+  </programme>
+  <programme start="20260826133000 -0300" stop="20260826143000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Athletico-PR x Vitória</title>
+  </programme>
+  <programme start="20260826143000 -0300" stop="20260826153000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Vasco x Fluminense</title>
+  </programme>
+  <programme start="20260826153000 -0300" stop="20260826163000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Palmeiras x Santos</title>
+  </programme>
+  <programme start="20260826163000 -0300" stop="20260826173000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Cruzeiro x Atlético-MG</title>
+  </programme>
+  <programme start="20260826173000 -0300" stop="20260826183000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">Giro da Rodada - Copa do Brasil - 8ª Volta</title>
+  </programme>
+  <programme start="20260826183000 -0300" stop="20260826193000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Botafogo x Atlético-MG</title>
+  </programme>
+  <programme start="20260826193000 -0300" stop="20260826213000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
+  </programme>
+  <programme start="20260826213000 -0300" stop="20260826234000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">Palmeiras x Santos - Ao Vivo</title>
+  </programme>
+  <programme start="20260826234000 -0300" stop="20260827004000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Cruzeiro x Atlético-MG</title>
+  </programme>
+  <programme start="20260827004000 -0300" stop="20260827014000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Chapecoense x Cruzeiro</title>
+  </programme>
+  <programme start="20260827014000 -0300" stop="20260827024000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Athletico-PR x Vitória</title>
+  </programme>
+  <programme start="20260827024000 -0300" stop="20260827034000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Vasco x Fluminense</title>
+  </programme>
+  <programme start="20260827034000 -0300" stop="20260827044000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Palmeiras x Santos</title>
+  </programme>
+  <programme start="20260827044000 -0300" stop="20260827054000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Santos x Remo</title>
+  </programme>
+  <programme start="20260827054000 -0300" stop="20260827063000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">Giro da Rodada - Copa do Brasil - 8ª Volta</title>
+  </programme>
+  <programme start="20260827063000 -0300" stop="20260827073000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Cruzeiro x Atlético-MG</title>
+  </programme>
+  <programme start="20260827073000 -0300" stop="20260827083000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Palmeiras x Santos</title>
+  </programme>
+  <programme start="20260827083000 -0300" stop="20260827093000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Vasco x Vitória</title>
+  </programme>
+  <programme start="20260827093000 -0300" stop="20260827103000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Chapecoense x Cruzeiro</title>
+  </programme>
+  <programme start="20260827103000 -0300" stop="20260827113000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Athletico-PR x Vitória</title>
+  </programme>
+  <programme start="20260827113000 -0300" stop="20260827123000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Vasco x Vitória</title>
+  </programme>
+  <programme start="20260827123000 -0300" stop="20260827133000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Chapecoense x Cruzeiro</title>
+  </programme>
+  <programme start="20260827133000 -0300" stop="20260827143000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Athletico-PR x Vitória</title>
+  </programme>
+  <programme start="20260827143000 -0300" stop="20260827153000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">Giro da Rodada - Copa do Brasil - 8ª Volta</title>
+  </programme>
+  <programme start="20260827153000 -0300" stop="20260827160000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Palmeiras x Vasco</title>
+  </programme>
+  <programme start="20260827160000 -0300" stop="20260827163000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Bragantino x Grêmio</title>
+  </programme>
+  <programme start="20260827163000 -0300" stop="20260827170000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Vitória x Bahia</title>
+  </programme>
+  <programme start="20260827170000 -0300" stop="20260827173000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Internacional x Atlético-MG</title>
+  </programme>
+  <programme start="20260827173000 -0300" stop="20260827180000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Botafogo x Athletico-PR</title>
+  </programme>
+  <programme start="20260827180000 -0300" stop="20260827183000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Fluminense x Remo</title>
+  </programme>
+  <programme start="20260827183000 -0300" stop="20260827190000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Santos x Mirassol</title>
+  </programme>
   <programme start="20260827190000 -0300" stop="20260827193000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Coritiba x Chapecoense</title>
+    <title lang="pt">VT - Coritiba x Corinthians</title>
   </programme>
   <programme start="20260827193000 -0300" stop="20260827200000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Botafogo x Fluminense</title>
+    <title lang="pt">VT - Chapecoense x São Paulo</title>
   </programme>
   <programme start="20260827200000 -0300" stop="20260827210000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 22ª Rodada</title>
+    <title lang="pt">Giro Da Rodada - Brasileirão - 24ª Rodada</title>
   </programme>
-  <programme start="20260827210000 -0300" stop="20260827213000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Vasco x Santos</title>
+  <programme start="20260827210000 -0300" stop="20260827220000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Chapecoense x Cruzeiro</title>
   </programme>
-  <programme start="20260827213000 -0300" stop="20260827220000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Atlético-MG x Grêmio</title>
+  <programme start="20260827220000 -0300" stop="20260827230000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Athletico-PR x Vitória</title>
   </programme>
-  <programme start="20260827220000 -0300" stop="20260827223000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Chapecoense x Bahia</title>
-  </programme>
-  <programme start="20260827223000 -0300" stop="20260827230000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - São Paulo x Coritiba</title>
-  </programme>
-  <programme start="20260827230000 -0300" stop="20260827233000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Internacional x Remo</title>
-  </programme>
-  <programme start="20260827233000 -0300" stop="20260828000000 -0300" channel="premiere_clubes_hd.claro.br">
-    <title lang="pt">VT - Fluminense x Palmeiras</title>
+  <programme start="20260827230000 -0300" stop="20260828000000 -0300" channel="premiere_clubes_hd.claro.br">
+    <title lang="pt">VT - Vasco x Fluminense</title>
   </programme>
   <programme start="20260826001400 -0300" stop="20260826003800 -0300" channel="playboy_hd.claro.br">
     <title lang="pt">The Warm Up</title>
