@@ -2916,7 +2916,7 @@
   <programme start="20260902235500 -0300" stop="20260903004500 -0300" channel="globo_(eptv).claro.br">
     <title lang="pt">Jornal da Globo</title>
   </programme>
-  <programme start="20260901003500 -0300" stop="20260901004500 -0300" channel="record.claro.br">
+  <programme start="20260901003000 -0300" stop="20260901004500 -0300" channel="record.claro.br">
     <title lang="pt">Jornal da Record 24h</title>
   </programme>
   <programme start="20260901004500 -0300" stop="20260901020000 -0300" channel="record.claro.br">
@@ -2949,10 +2949,13 @@
   <programme start="20260901095000 -0300" stop="20260901113000 -0300" channel="record.claro.br">
     <title lang="pt">Hoje em Dia</title>
   </programme>
-  <programme start="20260901113000 -0300" stop="20260901123000 -0300" channel="record.claro.br">
+  <programme start="20260901113000 -0300" stop="20260901130000 -0300" channel="record.claro.br">
     <title lang="pt">Balanço Geral Campinas</title>
   </programme>
-  <programme start="20260901123000 -0300" stop="20260901144500 -0300" channel="record.claro.br">
+  <programme start="20260901130000 -0300" stop="20260901132500 -0300" channel="record.claro.br">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20260901132500 -0300" stop="20260901144500 -0300" channel="record.claro.br">
     <title lang="pt">Balanço Geral Campinas</title>
   </programme>
   <programme start="20260901144500 -0300" stop="20260901152300 -0300" channel="record.claro.br">
@@ -2973,28 +2976,31 @@
   <programme start="20260901174500 -0300" stop="20260901180000 -0300" channel="record.claro.br">
     <title lang="pt">Cidade Alerta</title>
   </programme>
-  <programme start="20260901180000 -0300" stop="20260901191500 -0300" channel="record.claro.br">
+  <programme start="20260901180000 -0300" stop="20260901191000 -0300" channel="record.claro.br">
     <title lang="pt">Cidade Alerta Campinas</title>
   </programme>
-  <programme start="20260901191500 -0300" stop="20260901195500 -0300" channel="record.claro.br">
+  <programme start="20260901191000 -0300" stop="20260901194500 -0300" channel="record.claro.br">
     <title lang="pt">Th+ Notícias</title>
   </programme>
-  <programme start="20260901195500 -0300" stop="20260901210000 -0300" channel="record.claro.br">
+  <programme start="20260901194500 -0300" stop="20260901203000 -0300" channel="record.claro.br">
     <title lang="pt">Jornal da Record</title>
   </programme>
-  <programme start="20260901210000 -0300" stop="20260901220000 -0300" channel="record.claro.br">
-    <title lang="pt">Coração de Mãe</title>
+  <programme start="20260901203000 -0300" stop="20260901205500 -0300" channel="record.claro.br">
+    <title lang="pt">Horário Político</title>
   </programme>
-  <programme start="20260901220000 -0300" stop="20260901223000 -0300" channel="record.claro.br">
+  <programme start="20260901205500 -0300" stop="20260901211500 -0300" channel="record.claro.br">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20260901211500 -0300" stop="20260901221500 -0300" channel="record.claro.br">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20260901221500 -0300" stop="20260901230000 -0300" channel="record.claro.br">
     <title lang="pt">Reis - A Divisão</title>
   </programme>
-  <programme start="20260901223000 -0300" stop="20260901234500 -0300" channel="record.claro.br">
+  <programme start="20260901230000 -0300" stop="20260902003000 -0300" channel="record.claro.br">
     <title lang="pt">Canta Comigo Teen</title>
   </programme>
-  <programme start="20260901234500 -0300" stop="20260902003500 -0300" channel="record.claro.br">
-    <title lang="pt">Chicago Med</title>
-  </programme>
-  <programme start="20260902003500 -0300" stop="20260902004500 -0300" channel="record.claro.br">
+  <programme start="20260902003000 -0300" stop="20260902004500 -0300" channel="record.claro.br">
     <title lang="pt">Jornal da Record 24h</title>
   </programme>
   <programme start="20260902004500 -0300" stop="20260902020000 -0300" channel="record.claro.br">
@@ -3027,10 +3033,13 @@
   <programme start="20260902095000 -0300" stop="20260902113000 -0300" channel="record.claro.br">
     <title lang="pt">Hoje em Dia</title>
   </programme>
-  <programme start="20260902113000 -0300" stop="20260902123000 -0300" channel="record.claro.br">
+  <programme start="20260902113000 -0300" stop="20260902130000 -0300" channel="record.claro.br">
     <title lang="pt">Balanço Geral Campinas</title>
   </programme>
-  <programme start="20260902123000 -0300" stop="20260902144500 -0300" channel="record.claro.br">
+  <programme start="20260902130000 -0300" stop="20260902132500 -0300" channel="record.claro.br">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20260902132500 -0300" stop="20260902144500 -0300" channel="record.claro.br">
     <title lang="pt">Balanço Geral Campinas</title>
   </programme>
   <programme start="20260902144500 -0300" stop="20260902152300 -0300" channel="record.claro.br">
@@ -3051,26 +3060,29 @@
   <programme start="20260902174500 -0300" stop="20260902180000 -0300" channel="record.claro.br">
     <title lang="pt">Cidade Alerta</title>
   </programme>
-  <programme start="20260902180000 -0300" stop="20260902191500 -0300" channel="record.claro.br">
+  <programme start="20260902180000 -0300" stop="20260902191000 -0300" channel="record.claro.br">
     <title lang="pt">Cidade Alerta Campinas</title>
   </programme>
-  <programme start="20260902191500 -0300" stop="20260902195500 -0300" channel="record.claro.br">
+  <programme start="20260902191000 -0300" stop="20260902194500 -0300" channel="record.claro.br">
     <title lang="pt">Th+ Notícias</title>
   </programme>
-  <programme start="20260902195500 -0300" stop="20260902210000 -0300" channel="record.claro.br">
+  <programme start="20260902194500 -0300" stop="20260902203000 -0300" channel="record.claro.br">
     <title lang="pt">Jornal da Record</title>
   </programme>
-  <programme start="20260902210000 -0300" stop="20260902220000 -0300" channel="record.claro.br">
-    <title lang="pt">Coração de Mãe</title>
+  <programme start="20260902203000 -0300" stop="20260902205500 -0300" channel="record.claro.br">
+    <title lang="pt">Horário Político</title>
   </programme>
-  <programme start="20260902220000 -0300" stop="20260902223000 -0300" channel="record.claro.br">
+  <programme start="20260902205500 -0300" stop="20260902211500 -0300" channel="record.claro.br">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20260902211500 -0300" stop="20260902221500 -0300" channel="record.claro.br">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20260902221500 -0300" stop="20260902230000 -0300" channel="record.claro.br">
     <title lang="pt">Reis - A Divisão</title>
   </programme>
-  <programme start="20260902223000 -0300" stop="20260902234500 -0300" channel="record.claro.br">
+  <programme start="20260902230000 -0300" stop="20260903003000 -0300" channel="record.claro.br">
     <title lang="pt">Canta Comigo Teen</title>
-  </programme>
-  <programme start="20260902234500 -0300" stop="20260903003500 -0300" channel="record.claro.br">
-    <title lang="pt">Chicago Med</title>
   </programme>
   <programme start="20260901003000 -0300" stop="20260901010000 -0300" channel="rede_tv.claro.br">
     <title lang="pt">Leitura Dinâmica</title>
@@ -7245,38 +7257,23 @@
   <programme start="20260902223400 -0300" stop="20260903023400 -0300" channel="off.claro.br">
     <title lang="pt">Mar E Música</title>
   </programme>
-  <programme start="20260901014500 -0300" stop="20260901021500 -0300" channel="arte_1.claro.br">
+  <programme start="20260901023000 -0300" stop="20260901030000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Insight</title>
   </programme>
-  <programme start="20260901021500 -0300" stop="20260901024500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira</title>
+  <programme start="20260901030000 -0300" stop="20260901033000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira: Oskar Metsavaht</title>
   </programme>
-  <programme start="20260901024500 -0300" stop="20260901034500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Abre a Coxia: Grupo Redimunho de Investigação Teatral</title>
+  <programme start="20260901033000 -0300" stop="20260901043000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Fábricas de Sonho: Joaquim Tenreiro</title>
   </programme>
-  <programme start="20260901034500 -0300" stop="20260901040500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Especial Arte 1</title>
-  </programme>
-  <programme start="20260901040500 -0300" stop="20260901044500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Lirinha Morini</title>
-  </programme>
-  <programme start="20260901044500 -0300" stop="20260901051500 -0300" channel="arte_1.claro.br">
+  <programme start="20260901043000 -0300" stop="20260901050000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Amostradas</title>
   </programme>
-  <programme start="20260901051500 -0300" stop="20260901061500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Adriana Levisky</title>
+  <programme start="20260901050000 -0300" stop="20260901070000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 na Dança: Toulouse-Lautrec</title>
   </programme>
-  <programme start="20260901061500 -0300" stop="20260901064500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira</title>
-  </programme>
-  <programme start="20260901064500 -0300" stop="20260901071500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Fé na Batida</title>
-  </programme>
-  <programme start="20260901071500 -0300" stop="20260901074500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Fé na Batida</title>
-  </programme>
-  <programme start="20260901074500 -0300" stop="20260901103000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Casanova de Fellini</title>
+  <programme start="20260901070000 -0300" stop="20260901103000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Os Sete Samurais</title>
   </programme>
   <programme start="20260901103000 -0300" stop="20260901110000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
@@ -7288,19 +7285,19 @@
     <title lang="pt">Arte 1 Visual</title>
   </programme>
   <programme start="20260901120000 -0300" stop="20260901123000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira</title>
+    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira: Oskar Metsavaht</title>
   </programme>
   <programme start="20260901123000 -0300" stop="20260901130000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
   <programme start="20260901130000 -0300" stop="20260901141500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: La Parle</title>
+    <title lang="pt">Arte 1 Nacional: Made in Dafen</title>
   </programme>
-  <programme start="20260901141500 -0300" stop="20260901170000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Casanova de Fellini</title>
+  <programme start="20260901141500 -0300" stop="20260901143000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte Makers</title>
   </programme>
-  <programme start="20260901170000 -0300" stop="20260901180000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Abre a Coxia: Grupo Redimunho de Investigação Teatral</title>
+  <programme start="20260901143000 -0300" stop="20260901180000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Os Sete Samurais</title>
   </programme>
   <programme start="20260901180000 -0300" stop="20260901190000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
@@ -7309,7 +7306,7 @@
     <title lang="pt">Descobrindo os Tesouros do Brasil</title>
   </programme>
   <programme start="20260901193000 -0300" stop="20260901203000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Geografia da Arte: Josef &amp; Anni Albers + México</title>
+    <title lang="pt">Geografia da Arte: Christian Louboutin + Egito</title>
   </programme>
   <programme start="20260901203000 -0300" stop="20260901210000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 Visual</title>
@@ -7323,50 +7320,44 @@
   <programme start="20260901223000 -0300" stop="20260901230000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Insight</title>
   </programme>
-  <programme start="20260901230000 -0300" stop="20260902003000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Documenta: Amando Patricia Highsmith</title>
+  <programme start="20260901230000 -0300" stop="20260902004500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
   </programme>
-  <programme start="20260902003000 -0300" stop="20260902013000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Adriana Levisky</title>
+  <programme start="20260902004500 -0300" stop="20260902014500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arquitetos Brasileiros: Angelo Bucci</title>
   </programme>
-  <programme start="20260902013000 -0300" stop="20260902024500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: La Parle</title>
-  </programme>
-  <programme start="20260902024500 -0300" stop="20260902031500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Lirinha Morini</title>
-  </programme>
-  <programme start="20260902031500 -0300" stop="20260902033000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
+  <programme start="20260902014500 -0300" stop="20260902033000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Nacional: Made in Dafen</title>
   </programme>
   <programme start="20260902033000 -0300" stop="20260902040000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Compondo Futuros - Os alunos do Festival de Inverno de Campos do Jordão</title>
-  </programme>
-  <programme start="20260902040000 -0300" stop="20260902050000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
-  </programme>
-  <programme start="20260902050000 -0300" stop="20260902060000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Geografia da Arte: Josef &amp; Anni Albers + México</title>
-  </programme>
-  <programme start="20260902060000 -0300" stop="20260902063000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Amostradas</title>
-  </programme>
-  <programme start="20260902063000 -0300" stop="20260902073000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Abre a Coxia: Grupo Redimunho de Investigação Teatral</title>
-  </programme>
-  <programme start="20260902073000 -0300" stop="20260902080000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
   </programme>
-  <programme start="20260902080000 -0300" stop="20260902090000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Adriana Levisky</title>
+  <programme start="20260902040000 -0300" stop="20260902050000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Geografia da Arte: Christian Louboutin + Egito</title>
   </programme>
-  <programme start="20260902090000 -0300" stop="20260902103000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Documenta: Amando Patricia Highsmith</title>
+  <programme start="20260902050000 -0300" stop="20260902060000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
+  </programme>
+  <programme start="20260902060000 -0300" stop="20260902063000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20260902063000 -0300" stop="20260902064500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Curta Arte 1: Poétika</title>
+  </programme>
+  <programme start="20260902064500 -0300" stop="20260902074500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Fábricas de Sonho: Joaquim Tenreiro</title>
+  </programme>
+  <programme start="20260902074500 -0300" stop="20260902084500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arquitetos Brasileiros: Angelo Bucci</title>
+  </programme>
+  <programme start="20260902084500 -0300" stop="20260902103000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
   </programme>
   <programme start="20260902103000 -0300" stop="20260902113000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
   </programme>
   <programme start="20260902113000 -0300" stop="20260902120000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Lirinha Morini</title>
+    <title lang="pt">Protagonistas Invisíveis: Márcia Sarquis</title>
   </programme>
   <programme start="20260902120000 -0300" stop="20260902130000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 Visual</title>
@@ -7383,38 +7374,38 @@
   <programme start="20260902143000 -0300" stop="20260902150000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
-  <programme start="20260902150000 -0300" stop="20260902163000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Documenta: Amando Patricia Highsmith</title>
+  <programme start="20260902150000 -0300" stop="20260902164500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
   </programme>
-  <programme start="20260902163000 -0300" stop="20260902170000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Curta Arte 1: Recife Frio</title>
+  <programme start="20260902164500 -0300" stop="20260902170000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte Makers</title>
   </programme>
   <programme start="20260902170000 -0300" stop="20260902180000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Geografia da Arte: Josef &amp; Anni Albers + México</title>
+    <title lang="pt">Geografia da Arte: Christian Louboutin + Egito</title>
   </programme>
   <programme start="20260902180000 -0300" stop="20260902191500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: La Parle</title>
+    <title lang="pt">Arte 1 Nacional: Made in Dafen</title>
   </programme>
   <programme start="20260902191500 -0300" stop="20260902193000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
+    <title lang="pt">Curta Arte 1: Poétika</title>
   </programme>
   <programme start="20260902193000 -0300" stop="20260902200000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Lirinha Morini</title>
+    <title lang="pt">Protagonistas Invisíveis: Márcia Sarquis</title>
   </programme>
   <programme start="20260902200000 -0300" stop="20260902203000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Amostradas</title>
   </programme>
   <programme start="20260902203000 -0300" stop="20260902213000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Abre a Coxia: Grupo Galpão &amp; Teatro da Vertigem</title>
+    <title lang="pt">Fábricas de Sonho: Lina Bo Bardi</title>
   </programme>
   <programme start="20260902213000 -0300" stop="20260902223000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 na Dança: Paris</title>
+    <title lang="pt">Arte 1 na Dança: OUTROS TOMs</title>
   </programme>
   <programme start="20260902223000 -0300" stop="20260902230000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira</title>
+    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira: Oskar Metsavaht</title>
   </programme>
-  <programme start="20260902230000 -0300" stop="20260903013000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1: Terra de Deus</title>
+  <programme start="20260902230000 -0300" stop="20260903014500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1: The Square - A Arte da Discórdia</title>
   </programme>
   <programme start="20260901000000 -0300" stop="20260901040000 -0300" channel="polishop.claro.br">
     <title lang="pt">Programação Polishop TV</title>
@@ -8337,107 +8328,110 @@
   <programme start="20260901054800 -0300" stop="20260901060000 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Agente Binky Ao Resgate!</title>
   </programme>
-  <programme start="20260901060000 -0300" stop="20260901062600 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901060000 -0300" stop="20260901062400 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260901062600 -0300" stop="20260901064900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901062400 -0300" stop="20260901064700 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260901064900 -0300" stop="20260901070000 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901064700 -0300" stop="20260901065800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mundo do Barney</title>
   </programme>
-  <programme start="20260901070000 -0300" stop="20260901071100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901065800 -0300" stop="20260901070900 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Talking Tom Heroes: Amigos com Superpoderes</title>
   </programme>
-  <programme start="20260901071100 -0300" stop="20260901072300 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901070900 -0300" stop="20260901072100 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">44 Gatos</title>
   </programme>
-  <programme start="20260901072300 -0300" stop="20260901074700 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901072100 -0300" stop="20260901074400 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mermicorno: A Queda das Estrelas</title>
   </programme>
-  <programme start="20260901074700 -0300" stop="20260901080900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901074400 -0300" stop="20260901080600 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mermicorno: A Queda das Estrelas</title>
   </programme>
-  <programme start="20260901080900 -0300" stop="20260901082000 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901080600 -0300" stop="20260901081700 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260901082000 -0300" stop="20260901083100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901081700 -0300" stop="20260901082800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260901083100 -0300" stop="20260901085400 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901082800 -0300" stop="20260901085100 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Lego Friends: The Next Chapter</title>
   </programme>
-  <programme start="20260901085400 -0300" stop="20260901091600 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901085100 -0300" stop="20260901091300 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mermaid Magic</title>
   </programme>
-  <programme start="20260901091600 -0300" stop="20260901093900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901091300 -0300" stop="20260901093500 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Barbie: Um Toque de Mágica</title>
   </programme>
-  <programme start="20260901093900 -0300" stop="20260901095000 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901093500 -0300" stop="20260901094600 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Polly Pocket</title>
   </programme>
-  <programme start="20260901095000 -0300" stop="20260901100400 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901094600 -0300" stop="20260901095800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Polly Pocket</title>
   </programme>
-  <programme start="20260901100400 -0300" stop="20260901101100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901095800 -0300" stop="20260901100500 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Turma da Mônica</title>
   </programme>
-  <programme start="20260901101100 -0300" stop="20260901101800 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901100500 -0300" stop="20260901101200 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Turma da Mônica</title>
   </programme>
-  <programme start="20260901101800 -0300" stop="20260901102900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901101200 -0300" stop="20260901102300 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260901102900 -0300" stop="20260901104000 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901102300 -0300" stop="20260901103400 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260901104000 -0300" stop="20260901110400 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901103400 -0300" stop="20260901105800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mermicorno: A Queda das Estrelas</title>
   </programme>
-  <programme start="20260901110400 -0300" stop="20260901110900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901105800 -0300" stop="20260901110300 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260901110900 -0300" stop="20260901111400 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901110300 -0300" stop="20260901110800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260901111400 -0300" stop="20260901113700 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901110800 -0300" stop="20260901111300 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260901113700 -0300" stop="20260901114800 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901111300 -0300" stop="20260901113600 -0300" channel="discovery_kids.claro.br">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260901113600 -0300" stop="20260901114700 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20260901114800 -0300" stop="20260901120100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901114700 -0300" stop="20260901120000 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20260901120100 -0300" stop="20260901122300 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901120000 -0300" stop="20260901122200 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Academia Unicórnio</title>
   </programme>
-  <programme start="20260901122300 -0300" stop="20260901124500 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901122200 -0300" stop="20260901124400 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Shasha e Milo</title>
   </programme>
-  <programme start="20260901124500 -0300" stop="20260901130700 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901124400 -0300" stop="20260901130700 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Três Espiãs Demais</title>
   </programme>
-  <programme start="20260901130700 -0300" stop="20260901132100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901130700 -0300" stop="20260901132900 -0300" channel="discovery_kids.claro.br">
+    <title lang="pt">Winx Club - A Magia Está de Volta</title>
+  </programme>
+  <programme start="20260901132900 -0300" stop="20260901134000 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Polly Pocket</title>
   </programme>
-  <programme start="20260901132100 -0300" stop="20260901133200 -0300" channel="discovery_kids.claro.br">
-    <title lang="pt">Polly Pocket</title>
-  </programme>
-  <programme start="20260901133200 -0300" stop="20260901134300 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901134000 -0300" stop="20260901135100 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260901134300 -0300" stop="20260901135600 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901135100 -0300" stop="20260901140200 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260901135600 -0300" stop="20260901140700 -0300" channel="discovery_kids.claro.br">
-    <title lang="pt">Hello Kitty Super Style</title>
-  </programme>
-  <programme start="20260901140700 -0300" stop="20260901143100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901140200 -0300" stop="20260901142600 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">LEGO DREAMZzz: As Provas dos Caçadores de Sonhos</title>
   </programme>
-  <programme start="20260901143100 -0300" stop="20260901144300 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260901142600 -0300" stop="20260901143800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Talking Tom Heroes: Amigos com Superpoderes</title>
+  </programme>
+  <programme start="20260901143800 -0300" stop="20260901144300 -0300" channel="discovery_kids.claro.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
   </programme>
   <programme start="20260901144300 -0300" stop="20260901144800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mini Beat Power Rockers</title>
@@ -8641,10 +8635,10 @@
     <title lang="pt">Underdogs United</title>
   </programme>
   <programme start="20260902033300 -0300" stop="20260902034400 -0300" channel="discovery_kids.claro.br">
-    <title lang="pt">Kung Fu Wa</title>
+    <title lang="pt">Super Wish</title>
   </programme>
   <programme start="20260902034400 -0300" stop="20260902035500 -0300" channel="discovery_kids.claro.br">
-    <title lang="pt">Kung Fu Wa</title>
+    <title lang="pt">Super Wish</title>
   </programme>
   <programme start="20260902035500 -0300" stop="20260902040600 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Polly Pocket</title>
@@ -8676,107 +8670,110 @@
   <programme start="20260902054800 -0300" stop="20260902060000 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Agente Binky Ao Resgate!</title>
   </programme>
-  <programme start="20260902060000 -0300" stop="20260902062600 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902060000 -0300" stop="20260902062400 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260902062600 -0300" stop="20260902064900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902062400 -0300" stop="20260902064700 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260902064900 -0300" stop="20260902070000 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902064700 -0300" stop="20260902065800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mundo do Barney</title>
   </programme>
-  <programme start="20260902070000 -0300" stop="20260902071100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902065800 -0300" stop="20260902070900 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Talking Tom Heroes: Amigos com Superpoderes</title>
   </programme>
-  <programme start="20260902071100 -0300" stop="20260902072300 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902070900 -0300" stop="20260902072100 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">44 Gatos</title>
   </programme>
-  <programme start="20260902072300 -0300" stop="20260902074700 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902072100 -0300" stop="20260902074400 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mermicorno: A Queda das Estrelas</title>
   </programme>
-  <programme start="20260902074700 -0300" stop="20260902080900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902074400 -0300" stop="20260902080600 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mermicorno: A Queda das Estrelas</title>
   </programme>
-  <programme start="20260902080900 -0300" stop="20260902082000 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902080600 -0300" stop="20260902081700 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260902082000 -0300" stop="20260902083100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902081700 -0300" stop="20260902082800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260902083100 -0300" stop="20260902085400 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902082800 -0300" stop="20260902085100 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Lego Friends: The Next Chapter</title>
   </programme>
-  <programme start="20260902085400 -0300" stop="20260902091600 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902085100 -0300" stop="20260902091300 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mermaid Magic</title>
   </programme>
-  <programme start="20260902091600 -0300" stop="20260902093900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902091300 -0300" stop="20260902093500 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Barbie: Um Toque de Mágica</title>
   </programme>
-  <programme start="20260902093900 -0300" stop="20260902095000 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902093500 -0300" stop="20260902094600 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Polly Pocket</title>
   </programme>
-  <programme start="20260902095000 -0300" stop="20260902100400 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902094600 -0300" stop="20260902095800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Polly Pocket</title>
   </programme>
-  <programme start="20260902100400 -0300" stop="20260902101100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902095800 -0300" stop="20260902100500 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Turma da Mônica</title>
   </programme>
-  <programme start="20260902101100 -0300" stop="20260902101800 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902100500 -0300" stop="20260902101200 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Turma da Mônica</title>
   </programme>
-  <programme start="20260902101800 -0300" stop="20260902102900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902101200 -0300" stop="20260902102300 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260902102900 -0300" stop="20260902104000 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902102300 -0300" stop="20260902103400 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260902104000 -0300" stop="20260902110400 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902103400 -0300" stop="20260902105800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mermicorno: A Queda das Estrelas</title>
   </programme>
-  <programme start="20260902110400 -0300" stop="20260902110900 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902105800 -0300" stop="20260902110300 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260902110900 -0300" stop="20260902111400 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902110300 -0300" stop="20260902110800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260902111400 -0300" stop="20260902113700 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902110800 -0300" stop="20260902111300 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Peppa Pig</title>
   </programme>
-  <programme start="20260902113700 -0300" stop="20260902114800 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902111300 -0300" stop="20260902113600 -0300" channel="discovery_kids.claro.br">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260902113600 -0300" stop="20260902114700 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20260902114800 -0300" stop="20260902120100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902114700 -0300" stop="20260902120000 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20260902120100 -0300" stop="20260902122300 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902120000 -0300" stop="20260902122200 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Academia Unicórnio</title>
   </programme>
-  <programme start="20260902122300 -0300" stop="20260902124500 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902122200 -0300" stop="20260902124400 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Shasha e Milo</title>
   </programme>
-  <programme start="20260902124500 -0300" stop="20260902130700 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902124400 -0300" stop="20260902130700 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Três Espiãs Demais</title>
   </programme>
-  <programme start="20260902130700 -0300" stop="20260902132100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902130700 -0300" stop="20260902132900 -0300" channel="discovery_kids.claro.br">
+    <title lang="pt">Winx Club - A Magia Está de Volta</title>
+  </programme>
+  <programme start="20260902132900 -0300" stop="20260902134000 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Polly Pocket</title>
   </programme>
-  <programme start="20260902132100 -0300" stop="20260902133200 -0300" channel="discovery_kids.claro.br">
-    <title lang="pt">Polly Pocket</title>
-  </programme>
-  <programme start="20260902133200 -0300" stop="20260902134300 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902134000 -0300" stop="20260902135100 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260902134300 -0300" stop="20260902135600 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902135100 -0300" stop="20260902140200 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Hello Kitty Super Style</title>
   </programme>
-  <programme start="20260902135600 -0300" stop="20260902140700 -0300" channel="discovery_kids.claro.br">
-    <title lang="pt">Hello Kitty Super Style</title>
-  </programme>
-  <programme start="20260902140700 -0300" stop="20260902143100 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902140200 -0300" stop="20260902142600 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">LEGO DREAMZzz: As Provas dos Caçadores de Sonhos</title>
   </programme>
-  <programme start="20260902143100 -0300" stop="20260902144300 -0300" channel="discovery_kids.claro.br">
+  <programme start="20260902142600 -0300" stop="20260902143800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Talking Tom Heroes: Amigos com Superpoderes</title>
+  </programme>
+  <programme start="20260902143800 -0300" stop="20260902144300 -0300" channel="discovery_kids.claro.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
   </programme>
   <programme start="20260902144300 -0300" stop="20260902144800 -0300" channel="discovery_kids.claro.br">
     <title lang="pt">Mini Beat Power Rockers</title>
@@ -10140,8 +10137,14 @@
   <programme start="20260902230000 -0300" stop="20260903020000 -0300" channel="espn_4.claro.br">
     <title lang="pt">MLB: St. Louis Cardinals x Los Angeles Dodgers - Ao Vivo</title>
   </programme>
-  <programme start="20260901002000 -0300" stop="20260901011900 -0300" channel="gloob.claro.br">
+  <programme start="20260901002000 -0300" stop="20260901003100 -0300" channel="gloob.claro.br">
     <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+  </programme>
+  <programme start="20260901003100 -0300" stop="20260901005500 -0300" channel="gloob.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20260901005500 -0300" stop="20260901011900 -0300" channel="gloob.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20260901011900 -0300" stop="20260901014300 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
@@ -10248,13 +10251,13 @@
   <programme start="20260901103400 -0300" stop="20260901104600 -0300" channel="gloob.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20260901104600 -0300" stop="20260901114300 -0300" channel="gloob.claro.br">
+  <programme start="20260901104600 -0300" stop="20260901105800 -0300" channel="gloob.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20260901114300 -0300" stop="20260901120500 -0300" channel="gloob.claro.br">
+  <programme start="20260901105800 -0300" stop="20260901112000 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20260901120500 -0300" stop="20260901123000 -0300" channel="gloob.claro.br">
+  <programme start="20260901112000 -0300" stop="20260901123000 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20260901123000 -0300" stop="20260901125200 -0300" channel="gloob.claro.br">
@@ -10290,17 +10293,8 @@
   <programme start="20260901170300 -0300" stop="20260901171500 -0300" channel="gloob.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20260901171500 -0300" stop="20260901172700 -0300" channel="gloob.claro.br">
+  <programme start="20260901171500 -0300" stop="20260901190000 -0300" channel="gloob.claro.br">
     <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260901172700 -0300" stop="20260901175000 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20260901175000 -0300" stop="20260901181200 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20260901181200 -0300" stop="20260901190000 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20260901190000 -0300" stop="20260901192300 -0300" channel="gloob.claro.br">
     <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
@@ -31338,38 +31332,23 @@
   <programme start="20260902160000 -0300" stop="20260903020000 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Circuito Mundial de Surfe - Etapa de Cloudbreak - Ao Vivo</title>
   </programme>
-  <programme start="20260901014500 -0300" stop="20260901021500 -0300" channel="arte_1_hd.claro.br">
+  <programme start="20260901023000 -0300" stop="20260901030000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Insight</title>
   </programme>
-  <programme start="20260901021500 -0300" stop="20260901024500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira</title>
+  <programme start="20260901030000 -0300" stop="20260901033000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira: Oskar Metsavaht</title>
   </programme>
-  <programme start="20260901024500 -0300" stop="20260901034500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Abre a Coxia: Grupo Redimunho de Investigação Teatral</title>
+  <programme start="20260901033000 -0300" stop="20260901043000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Fábricas de Sonho: Joaquim Tenreiro</title>
   </programme>
-  <programme start="20260901034500 -0300" stop="20260901040500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Especial Arte 1</title>
-  </programme>
-  <programme start="20260901040500 -0300" stop="20260901044500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Lirinha Morini</title>
-  </programme>
-  <programme start="20260901044500 -0300" stop="20260901051500 -0300" channel="arte_1_hd.claro.br">
+  <programme start="20260901043000 -0300" stop="20260901050000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Amostradas</title>
   </programme>
-  <programme start="20260901051500 -0300" stop="20260901061500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Adriana Levisky</title>
+  <programme start="20260901050000 -0300" stop="20260901070000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 na Dança: Toulouse-Lautrec</title>
   </programme>
-  <programme start="20260901061500 -0300" stop="20260901064500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira</title>
-  </programme>
-  <programme start="20260901064500 -0300" stop="20260901071500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Fé na Batida</title>
-  </programme>
-  <programme start="20260901071500 -0300" stop="20260901074500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Fé na Batida</title>
-  </programme>
-  <programme start="20260901074500 -0300" stop="20260901103000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Casanova de Fellini</title>
+  <programme start="20260901070000 -0300" stop="20260901103000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Os Sete Samurais</title>
   </programme>
   <programme start="20260901103000 -0300" stop="20260901110000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
@@ -31381,19 +31360,19 @@
     <title lang="pt">Arte 1 Visual</title>
   </programme>
   <programme start="20260901120000 -0300" stop="20260901123000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira</title>
+    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira: Oskar Metsavaht</title>
   </programme>
   <programme start="20260901123000 -0300" stop="20260901130000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
   <programme start="20260901130000 -0300" stop="20260901141500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Nacional: La Parle</title>
+    <title lang="pt">Arte 1 Nacional: Made in Dafen</title>
   </programme>
-  <programme start="20260901141500 -0300" stop="20260901170000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Casanova de Fellini</title>
+  <programme start="20260901141500 -0300" stop="20260901143000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte Makers</title>
   </programme>
-  <programme start="20260901170000 -0300" stop="20260901180000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Abre a Coxia: Grupo Redimunho de Investigação Teatral</title>
+  <programme start="20260901143000 -0300" stop="20260901180000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Os Sete Samurais</title>
   </programme>
   <programme start="20260901180000 -0300" stop="20260901190000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
@@ -31402,7 +31381,7 @@
     <title lang="pt">Descobrindo os Tesouros do Brasil</title>
   </programme>
   <programme start="20260901193000 -0300" stop="20260901203000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Geografia da Arte: Josef &amp; Anni Albers + México</title>
+    <title lang="pt">Geografia da Arte: Christian Louboutin + Egito</title>
   </programme>
   <programme start="20260901203000 -0300" stop="20260901210000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 Visual</title>
@@ -31416,50 +31395,44 @@
   <programme start="20260901223000 -0300" stop="20260901230000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Insight</title>
   </programme>
-  <programme start="20260901230000 -0300" stop="20260902003000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Documenta: Amando Patricia Highsmith</title>
+  <programme start="20260901230000 -0300" stop="20260902004500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
   </programme>
-  <programme start="20260902003000 -0300" stop="20260902013000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Adriana Levisky</title>
+  <programme start="20260902004500 -0300" stop="20260902014500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arquitetos Brasileiros: Angelo Bucci</title>
   </programme>
-  <programme start="20260902013000 -0300" stop="20260902024500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Nacional: La Parle</title>
-  </programme>
-  <programme start="20260902024500 -0300" stop="20260902031500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Lirinha Morini</title>
-  </programme>
-  <programme start="20260902031500 -0300" stop="20260902033000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
+  <programme start="20260902014500 -0300" stop="20260902033000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Nacional: Made in Dafen</title>
   </programme>
   <programme start="20260902033000 -0300" stop="20260902040000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Compondo Futuros - Os alunos do Festival de Inverno de Campos do Jordão</title>
-  </programme>
-  <programme start="20260902040000 -0300" stop="20260902050000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
-  </programme>
-  <programme start="20260902050000 -0300" stop="20260902060000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Geografia da Arte: Josef &amp; Anni Albers + México</title>
-  </programme>
-  <programme start="20260902060000 -0300" stop="20260902063000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Amostradas</title>
-  </programme>
-  <programme start="20260902063000 -0300" stop="20260902073000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Abre a Coxia: Grupo Redimunho de Investigação Teatral</title>
-  </programme>
-  <programme start="20260902073000 -0300" stop="20260902080000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
   </programme>
-  <programme start="20260902080000 -0300" stop="20260902090000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Adriana Levisky</title>
+  <programme start="20260902040000 -0300" stop="20260902050000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Geografia da Arte: Christian Louboutin + Egito</title>
   </programme>
-  <programme start="20260902090000 -0300" stop="20260902103000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Documenta: Amando Patricia Highsmith</title>
+  <programme start="20260902050000 -0300" stop="20260902060000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
+  </programme>
+  <programme start="20260902060000 -0300" stop="20260902063000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 em Movimento</title>
+  </programme>
+  <programme start="20260902063000 -0300" stop="20260902064500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Curta Arte 1: Poétika</title>
+  </programme>
+  <programme start="20260902064500 -0300" stop="20260902074500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Fábricas de Sonho: Joaquim Tenreiro</title>
+  </programme>
+  <programme start="20260902074500 -0300" stop="20260902084500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arquitetos Brasileiros: Angelo Bucci</title>
+  </programme>
+  <programme start="20260902084500 -0300" stop="20260902103000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
   </programme>
   <programme start="20260902103000 -0300" stop="20260902113000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
   </programme>
   <programme start="20260902113000 -0300" stop="20260902120000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Lirinha Morini</title>
+    <title lang="pt">Protagonistas Invisíveis: Márcia Sarquis</title>
   </programme>
   <programme start="20260902120000 -0300" stop="20260902130000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 Visual</title>
@@ -31476,38 +31449,38 @@
   <programme start="20260902143000 -0300" stop="20260902150000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
-  <programme start="20260902150000 -0300" stop="20260902163000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Documenta: Amando Patricia Highsmith</title>
+  <programme start="20260902150000 -0300" stop="20260902164500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
   </programme>
-  <programme start="20260902163000 -0300" stop="20260902170000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Curta Arte 1: Recife Frio</title>
+  <programme start="20260902164500 -0300" stop="20260902170000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte Makers</title>
   </programme>
   <programme start="20260902170000 -0300" stop="20260902180000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Geografia da Arte: Josef &amp; Anni Albers + México</title>
+    <title lang="pt">Geografia da Arte: Christian Louboutin + Egito</title>
   </programme>
   <programme start="20260902180000 -0300" stop="20260902191500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Nacional: La Parle</title>
+    <title lang="pt">Arte 1 Nacional: Made in Dafen</title>
   </programme>
   <programme start="20260902191500 -0300" stop="20260902193000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
+    <title lang="pt">Curta Arte 1: Poétika</title>
   </programme>
   <programme start="20260902193000 -0300" stop="20260902200000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Lirinha Morini</title>
+    <title lang="pt">Protagonistas Invisíveis: Márcia Sarquis</title>
   </programme>
   <programme start="20260902200000 -0300" stop="20260902203000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Amostradas</title>
   </programme>
   <programme start="20260902203000 -0300" stop="20260902213000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Abre a Coxia: Grupo Galpão &amp; Teatro da Vertigem</title>
+    <title lang="pt">Fábricas de Sonho: Lina Bo Bardi</title>
   </programme>
   <programme start="20260902213000 -0300" stop="20260902223000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 na Dança: Paris</title>
+    <title lang="pt">Arte 1 na Dança: OUTROS TOMs</title>
   </programme>
   <programme start="20260902223000 -0300" stop="20260902230000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira</title>
+    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira: Oskar Metsavaht</title>
   </programme>
-  <programme start="20260902230000 -0300" stop="20260903013000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Cine Clube Arte 1: Terra de Deus</title>
+  <programme start="20260902230000 -0300" stop="20260903014500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Cine Clube Arte 1: The Square - A Arte da Discórdia</title>
   </programme>
   <programme start="20260901000000 -0300" stop="20260901004000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">Cale-Se - A Censura Musical</title>
@@ -32526,34 +32499,28 @@
   <programme start="20260901022000 -0300" stop="20260901022500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901022500 -0300" stop="20260901024000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901022500 -0300" stop="20260901023000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901024000 -0300" stop="20260901025500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901023000 -0300" stop="20260901025000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901025500 -0300" stop="20260901031000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901025000 -0300" stop="20260901030500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901031000 -0300" stop="20260901031500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901030500 -0300" stop="20260901032000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901031500 -0300" stop="20260901032500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901032000 -0300" stop="20260901035000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901032500 -0300" stop="20260901035500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901035000 -0300" stop="20260901040000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901035500 -0300" stop="20260901041000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901040000 -0300" stop="20260901042000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901041000 -0300" stop="20260901042000 -0300" channel="travel_box_brasil_hd.claro.br">
-    <title lang="pt">Travel Shots</title>
-  </programme>
-  <programme start="20260901042000 -0300" stop="20260901042500 -0300" channel="travel_box_brasil_hd.claro.br">
-    <title lang="pt">Travel Shots</title>
-  </programme>
-  <programme start="20260901042500 -0300" stop="20260901043500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901042000 -0300" stop="20260901043500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
   <programme start="20260901043500 -0300" stop="20260901044500 -0300" channel="travel_box_brasil_hd.claro.br">
@@ -32562,91 +32529,85 @@
   <programme start="20260901044500 -0300" stop="20260901050000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901050000 -0300" stop="20260901050500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901050000 -0300" stop="20260901051500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901050500 -0300" stop="20260901052500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901051500 -0300" stop="20260901053000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901052500 -0300" stop="20260901053000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901053000 -0300" stop="20260901054500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901053000 -0300" stop="20260901054000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901054500 -0300" stop="20260901055500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901054000 -0300" stop="20260901055500 -0300" channel="travel_box_brasil_hd.claro.br">
-    <title lang="pt">Travel Shots</title>
-  </programme>
-  <programme start="20260901055500 -0300" stop="20260901061000 -0300" channel="travel_box_brasil_hd.claro.br">
-    <title lang="pt">Travel Shots</title>
-  </programme>
-  <programme start="20260901061000 -0300" stop="20260901062000 -0300" channel="travel_box_brasil_hd.claro.br">
-    <title lang="pt">Travel Shots</title>
-  </programme>
-  <programme start="20260901062000 -0300" stop="20260901062500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901055500 -0300" stop="20260901062500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
   <programme start="20260901062500 -0300" stop="20260901064000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901064000 -0300" stop="20260901065500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901064000 -0300" stop="20260901065000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
-  <programme start="20260901065500 -0300" stop="20260901070000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901065000 -0300" stop="20260901070000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Travel Shots</title>
   </programme>
   <programme start="20260901070000 -0300" stop="20260901071500 -0300" channel="travel_box_brasil_hd.claro.br">
+    <title lang="pt">Travel Shots</title>
+  </programme>
+  <programme start="20260901071500 -0300" stop="20260901072500 -0300" channel="travel_box_brasil_hd.claro.br">
+    <title lang="pt">Travel Shots</title>
+  </programme>
+  <programme start="20260901072500 -0300" stop="20260901074000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Pedalando Pelo Mundo</title>
   </programme>
-  <programme start="20260901071500 -0300" stop="20260901074500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901074000 -0300" stop="20260901081000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Comida de Viagem</title>
   </programme>
-  <programme start="20260901074500 -0300" stop="20260901081500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901081000 -0300" stop="20260901084000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Beto E Nika - Ciclo Viajando Pela Asia</title>
   </programme>
-  <programme start="20260901081500 -0300" stop="20260901084500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901084000 -0300" stop="20260901091000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Além Do Destino</title>
   </programme>
-  <programme start="20260901084500 -0300" stop="20260901091500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901091000 -0300" stop="20260901094000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">A Vida e o Lugar</title>
   </programme>
-  <programme start="20260901091500 -0300" stop="20260901093000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901094000 -0300" stop="20260901095500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Nômades Na Estrada</title>
   </programme>
-  <programme start="20260901093000 -0300" stop="20260901100000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901095500 -0300" stop="20260901102500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Cris Pelo Mundo</title>
   </programme>
-  <programme start="20260901100000 -0300" stop="20260901103000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901102500 -0300" stop="20260901105500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Juju Na Trip</title>
   </programme>
-  <programme start="20260901103000 -0300" stop="20260901110000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901105500 -0300" stop="20260901112500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">As Amazonas</title>
   </programme>
-  <programme start="20260901110000 -0300" stop="20260901113000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901112500 -0300" stop="20260901115500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Vibe de Dois</title>
   </programme>
-  <programme start="20260901113000 -0300" stop="20260901120000 -0300" channel="travel_box_brasil_hd.claro.br">
-    <title lang="pt">Boa Sorte Viajante</title>
-  </programme>
-  <programme start="20260901120000 -0300" stop="20260901123000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901115500 -0300" stop="20260901122500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Patty Leone Top Travels</title>
   </programme>
-  <programme start="20260901123000 -0300" stop="20260901124500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901122500 -0300" stop="20260901124000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Pedalando Pelo Mundo</title>
   </programme>
-  <programme start="20260901124500 -0300" stop="20260901131500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901124000 -0300" stop="20260901131000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">BeSisluxe</title>
   </programme>
-  <programme start="20260901131500 -0300" stop="20260901134500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901131000 -0300" stop="20260901134000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Brasil Ski Clube</title>
   </programme>
-  <programme start="20260901134500 -0300" stop="20260901141500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901134000 -0300" stop="20260901141000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Destinos Rs</title>
   </programme>
-  <programme start="20260901141500 -0300" stop="20260901144500 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901141000 -0300" stop="20260901144000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Paes Pelo Mundo</title>
   </programme>
-  <programme start="20260901144500 -0300" stop="20260901150000 -0300" channel="travel_box_brasil_hd.claro.br">
+  <programme start="20260901144000 -0300" stop="20260901150000 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Live2trip</title>
   </programme>
   <programme start="20260901150000 -0300" stop="20260901190000 -0300" channel="travel_box_brasil_hd.claro.br">
@@ -32674,7 +32635,7 @@
     <title lang="pt">Check-in Em Dupla</title>
   </programme>
   <programme start="20260901221500 -0300" stop="20260901224500 -0300" channel="travel_box_brasil_hd.claro.br">
-    <title lang="pt">Heranças Do Maranhão</title>
+    <title lang="pt">Giro Brasil</title>
   </programme>
   <programme start="20260901224500 -0300" stop="20260901231500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Com Fome de Viagem</title>
@@ -32797,7 +32758,7 @@
     <title lang="pt">Check-in Em Dupla</title>
   </programme>
   <programme start="20260902101500 -0300" stop="20260902104500 -0300" channel="travel_box_brasil_hd.claro.br">
-    <title lang="pt">Heranças Do Maranhão</title>
+    <title lang="pt">Giro Brasil</title>
   </programme>
   <programme start="20260902104500 -0300" stop="20260902111500 -0300" channel="travel_box_brasil_hd.claro.br">
     <title lang="pt">Com Fome de Viagem</title>
