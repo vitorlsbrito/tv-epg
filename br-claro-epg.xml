@@ -1462,7 +1462,7 @@
     <title lang="pt">Band Negócios</title>
   </programme>
   <programme start="20260919110000 -0300" stop="20260919113000 -0300" channel="band.claro.br">
-    <title lang="pt">A Definir</title>
+    <title lang="pt">Vila Real</title>
   </programme>
   <programme start="20260919113000 -0300" stop="20260919120000 -0300" channel="band.claro.br">
     <title lang="pt">Fórmula Band</title>
@@ -1480,7 +1480,7 @@
     <title lang="pt">Brasil Urgente</title>
   </programme>
   <programme start="20260919170000 -0300" stop="20260919192000 -0300" channel="band.claro.br">
-    <title lang="pt">Campeonato Brasileiro Série C</title>
+    <title lang="pt">Maringá x Botafogo-PB - Ao Vivo</title>
   </programme>
   <programme start="20260919192000 -0300" stop="20260919203000 -0300" channel="band.claro.br">
     <title lang="pt">Jornal da Band</title>
@@ -3684,11 +3684,8 @@
   <programme start="20260918003000 -0300" stop="20260918010000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Documentário Fiocruz</title>
   </programme>
-  <programme start="20260918010000 -0300" stop="20260918054500 -0300" channel="tv_camara.claro.br">
+  <programme start="20260918010000 -0300" stop="20260918060000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Reapresentação de Comissão</title>
-  </programme>
-  <programme start="20260918054500 -0300" stop="20260918060000 -0300" channel="tv_camara.claro.br">
-    <title lang="pt">Documentário TV Câmara</title>
   </programme>
   <programme start="20260918060000 -0300" stop="20260918063000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Câmara Debate</title>
@@ -3708,14 +3705,8 @@
   <programme start="20260918090000 -0300" stop="20260918100000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Bora Entender?</title>
   </programme>
-  <programme start="20260918100000 -0300" stop="20260918110000 -0300" channel="tv_camara.claro.br">
+  <programme start="20260918100000 -0300" stop="20260918120000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Câmara Agora</title>
-  </programme>
-  <programme start="20260918110000 -0300" stop="20260918113000 -0300" channel="tv_camara.claro.br">
-    <title lang="pt">Documentário TV Câmara</title>
-  </programme>
-  <programme start="20260918113000 -0300" stop="20260918120000 -0300" channel="tv_camara.claro.br">
-    <title lang="pt">100 Anos de Cultura e Conflitos</title>
   </programme>
   <programme start="20260918120000 -0300" stop="20260918130000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Participação Popular</title>
@@ -3726,11 +3717,17 @@
   <programme start="20260918133000 -0300" stop="20260918140000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Direto da Câmara</title>
   </programme>
-  <programme start="20260918140000 -0300" stop="20260918141500 -0300" channel="tv_camara.claro.br">
+  <programme start="20260918140000 -0300" stop="20260918153000 -0300" channel="tv_camara.claro.br">
+    <title lang="pt">Reapresentação de Comissão</title>
+  </programme>
+  <programme start="20260918153000 -0300" stop="20260918160000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Entenda as Eleições</title>
   </programme>
-  <programme start="20260918141500 -0300" stop="20260918180000 -0300" channel="tv_camara.claro.br">
+  <programme start="20260918160000 -0300" stop="20260918173000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Reapresentação de Comissão</title>
+  </programme>
+  <programme start="20260918173000 -0300" stop="20260918180000 -0300" channel="tv_camara.claro.br">
+    <title lang="pt">Documentário TV Câmara</title>
   </programme>
   <programme start="20260918180000 -0300" stop="20260918190000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Participação Popular</title>
@@ -3754,7 +3751,7 @@
     <title lang="pt">Documentário TV Câmara</title>
   </programme>
   <programme start="20260918230000 -0300" stop="20260918233000 -0300" channel="tv_camara.claro.br">
-    <title lang="pt">Artérias</title>
+    <title lang="pt">Artérias: Isael e Sueli Maxakali</title>
   </programme>
   <programme start="20260918233000 -0300" stop="20260919000000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Palavra Aberta</title>
@@ -10185,8 +10182,11 @@
   <programme start="20260918233000 -0300" stop="20260919000000 -0300" channel="band_news.claro.br">
     <title lang="pt">BandNews DOCs</title>
   </programme>
-  <programme start="20260919000000 -0300" stop="20260919010000 -0300" channel="band_news.claro.br">
-    <title lang="pt">Sabatina Eduardo Paes</title>
+  <programme start="20260919000000 -0300" stop="20260919003000 -0300" channel="band_news.claro.br">
+    <title lang="pt">Experimente</title>
+  </programme>
+  <programme start="20260919003000 -0300" stop="20260919010000 -0300" channel="band_news.claro.br">
+    <title lang="pt">Economia Pra Você</title>
   </programme>
   <programme start="20260919010000 -0300" stop="20260919020000 -0300" channel="band_news.claro.br">
     <title lang="pt">Jornal da Band</title>
@@ -10264,7 +10264,7 @@
     <title lang="pt">Edição da Noite</title>
   </programme>
   <programme start="20260919220000 -0300" stop="20260919230000 -0300" channel="band_news.claro.br">
-    <title lang="pt">Fórum Bandnews</title>
+    <title lang="pt">Bandnews Entrevistas</title>
   </programme>
   <programme start="20260919230000 -0300" stop="20260919233000 -0300" channel="band_news.claro.br">
     <title lang="pt">Experimente</title>
@@ -10746,11 +10746,8 @@
   <programme start="20260919103500 -0300" stop="20260919104700 -0300" channel="gloob.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20260919104700 -0300" stop="20260919105900 -0300" channel="gloob.claro.br">
+  <programme start="20260919104700 -0300" stop="20260919112100 -0300" channel="gloob.claro.br">
     <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260919105900 -0300" stop="20260919112100 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20260919112100 -0300" stop="20260919122900 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
@@ -12159,10 +12156,10 @@
   <programme start="20260918110700 -0300" stop="20260918112000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Vamos Brincar</title>
   </programme>
-  <programme start="20260918112000 -0300" stop="20260918112200 -0300" channel="gloobinho.claro.br">
+  <programme start="20260918112000 -0300" stop="20260918112300 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260918112200 -0300" stop="20260918112500 -0300" channel="gloobinho.claro.br">
+  <programme start="20260918112300 -0300" stop="20260918112500 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260918112500 -0300" stop="20260918113000 -0300" channel="gloobinho.claro.br">
@@ -12273,10 +12270,10 @@
   <programme start="20260918161000 -0300" stop="20260918162000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Ursinhos Carinhosos</title>
   </programme>
-  <programme start="20260918162000 -0300" stop="20260918162200 -0300" channel="gloobinho.claro.br">
+  <programme start="20260918162000 -0300" stop="20260918162300 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260918162200 -0300" stop="20260918162500 -0300" channel="gloobinho.claro.br">
+  <programme start="20260918162300 -0300" stop="20260918162500 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260918162500 -0300" stop="20260918163000 -0300" channel="gloobinho.claro.br">
@@ -12759,10 +12756,10 @@
   <programme start="20260919113000 -0300" stop="20260919114000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Bookaboo</title>
   </programme>
-  <programme start="20260919114000 -0300" stop="20260919114200 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919114000 -0300" stop="20260919114300 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260919114200 -0300" stop="20260919115000 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919114300 -0300" stop="20260919115000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260919115000 -0300" stop="20260919115700 -0300" channel="gloobinho.claro.br">
@@ -12822,46 +12819,46 @@
   <programme start="20260919135200 -0300" stop="20260919140000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260919140000 -0300" stop="20260919140200 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919140000 -0300" stop="20260919140300 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919140200 -0300" stop="20260919140500 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919140300 -0300" stop="20260919140500 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919140500 -0300" stop="20260919140700 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919140500 -0300" stop="20260919140800 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919140700 -0300" stop="20260919141000 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919140800 -0300" stop="20260919141000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919141000 -0300" stop="20260919141200 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919141000 -0300" stop="20260919141300 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919141200 -0300" stop="20260919141500 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919141300 -0300" stop="20260919141500 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919141500 -0300" stop="20260919141700 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919141500 -0300" stop="20260919141800 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919141700 -0300" stop="20260919142000 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919141800 -0300" stop="20260919142000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919142000 -0300" stop="20260919142200 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919142000 -0300" stop="20260919142300 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919142200 -0300" stop="20260919142500 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919142300 -0300" stop="20260919142500 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919142500 -0300" stop="20260919142700 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919142500 -0300" stop="20260919142800 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919142700 -0300" stop="20260919143000 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919142800 -0300" stop="20260919143000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919143000 -0300" stop="20260919143200 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919143000 -0300" stop="20260919143300 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919143200 -0300" stop="20260919143500 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919143300 -0300" stop="20260919143500 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
   <programme start="20260919143500 -0300" stop="20260919144000 -0300" channel="gloobinho.claro.br">
@@ -12978,10 +12975,10 @@
   <programme start="20260919211000 -0300" stop="20260919212000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Ursinhos Carinhosos</title>
   </programme>
-  <programme start="20260919212000 -0300" stop="20260919212200 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919212000 -0300" stop="20260919212300 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260919212200 -0300" stop="20260919213000 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919212300 -0300" stop="20260919213000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260919213000 -0300" stop="20260919213700 -0300" channel="gloobinho.claro.br">
@@ -13026,10 +13023,10 @@
   <programme start="20260919230500 -0300" stop="20260919231000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">Baby Riki</title>
   </programme>
-  <programme start="20260919231000 -0300" stop="20260919231200 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919231000 -0300" stop="20260919231300 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260919231200 -0300" stop="20260919233000 -0300" channel="gloobinho.claro.br">
+  <programme start="20260919231300 -0300" stop="20260919233000 -0300" channel="gloobinho.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260919233000 -0300" stop="20260919234000 -0300" channel="gloobinho.claro.br">
@@ -25083,14 +25080,20 @@
   <programme start="20260919225600 -0300" stop="20260920024600 -0300" channel="tv5_monde.claro.br">
     <title lang="pt">Dionysos, Les 30 Ans</title>
   </programme>
-  <programme start="20260918025000 -0300" stop="20260918065000 -0300" channel="combate.claro.br">
-    <title lang="pt">Melhores Momentos - Rebeca Lima</title>
+  <programme start="20260918000000 -0300" stop="20260918015500 -0300" channel="combate.claro.br">
+    <title lang="pt">Bare Knuckle 93</title>
   </programme>
-  <programme start="20260918065000 -0300" stop="20260918105000 -0300" channel="combate.claro.br">
-    <title lang="pt">Melhores Momentos - Rebeca Lima</title>
+  <programme start="20260918015500 -0300" stop="20260918025500 -0300" channel="combate.claro.br">
+    <title lang="pt">Mundo Da Luta - Ep. 6</title>
   </programme>
-  <programme start="20260918105000 -0300" stop="20260918120000 -0300" channel="combate.claro.br">
-    <title lang="pt">Melhores Momentos - Rebeca Lima</title>
+  <programme start="20260918025500 -0300" stop="20260918054000 -0300" channel="combate.claro.br">
+    <title lang="pt">Jungle Fight 147 - Brasília-Df</title>
+  </programme>
+  <programme start="20260918054000 -0300" stop="20260918094000 -0300" channel="combate.claro.br">
+    <title lang="pt">One Fight Night 47</title>
+  </programme>
+  <programme start="20260918094000 -0300" stop="20260918120000 -0300" channel="combate.claro.br">
+    <title lang="pt">One Fight Night 47</title>
   </programme>
   <programme start="20260918120000 -0300" stop="20260918160000 -0300" channel="combate.claro.br">
     <title lang="pt">Power Slap</title>
@@ -25920,227 +25923,236 @@
   <programme start="20260918000000 -0300" stop="20260918003000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Vasco x Cruzeiro</title>
   </programme>
-  <programme start="20260918003000 -0300" stop="20260918004000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918003000 -0300" stop="20260918010000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Athletico-PR x Fluminense</title>
   </programme>
-  <programme start="20260918004000 -0300" stop="20260918011000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Remo x Flamengo</title>
+  <programme start="20260918010000 -0300" stop="20260918013000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Atlético-MG x Vitória</title>
   </programme>
-  <programme start="20260918011000 -0300" stop="20260918014000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Internacional x Santos</title>
+  <programme start="20260918013000 -0300" stop="20260918020000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - São Paulo x Bragantino</title>
   </programme>
-  <programme start="20260918014000 -0300" stop="20260918021000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Botafogo x Palmeiras</title>
+  <programme start="20260918020000 -0300" stop="20260918023000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Bahia x Internacional</title>
   </programme>
-  <programme start="20260918021000 -0300" stop="20260918024000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Cruzeiro x Athletico-PR</title>
+  <programme start="20260918023000 -0300" stop="20260918030000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Remo x Coritiba</title>
   </programme>
-  <programme start="20260918024000 -0300" stop="20260918031000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Vitória x Grêmio</title>
-  </programme>
-  <programme start="20260918031000 -0300" stop="20260918034000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Coritiba x Mirassol</title>
-  </programme>
-  <programme start="20260918034000 -0300" stop="20260918041000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Bragantino x Bahia</title>
-  </programme>
-  <programme start="20260918041000 -0300" stop="20260918044000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - São Paulo x Atlético-MG</title>
-  </programme>
-  <programme start="20260918044000 -0300" stop="20260918051000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Fluminense x Vasco</title>
-  </programme>
-  <programme start="20260918051000 -0300" stop="20260918060000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918030000 -0300" stop="20260918040000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
   </programme>
+  <programme start="20260918040000 -0300" stop="20260918043000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Palmeiras x Vasco</title>
+  </programme>
+  <programme start="20260918043000 -0300" stop="20260918050000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Bragantino x Grêmio</title>
+  </programme>
+  <programme start="20260918050000 -0300" stop="20260918053000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Vitória x Bahia</title>
+  </programme>
+  <programme start="20260918053000 -0300" stop="20260918060000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Internacional x Atlético-MG</title>
+  </programme>
   <programme start="20260918060000 -0300" stop="20260918063000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Grêmio x Vasco</title>
+    <title lang="pt">VT - Fluminense x Remo</title>
   </programme>
   <programme start="20260918063000 -0300" stop="20260918070000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Atlético-MG x Fluminense</title>
+    <title lang="pt">VT - Santos x Mirassol</title>
   </programme>
   <programme start="20260918070000 -0300" stop="20260918073000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Chapecoense x Internacional</title>
+    <title lang="pt">VT - Coritiba x Corinthians</title>
   </programme>
   <programme start="20260918073000 -0300" stop="20260918080000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Coritiba x Athletico-PR</title>
+    <title lang="pt">VT - Chapecoense x São Paulo</title>
   </programme>
-  <programme start="20260918080000 -0300" stop="20260918083000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Palmeiras x São Paulo</title>
-  </programme>
-  <programme start="20260918083000 -0300" stop="20260918090000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Santos x Cruzeiro</title>
+  <programme start="20260918080000 -0300" stop="20260918090000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
   </programme>
   <programme start="20260918090000 -0300" stop="20260918093000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <title lang="pt">VT - Grêmio x Vasco</title>
   </programme>
   <programme start="20260918093000 -0300" stop="20260918100000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Mirassol x Vitória</title>
+    <title lang="pt">VT - Atlético-MG x Fluminense</title>
   </programme>
-  <programme start="20260918100000 -0300" stop="20260918110000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+  <programme start="20260918100000 -0300" stop="20260918103000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Chapecoense x Internacional</title>
+  </programme>
+  <programme start="20260918103000 -0300" stop="20260918110000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Coritiba x Athletico-PR</title>
   </programme>
   <programme start="20260918110000 -0300" stop="20260918113000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Grêmio x Vasco</title>
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
   </programme>
   <programme start="20260918113000 -0300" stop="20260918120000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Atlético-MG x Fluminense</title>
+    <title lang="pt">VT - Santos x Cruzeiro</title>
   </programme>
   <programme start="20260918120000 -0300" stop="20260918123000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Chapecoense x Internacional</title>
+    <title lang="pt">VT - Flamengo x Corinthians</title>
   </programme>
   <programme start="20260918123000 -0300" stop="20260918130000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Coritiba x Athletico-PR</title>
-  </programme>
-  <programme start="20260918130000 -0300" stop="20260918133000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Palmeiras x São Paulo</title>
-  </programme>
-  <programme start="20260918133000 -0300" stop="20260918140000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Santos x Cruzeiro</title>
-  </programme>
-  <programme start="20260918140000 -0300" stop="20260918143000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Flamengo x Corinthians</title>
-  </programme>
-  <programme start="20260918143000 -0300" stop="20260918150000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Mirassol x Vitória</title>
   </programme>
-  <programme start="20260918150000 -0300" stop="20260918160000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918130000 -0300" stop="20260918140000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
   </programme>
-  <programme start="20260918160000 -0300" stop="20260918163000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918140000 -0300" stop="20260918143000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Bahia x Remo</title>
+  </programme>
+  <programme start="20260918143000 -0300" stop="20260918150000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Grêmio x Vasco</title>
   </programme>
-  <programme start="20260918163000 -0300" stop="20260918170000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918150000 -0300" stop="20260918153000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Atlético-MG x Fluminense</title>
   </programme>
-  <programme start="20260918170000 -0300" stop="20260918173000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918153000 -0300" stop="20260918160000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Chapecoense x Internacional</title>
   </programme>
-  <programme start="20260918173000 -0300" stop="20260918180000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918160000 -0300" stop="20260918163000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Coritiba x Athletico-PR</title>
   </programme>
-  <programme start="20260918180000 -0300" stop="20260918183000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918163000 -0300" stop="20260918170000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Palmeiras x São Paulo</title>
   </programme>
-  <programme start="20260918183000 -0300" stop="20260918190000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918170000 -0300" stop="20260918173000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Santos x Cruzeiro</title>
   </programme>
-  <programme start="20260918190000 -0300" stop="20260918193000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260918173000 -0300" stop="20260918180000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Flamengo x Corinthians</title>
   </programme>
+  <programme start="20260918180000 -0300" stop="20260918183000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Mirassol x Vitória</title>
+  </programme>
+  <programme start="20260918183000 -0300" stop="20260918190000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Bahia x Remo</title>
+  </programme>
+  <programme start="20260918190000 -0300" stop="20260918193000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+  </programme>
   <programme start="20260918193000 -0300" stop="20260918203000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Grêmio x Vasco</title>
+  </programme>
+  <programme start="20260918203000 -0300" stop="20260918203000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">Aquecimento sportv - Ao Vivo</title>
   </programme>
   <programme start="20260918203000 -0300" stop="20260918231000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">São Bernardo FC x Atlético-GO - Ao Vivo</title>
   </programme>
   <programme start="20260918231000 -0300" stop="20260918234000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Chapecoense x Internacional</title>
+    <title lang="pt">VT - Grêmio x Vasco</title>
   </programme>
   <programme start="20260918234000 -0300" stop="20260919001000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Coritiba x Athletico-PR</title>
+    <title lang="pt">VT - Atlético-MG x Fluminense</title>
   </programme>
   <programme start="20260919001000 -0300" stop="20260919004000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Remo x Flamengo</title>
+    <title lang="pt">VT - Chapecoense x Internacional</title>
   </programme>
   <programme start="20260919004000 -0300" stop="20260919011000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Internacional x Santos</title>
-  </programme>
-  <programme start="20260919011000 -0300" stop="20260919014000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Botafogo x Palmeiras</title>
-  </programme>
-  <programme start="20260919014000 -0300" stop="20260919021000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Cruzeiro x Athletico-PR</title>
-  </programme>
-  <programme start="20260919021000 -0300" stop="20260919024000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Vitória x Grêmio</title>
-  </programme>
-  <programme start="20260919024000 -0300" stop="20260919031000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Coritiba x Mirassol</title>
-  </programme>
-  <programme start="20260919031000 -0300" stop="20260919034000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Bragantino x Bahia</title>
-  </programme>
-  <programme start="20260919034000 -0300" stop="20260919041000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - São Paulo x Atlético-MG</title>
-  </programme>
-  <programme start="20260919041000 -0300" stop="20260919044000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Fluminense x Vasco</title>
-  </programme>
-  <programme start="20260919044000 -0300" stop="20260919053000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 26ª Rodada</title>
-  </programme>
-  <programme start="20260919053000 -0300" stop="20260919060000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Corinthians x Santos</title>
-  </programme>
-  <programme start="20260919060000 -0300" stop="20260919063000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Flamengo x Botafogo</title>
-  </programme>
-  <programme start="20260919063000 -0300" stop="20260919070000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Athletico-PR x Fluminense</title>
-  </programme>
-  <programme start="20260919070000 -0300" stop="20260919073000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Vasco x Cruzeiro</title>
-  </programme>
-  <programme start="20260919073000 -0300" stop="20260919080000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Grêmio x Chapecoense</title>
-  </programme>
-  <programme start="20260919080000 -0300" stop="20260919083000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Atlético-MG x Vitória</title>
-  </programme>
-  <programme start="20260919083000 -0300" stop="20260919090000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - São Paulo x Bragantino</title>
-  </programme>
-  <programme start="20260919090000 -0300" stop="20260919093000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Bahia x Internacional</title>
-  </programme>
-  <programme start="20260919093000 -0300" stop="20260919100000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Remo x Coritiba</title>
-  </programme>
-  <programme start="20260919100000 -0300" stop="20260919110000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
-  </programme>
-  <programme start="20260919110000 -0300" stop="20260919113000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Coritiba x Athletico-PR</title>
   </programme>
-  <programme start="20260919113000 -0300" stop="20260919120000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919011000 -0300" stop="20260919014000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+  </programme>
+  <programme start="20260919014000 -0300" stop="20260919021000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Santos x Cruzeiro</title>
+  </programme>
+  <programme start="20260919021000 -0300" stop="20260919024000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+  </programme>
+  <programme start="20260919024000 -0300" stop="20260919031000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Mirassol x Vitória</title>
+  </programme>
+  <programme start="20260919031000 -0300" stop="20260919034000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Bahia x Remo</title>
+  </programme>
+  <programme start="20260919034000 -0300" stop="20260919043000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+  </programme>
+  <programme start="20260919043000 -0300" stop="20260919050000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Remo x Flamengo</title>
   </programme>
-  <programme start="20260919120000 -0300" stop="20260919123000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919050000 -0300" stop="20260919053000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Internacional x Santos</title>
   </programme>
-  <programme start="20260919123000 -0300" stop="20260919130000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919053000 -0300" stop="20260919060000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Botafogo x Palmeiras</title>
   </programme>
-  <programme start="20260919130000 -0300" stop="20260919133000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919060000 -0300" stop="20260919063000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Cruzeiro x Athletico-PR</title>
   </programme>
-  <programme start="20260919133000 -0300" stop="20260919140000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919063000 -0300" stop="20260919070000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Vitória x Grêmio</title>
   </programme>
-  <programme start="20260919140000 -0300" stop="20260919143000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919070000 -0300" stop="20260919073000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Coritiba x Mirassol</title>
   </programme>
-  <programme start="20260919143000 -0300" stop="20260919150000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919073000 -0300" stop="20260919080000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - Bragantino x Bahia</title>
   </programme>
-  <programme start="20260919150000 -0300" stop="20260919153000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919080000 -0300" stop="20260919083000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">VT - São Paulo x Atlético-MG</title>
+  </programme>
+  <programme start="20260919083000 -0300" stop="20260919090000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Fluminense x Vasco</title>
+  </programme>
+  <programme start="20260919090000 -0300" stop="20260919100000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 26ª Rodada</title>
+  </programme>
+  <programme start="20260919100000 -0300" stop="20260919103000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Grêmio x Vasco</title>
+  </programme>
+  <programme start="20260919103000 -0300" stop="20260919110000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Atlético-MG x Fluminense</title>
+  </programme>
+  <programme start="20260919110000 -0300" stop="20260919113000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Chapecoense x Internacional</title>
+  </programme>
+  <programme start="20260919113000 -0300" stop="20260919120000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Coritiba x Athletico-PR</title>
+  </programme>
+  <programme start="20260919120000 -0300" stop="20260919123000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+  </programme>
+  <programme start="20260919123000 -0300" stop="20260919130000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Santos x Cruzeiro</title>
+  </programme>
+  <programme start="20260919130000 -0300" stop="20260919133000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+  </programme>
+  <programme start="20260919133000 -0300" stop="20260919140000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Mirassol x Vitória</title>
+  </programme>
+  <programme start="20260919140000 -0300" stop="20260919143000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - Bahia x Remo</title>
+  </programme>
+  <programme start="20260919143000 -0300" stop="20260919153000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+  </programme>
+  <programme start="20260919153000 -0300" stop="20260919153000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
   </programme>
   <programme start="20260919153000 -0300" stop="20260919181000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">Atlético-MG x Chapecoense - Ao Vivo</title>
   </programme>
-  <programme start="20260919181000 -0300" stop="20260919200000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919181000 -0300" stop="20260919190000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+  </programme>
+  <programme start="20260919190000 -0300" stop="20260919200000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+  </programme>
+  <programme start="20260919200000 -0300" stop="20260919200000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">Aquecimento sportv - Ao Vivo</title>
   </programme>
-  <programme start="20260919200000 -0300" stop="20260919231000 -0300" channel="premiere_clubes.claro.br">
+  <programme start="20260919200000 -0300" stop="20260919210000 -0300" channel="premiere_clubes.claro.br">
     <title lang="pt">São Paulo x Internacional - Ao Vivo</title>
   </programme>
+  <programme start="20260919210000 -0300" stop="20260919231000 -0300" channel="premiere_clubes.claro.br">
+    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
+  </programme>
   <programme start="20260919231000 -0300" stop="20260919234000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Remo x Flamengo</title>
+    <title lang="pt">VT - Atlético-MG x Chapecoense</title>
   </programme>
   <programme start="20260919234000 -0300" stop="20260920001000 -0300" channel="premiere_clubes.claro.br">
-    <title lang="pt">VT - Internacional x Santos</title>
+    <title lang="pt">VT - Mirassol x Botafogo</title>
   </programme>
   <programme start="20260918021500 -0300" stop="20260918023000 -0300" channel="rai_international.claro.br">
     <title lang="pt">TG1</title>
@@ -26670,11 +26682,11 @@
   <programme start="20260919233000 -0300" stop="20260920000000 -0300" channel="tv_climatempo.claro.br">
     <title lang="pt">Feiras &amp; Negócios</title>
   </programme>
-  <programme start="20260918010000 -0300" stop="20260918015000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">La Vuelta Al Mundo En 80 Likes</title>
+  <programme start="20260918002000 -0300" stop="20260918023000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">El Perro Andaluz By Manu Sanchez</title>
   </programme>
-  <programme start="20260918015000 -0300" stop="20260918025000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">La Vuelta Al Mundo En 80 Likes</title>
+  <programme start="20260918023000 -0300" stop="20260918025000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Telediario Matinal</title>
   </programme>
   <programme start="20260918025000 -0300" stop="20260918053500 -0300" channel="tve_international.claro.br">
     <title lang="pt">La Hora De La 1</title>
@@ -26694,20 +26706,26 @@
   <programme start="20260918103500 -0300" stop="20260918104000 -0300" channel="tve_international.claro.br">
     <title lang="pt">El Tiempo</title>
   </programme>
-  <programme start="20260918104000 -0300" stop="20260918105000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Esto Es España</title>
+  <programme start="20260918104000 -0300" stop="20260918104300 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Aqui La Tierra</title>
   </programme>
-  <programme start="20260918105000 -0300" stop="20260918112200 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Españoles En El Mundo</title>
+  <programme start="20260918104300 -0300" stop="20260918104600 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Aqui La Tierra</title>
   </programme>
-  <programme start="20260918112200 -0300" stop="20260918124000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Españoles En El Mundo</title>
+  <programme start="20260918104600 -0300" stop="20260918105000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Aqui La Tierra</title>
   </programme>
-  <programme start="20260918124000 -0300" stop="20260918134500 -0300" channel="tve_international.claro.br">
+  <programme start="20260918105000 -0300" stop="20260918124500 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Directo Al Grano</title>
+  </programme>
+  <programme start="20260918124500 -0300" stop="20260918134500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Senderos Del Mundo</title>
   </programme>
-  <programme start="20260918134500 -0300" stop="20260918144000 -0300" channel="tve_international.claro.br">
+  <programme start="20260918134500 -0300" stop="20260918143500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Saber y Ganar</title>
+  </programme>
+  <programme start="20260918143500 -0300" stop="20260918144000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Esto Es España</title>
   </programme>
   <programme start="20260918144000 -0300" stop="20260918152500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Malas Lenguas</title>
@@ -26715,88 +26733,85 @@
   <programme start="20260918152500 -0300" stop="20260918155500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Aqui La Tierra</title>
   </programme>
-  <programme start="20260918155500 -0300" stop="20260918163500 -0300" channel="tve_international.claro.br">
+  <programme start="20260918155500 -0300" stop="20260918165000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Telediario 2ª Edición</title>
   </programme>
-  <programme start="20260918163500 -0300" stop="20260918164500 -0300" channel="tve_international.claro.br">
+  <programme start="20260918165000 -0300" stop="20260918165500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Teledeporte 2</title>
   </programme>
-  <programme start="20260918164500 -0300" stop="20260918171500 -0300" channel="tve_international.claro.br">
+  <programme start="20260918165500 -0300" stop="20260918172500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Cifras y Letras</title>
   </programme>
-  <programme start="20260918171500 -0300" stop="20260918175000 -0300" channel="tve_international.claro.br">
+  <programme start="20260918172500 -0300" stop="20260918180000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Cifras y Letras</title>
   </programme>
-  <programme start="20260918175000 -0300" stop="20260918184000 -0300" channel="tve_international.claro.br">
+  <programme start="20260918180000 -0300" stop="20260918185000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Valle Salvaje</title>
   </programme>
-  <programme start="20260918184000 -0300" stop="20260918193500 -0300" channel="tve_international.claro.br">
+  <programme start="20260918185000 -0300" stop="20260918194000 -0300" channel="tve_international.claro.br">
     <title lang="pt">La Promesa</title>
   </programme>
-  <programme start="20260918193500 -0300" stop="20260918202500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Jeopardy</title>
+  <programme start="20260918194000 -0300" stop="20260918203000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Sukha</title>
   </programme>
-  <programme start="20260918202500 -0300" stop="20260918210000 -0300" channel="tve_international.claro.br">
+  <programme start="20260918203000 -0300" stop="20260918210000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Aqui La Tierra</title>
   </programme>
   <programme start="20260918210000 -0300" stop="20260918213000 -0300" channel="tve_international.claro.br">
     <title lang="pt">TD Internacional 24 Horas</title>
   </programme>
-  <programme start="20260918213000 -0300" stop="20260918221800 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Viaje Al Centro De La Tele: La Noche Temática</title>
+  <programme start="20260918213000 -0300" stop="20260918213500 -0300" channel="tve_international.claro.br">
+    <title lang="pt">La Suerte En Tus Manos</title>
   </programme>
-  <programme start="20260918221800 -0300" stop="20260918231300 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Viaje Al Centro De La Tele: La Noche Temática</title>
+  <programme start="20260918213500 -0300" stop="20260918224500 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Festival de Cine de San Sebastián 2026</title>
   </programme>
-  <programme start="20260918231300 -0300" stop="20260919000600 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Viaje Al Centro De La Tele: La Noche Temática</title>
+  <programme start="20260918224500 -0300" stop="20260919003000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Dog House</title>
   </programme>
-  <programme start="20260919000600 -0300" stop="20260919004500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Viaje Al Centro De La Tele: La Noche Temática</title>
-  </programme>
-  <programme start="20260919004500 -0300" stop="20260919005000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Viaje Al Centro De La Tele: La Noche Temática</title>
-  </programme>
-  <programme start="20260919005000 -0300" stop="20260919023000 -0300" channel="tve_international.claro.br">
+  <programme start="20260919003000 -0300" stop="20260919020000 -0300" channel="tve_international.claro.br">
     <title lang="pt">El Perro Andaluz By Manu Sanchez</title>
   </programme>
-  <programme start="20260919023000 -0300" stop="20260919033000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Rutas Bizarras</title>
+  <programme start="20260919020000 -0300" stop="20260919030000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Viaje al Centro de La Tele</title>
   </programme>
-  <programme start="20260919033000 -0300" stop="20260919070000 -0300" channel="tve_international.claro.br">
+  <programme start="20260919030000 -0300" stop="20260919070000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Noticias 24h</title>
   </programme>
-  <programme start="20260919070000 -0300" stop="20260919072500 -0300" channel="tve_international.claro.br">
+  <programme start="20260919070000 -0300" stop="20260919071500 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Esto Es España</title>
+  </programme>
+  <programme start="20260919071500 -0300" stop="20260919074500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Flash Moda</title>
   </programme>
-  <programme start="20260919072500 -0300" stop="20260919081500 -0300" channel="tve_international.claro.br">
+  <programme start="20260919074500 -0300" stop="20260919084500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Hoteles Con Alma</title>
   </programme>
-  <programme start="20260919081500 -0300" stop="20260919095500 -0300" channel="tve_international.claro.br">
+  <programme start="20260919084500 -0300" stop="20260919095500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Tenderete</title>
   </programme>
-  <programme start="20260919095500 -0300" stop="20260919104000 -0300" channel="tve_international.claro.br">
+  <programme start="20260919095500 -0300" stop="20260919104500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Telediario 1ª Edición</title>
   </programme>
-  <programme start="20260919104000 -0300" stop="20260919105000 -0300" channel="tve_international.claro.br">
+  <programme start="20260919104500 -0300" stop="20260919105000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Teledeporte 1</title>
   </programme>
   <programme start="20260919105000 -0300" stop="20260919112000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Pagina Dos</title>
   </programme>
-  <programme start="20260919112000 -0300" stop="20260919114500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">El Escarabajo Verde</title>
+  <programme start="20260919112000 -0300" stop="20260919115000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Escarabajo Verde</title>
   </programme>
-  <programme start="20260919114500 -0300" stop="20260919123500 -0300" channel="tve_international.claro.br">
+  <programme start="20260919115000 -0300" stop="20260919124500 -0300" channel="tve_international.claro.br">
     <title lang="pt">De Tapas Por España</title>
   </programme>
-  <programme start="20260919123500 -0300" stop="20260919130500 -0300" channel="tve_international.claro.br">
+  <programme start="20260919124500 -0300" stop="20260919132000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Audiencia Abierta</title>
   </programme>
-  <programme start="20260919130500 -0300" stop="20260919150000 -0300" channel="tve_international.claro.br">
+  <programme start="20260919132000 -0300" stop="20260919151000 -0300" channel="tve_international.claro.br">
     <title lang="pt">D Corazón</title>
   </programme>
-  <programme start="20260919150000 -0300" stop="20260919155500 -0300" channel="tve_international.claro.br">
+  <programme start="20260919151000 -0300" stop="20260919155500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Saber y Ganar Fin de Semana</title>
   </programme>
   <programme start="20260919155500 -0300" stop="20260919162500 -0300" channel="tve_international.claro.br">
@@ -26808,10 +26823,10 @@
   <programme start="20260919163000 -0300" stop="20260919170000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Informe Semanal</title>
   </programme>
-  <programme start="20260919170000 -0300" stop="20260919195000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">El Grand Prix Del Verano</title>
+  <programme start="20260919170000 -0300" stop="20260919200000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Masterchef Celebrity</title>
   </programme>
-  <programme start="20260919195000 -0300" stop="20260919210000 -0300" channel="tve_international.claro.br">
+  <programme start="20260919200000 -0300" stop="20260919210000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Viaje al Centro de La Tele</title>
   </programme>
   <programme start="20260919210000 -0300" stop="20260919213000 -0300" channel="tve_international.claro.br">
@@ -26820,14 +26835,11 @@
   <programme start="20260919213000 -0300" stop="20260919213500 -0300" channel="tve_international.claro.br">
     <title lang="pt">La Suerte En Tus Manos</title>
   </programme>
-  <programme start="20260919213500 -0300" stop="20260919225500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Versión Española</title>
+  <programme start="20260919213500 -0300" stop="20260919234500 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Historia de Nuestro Cine</title>
   </programme>
-  <programme start="20260919225500 -0300" stop="20260919235500 -0300" channel="tve_international.claro.br">
+  <programme start="20260919234500 -0300" stop="20260920004500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Dias De Cine</title>
-  </programme>
-  <programme start="20260919235500 -0300" stop="20260920004400 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Españoles En El Mundo</title>
   </programme>
   <programme start="20260918001500 -0300" stop="20260918005000 -0300" channel="sexy_hot.claro.br">
     <title lang="pt">El Fuego</title>
@@ -30288,95 +30300,83 @@
   <programme start="20260919234100 -0300" stop="20260920000500 -0300" channel="food_network_hd.claro.br">
     <title lang="pt">Giada em Casa</title>
   </programme>
-  <programme start="20260918000000 -0300" stop="20260918015500 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Venezuela x Peru</title>
-  </programme>
-  <programme start="20260918015500 -0300" stop="20260918023500 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Sem Bloqueio</title>
-  </programme>
-  <programme start="20260918023500 -0300" stop="20260918031000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Sem Bloqueio</title>
-  </programme>
-  <programme start="20260918031000 -0300" stop="20260918050500 -0300" channel="sportv_2_hd_.claro.br">
+  <programme start="20260918000000 -0300" stop="20260918020000 -0300" channel="sportv_2_hd_.claro.br">
     <title lang="pt">VT - Brasil x Colômbia</title>
   </programme>
-  <programme start="20260918050500 -0300" stop="20260918070000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Venezuela x Peru</title>
+  <programme start="20260918020000 -0300" stop="20260918040000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
   </programme>
-  <programme start="20260918070000 -0300" stop="20260918073000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Sem Bloqueio</title>
+  <programme start="20260918040000 -0300" stop="20260918060000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">VT - Brasil x Argentina</title>
   </programme>
-  <programme start="20260918073000 -0300" stop="20260918083000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">As Bicampeãs</title>
+  <programme start="20260918060000 -0300" stop="20260918080000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">VT - Brasil x Colômbia</title>
   </programme>
-  <programme start="20260918083000 -0300" stop="20260918094500 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+  <programme start="20260918080000 -0300" stop="20260918100000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
   </programme>
-  <programme start="20260918094500 -0300" stop="20260918120000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+  <programme start="20260918100000 -0300" stop="20260918120000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">VT - Brasil x Colômbia</title>
   </programme>
-  <programme start="20260918120000 -0300" stop="20260918143000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+  <programme start="20260918120000 -0300" stop="20260918184000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Circuito Mundial de Surfe - Etapa de Trestles - Ao Vivo</title>
   </programme>
-  <programme start="20260918143000 -0300" stop="20260918170000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+  <programme start="20260918184000 -0300" stop="20260918211000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Pinheiros x São Caetano - Ao Vivo</title>
   </programme>
-  <programme start="20260918170000 -0300" stop="20260918220000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+  <programme start="20260918211000 -0300" stop="20260918233000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Campinas x Sesi-Bauru - Ao Vivo</title>
   </programme>
-  <programme start="20260918220000 -0300" stop="20260918230000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Faixa Olímpica: Shredding Monsters - Nazaré</title>
-  </programme>
-  <programme start="20260918230000 -0300" stop="20260919000000 -0300" channel="sportv_2_hd_.claro.br">
+  <programme start="20260918233000 -0300" stop="20260919003000 -0300" channel="sportv_2_hd_.claro.br">
     <title lang="pt">Hello L.A</title>
   </programme>
-  <programme start="20260919000000 -0300" stop="20260919020000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Argentina x Chile</title>
-  </programme>
-  <programme start="20260919020000 -0300" stop="20260919030000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">As Bicampeãs</title>
-  </programme>
-  <programme start="20260919030000 -0300" stop="20260919050000 -0300" channel="sportv_2_hd_.claro.br">
+  <programme start="20260919003000 -0300" stop="20260919023000 -0300" channel="sportv_2_hd_.claro.br">
     <title lang="pt">VT - Brasil x Colômbia</title>
   </programme>
-  <programme start="20260919050000 -0300" stop="20260919070000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Sesi-Bauru x Osasco</title>
+  <programme start="20260919023000 -0300" stop="20260919043000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">VT - Campinas x Sesi-Bauru</title>
   </programme>
-  <programme start="20260919070000 -0300" stop="20260919075000 -0300" channel="sportv_2_hd_.claro.br">
+  <programme start="20260919043000 -0300" stop="20260919052000 -0300" channel="sportv_2_hd_.claro.br">
     <title lang="pt">As Bicampeãs</title>
   </programme>
-  <programme start="20260919075000 -0300" stop="20260919081500 -0300" channel="sportv_2_hd_.claro.br">
+  <programme start="20260919052000 -0300" stop="20260919072000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
+  </programme>
+  <programme start="20260919072000 -0300" stop="20260919091000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
+  </programme>
+  <programme start="20260919091000 -0300" stop="20260919103000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Corrida de Rua: Finais - Copenhague, Dinamarca - Ao Vivo</title>
+  </programme>
+  <programme start="20260919103000 -0300" stop="20260919130000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Brasil x Venezuela - Ao Vivo</title>
+  </programme>
+  <programme start="20260919130000 -0300" stop="20260919132000 -0300" channel="sportv_2_hd_.claro.br">
     <title lang="pt">Lendas - Serginho (Vôlei)</title>
   </programme>
-  <programme start="20260919081500 -0300" stop="20260919101000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Brasil x Colômbia</title>
+  <programme start="20260919132000 -0300" stop="20260919134000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Vozes - Luís Roberto - O Sonho Dourado Se Torna Realidade: Vôlei Praia Masculino 2016</title>
   </programme>
-  <programme start="20260919101000 -0300" stop="20260919123000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+  <programme start="20260919134000 -0300" stop="20260919160000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Argentina x Bolívia - Ao Vivo</title>
   </programme>
-  <programme start="20260919123000 -0300" stop="20260919130000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Fome de Medalha</title>
+  <programme start="20260919160000 -0300" stop="20260919162000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Vozes - Luiz Carlos Jr. - Bicampeonato Olímpico Vôlei Feminino 2008/2012</title>
   </programme>
-  <programme start="20260919130000 -0300" stop="20260919153000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
+  <programme start="20260919162000 -0300" stop="20260919164000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Vozes - Luís Roberto - Sabe de Quem?</title>
   </programme>
-  <programme start="20260919153000 -0300" stop="20260919161000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Vozes - Galvão Bueno - Ouros Olímpicos</title>
+  <programme start="20260919164000 -0300" stop="20260919190000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">Chile x Colômbia - Ao Vivo</title>
   </programme>
-  <programme start="20260919161000 -0300" stop="20260919183000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Programação sportv 2</title>
-  </programme>
-  <programme start="20260919183000 -0300" stop="20260919203000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Grand Slam De Judô - Finais - Budapeste, Hungria</title>
-  </programme>
-  <programme start="20260919203000 -0300" stop="20260919210000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Land Of Legends - Supremacia No Esporte</title>
+  <programme start="20260919190000 -0300" stop="20260919210000 -0300" channel="sportv_2_hd_.claro.br">
+    <title lang="pt">VT - Brasil x Venezuela</title>
   </programme>
   <programme start="20260919210000 -0300" stop="20260919230000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Brasil x Chile</title>
+    <title lang="pt">VT - Pinheiros x São Caetano</title>
   </programme>
   <programme start="20260919230000 -0300" stop="20260920010000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">VT - Argentina x Venezuela</title>
+    <title lang="pt">VT - Brasil x Argentina</title>
   </programme>
   <programme start="20260918004400 -0300" stop="20260918013400 -0300" channel="gnt_hd_.claro.br">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
@@ -30822,8 +30822,14 @@
   <programme start="20260918223000 -0300" stop="20260918231300 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Vai Que Cola</title>
   </programme>
-  <programme start="20260918231300 -0300" stop="20260919033500 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20260918231300 -0300" stop="20260918234500 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Volte Sempre</title>
+  </programme>
+  <programme start="20260918234500 -0300" stop="20260919020000 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Circuito Sertanejo Ao Vivo</title>
+  </programme>
+  <programme start="20260919020000 -0300" stop="20260919033500 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Circuito Sertanejo Ao Vivo</title>
   </programme>
   <programme start="20260919033500 -0300" stop="20260919040400 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Volte Sempre</title>
@@ -30855,8 +30861,11 @@
   <programme start="20260919080000 -0300" stop="20260919082900 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Tô De Graça</title>
   </programme>
-  <programme start="20260919082900 -0300" stop="20260919093000 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20260919082900 -0300" stop="20260919090000 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20260919090000 -0300" stop="20260919093000 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Tvz Experimente</title>
   </programme>
   <programme start="20260919093000 -0300" stop="20260919102000 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">A Vila</title>
@@ -30933,17 +30942,17 @@
   <programme start="20260919225600 -0300" stop="20260919233000 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
   </programme>
-  <programme start="20260919233000 -0300" stop="20260920003000 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20260919233000 -0300" stop="20260920000000 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Rock In Rio 2026 - Melhores Momentos</title>
   </programme>
   <programme start="20260918003000 -0300" stop="20260918013000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Troca de Passes - Ao Vivo</title>
   </programme>
   <programme start="20260918013000 -0300" stop="20260918023000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Copa do Mundo Feminina Sub-20 da FIFA 2026™</title>
+    <title lang="pt">VT - Brasil x EUA</title>
   </programme>
   <programme start="20260918023000 -0300" stop="20260918033000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Náutico x Operário-PR</title>
+    <title lang="pt">VT - Bahia x Corinthians</title>
   </programme>
   <programme start="20260918033000 -0300" stop="20260918043000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">VT - Corinthians x Atlético-MG</title>
@@ -30961,7 +30970,7 @@
     <title lang="pt">VT - Flamengo x Corinthians</title>
   </programme>
   <programme start="20260918063000 -0300" stop="20260918073000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Copa do Mundo Feminina Sub-20 da FIFA 2026™</title>
+    <title lang="pt">VT - Brasil x EUA</title>
   </programme>
   <programme start="20260918073000 -0300" stop="20260918083000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Troca de Passes</title>
@@ -30978,11 +30987,14 @@
   <programme start="20260918125500 -0300" stop="20260918150000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Seleção sportv - Ao Vivo</title>
   </programme>
-  <programme start="20260918150000 -0300" stop="20260918183000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Campeonato Alemão de Futebol - Ao Vivo</title>
+  <programme start="20260918150000 -0300" stop="20260918173000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">Bayern de Munique x Union Berlin - Ao Vivo</title>
   </programme>
-  <programme start="20260918183000 -0300" stop="20260918203000 -0300" channel="sportv_hd_.claro.br">
+  <programme start="20260918173000 -0300" stop="20260918190000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20260918190000 -0300" stop="20260918203000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">Colômbia x Brasil - Ao Vivo</title>
   </programme>
   <programme start="20260918203000 -0300" stop="20260918230000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">São Bernardo FC x Atlético-GO - Ao Vivo</title>
@@ -30991,85 +31003,91 @@
     <title lang="pt">Troca de Passes - Ao Vivo</title>
   </programme>
   <programme start="20260919003000 -0300" stop="20260919013000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Inglaterra x Brasil</title>
+    <title lang="pt">VT - Bayern de Munique x Union Berlin</title>
   </programme>
-  <programme start="20260919013000 -0300" stop="20260919020000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Coritiba x Athletico-PR</title>
+  <programme start="20260919013000 -0300" stop="20260919023000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">VT - São Bernardo x Atlético-GO</title>
   </programme>
-  <programme start="20260919020000 -0300" stop="20260919030000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - São Bernardo-SP x Londrina</title>
+  <programme start="20260919023000 -0300" stop="20260919030000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">VT - Botafogo x Grêmio</title>
   </programme>
   <programme start="20260919030000 -0300" stop="20260919033000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Fluminense x Vasco</title>
+    <title lang="pt">VT - Flamengo x Corinthians</title>
   </programme>
   <programme start="20260919033000 -0300" stop="20260919040000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Vitória x Grêmio</title>
+    <title lang="pt">VT - Santos x Cruzeiro</title>
   </programme>
-  <programme start="20260919040000 -0300" stop="20260919050000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Botafogo x Vasco</title>
+  <programme start="20260919040000 -0300" stop="20260919043000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+  </programme>
+  <programme start="20260919043000 -0300" stop="20260919050000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">VT - Mirassol x Vitória</title>
   </programme>
   <programme start="20260919050000 -0300" stop="20260919060000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Union Berlin x Schalke 04</title>
+    <title lang="pt">VT - Bahia x Corinthians</title>
   </programme>
   <programme start="20260919060000 -0300" stop="20260919070000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - São Bernardo-SP x Londrina</title>
+    <title lang="pt">VT - São Bernardo x Atlético-GO</title>
   </programme>
-  <programme start="20260919070000 -0300" stop="20260919080000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Botafogo x Vasco</title>
+  <programme start="20260919070000 -0300" stop="20260919073000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
   </programme>
-  <programme start="20260919080000 -0300" stop="20260919083000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Coritiba x Athletico-PR</title>
+  <programme start="20260919073000 -0300" stop="20260919083000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">VT - Corinthians x Atlético-MG</title>
   </programme>
-  <programme start="20260919083000 -0300" stop="20260919090000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Fluminense x Vasco</title>
-  </programme>
-  <programme start="20260919090000 -0300" stop="20260919093000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - Internacional x Santos</title>
+  <programme start="20260919083000 -0300" stop="20260919093000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">VT - Bayern de Munique x Union Berlin</title>
   </programme>
   <programme start="20260919093000 -0300" stop="20260919100000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">VT - São Paulo x Atlético-MG</title>
+    <title lang="pt">VT - Botafogo x Grêmio</title>
   </programme>
-  <programme start="20260919100000 -0300" stop="20260919123000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Programação sportv</title>
+  <programme start="20260919100000 -0300" stop="20260919103000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">VT - Santos x Cruzeiro</title>
   </programme>
-  <programme start="20260919123000 -0300" stop="20260919125500 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 26ª Rodada</title>
+  <programme start="20260919103000 -0300" stop="20260919131500 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">Mamelodi Sundowns x Al Ahli - Ao Vivo</title>
   </programme>
-  <programme start="20260919125500 -0300" stop="20260919160000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Programação sportv</title>
+  <programme start="20260919131500 -0300" stop="20260919153000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">Copa do Mundo Feminina Sub-20 da FIFA 2026™</title>
   </programme>
-  <programme start="20260919160000 -0300" stop="20260919183000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Programação sportv</title>
+  <programme start="20260919153000 -0300" stop="20260919163000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
+  </programme>
+  <programme start="20260919163000 -0300" stop="20260919183000 -0300" channel="sportv_hd_.claro.br">
+    <title lang="pt">São Paulo x Flamengo - Ao Vivo</title>
   </programme>
   <programme start="20260919183000 -0300" stop="20260919200000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">sportv News - Ao Vivo</title>
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
   </programme>
   <programme start="20260919200000 -0300" stop="20260919210000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Aquecimento sportv - Ao Vivo</title>
   </programme>
   <programme start="20260919210000 -0300" stop="20260919230000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Programação sportv</title>
+    <title lang="pt">São Paulo x Internacional - Ao Vivo</title>
   </programme>
   <programme start="20260919230000 -0300" stop="20260920003000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Troca de Passes - Ao Vivo</title>
   </programme>
   <programme start="20260918000000 -0300" stop="20260918010000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
   </programme>
-  <programme start="20260918010000 -0300" stop="20260918030000 -0300" channel="globonews_hd_.claro.br">
+  <programme start="20260918010000 -0300" stop="20260918020000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">GloboNews Em Pauta</title>
   </programme>
+  <programme start="20260918020000 -0300" stop="20260918030000 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">GloboNews Especial</title>
+  </programme>
   <programme start="20260918030000 -0300" stop="20260918040000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+    <title lang="pt">Jornal Das Dez</title>
   </programme>
   <programme start="20260918040000 -0300" stop="20260918050000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Central das Eleições</title>
+    <title lang="pt">Central Das Eleições</title>
   </programme>
   <programme start="20260918050000 -0300" stop="20260918060000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
   </programme>
   <programme start="20260918060000 -0300" stop="20260918063000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews (6h) - Ao Vivo</title>
   </programme>
   <programme start="20260918063000 -0300" stop="20260918082500 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
@@ -31087,34 +31105,34 @@
     <title lang="pt">GloboNews Mais - Ao Vivo</title>
   </programme>
   <programme start="20260918180000 -0300" stop="20260918190000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
   </programme>
   <programme start="20260918190000 -0300" stop="20260918200000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Central das Eleições</title>
+    <title lang="pt">Central Das Eleições - Ao Vivo</title>
   </programme>
   <programme start="20260918200000 -0300" stop="20260918220000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">GloboNews Em Pauta</title>
+    <title lang="pt">GloboNews Em Pauta - Ao Vivo</title>
   </programme>
   <programme start="20260918220000 -0300" stop="20260918230000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
   </programme>
   <programme start="20260918230000 -0300" stop="20260919000000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Central das Eleições</title>
+    <title lang="pt">Central Das Eleições - Ao Vivo</title>
   </programme>
   <programme start="20260919000000 -0300" stop="20260919010000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
   </programme>
   <programme start="20260919010000 -0300" stop="20260919030000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">GloboNews Em Pauta</title>
   </programme>
   <programme start="20260919030000 -0300" stop="20260919040000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews (3h) - Ao Vivo</title>
   </programme>
   <programme start="20260919040000 -0300" stop="20260919050000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+    <title lang="pt">Jornal Das Dez</title>
   </programme>
   <programme start="20260919050000 -0300" stop="20260919060000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Central das Eleições</title>
+    <title lang="pt">Central Das Eleições</title>
   </programme>
   <programme start="20260919060000 -0300" stop="20260919070000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
@@ -31329,92 +31347,95 @@
   <programme start="20260919233800 -0300" stop="20260920003300 -0300" channel="viva_hd.claro.br">
     <title lang="pt">Belíssima</title>
   </programme>
-  <programme start="20260918002500 -0300" stop="20260918022500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Espanha</title>
-  </programme>
-  <programme start="20260918022500 -0300" stop="20260918043500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Itália</title>
-  </programme>
-  <programme start="20260918043500 -0300" stop="20260918065500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Holanda</title>
-  </programme>
-  <programme start="20260918065500 -0300" stop="20260918072500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Momentos Olímpicos Inesquecíveis - América do Sul</title>
-  </programme>
-  <programme start="20260918072500 -0300" stop="20260918092500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Bélgica</title>
-  </programme>
-  <programme start="20260918092500 -0300" stop="20260918102500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Áustria - Melhores Momentos</title>
-  </programme>
-  <programme start="20260918102500 -0300" stop="20260918124000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Itália</title>
-  </programme>
-  <programme start="20260918124000 -0300" stop="20260918150000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">São Paulo Open - Primeira Rodada - Ao Vivo</title>
-  </programme>
-  <programme start="20260918150000 -0300" stop="20260918170000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">São Paulo Open - Primeira Rodada - Ao Vivo</title>
-  </programme>
-  <programme start="20260918170000 -0300" stop="20260918193000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">São Paulo Open - Primeira Rodada - Ao Vivo</title>
-  </programme>
-  <programme start="20260918193000 -0300" stop="20260918213000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">São Paulo Open - Primeira Rodada - Ao Vivo</title>
-  </programme>
-  <programme start="20260918213000 -0300" stop="20260918230000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Canoagem Slalom: Final Canoa - La Seu D`urgell, Espanha</title>
-  </programme>
-  <programme start="20260918230000 -0300" stop="20260918233000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Legends Live On 2</title>
-  </programme>
-  <programme start="20260918233000 -0300" stop="20260919003000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">São Paulo Open - Primeira Rodada</title>
-  </programme>
-  <programme start="20260919003000 -0300" stop="20260919031500 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20260918000000 -0300" stop="20260918024500 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Spaten Fight Night 3</title>
   </programme>
-  <programme start="20260919031500 -0300" stop="20260919035000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">De Corpo e Alma</title>
+  <programme start="20260918024500 -0300" stop="20260918031500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Lendas - Agassi</title>
   </programme>
-  <programme start="20260919035000 -0300" stop="20260919042500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">De Corpo e Alma</title>
+  <programme start="20260918031500 -0300" stop="20260918040000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Acesso Total - Ippon</title>
   </programme>
-  <programme start="20260919042500 -0300" stop="20260919050000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">De Corpo e Alma</title>
+  <programme start="20260918040000 -0300" stop="20260918062000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Grand Slam De Judô - Finais - Budapeste, Hungria</title>
   </programme>
-  <programme start="20260919050000 -0300" stop="20260919060000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Espanha - 1º Treino Livre</title>
+  <programme start="20260918062000 -0300" stop="20260918065000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Lendas - Éder Jofre</title>
   </programme>
-  <programme start="20260919060000 -0300" stop="20260919070000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Espanha - 2º Treino Livre</title>
+  <programme start="20260918065000 -0300" stop="20260918083000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Grand Slam De Judô - Finais - Budapeste, Hungria</title>
   </programme>
-  <programme start="20260919070000 -0300" stop="20260919083000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Programação sportv 3</title>
+  <programme start="20260918083000 -0300" stop="20260918094000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Escalada: Finais Velocidade - Chongqing, China - Ao Vivo</title>
   </programme>
-  <programme start="20260919083000 -0300" stop="20260919100500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Programação sportv 3</title>
+  <programme start="20260918094000 -0300" stop="20260918101000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Anatomy Of 3</title>
   </programme>
-  <programme start="20260919100500 -0300" stop="20260919110000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
+  <programme start="20260918101000 -0300" stop="20260918104500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Momentos Olímpicos Inesquecíveis - América do Sul</title>
   </programme>
-  <programme start="20260919110000 -0300" stop="20260919120000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Programação sportv 3</title>
+  <programme start="20260918104500 -0300" stop="20260918124000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Segunda Rodada</title>
   </programme>
-  <programme start="20260919120000 -0300" stop="20260919220000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Programação sportv 3</title>
+  <programme start="20260918124000 -0300" stop="20260918150000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Quartas de Final - Ao Vivo</title>
+  </programme>
+  <programme start="20260918150000 -0300" stop="20260918171000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Quartas de Final - Ao Vivo</title>
+  </programme>
+  <programme start="20260918171000 -0300" stop="20260918193000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Quartas de Final - Ao Vivo</title>
+  </programme>
+  <programme start="20260918193000 -0300" stop="20260918213000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Quartas de Final - Ao Vivo</title>
+  </programme>
+  <programme start="20260918213000 -0300" stop="20260918233000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Quartas de Final</title>
+  </programme>
+  <programme start="20260918233000 -0300" stop="20260919013000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Quartas de Final</title>
+  </programme>
+  <programme start="20260919013000 -0300" stop="20260919033000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Quartas de Final</title>
+  </programme>
+  <programme start="20260919033000 -0300" stop="20260919063000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">NFL: Lions x Bills</title>
+  </programme>
+  <programme start="20260919063000 -0300" stop="20260919073000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Faixa Olímpica: Elas que mandam</title>
+  </programme>
+  <programme start="20260919073000 -0300" stop="20260919093000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Ginástica Artística: Por Aparelhos - Dia 1 - Finais - Rio de Janeiro-RJ</title>
+  </programme>
+  <programme start="20260919093000 -0300" stop="20260919095500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Fome de Medalha</title>
+  </programme>
+  <programme start="20260919095500 -0300" stop="20260919124000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Ginástica Artística: Finais - Szombathely, Hungria - Ao Vivo</title>
+  </programme>
+  <programme start="20260919124000 -0300" stop="20260919150000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Semifinal - Ao Vivo</title>
+  </programme>
+  <programme start="20260919150000 -0300" stop="20260919170000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Semifinal - Ao Vivo</title>
+  </programme>
+  <programme start="20260919170000 -0300" stop="20260919190000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Semifinal Duplas - Ao Vivo</title>
+  </programme>
+  <programme start="20260919190000 -0300" stop="20260919193000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Lendas - Agassi</title>
+  </programme>
+  <programme start="20260919193000 -0300" stop="20260919202500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Finais Clássicas: Futebol Masculino Rio 2016</title>
+  </programme>
+  <programme start="20260919202500 -0300" stop="20260919220000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Copa das Nações de Futebol de Areia</title>
   </programme>
   <programme start="20260919220000 -0300" stop="20260919223000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">A Onda</title>
+    <title lang="pt">Lendas - Pelé - Parte 1</title>
   </programme>
-  <programme start="20260919223000 -0300" stop="20260919230000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">A Onda</title>
-  </programme>
-  <programme start="20260919230000 -0300" stop="20260919233500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">A Onda</title>
-  </programme>
-  <programme start="20260919233500 -0300" stop="20260920004000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP da Espanha - 3º Treino Livre</title>
+  <programme start="20260919223000 -0300" stop="20260920003000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">São Paulo Open - Semifinal</title>
   </programme>
   <programme start="20260918003000 -0300" stop="20260918013000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte na Tecnologia</title>
@@ -36495,7 +36516,22 @@
   <programme start="20260919053200 -0300" stop="20260919053500 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Setlist</title>
   </programme>
-  <programme start="20260919053500 -0300" stop="20260919055600 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260919053500 -0300" stop="20260919053800 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20260919053800 -0300" stop="20260919054400 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20260919054400 -0300" stop="20260919054700 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20260919054700 -0300" stop="20260919055000 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20260919055000 -0300" stop="20260919055300 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20260919055300 -0300" stop="20260919055600 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Setlist</title>
   </programme>
   <programme start="20260919055600 -0300" stop="20260919055900 -0300" channel="bis_hd_.claro.br">
@@ -37089,11 +37125,8 @@
   <programme start="20260919103500 -0300" stop="20260919104700 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20260919104700 -0300" stop="20260919105900 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20260919104700 -0300" stop="20260919112100 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260919105900 -0300" stop="20260919112100 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20260919112100 -0300" stop="20260919122900 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
@@ -38772,65 +38805,65 @@
   <programme start="20260919214000 -0300" stop="20260920000000 -0300" channel="music_box_brazil_hd_.claro.br">
     <title lang="pt">Music Box in Concert</title>
   </programme>
-  <programme start="20260918000300 -0300" stop="20260918000800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918000200 -0300" stop="20260918000700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260918000800 -0300" stop="20260918001300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918000700 -0300" stop="20260918001200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260918001300 -0300" stop="20260918001900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918001200 -0300" stop="20260918001800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260918001900 -0300" stop="20260918002400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918001800 -0300" stop="20260918002300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260918002400 -0300" stop="20260918002900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918002300 -0300" stop="20260918002800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260918002900 -0300" stop="20260918003400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918002800 -0300" stop="20260918003300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260918003400 -0300" stop="20260918004100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918003300 -0300" stop="20260918004000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260918004100 -0300" stop="20260918004900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918004000 -0300" stop="20260918004700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260918004900 -0300" stop="20260918005600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918004700 -0300" stop="20260918005500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260918005600 -0300" stop="20260918010300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918005500 -0300" stop="20260918010200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260918010300 -0300" stop="20260918011000 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260918011000 -0300" stop="20260918011700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918010200 -0300" stop="20260918010900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita: Imagine-se</title>
   </programme>
-  <programme start="20260918011700 -0300" stop="20260918012000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918010900 -0300" stop="20260918011600 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita: Imagine-se</title>
+  </programme>
+  <programme start="20260918011600 -0300" stop="20260918011900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260918012000 -0300" stop="20260918012200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918011900 -0300" stop="20260918012200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260918012200 -0300" stop="20260918012500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918012200 -0300" stop="20260918012600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260918012500 -0300" stop="20260918012900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918012600 -0300" stop="20260918012900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
   <programme start="20260918012900 -0300" stop="20260918013200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260918013200 -0300" stop="20260918014400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918013200 -0300" stop="20260918014300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918014400 -0300" stop="20260918015500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918014300 -0300" stop="20260918015600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918015500 -0300" stop="20260918020700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Batwheels</title>
+  <programme start="20260918015600 -0300" stop="20260918020700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Perninha em Obras</title>
   </programme>
   <programme start="20260918020700 -0300" stop="20260918021800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
@@ -38838,10 +38871,10 @@
   <programme start="20260918021800 -0300" stop="20260918023000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918023000 -0300" stop="20260918024100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918023000 -0300" stop="20260918024200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918024100 -0300" stop="20260918025300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918024200 -0300" stop="20260918025300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
   <programme start="20260918025300 -0300" stop="20260918030400 -0300" channel="cartoonito_hd.claro.br">
@@ -38853,10 +38886,10 @@
   <programme start="20260918031100 -0300" stop="20260918031800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918031800 -0300" stop="20260918032500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918031800 -0300" stop="20260918032600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918032500 -0300" stop="20260918033300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918032600 -0300" stop="20260918033300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
   <programme start="20260918033300 -0300" stop="20260918034000 -0300" channel="cartoonito_hd.claro.br">
@@ -38868,47 +38901,47 @@
   <programme start="20260918034700 -0300" stop="20260918035400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918035400 -0300" stop="20260918035600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Thomas e Seus Amigos: Trens a Todo Vapor</title>
-  </programme>
-  <programme start="20260918035600 -0300" stop="20260918040400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918035400 -0300" stop="20260918040200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260918040400 -0300" stop="20260918041200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918040200 -0300" stop="20260918041100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260918041200 -0300" stop="20260918042100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918041100 -0300" stop="20260918041900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260918042100 -0300" stop="20260918042900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918041900 -0300" stop="20260918042800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260918042900 -0300" stop="20260918043700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918042800 -0300" stop="20260918043600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260918043700 -0300" stop="20260918044400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918043600 -0300" stop="20260918044300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918044400 -0300" stop="20260918045200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918044300 -0300" stop="20260918045100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918045200 -0300" stop="20260918050000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918045100 -0300" stop="20260918045800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918050000 -0300" stop="20260918050700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918045800 -0300" stop="20260918050500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918050700 -0300" stop="20260918053200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918050500 -0300" stop="20260918053000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">A Casa Mágica da Gabby</title>
   </programme>
-  <programme start="20260918053200 -0300" stop="20260918053900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260918053900 -0300" stop="20260918054600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918053000 -0300" stop="20260918053700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita: Imagine-se</title>
   </programme>
-  <programme start="20260918054600 -0300" stop="20260918060000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918053700 -0300" stop="20260918054400 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita Imagine-se</title>
+  </programme>
+  <programme start="20260918054400 -0300" stop="20260918055500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Crescendo Com A Galinha Pintadinha</title>
+  </programme>
+  <programme start="20260918055500 -0300" stop="20260918060000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
   </programme>
   <programme start="20260918060000 -0300" stop="20260918060700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
@@ -38922,10 +38955,10 @@
   <programme start="20260918062100 -0300" stop="20260918062800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
   </programme>
-  <programme start="20260918062800 -0300" stop="20260918063600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918062800 -0300" stop="20260918063700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
   </programme>
-  <programme start="20260918063600 -0300" stop="20260918064400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918063700 -0300" stop="20260918064400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
   </programme>
   <programme start="20260918064400 -0300" stop="20260918065100 -0300" channel="cartoonito_hd.claro.br">
@@ -38940,31 +38973,28 @@
   <programme start="20260918070600 -0300" stop="20260918071700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918071700 -0300" stop="20260918073000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918071700 -0300" stop="20260918072800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918073000 -0300" stop="20260918074200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918072800 -0300" stop="20260918074000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918074200 -0300" stop="20260918075300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918074000 -0300" stop="20260918075200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918075300 -0300" stop="20260918080400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918075200 -0300" stop="20260918080300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Perninha em Obras</title>
+  </programme>
+  <programme start="20260918080300 -0300" stop="20260918081500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918080400 -0300" stop="20260918081600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918081500 -0300" stop="20260918082600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918081600 -0300" stop="20260918082700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918082600 -0300" stop="20260918083800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918082700 -0300" stop="20260918083900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Batwheels</title>
-  </programme>
-  <programme start="20260918083900 -0300" stop="20260918085000 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Batwheels</title>
-  </programme>
-  <programme start="20260918085000 -0300" stop="20260918090100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918083800 -0300" stop="20260918090100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
   <programme start="20260918090100 -0300" stop="20260918090800 -0300" channel="cartoonito_hd.claro.br">
@@ -38973,109 +39003,109 @@
   <programme start="20260918090800 -0300" stop="20260918091500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918091500 -0300" stop="20260918092300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918091500 -0300" stop="20260918092200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918092300 -0300" stop="20260918093000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918092200 -0300" stop="20260918092900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918093000 -0300" stop="20260918093400 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Perninha em Obras: Mãos à Obra</title>
+  <programme start="20260918092900 -0300" stop="20260918093700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918093400 -0300" stop="20260918094600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918093700 -0300" stop="20260918094900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Crescendo Com A Galinha Pintadinha</title>
   </programme>
-  <programme start="20260918094600 -0300" stop="20260918095300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260918095300 -0300" stop="20260918100100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918094900 -0300" stop="20260918095600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita: Imagine-se</title>
   </programme>
-  <programme start="20260918100100 -0300" stop="20260918102500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918095600 -0300" stop="20260918100300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita Imagine-se</title>
+  </programme>
+  <programme start="20260918100300 -0300" stop="20260918102700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">A Casa Mágica da Gabby</title>
   </programme>
-  <programme start="20260918102500 -0300" stop="20260918103200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918102700 -0300" stop="20260918103400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918103200 -0300" stop="20260918104000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918103400 -0300" stop="20260918104100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918104000 -0300" stop="20260918104700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918104100 -0300" stop="20260918104900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918104700 -0300" stop="20260918105400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918104900 -0300" stop="20260918105600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918105400 -0300" stop="20260918110200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918105600 -0300" stop="20260918110300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260918110300 -0300" stop="20260918111100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260918110200 -0300" stop="20260918110900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918111100 -0300" stop="20260918111800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260918110900 -0300" stop="20260918111700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918111800 -0300" stop="20260918112600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260918111700 -0300" stop="20260918112400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918112600 -0300" stop="20260918113300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260918112400 -0300" stop="20260918113200 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260918113200 -0300" stop="20260918113800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918113300 -0300" stop="20260918113900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260918113800 -0300" stop="20260918114400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918113900 -0300" stop="20260918114600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260918114400 -0300" stop="20260918115100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918114600 -0300" stop="20260918115200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260918115100 -0300" stop="20260918115700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918115200 -0300" stop="20260918115800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260918115700 -0300" stop="20260918120400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918115800 -0300" stop="20260918120500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260918120400 -0300" stop="20260918120900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918120500 -0300" stop="20260918121000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260918120900 -0300" stop="20260918121400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918121000 -0300" stop="20260918121500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260918121400 -0300" stop="20260918122000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918121500 -0300" stop="20260918122000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
   <programme start="20260918122000 -0300" stop="20260918122500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260918122500 -0300" stop="20260918123000 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Numberblocks</title>
-  </programme>
-  <programme start="20260918123000 -0300" stop="20260918123700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918122500 -0300" stop="20260918123200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260918123700 -0300" stop="20260918124400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918123200 -0300" stop="20260918123900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260918124400 -0300" stop="20260918125100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918123900 -0300" stop="20260918124600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260918125100 -0300" stop="20260918125800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918124600 -0300" stop="20260918125300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260918125800 -0300" stop="20260918130500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918125300 -0300" stop="20260918130000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260918130500 -0300" stop="20260918131200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918130000 -0300" stop="20260918130700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita Imagine-se</title>
   </programme>
-  <programme start="20260918131200 -0300" stop="20260918131900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918130700 -0300" stop="20260918131400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita Imagine-se</title>
   </programme>
-  <programme start="20260918131900 -0300" stop="20260918132200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918131400 -0300" stop="20260918131800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260918132200 -0300" stop="20260918132500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918131800 -0300" stop="20260918132100 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
+  </programme>
+  <programme start="20260918132100 -0300" stop="20260918132500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
   <programme start="20260918132500 -0300" stop="20260918132800 -0300" channel="cartoonito_hd.claro.br">
@@ -39084,29 +39114,29 @@
   <programme start="20260918132800 -0300" stop="20260918133100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260918133100 -0300" stop="20260918133500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20260918133500 -0300" stop="20260918134700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918133100 -0300" stop="20260918134400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918134700 -0300" stop="20260918135800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918134400 -0300" stop="20260918135500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918135800 -0300" stop="20260918140900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918135500 -0300" stop="20260918141800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918140900 -0300" stop="20260918142100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918141800 -0300" stop="20260918142900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918142100 -0300" stop="20260918143300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918142900 -0300" stop="20260918144000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918143300 -0300" stop="20260918145400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918144000 -0300" stop="20260918145200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918145400 -0300" stop="20260918150600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Batwheels</title>
+  <programme start="20260918145200 -0300" stop="20260918145900 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Grizzy e os Lemmings</title>
+  </programme>
+  <programme start="20260918145900 -0300" stop="20260918150600 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
   <programme start="20260918150600 -0300" stop="20260918151300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
@@ -39114,10 +39144,10 @@
   <programme start="20260918151300 -0300" stop="20260918152000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918152000 -0300" stop="20260918152700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918152000 -0300" stop="20260918152800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918152700 -0300" stop="20260918153500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918152800 -0300" stop="20260918153500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
   <programme start="20260918153500 -0300" stop="20260918154200 -0300" channel="cartoonito_hd.claro.br">
@@ -39129,49 +39159,52 @@
   <programme start="20260918154900 -0300" stop="20260918155600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918155600 -0300" stop="20260918160300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Grizzy e os Lemmings</title>
-  </programme>
-  <programme start="20260918160300 -0300" stop="20260918161100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918155600 -0300" stop="20260918160400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260918161100 -0300" stop="20260918162000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918160400 -0300" stop="20260918161300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260918162000 -0300" stop="20260918162800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918161300 -0300" stop="20260918162100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260918162800 -0300" stop="20260918163600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918162100 -0300" stop="20260918162900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260918163600 -0300" stop="20260918164300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918162900 -0300" stop="20260918163700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260918163700 -0300" stop="20260918164400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918164300 -0300" stop="20260918165100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918164400 -0300" stop="20260918165200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918165100 -0300" stop="20260918165800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918165200 -0300" stop="20260918165900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918165800 -0300" stop="20260918170500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
+  <programme start="20260918165900 -0300" stop="20260918170200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Thomas e Seus Amigos - Curtas</title>
   </programme>
-  <programme start="20260918170500 -0300" stop="20260918172900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918170200 -0300" stop="20260918172600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">A Casa Mágica da Gabby</title>
   </programme>
-  <programme start="20260918172900 -0300" stop="20260918173600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
+  <programme start="20260918172600 -0300" stop="20260918173000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260918173600 -0300" stop="20260918174400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918173000 -0300" stop="20260918173700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita: Imagine-se</title>
+  </programme>
+  <programme start="20260918173700 -0300" stop="20260918174400 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita Imagine-se</title>
   </programme>
   <programme start="20260918174400 -0300" stop="20260918175600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Crescendo Com A Galinha Pintadinha</title>
   </programme>
-  <programme start="20260918175600 -0300" stop="20260918180400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918175600 -0300" stop="20260918180300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
   </programme>
-  <programme start="20260918180400 -0300" stop="20260918181100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918180300 -0300" stop="20260918181100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
   </programme>
   <programme start="20260918181100 -0300" stop="20260918181800 -0300" channel="cartoonito_hd.claro.br">
@@ -39186,152 +39219,149 @@
   <programme start="20260918183300 -0300" stop="20260918184000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
   </programme>
-  <programme start="20260918184000 -0300" stop="20260918184700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918184000 -0300" stop="20260918184800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
   </programme>
-  <programme start="20260918184700 -0300" stop="20260918185500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918184800 -0300" stop="20260918185500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
   </programme>
   <programme start="20260918185500 -0300" stop="20260918190200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Oi, Duggee!</title>
   </programme>
-  <programme start="20260918190200 -0300" stop="20260918191400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918190200 -0300" stop="20260918191300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918191400 -0300" stop="20260918192500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918191300 -0300" stop="20260918192500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918192500 -0300" stop="20260918193000 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Perninha em Obras: Mãos à Obra</title>
-  </programme>
-  <programme start="20260918193000 -0300" stop="20260918194100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918192500 -0300" stop="20260918193700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918194100 -0300" stop="20260918195300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918193700 -0300" stop="20260918194800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260918195300 -0300" stop="20260918200400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918194800 -0300" stop="20260918200000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Perninha em Obras</title>
+  </programme>
+  <programme start="20260918200000 -0300" stop="20260918201100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918200400 -0300" stop="20260918201500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918201100 -0300" stop="20260918202200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918201500 -0300" stop="20260918202700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918202200 -0300" stop="20260918203400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918202700 -0300" stop="20260918203800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918203400 -0300" stop="20260918204600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918203800 -0300" stop="20260918204900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918204600 -0300" stop="20260918205800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260918204900 -0300" stop="20260918210100 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Batwheels</title>
-  </programme>
-  <programme start="20260918210100 -0300" stop="20260918210800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918205800 -0300" stop="20260918210500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918210800 -0300" stop="20260918211500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918210500 -0300" stop="20260918211200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918211500 -0300" stop="20260918212200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918211200 -0300" stop="20260918211900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918212200 -0300" stop="20260918212900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918211900 -0300" stop="20260918212600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918212900 -0300" stop="20260918213700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918212600 -0300" stop="20260918213300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260918213700 -0300" stop="20260918214900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918213300 -0300" stop="20260918214600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Crescendo Com A Galinha Pintadinha</title>
   </programme>
-  <programme start="20260918214900 -0300" stop="20260918215600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260918215600 -0300" stop="20260918220300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918214600 -0300" stop="20260918215300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita: Imagine-se</title>
   </programme>
-  <programme start="20260918220300 -0300" stop="20260918222700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918215300 -0300" stop="20260918220000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita Imagine-se</title>
+  </programme>
+  <programme start="20260918220000 -0300" stop="20260918222400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">A Casa Mágica da Gabby</title>
   </programme>
-  <programme start="20260918222700 -0300" stop="20260918223400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918222400 -0300" stop="20260918223100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918223400 -0300" stop="20260918224200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918223100 -0300" stop="20260918223800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918224200 -0300" stop="20260918225000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918223800 -0300" stop="20260918224600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918225000 -0300" stop="20260918225700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918224600 -0300" stop="20260918225300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260918225700 -0300" stop="20260918230500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918225300 -0300" stop="20260918230100 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260918230100 -0300" stop="20260918230800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260918230500 -0300" stop="20260918231200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918230800 -0300" stop="20260918231600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260918231200 -0300" stop="20260918232000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918231600 -0300" stop="20260918232400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260918232000 -0300" stop="20260918232700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260918232700 -0300" stop="20260918233500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260918233500 -0300" stop="20260918234100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918232400 -0300" stop="20260918233000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260918234100 -0300" stop="20260918234800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918233000 -0300" stop="20260918233700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260918234800 -0300" stop="20260918235400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918233700 -0300" stop="20260918234300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260918235400 -0300" stop="20260919000000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918234300 -0300" stop="20260918235000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260919000000 -0300" stop="20260919000500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260918235000 -0300" stop="20260918235600 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Cuquín</title>
+  </programme>
+  <programme start="20260918235600 -0300" stop="20260919000100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919000500 -0300" stop="20260919001000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919000100 -0300" stop="20260919000600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919001000 -0300" stop="20260919001600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919000600 -0300" stop="20260919001200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919001600 -0300" stop="20260919002100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919001200 -0300" stop="20260919001700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919002100 -0300" stop="20260919002600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919001700 -0300" stop="20260919002200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919002600 -0300" stop="20260919003200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919002200 -0300" stop="20260919002800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919003200 -0300" stop="20260919003800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919002800 -0300" stop="20260919003400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260919003800 -0300" stop="20260919004600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919003400 -0300" stop="20260919004100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260919004600 -0300" stop="20260919005300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919004100 -0300" stop="20260919004900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260919005300 -0300" stop="20260919010000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919004900 -0300" stop="20260919005600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260919010000 -0300" stop="20260919010700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
+  <programme start="20260919005600 -0300" stop="20260919010300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Booba</title>
   </programme>
-  <programme start="20260919010700 -0300" stop="20260919011500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919010300 -0300" stop="20260919011000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita: Imagine-se</title>
   </programme>
-  <programme start="20260919011500 -0300" stop="20260919011700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
+  <programme start="20260919011000 -0300" stop="20260919011700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita: Imagine-se</title>
   </programme>
   <programme start="20260919011700 -0300" stop="20260919012000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
@@ -39339,101 +39369,98 @@
   <programme start="20260919012000 -0300" stop="20260919012300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260919012300 -0300" stop="20260919012700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919012300 -0300" stop="20260919012600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260919012700 -0300" stop="20260919013000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919012600 -0300" stop="20260919012900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20260919013000 -0300" stop="20260919014200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919012900 -0300" stop="20260919013200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
+  </programme>
+  <programme start="20260919013200 -0300" stop="20260919014400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260919014200 -0300" stop="20260919015400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919014400 -0300" stop="20260919015600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260919015400 -0300" stop="20260919020500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Perninha em Obras</title>
-  </programme>
-  <programme start="20260919020500 -0300" stop="20260919021600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919015600 -0300" stop="20260919021800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919021600 -0300" stop="20260919022800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919021800 -0300" stop="20260919022900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919022800 -0300" stop="20260919023900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919022900 -0300" stop="20260919024100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919023900 -0300" stop="20260919025100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919024100 -0300" stop="20260919025300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919025100 -0300" stop="20260919030200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919025300 -0300" stop="20260919030400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919030200 -0300" stop="20260919030900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919030400 -0300" stop="20260919031100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919030900 -0300" stop="20260919031600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919031100 -0300" stop="20260919031800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919031600 -0300" stop="20260919032300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919031800 -0300" stop="20260919032600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919032300 -0300" stop="20260919033100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919032600 -0300" stop="20260919033300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919033100 -0300" stop="20260919033800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919033300 -0300" stop="20260919034000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919033800 -0300" stop="20260919034500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919034000 -0300" stop="20260919034700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919034500 -0300" stop="20260919035200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919034700 -0300" stop="20260919035400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919035200 -0300" stop="20260919035900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Grizzy e os Lemmings</title>
-  </programme>
-  <programme start="20260919035900 -0300" stop="20260919040700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919035400 -0300" stop="20260919040200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260919040700 -0300" stop="20260919041600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919040200 -0300" stop="20260919041100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260919041600 -0300" stop="20260919042500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919041100 -0300" stop="20260919041900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lu E Seus Amigos</title>
   </programme>
-  <programme start="20260919042500 -0300" stop="20260919043200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919041900 -0300" stop="20260919042700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260919042700 -0300" stop="20260919043500 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260919043500 -0300" stop="20260919044200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260919043200 -0300" stop="20260919043900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919044200 -0300" stop="20260919045000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260919043900 -0300" stop="20260919044600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919045000 -0300" stop="20260919045700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260919044600 -0300" stop="20260919045100 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo: Músicas Infantis</title>
-  </programme>
-  <programme start="20260919045100 -0300" stop="20260919045800 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919045800 -0300" stop="20260919050500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919045700 -0300" stop="20260919050500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
   <programme start="20260919050500 -0300" stop="20260919052900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">A Casa Mágica da Gabby</title>
   </programme>
-  <programme start="20260919052900 -0300" stop="20260919053600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260919053600 -0300" stop="20260919054300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919052900 -0300" stop="20260919053500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Mundo Bita: Imagine-se</title>
   </programme>
-  <programme start="20260919054300 -0300" stop="20260919054600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
+  <programme start="20260919053500 -0300" stop="20260919054300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita Imagine-se</title>
   </programme>
-  <programme start="20260919054600 -0300" stop="20260919060000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919054300 -0300" stop="20260919055500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Crescendo Com A Galinha Pintadinha</title>
+  </programme>
+  <programme start="20260919055500 -0300" stop="20260919060000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
   </programme>
   <programme start="20260919060000 -0300" stop="20260919060300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
@@ -39444,373 +39471,361 @@
   <programme start="20260919060600 -0300" stop="20260919061000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919061000 -0300" stop="20260919061400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919061000 -0300" stop="20260919061500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919061400 -0300" stop="20260919061700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919061500 -0300" stop="20260919061800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919061700 -0300" stop="20260919062100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919061800 -0300" stop="20260919062200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919062100 -0300" stop="20260919062400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919062200 -0300" stop="20260919062600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919062400 -0300" stop="20260919062800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919062600 -0300" stop="20260919063000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919062800 -0300" stop="20260919063300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919063000 -0300" stop="20260919063500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919063300 -0300" stop="20260919063800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919063500 -0300" stop="20260919064000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919063800 -0300" stop="20260919064400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919064000 -0300" stop="20260919064600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919064400 -0300" stop="20260919064900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919064600 -0300" stop="20260919065100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919064900 -0300" stop="20260919065400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919065100 -0300" stop="20260919065600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919065400 -0300" stop="20260919070000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919065600 -0300" stop="20260919070100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919070000 -0300" stop="20260919070700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919070100 -0300" stop="20260919070800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260919070700 -0300" stop="20260919071500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919070800 -0300" stop="20260919071600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260919071500 -0300" stop="20260919072200 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260919072200 -0300" stop="20260919073000 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260919073000 -0300" stop="20260919073600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Cuquín</title>
-  </programme>
-  <programme start="20260919073600 -0300" stop="20260919074300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Cuquín</title>
-  </programme>
-  <programme start="20260919074300 -0300" stop="20260919074900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Cuquín</title>
-  </programme>
-  <programme start="20260919074900 -0300" stop="20260919075600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Cuquín</title>
-  </programme>
-  <programme start="20260919075600 -0300" stop="20260919081900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">A Casa Mágica da Gabby</title>
-  </programme>
-  <programme start="20260919081900 -0300" stop="20260919084300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">A Casa Mágica da Gabby</title>
-  </programme>
-  <programme start="20260919084300 -0300" stop="20260919090600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">A Casa Mágica da Gabby</title>
-  </programme>
-  <programme start="20260919090600 -0300" stop="20260919100300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Tom e Jerry e o Mágico de Oz</title>
-  </programme>
-  <programme start="20260919100300 -0300" stop="20260919101100 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
-  </programme>
-  <programme start="20260919101100 -0300" stop="20260919101900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
-  </programme>
-  <programme start="20260919101900 -0300" stop="20260919102700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
-  </programme>
-  <programme start="20260919102700 -0300" stop="20260919103600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
-  </programme>
-  <programme start="20260919103600 -0300" stop="20260919104400 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
-  </programme>
-  <programme start="20260919104400 -0300" stop="20260919105200 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
-  </programme>
-  <programme start="20260919105200 -0300" stop="20260919110000 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
-  </programme>
-  <programme start="20260919110000 -0300" stop="20260919110800 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260919110800 -0300" stop="20260919111600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260919111600 -0300" stop="20260919112300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260919112300 -0300" stop="20260919113100 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260919113100 -0300" stop="20260919113800 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260919113800 -0300" stop="20260919114600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita: Imagine-se</title>
-  </programme>
-  <programme start="20260919114600 -0300" stop="20260919115300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260919115300 -0300" stop="20260919120000 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260919120000 -0300" stop="20260919121200 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Crescendo Com A Galinha Pintadinha</title>
-  </programme>
-  <programme start="20260919121200 -0300" stop="20260919121500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20260919121500 -0300" stop="20260919121800 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20260919121800 -0300" stop="20260919122100 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20260919122100 -0300" stop="20260919122400 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20260919122400 -0300" stop="20260919122700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20260919122700 -0300" stop="20260919123400 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919123400 -0300" stop="20260919124100 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919124100 -0300" stop="20260919124900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919124900 -0300" stop="20260919125600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919125600 -0300" stop="20260919130400 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919130400 -0300" stop="20260919131100 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919131100 -0300" stop="20260919131800 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919131800 -0300" stop="20260919132500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919132500 -0300" stop="20260919133300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260919133300 -0300" stop="20260919134400 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Hey Fuzzy Yellow</title>
-  </programme>
-  <programme start="20260919134400 -0300" stop="20260919135500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Hey Fuzzy Yellow</title>
-  </programme>
-  <programme start="20260919135500 -0300" stop="20260919140700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Hey Fuzzy Yellow</title>
-  </programme>
-  <programme start="20260919140700 -0300" stop="20260919141800 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Hey Fuzzy Yellow</title>
-  </programme>
-  <programme start="20260919141800 -0300" stop="20260919142900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Hey Fuzzy Yellow</title>
-  </programme>
-  <programme start="20260919142900 -0300" stop="20260919143600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Booba</title>
-  </programme>
-  <programme start="20260919143600 -0300" stop="20260919144300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Booba</title>
-  </programme>
-  <programme start="20260919144300 -0300" stop="20260919145100 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Booba</title>
-  </programme>
-  <programme start="20260919145100 -0300" stop="20260919145800 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Booba</title>
-  </programme>
-  <programme start="20260919145800 -0300" stop="20260919150500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Booba</title>
-  </programme>
-  <programme start="20260919150500 -0300" stop="20260919151600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Perninha em Obras</title>
-  </programme>
-  <programme start="20260919151600 -0300" stop="20260919152700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Perninha em Obras</title>
-  </programme>
-  <programme start="20260919152700 -0300" stop="20260919153000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919071600 -0300" stop="20260919072200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras: Mãos à Obra</title>
   </programme>
-  <programme start="20260919153000 -0300" stop="20260919154200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919072200 -0300" stop="20260919072900 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lucas A Aranha</title>
+  </programme>
+  <programme start="20260919072900 -0300" stop="20260919073500 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Cuquín</title>
+  </programme>
+  <programme start="20260919073500 -0300" stop="20260919074200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Cuquín</title>
+  </programme>
+  <programme start="20260919074200 -0300" stop="20260919074800 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Cuquín</title>
+  </programme>
+  <programme start="20260919074800 -0300" stop="20260919075100 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Perninha em Obras: Mãos à Obra</title>
+  </programme>
+  <programme start="20260919075100 -0300" stop="20260919075800 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Cuquín</title>
+  </programme>
+  <programme start="20260919075800 -0300" stop="20260919080400 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Cuquín</title>
+  </programme>
+  <programme start="20260919080400 -0300" stop="20260919082900 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">A Casa Mágica da Gabby</title>
+  </programme>
+  <programme start="20260919082900 -0300" stop="20260919085200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">A Casa Mágica da Gabby</title>
+  </programme>
+  <programme start="20260919085200 -0300" stop="20260919100200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Scooby-Doo! Verão Assombrado</title>
+  </programme>
+  <programme start="20260919100200 -0300" stop="20260919101000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260919101000 -0300" stop="20260919101800 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260919101800 -0300" stop="20260919102600 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260919102600 -0300" stop="20260919103500 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260919103500 -0300" stop="20260919104300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260919104300 -0300" stop="20260919105100 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260919105100 -0300" stop="20260919105900 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lu E Seus Amigos</title>
+  </programme>
+  <programme start="20260919105900 -0300" stop="20260919110700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lucas A Aranha</title>
+  </programme>
+  <programme start="20260919110700 -0300" stop="20260919111500 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lucas A Aranha</title>
+  </programme>
+  <programme start="20260919111500 -0300" stop="20260919112200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lucas A Aranha</title>
+  </programme>
+  <programme start="20260919112200 -0300" stop="20260919113000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Lucas A Aranha</title>
+  </programme>
+  <programme start="20260919113000 -0300" stop="20260919113700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita Imagine-se</title>
+  </programme>
+  <programme start="20260919113700 -0300" stop="20260919114500 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita: Imagine-se</title>
+  </programme>
+  <programme start="20260919114500 -0300" stop="20260919115200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita: Imagine-se</title>
+  </programme>
+  <programme start="20260919115200 -0300" stop="20260919115900 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita Imagine-se</title>
+  </programme>
+  <programme start="20260919115900 -0300" stop="20260919121100 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Crescendo Com A Galinha Pintadinha</title>
+  </programme>
+  <programme start="20260919121100 -0300" stop="20260919121400 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
+  </programme>
+  <programme start="20260919121400 -0300" stop="20260919121700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
+  </programme>
+  <programme start="20260919121700 -0300" stop="20260919122000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
+  </programme>
+  <programme start="20260919122000 -0300" stop="20260919122300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
+  </programme>
+  <programme start="20260919122300 -0300" stop="20260919122600 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Mundo Bita</title>
+  </programme>
+  <programme start="20260919122600 -0300" stop="20260919123300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260919123300 -0300" stop="20260919124000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260919124000 -0300" stop="20260919124700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260919124700 -0300" stop="20260919125400 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260919125400 -0300" stop="20260919130200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260919130200 -0300" stop="20260919130900 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260919130900 -0300" stop="20260919131600 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260919131600 -0300" stop="20260919132400 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260919132400 -0300" stop="20260919133100 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20260919133100 -0300" stop="20260919134200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Hey Fuzzy Yellow</title>
+  </programme>
+  <programme start="20260919134200 -0300" stop="20260919135300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Hey Fuzzy Yellow</title>
+  </programme>
+  <programme start="20260919135300 -0300" stop="20260919140500 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Hey Fuzzy Yellow</title>
+  </programme>
+  <programme start="20260919140500 -0300" stop="20260919141600 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Hey Fuzzy Yellow</title>
+  </programme>
+  <programme start="20260919141600 -0300" stop="20260919142800 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Hey Fuzzy Yellow</title>
+  </programme>
+  <programme start="20260919142800 -0300" stop="20260919143500 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Booba</title>
+  </programme>
+  <programme start="20260919143500 -0300" stop="20260919144100 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Booba</title>
+  </programme>
+  <programme start="20260919144100 -0300" stop="20260919144900 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Booba</title>
+  </programme>
+  <programme start="20260919144900 -0300" stop="20260919145600 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Booba</title>
+  </programme>
+  <programme start="20260919145600 -0300" stop="20260919150300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Booba</title>
+  </programme>
+  <programme start="20260919150300 -0300" stop="20260919151400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260919154200 -0300" stop="20260919155300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919151400 -0300" stop="20260919152600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Perninha em Obras</title>
   </programme>
-  <programme start="20260919155300 -0300" stop="20260919160400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919152600 -0300" stop="20260919153800 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Perninha em Obras</title>
+  </programme>
+  <programme start="20260919153800 -0300" stop="20260919154900 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Perninha em Obras</title>
+  </programme>
+  <programme start="20260919154900 -0300" stop="20260919160000 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Perninha em Obras</title>
+  </programme>
+  <programme start="20260919160000 -0300" stop="20260919161200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919160400 -0300" stop="20260919161500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919161200 -0300" stop="20260919162300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919161500 -0300" stop="20260919163800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919162300 -0300" stop="20260919163500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919163800 -0300" stop="20260919165000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919163500 -0300" stop="20260919164700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919165000 -0300" stop="20260919170100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919164700 -0300" stop="20260919165800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919170100 -0300" stop="20260919170800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919165800 -0300" stop="20260919170500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919170800 -0300" stop="20260919171500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919170500 -0300" stop="20260919171200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919171500 -0300" stop="20260919172200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919171200 -0300" stop="20260919171900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919172200 -0300" stop="20260919173000 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919171900 -0300" stop="20260919172600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919173000 -0300" stop="20260919173700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919172600 -0300" stop="20260919173400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919173700 -0300" stop="20260919174400 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919173400 -0300" stop="20260919174100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919174400 -0300" stop="20260919175100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919174100 -0300" stop="20260919174800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919175100 -0300" stop="20260919175800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919174800 -0300" stop="20260919175500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
-  <programme start="20260919175800 -0300" stop="20260919180200 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Morphle 3D</title>
+  <programme start="20260919175500 -0300" stop="20260919180200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Grizzy e os Lemmings</title>
   </programme>
   <programme start="20260919180200 -0300" stop="20260919180500 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919180500 -0300" stop="20260919180800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919180500 -0300" stop="20260919180900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919180800 -0300" stop="20260919181300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919180900 -0300" stop="20260919181200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919181300 -0300" stop="20260919181600 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919181200 -0300" stop="20260919181700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919181600 -0300" stop="20260919181900 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919181700 -0300" stop="20260919182000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919181900 -0300" stop="20260919182300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919182000 -0300" stop="20260919182400 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919182300 -0300" stop="20260919182700 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919182400 -0300" stop="20260919182800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Morphle 3D</title>
   </programme>
-  <programme start="20260919182700 -0300" stop="20260919183200 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Numberblocks</title>
+  <programme start="20260919182800 -0300" stop="20260919183200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Morphle 3D</title>
   </programme>
   <programme start="20260919183200 -0300" stop="20260919183700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919183700 -0300" stop="20260919184300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919183700 -0300" stop="20260919184200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919184300 -0300" stop="20260919184800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919184200 -0300" stop="20260919184700 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919184800 -0300" stop="20260919185300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919184700 -0300" stop="20260919185200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919185300 -0300" stop="20260919185800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919185200 -0300" stop="20260919185800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20260919185800 -0300" stop="20260919190500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919185800 -0300" stop="20260919190300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Numberblocks</title>
+  </programme>
+  <programme start="20260919190300 -0300" stop="20260919191000 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260919190500 -0300" stop="20260919191300 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919191000 -0300" stop="20260919191800 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260919191300 -0300" stop="20260919192100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919191800 -0300" stop="20260919192600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260919192100 -0300" stop="20260919192800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919192600 -0300" stop="20260919193300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Lucas A Aranha</title>
   </programme>
-  <programme start="20260919192800 -0300" stop="20260919193500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919193300 -0300" stop="20260919193900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260919193500 -0300" stop="20260919194200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919193900 -0300" stop="20260919194600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260919194200 -0300" stop="20260919194800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919194600 -0300" stop="20260919194900 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Perninha em Obras: Mãos à Obra</title>
+  </programme>
+  <programme start="20260919194900 -0300" stop="20260919195600 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260919194800 -0300" stop="20260919195500 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919195600 -0300" stop="20260919200200 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Cuquín</title>
   </programme>
-  <programme start="20260919195500 -0300" stop="20260919201800 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919200200 -0300" stop="20260919202900 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">A Casa Mágica da Gabby</title>
   </programme>
-  <programme start="20260919201800 -0300" stop="20260919204200 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919202900 -0300" stop="20260919205300 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">A Casa Mágica da Gabby</title>
   </programme>
-  <programme start="20260919204200 -0300" stop="20260919210500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">A Casa Mágica da Gabby</title>
+  <programme start="20260919205300 -0300" stop="20260919220200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Scooby-Doo! Verão Assombrado</title>
   </programme>
-  <programme start="20260919210500 -0300" stop="20260919220200 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Tom e Jerry e o Mágico de Oz</title>
+  <programme start="20260919220200 -0300" stop="20260919222400 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919220200 -0300" stop="20260919221000 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
+  <programme start="20260919222400 -0300" stop="20260919223500 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919221000 -0300" stop="20260919221800 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
+  <programme start="20260919223500 -0300" stop="20260919224700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919221800 -0300" stop="20260919222600 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
+  <programme start="20260919224700 -0300" stop="20260919230100 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919222600 -0300" stop="20260919223500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
+  <programme start="20260919230100 -0300" stop="20260919231200 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919223500 -0300" stop="20260919224300 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
+  <programme start="20260919231200 -0300" stop="20260919232300 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919224300 -0300" stop="20260919225100 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
+  <programme start="20260919232300 -0300" stop="20260919233500 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919225100 -0300" stop="20260919225900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lu E Seus Amigos</title>
+  <programme start="20260919233500 -0300" stop="20260919234700 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919225900 -0300" stop="20260919230700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
+  <programme start="20260919234700 -0300" stop="20260919235800 -0300" channel="cartoonito_hd.claro.br">
+    <title lang="pt">Batwheels</title>
   </programme>
-  <programme start="20260919230700 -0300" stop="20260919231500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260919231500 -0300" stop="20260919232200 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260919232200 -0300" stop="20260919233000 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Lucas A Aranha</title>
-  </programme>
-  <programme start="20260919233000 -0300" stop="20260919233700 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260919233700 -0300" stop="20260919234500 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260919234500 -0300" stop="20260919235200 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260919235200 -0300" stop="20260919235900 -0300" channel="cartoonito_hd.claro.br">
-    <title lang="pt">Mundo Bita Imagine-se</title>
-  </programme>
-  <programme start="20260919235900 -0300" stop="20260920001100 -0300" channel="cartoonito_hd.claro.br">
+  <programme start="20260919235800 -0300" stop="20260920001100 -0300" channel="cartoonito_hd.claro.br">
     <title lang="pt">Crescendo Com A Galinha Pintadinha</title>
   </programme>
   <programme start="20260918003000 -0300" stop="20260918010000 -0300" channel="tv_ra_tim_bum_hd_.claro.br">
@@ -42048,10 +42063,10 @@
   <programme start="20260918110700 -0300" stop="20260918112000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Vamos Brincar</title>
   </programme>
-  <programme start="20260918112000 -0300" stop="20260918112200 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260918112000 -0300" stop="20260918112300 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260918112200 -0300" stop="20260918112500 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260918112300 -0300" stop="20260918112500 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260918112500 -0300" stop="20260918113000 -0300" channel="gloobinho_hd.claro.br">
@@ -42162,10 +42177,10 @@
   <programme start="20260918161000 -0300" stop="20260918162000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Ursinhos Carinhosos</title>
   </programme>
-  <programme start="20260918162000 -0300" stop="20260918162200 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260918162000 -0300" stop="20260918162300 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260918162200 -0300" stop="20260918162500 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260918162300 -0300" stop="20260918162500 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260918162500 -0300" stop="20260918163000 -0300" channel="gloobinho_hd.claro.br">
@@ -42648,10 +42663,10 @@
   <programme start="20260919113000 -0300" stop="20260919114000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Bookaboo</title>
   </programme>
-  <programme start="20260919114000 -0300" stop="20260919114200 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919114000 -0300" stop="20260919114300 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260919114200 -0300" stop="20260919115000 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919114300 -0300" stop="20260919115000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260919115000 -0300" stop="20260919115700 -0300" channel="gloobinho_hd.claro.br">
@@ -42711,46 +42726,46 @@
   <programme start="20260919135200 -0300" stop="20260919140000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Pocoyo</title>
   </programme>
-  <programme start="20260919140000 -0300" stop="20260919140200 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919140000 -0300" stop="20260919140300 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919140200 -0300" stop="20260919140500 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919140300 -0300" stop="20260919140500 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919140500 -0300" stop="20260919140700 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919140500 -0300" stop="20260919140800 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919140700 -0300" stop="20260919141000 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919140800 -0300" stop="20260919141000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919141000 -0300" stop="20260919141200 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919141000 -0300" stop="20260919141300 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919141200 -0300" stop="20260919141500 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919141300 -0300" stop="20260919141500 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919141500 -0300" stop="20260919141700 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919141500 -0300" stop="20260919141800 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919141700 -0300" stop="20260919142000 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919141800 -0300" stop="20260919142000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919142000 -0300" stop="20260919142200 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919142000 -0300" stop="20260919142300 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919142200 -0300" stop="20260919142500 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919142300 -0300" stop="20260919142500 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919142500 -0300" stop="20260919142700 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919142500 -0300" stop="20260919142800 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919142700 -0300" stop="20260919143000 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919142800 -0300" stop="20260919143000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919143000 -0300" stop="20260919143200 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919143000 -0300" stop="20260919143300 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
-  <programme start="20260919143200 -0300" stop="20260919143500 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919143300 -0300" stop="20260919143500 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Cocomelon</title>
   </programme>
   <programme start="20260919143500 -0300" stop="20260919144000 -0300" channel="gloobinho_hd.claro.br">
@@ -42867,10 +42882,10 @@
   <programme start="20260919211000 -0300" stop="20260919212000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Ursinhos Carinhosos</title>
   </programme>
-  <programme start="20260919212000 -0300" stop="20260919212200 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919212000 -0300" stop="20260919212300 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260919212200 -0300" stop="20260919213000 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919212300 -0300" stop="20260919213000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260919213000 -0300" stop="20260919213700 -0300" channel="gloobinho_hd.claro.br">
@@ -42915,10 +42930,10 @@
   <programme start="20260919230500 -0300" stop="20260919231000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">Baby Riki</title>
   </programme>
-  <programme start="20260919231000 -0300" stop="20260919231200 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919231000 -0300" stop="20260919231300 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
-  <programme start="20260919231200 -0300" stop="20260919233000 -0300" channel="gloobinho_hd.claro.br">
+  <programme start="20260919231300 -0300" stop="20260919233000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">D.P.A. Mini</title>
   </programme>
   <programme start="20260919233000 -0300" stop="20260919234000 -0300" channel="gloobinho_hd.claro.br">
