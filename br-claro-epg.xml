@@ -2863,12 +2863,12 @@
     <title lang="pt">Campeonato Brasileiro 2026</title>
   </programme>
   <programme start="20260919165000 -0300" stop="20260919190000 -0300" channel="record.claro.br">
-    <title lang="pt">Programação do Canal</title>
+    <title lang="pt">MIrassol x Botafogo - Ao Vivo</title>
   </programme>
-  <programme start="20260919190000 -0300" stop="20260919194500 -0300" channel="record.claro.br">
+  <programme start="20260919190000 -0300" stop="20260919200000 -0300" channel="record.claro.br">
     <title lang="pt">Cidade Alerta - Edição de Sábado</title>
   </programme>
-  <programme start="20260919194500 -0300" stop="20260919203000 -0300" channel="record.claro.br">
+  <programme start="20260919200000 -0300" stop="20260919203000 -0300" channel="record.claro.br">
     <title lang="pt">Jornal da Record - Edição de Sábado</title>
   </programme>
   <programme start="20260919203000 -0300" stop="20260919205500 -0300" channel="record.claro.br">
@@ -2877,10 +2877,13 @@
   <programme start="20260919205500 -0300" stop="20260919213000 -0300" channel="record.claro.br">
     <title lang="pt">Jornal da Record - Edição de Sábado</title>
   </programme>
-  <programme start="20260919213000 -0300" stop="20260919231500 -0300" channel="record.claro.br">
+  <programme start="20260919213000 -0300" stop="20260919224500 -0300" channel="record.claro.br">
     <title lang="pt">Cidade Alerta - Edição de Sábado</title>
   </programme>
-  <programme start="20260919231500 -0300" stop="20260920011500 -0300" channel="record.claro.br">
+  <programme start="20260919224500 -0300" stop="20260919234500 -0300" channel="record.claro.br">
+    <title lang="pt">A Fazenda</title>
+  </programme>
+  <programme start="20260919234500 -0300" stop="20260920011500 -0300" channel="record.claro.br">
     <title lang="pt">Super Tela</title>
   </programme>
   <programme start="20260920011500 -0300" stop="20260920020000 -0300" channel="record.claro.br">
@@ -2925,7 +2928,10 @@
   <programme start="20260920183000 -0300" stop="20260920223000 -0300" channel="record.claro.br">
     <title lang="pt">Domingo Espetacular</title>
   </programme>
-  <programme start="20260920223000 -0300" stop="20260921000000 -0300" channel="record.claro.br">
+  <programme start="20260920223000 -0300" stop="20260920231500 -0300" channel="record.claro.br">
+    <title lang="pt">A Fazenda</title>
+  </programme>
+  <programme start="20260920231500 -0300" stop="20260921003000 -0300" channel="record.claro.br">
     <title lang="pt">Esporte Record</title>
   </programme>
   <programme start="20260919001500 -0300" stop="20260919010000 -0300" channel="rede_tv.claro.br">
@@ -4839,98 +4845,110 @@
   <programme start="20260919050000 -0300" stop="20260919060000 -0300" channel="globonews.claro.br">
     <title lang="pt">Central Das Eleições</title>
   </programme>
-  <programme start="20260919060000 -0300" stop="20260919070000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
+  <programme start="20260919060000 -0300" stop="20260919071000 -0300" channel="globonews.claro.br">
+    <title lang="pt">Jornal GloboNews - Edição Das 06h - Ao Vivo</title>
   </programme>
-  <programme start="20260919070000 -0300" stop="20260919080000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 07h - Ao Vivo</title>
+  <programme start="20260919071000 -0300" stop="20260919080000 -0300" channel="globonews.claro.br">
+    <title lang="pt">GloboNews Especial</title>
   </programme>
   <programme start="20260919080000 -0300" stop="20260919090000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 08h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 08h - Ao Vivo</title>
   </programme>
   <programme start="20260919090000 -0300" stop="20260919100000 -0300" channel="globonews.claro.br">
     <title lang="pt">Globo Repórter</title>
   </programme>
   <programme start="20260919100000 -0300" stop="20260919120000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 10h - Ao Vivo</title>
   </programme>
   <programme start="20260919120000 -0300" stop="20260919143000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição do Meio-dia - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Do Meio-Dia - Ao Vivo</title>
   </programme>
   <programme start="20260919143000 -0300" stop="20260919150000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Cidades e Soluções</title>
+    <title lang="pt">Cidades E Soluções</title>
   </programme>
-  <programme start="20260919150000 -0300" stop="20260919180000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
+  <programme start="20260919150000 -0300" stop="20260919171000 -0300" channel="globonews.claro.br">
+    <title lang="pt">Jornal GloboNews - Edição Das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20260919171000 -0300" stop="20260919180000 -0300" channel="globonews.claro.br">
+    <title lang="pt">Globo Repórter</title>
   </programme>
   <programme start="20260919180000 -0300" stop="20260919200000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
   </programme>
   <programme start="20260919200000 -0300" stop="20260919213000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 20h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 20h - Ao Vivo</title>
   </programme>
   <programme start="20260919213000 -0300" stop="20260919220000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Cidades e Soluções</title>
+    <title lang="pt">Cidades E Soluções</title>
   </programme>
   <programme start="20260919220000 -0300" stop="20260919230000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
   </programme>
   <programme start="20260919230000 -0300" stop="20260920003000 -0300" channel="globonews.claro.br">
     <title lang="pt">GloboNews Documentário</title>
   </programme>
   <programme start="20260920003000 -0300" stop="20260920013000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
   </programme>
   <programme start="20260920013000 -0300" stop="20260920023000 -0300" channel="globonews.claro.br">
     <title lang="pt">Globo Repórter</title>
   </programme>
   <programme start="20260920023000 -0300" stop="20260920030000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Cidades e Soluções</title>
+    <title lang="pt">Cidades E Soluções</title>
   </programme>
-  <programme start="20260920030000 -0300" stop="20260920050000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  <programme start="20260920030000 -0300" stop="20260920041000 -0300" channel="globonews.claro.br">
+    <title lang="pt">Jornal GloboNews (3h) - Ao Vivo</title>
+  </programme>
+  <programme start="20260920041000 -0300" stop="20260920050000 -0300" channel="globonews.claro.br">
+    <title lang="pt">GloboNews Especial</title>
   </programme>
   <programme start="20260920050000 -0300" stop="20260920060000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+    <title lang="pt">Jornal Das Dez</title>
   </programme>
   <programme start="20260920060000 -0300" stop="20260920062000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 06h - Ao Vivo</title>
   </programme>
   <programme start="20260920062000 -0300" stop="20260920070000 -0300" channel="globonews.claro.br">
     <title lang="pt">Globo Repórter</title>
   </programme>
   <programme start="20260920070000 -0300" stop="20260920080000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 07h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 07h - Ao Vivo</title>
   </programme>
   <programme start="20260920080000 -0300" stop="20260920100000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 08h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 08h - Ao Vivo</title>
   </programme>
   <programme start="20260920100000 -0300" stop="20260920110000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 10h - Ao Vivo</title>
   </programme>
   <programme start="20260920110000 -0300" stop="20260920123000 -0300" channel="globonews.claro.br">
     <title lang="pt">Globo Rural</title>
   </programme>
   <programme start="20260920123000 -0300" stop="20260920142000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição do Meio-dia - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Do Meio-Dia - Ao Vivo</title>
   </programme>
   <programme start="20260920142000 -0300" stop="20260920150000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Pequenas Empresas &amp;amp; Grandes Negócios</title>
+    <title lang="pt">Pequenas Empresas Grandes Negócios</title>
   </programme>
-  <programme start="20260920150000 -0300" stop="20260920180000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
+  <programme start="20260920150000 -0300" stop="20260920171000 -0300" channel="globonews.claro.br">
+    <title lang="pt">Jornal GloboNews - Edição Das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20260920171000 -0300" stop="20260920180000 -0300" channel="globonews.claro.br">
+    <title lang="pt">GloboNews Especial</title>
   </programme>
   <programme start="20260920180000 -0300" stop="20260920193000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
   </programme>
   <programme start="20260920193000 -0300" stop="20260920200000 -0300" channel="globonews.claro.br">
     <title lang="pt">GloboNews Internacional - Ao Vivo</title>
   </programme>
   <programme start="20260920200000 -0300" stop="20260920220000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
   </programme>
-  <programme start="20260920220000 -0300" stop="20260920233500 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+  <programme start="20260920220000 -0300" stop="20260920230500 -0300" channel="globonews.claro.br">
+    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20260920230500 -0300" stop="20260920233500 -0300" channel="globonews.claro.br">
+    <title lang="pt">Cidades E Soluções</title>
   </programme>
   <programme start="20260920233500 -0300" stop="20260921023500 -0300" channel="globonews.claro.br">
     <title lang="pt">Fantástico</title>
@@ -6381,10 +6399,13 @@
   <programme start="20260920234100 -0300" stop="20260921000500 -0300" channel="food_network.claro.br">
     <title lang="pt">Giada em Casa</title>
   </programme>
-  <programme start="20260919013000 -0300" stop="20260919033000 -0300" channel="sportv_3.claro.br">
+  <programme start="20260919013000 -0300" stop="20260919032000 -0300" channel="sportv_3.claro.br">
     <title lang="pt">São Paulo Open - Quartas de Final</title>
   </programme>
-  <programme start="20260919033000 -0300" stop="20260919063000 -0300" channel="sportv_3.claro.br">
+  <programme start="20260919032000 -0300" stop="20260919033500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Heróis do Futuro: Vitória Rosa - Atletismo</title>
+  </programme>
+  <programme start="20260919033500 -0300" stop="20260919063000 -0300" channel="sportv_3.claro.br">
     <title lang="pt">NFL: Lions x Bills</title>
   </programme>
   <programme start="20260919063000 -0300" stop="20260919073000 -0300" channel="sportv_3.claro.br">
@@ -7206,43 +7227,40 @@
   <programme start="20260920181900 -0300" stop="20260920184600 -0300" channel="off.claro.br">
     <title lang="pt">Morando Na Estrada</title>
   </programme>
-  <programme start="20260920184600 -0300" stop="20260920191500 -0300" channel="off.claro.br">
+  <programme start="20260920184600 -0300" stop="20260920191600 -0300" channel="off.claro.br">
     <title lang="pt">Surfe Social Clube</title>
   </programme>
-  <programme start="20260920191500 -0300" stop="20260920194100 -0300" channel="off.claro.br">
+  <programme start="20260920191600 -0300" stop="20260920194300 -0300" channel="off.claro.br">
     <title lang="pt">Manual De Ondas Grandes</title>
   </programme>
-  <programme start="20260920194100 -0300" stop="20260920194900 -0300" channel="off.claro.br">
-    <title lang="pt">Curtas Do Off: Bike Under The Lights</title>
+  <programme start="20260920194300 -0300" stop="20260920195700 -0300" channel="off.claro.br">
+    <title lang="pt">Curtas Do Off: La Familia Muniz</title>
   </programme>
-  <programme start="20260920194900 -0300" stop="20260920200000 -0300" channel="off.claro.br">
-    <title lang="pt">Curtas Do Off: Arte, Cor E Renascimento</title>
-  </programme>
-  <programme start="20260920200000 -0300" stop="20260920202900 -0300" channel="off.claro.br">
+  <programme start="20260920195700 -0300" stop="20260920202600 -0300" channel="off.claro.br">
     <title lang="pt">Os Donos Do Havaí</title>
   </programme>
-  <programme start="20260920202900 -0300" stop="20260920205700 -0300" channel="off.claro.br">
+  <programme start="20260920202600 -0300" stop="20260920205400 -0300" channel="off.claro.br">
     <title lang="pt">Crowd Selvagem</title>
   </programme>
-  <programme start="20260920205700 -0300" stop="20260920212400 -0300" channel="off.claro.br">
+  <programme start="20260920205400 -0300" stop="20260920212200 -0300" channel="off.claro.br">
     <title lang="pt">Crowd Selvagem</title>
   </programme>
-  <programme start="20260920212400 -0300" stop="20260920215000 -0300" channel="off.claro.br">
+  <programme start="20260920212200 -0300" stop="20260920214800 -0300" channel="off.claro.br">
     <title lang="pt">Mar E Música</title>
   </programme>
-  <programme start="20260920215000 -0300" stop="20260920221800 -0300" channel="off.claro.br">
+  <programme start="20260920214800 -0300" stop="20260920221600 -0300" channel="off.claro.br">
     <title lang="pt">Yoga Em Todo Lugar</title>
   </programme>
-  <programme start="20260920221800 -0300" stop="20260920224600 -0300" channel="off.claro.br">
+  <programme start="20260920221600 -0300" stop="20260920224400 -0300" channel="off.claro.br">
     <title lang="pt">Mestres Do Movimento</title>
   </programme>
-  <programme start="20260920224600 -0300" stop="20260920231300 -0300" channel="off.claro.br">
+  <programme start="20260920224400 -0300" stop="20260920231100 -0300" channel="off.claro.br">
     <title lang="pt">Enciclopédia Off</title>
   </programme>
-  <programme start="20260920231300 -0300" stop="20260920234100 -0300" channel="off.claro.br">
+  <programme start="20260920231100 -0300" stop="20260920233900 -0300" channel="off.claro.br">
     <title lang="pt">Forças Da Natureza</title>
   </programme>
-  <programme start="20260920234100 -0300" stop="20260921000700 -0300" channel="off.claro.br">
+  <programme start="20260920233900 -0300" stop="20260921000600 -0300" channel="off.claro.br">
     <title lang="pt">Trilhas E Travessias</title>
   </programme>
   <programme start="20260919010000 -0300" stop="20260919020000 -0300" channel="arte_1.claro.br">
@@ -14997,38 +15015,41 @@
   <programme start="20260920151900 -0300" stop="20260920170200 -0300" channel="bis.claro.br">
     <title lang="pt">Multishow Ao Vivo - Dois Amigos, Um Século De Música - Caetano Veloso E Gilberto Gil</title>
   </programme>
-  <programme start="20260920170200 -0300" stop="20260920173300 -0300" channel="bis.claro.br">
-    <title lang="pt">Hungria - Dvd Atmosfera</title>
+  <programme start="20260920170200 -0300" stop="20260920171700 -0300" channel="bis.claro.br">
+    <title lang="pt">Multishow Ao Vivo - Ivete Sangalo 20 Anos</title>
   </programme>
-  <programme start="20260920173300 -0300" stop="20260920183300 -0300" channel="bis.claro.br">
+  <programme start="20260920171700 -0300" stop="20260920181700 -0300" channel="bis.claro.br">
     <title lang="pt">Versões</title>
   </programme>
-  <programme start="20260920183300 -0300" stop="20260920190200 -0300" channel="bis.claro.br">
+  <programme start="20260920181700 -0300" stop="20260920184600 -0300" channel="bis.claro.br">
     <title lang="pt">Samba Pra Sempre</title>
   </programme>
-  <programme start="20260920190200 -0300" stop="20260920193100 -0300" channel="bis.claro.br">
+  <programme start="20260920184600 -0300" stop="20260920191500 -0300" channel="bis.claro.br">
     <title lang="pt">Inesquecíveis Da Música Brasileira</title>
   </programme>
-  <programme start="20260920193100 -0300" stop="20260920200400 -0300" channel="bis.claro.br">
+  <programme start="20260920191500 -0300" stop="20260920194800 -0300" channel="bis.claro.br">
     <title lang="pt">Além Da Rima</title>
   </programme>
-  <programme start="20260920200400 -0300" stop="20260920203400 -0300" channel="bis.claro.br">
+  <programme start="20260920194800 -0300" stop="20260920201800 -0300" channel="bis.claro.br">
     <title lang="pt">Hip Hop Machine</title>
   </programme>
-  <programme start="20260920203400 -0300" stop="20260920210600 -0300" channel="bis.claro.br">
+  <programme start="20260920201800 -0300" stop="20260920205100 -0300" channel="bis.claro.br">
     <title lang="pt">Voz Da Consciência</title>
   </programme>
-  <programme start="20260920210600 -0300" stop="20260920213400 -0300" channel="bis.claro.br">
+  <programme start="20260920205100 -0300" stop="20260920212000 -0300" channel="bis.claro.br">
     <title lang="pt">Encontros Orquestrados</title>
   </programme>
-  <programme start="20260920213400 -0300" stop="20260920223300 -0300" channel="bis.claro.br">
+  <programme start="20260920212000 -0300" stop="20260920221900 -0300" channel="bis.claro.br">
     <title lang="pt">Experimente</title>
   </programme>
-  <programme start="20260920223300 -0300" stop="20260920233100 -0300" channel="bis.claro.br">
+  <programme start="20260920221900 -0300" stop="20260920231700 -0300" channel="bis.claro.br">
     <title lang="pt">Experimente</title>
   </programme>
-  <programme start="20260920233100 -0300" stop="20260921000000 -0300" channel="bis.claro.br">
+  <programme start="20260920231700 -0300" stop="20260920234600 -0300" channel="bis.claro.br">
     <title lang="pt">Experimente</title>
+  </programme>
+  <programme start="20260920234600 -0300" stop="20260921003000 -0300" channel="bis.claro.br">
+    <title lang="pt">Chitãozinho &amp; Xororó - Uma História De Sucesso</title>
   </programme>
   <programme start="20260919000000 -0300" stop="20260919010000 -0300" channel="play_tv.claro.br">
     <title lang="pt">Canal substituído por TV WA – 135</title>
@@ -18795,8 +18816,11 @@
   <programme start="20260919091500 -0300" stop="20260919093000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Cantoras Portuguesas - Katia Guerreiro - Tocar</title>
   </programme>
-  <programme start="20260919093000 -0300" stop="20260919100000 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260919093000 -0300" stop="20260919095100 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Curta Na Tela: Arraial Do Cabo</title>
+  </programme>
+  <programme start="20260919095100 -0300" stop="20260919100000 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Noturnas: Pamela Star</title>
   </programme>
   <programme start="20260919100000 -0300" stop="20260919121000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Lamarca</title>
@@ -18831,8 +18855,14 @@
   <programme start="20260919194500 -0300" stop="20260919201500 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Curta Na Tela: Quando a Terra Treme</title>
   </programme>
-  <programme start="20260919201500 -0300" stop="20260919230000 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260919201500 -0300" stop="20260919220000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">O Auto Da Compadecida</title>
+  </programme>
+  <programme start="20260919220000 -0300" stop="20260919225100 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Alucinação - Alucinação</title>
+  </programme>
+  <programme start="20260919225100 -0300" stop="20260919230000 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Noturnas: Patrícia Saint-Laurent</title>
   </programme>
   <programme start="20260919230000 -0300" stop="20260919235600 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Maratona João Sem Deus - A Queda De Abadiânia - Cecília</title>
@@ -18858,14 +18888,35 @@
   <programme start="20260920051500 -0300" stop="20260920070000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Rei Do Rio</title>
   </programme>
-  <programme start="20260920070000 -0300" stop="20260920082200 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260920070000 -0300" stop="20260920073000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Maratona Curta Na Tela: Quando Aqui</title>
   </programme>
-  <programme start="20260920082200 -0300" stop="20260920090900 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260920073000 -0300" stop="20260920075400 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Maratona Curta Na Tela: Fenda</title>
+  </programme>
+  <programme start="20260920075400 -0300" stop="20260920080900 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Maratona Curta Na Tela: Megg - A Margem Que Migra Para O Centro</title>
+  </programme>
+  <programme start="20260920080900 -0300" stop="20260920082200 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Maratona Curta Na Tela: A Araucária - Memória Da Extinção</title>
+  </programme>
+  <programme start="20260920082200 -0300" stop="20260920083600 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Maratona Curta Na Tela: Kabuki</title>
   </programme>
-  <programme start="20260920090900 -0300" stop="20260920094100 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260920083600 -0300" stop="20260920084800 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Maratona Curta Na Tela: Guaracy</title>
+  </programme>
+  <programme start="20260920084800 -0300" stop="20260920090900 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Maratona Curta Na Tela: A Edição do Nordeste</title>
+  </programme>
+  <programme start="20260920090900 -0300" stop="20260920091500 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Maratona Curta Na Tela: A Pessoa é Para o Que Nasce</title>
+  </programme>
+  <programme start="20260920091500 -0300" stop="20260920093100 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Maratona Curta Na Tela: Emocionado</title>
+  </programme>
+  <programme start="20260920093100 -0300" stop="20260920094100 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Maratona Curta Na Tela: Histórias Em Quadrinhos</title>
   </programme>
   <programme start="20260920094100 -0300" stop="20260920100000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Maratona Curta Na Tela: Arraial Do Cabo</title>
@@ -18891,8 +18942,11 @@
   <programme start="20260920161000 -0300" stop="20260920181500 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Amélia</title>
   </programme>
-  <programme start="20260920181500 -0300" stop="20260920205000 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260920181500 -0300" stop="20260920200000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">O Auto Da Compadecida</title>
+  </programme>
+  <programme start="20260920200000 -0300" stop="20260920205000 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Alucinação - Alucinação</title>
   </programme>
   <programme start="20260920205000 -0300" stop="20260920205500 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Pílulas Espelho</title>
@@ -18903,7 +18957,7 @@
   <programme start="20260920222900 -0300" stop="20260920223500 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Tosco Tv - Deus É Pai</title>
   </programme>
-  <programme start="20260920223500 -0300" stop="20260921003000 -0300" channel="canal_brasil.claro.br">
+  <programme start="20260920223500 -0300" stop="20260921002000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Malu</title>
   </programme>
   <programme start="20260919014500 -0300" stop="20260919040500 -0300" channel="telecine_premium.claro.br">
@@ -20175,37 +20229,37 @@
   <programme start="20260920234500 -0300" stop="20260921012000 -0300" channel="telecine_fun.claro.br">
     <title lang="pt">Madagascar</title>
   </programme>
-  <programme start="20260919012800 -0300" stop="20260919032000 -0300" channel="cinemax.claro.br">
+  <programme start="20260919011700 -0300" stop="20260919030500 -0300" channel="cinemax.claro.br">
     <title lang="pt">Mountainhead</title>
   </programme>
-  <programme start="20260919032000 -0300" stop="20260919053600 -0300" channel="cinemax.claro.br">
+  <programme start="20260919030500 -0300" stop="20260919051400 -0300" channel="cinemax.claro.br">
     <title lang="pt">Detetive Dee: Os Quatro Reis Celestiais</title>
   </programme>
-  <programme start="20260919053600 -0300" stop="20260919060000 -0300" channel="cinemax.claro.br">
-    <title lang="pt">Europe Raiders</title>
+  <programme start="20260919051400 -0300" stop="20260919063300 -0300" channel="cinemax.claro.br">
+    <title lang="pt">Hollywood One on One</title>
   </programme>
-  <programme start="20260919060000 -0300" stop="20260919065600 -0300" channel="cinemax.claro.br">
+  <programme start="20260919063300 -0300" stop="20260919080700 -0300" channel="cinemax.claro.br">
     <title lang="pt">P Storm</title>
   </programme>
-  <programme start="20260919065600 -0300" stop="20260919081400 -0300" channel="cinemax.claro.br">
+  <programme start="20260919080700 -0300" stop="20260919092200 -0300" channel="cinemax.claro.br">
     <title lang="pt">A Aparição</title>
   </programme>
-  <programme start="20260919081400 -0300" stop="20260919101700 -0300" channel="cinemax.claro.br">
+  <programme start="20260919092200 -0300" stop="20260919111500 -0300" channel="cinemax.claro.br">
     <title lang="pt">No Coração do Mar</title>
   </programme>
-  <programme start="20260919101700 -0300" stop="20260919132100 -0300" channel="cinemax.claro.br">
+  <programme start="20260919111500 -0300" stop="20260919140200 -0300" channel="cinemax.claro.br">
     <title lang="pt">Batman</title>
   </programme>
-  <programme start="20260919132100 -0300" stop="20260919160000 -0300" channel="cinemax.claro.br">
+  <programme start="20260919140200 -0300" stop="20260919162700 -0300" channel="cinemax.claro.br">
     <title lang="pt">Batman - O Cavaleiro das Trevas</title>
   </programme>
-  <programme start="20260919160000 -0300" stop="20260919172100 -0300" channel="cinemax.claro.br">
+  <programme start="20260919162700 -0300" stop="20260919174000 -0300" channel="cinemax.claro.br">
     <title lang="pt">A Aparição</title>
   </programme>
-  <programme start="20260919172100 -0300" stop="20260919192500 -0300" channel="cinemax.claro.br">
+  <programme start="20260919174000 -0300" stop="20260919193700 -0300" channel="cinemax.claro.br">
     <title lang="pt">No Coração do Mar</title>
   </programme>
-  <programme start="20260919192500 -0300" stop="20260919223000 -0300" channel="cinemax.claro.br">
+  <programme start="20260919193700 -0300" stop="20260919223000 -0300" channel="cinemax.claro.br">
     <title lang="pt">Batman</title>
   </programme>
   <programme start="20260919223000 -0300" stop="20260920010600 -0300" channel="cinemax.claro.br">
@@ -27048,43 +27102,40 @@
   <programme start="20260920181900 -0300" stop="20260920184600 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Morando Na Estrada</title>
   </programme>
-  <programme start="20260920184600 -0300" stop="20260920191500 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920184600 -0300" stop="20260920191600 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Surfe Social Clube</title>
   </programme>
-  <programme start="20260920191500 -0300" stop="20260920194100 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920191600 -0300" stop="20260920194300 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Manual De Ondas Grandes</title>
   </programme>
-  <programme start="20260920194100 -0300" stop="20260920194900 -0300" channel="off_hd_.claro.br">
-    <title lang="pt">Curtas Do Off: Bike Under The Lights</title>
+  <programme start="20260920194300 -0300" stop="20260920195700 -0300" channel="off_hd_.claro.br">
+    <title lang="pt">Curtas Do Off: La Familia Muniz</title>
   </programme>
-  <programme start="20260920194900 -0300" stop="20260920200000 -0300" channel="off_hd_.claro.br">
-    <title lang="pt">Curtas Do Off: Arte, Cor E Renascimento</title>
-  </programme>
-  <programme start="20260920200000 -0300" stop="20260920202900 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920195700 -0300" stop="20260920202600 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Os Donos Do Havaí</title>
   </programme>
-  <programme start="20260920202900 -0300" stop="20260920205700 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920202600 -0300" stop="20260920205400 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Crowd Selvagem</title>
   </programme>
-  <programme start="20260920205700 -0300" stop="20260920212400 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920205400 -0300" stop="20260920212200 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Crowd Selvagem</title>
   </programme>
-  <programme start="20260920212400 -0300" stop="20260920215000 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920212200 -0300" stop="20260920214800 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Mar E Música</title>
   </programme>
-  <programme start="20260920215000 -0300" stop="20260920221800 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920214800 -0300" stop="20260920221600 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Yoga Em Todo Lugar</title>
   </programme>
-  <programme start="20260920221800 -0300" stop="20260920224600 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920221600 -0300" stop="20260920224400 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Mestres Do Movimento</title>
   </programme>
-  <programme start="20260920224600 -0300" stop="20260920231300 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920224400 -0300" stop="20260920231100 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Enciclopédia Off</title>
   </programme>
-  <programme start="20260920231300 -0300" stop="20260920234100 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920231100 -0300" stop="20260920233900 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Forças Da Natureza</title>
   </programme>
-  <programme start="20260920234100 -0300" stop="20260921000700 -0300" channel="off_hd_.claro.br">
+  <programme start="20260920233900 -0300" stop="20260921000600 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Trilhas E Travessias</title>
   </programme>
   <programme start="20260919003000 -0300" stop="20260919011500 -0300" channel="band_hd.claro.br">
@@ -27136,7 +27187,7 @@
     <title lang="pt">Band Negócios</title>
   </programme>
   <programme start="20260919110000 -0300" stop="20260919113000 -0300" channel="band_hd.claro.br">
-    <title lang="pt">A Definir</title>
+    <title lang="pt">Vila Real</title>
   </programme>
   <programme start="20260919113000 -0300" stop="20260919120000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Fórmula Band</title>
@@ -27154,7 +27205,7 @@
     <title lang="pt">Brasil Urgente</title>
   </programme>
   <programme start="20260919170000 -0300" stop="20260919192000 -0300" channel="band_hd.claro.br">
-    <title lang="pt">Campeonato Brasileiro Série C</title>
+    <title lang="pt">Maringá x Botafogo-PB - Ao Vivo</title>
   </programme>
   <programme start="20260919192000 -0300" stop="20260919203000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jornal da Band</title>
@@ -29452,7 +29503,7 @@
     <title lang="pt">Brasil x Argentina - Ao Vivo</title>
   </programme>
   <programme start="20260920120000 -0300" stop="20260920133000 -0300" channel="sportv_2_hd_.claro.br">
-    <title lang="pt">Copa das Nações de Futebol de Areia</title>
+    <title lang="pt">Copa das Nações de Futebol de Areia - Ao Vivo</title>
   </programme>
   <programme start="20260920133000 -0300" stop="20260920170000 -0300" channel="sportv_2_hd_.claro.br">
     <title lang="pt">NFL: Pittsburgh Steelers x New England Patriots - Ao Vivo</title>
@@ -30243,98 +30294,110 @@
   <programme start="20260919050000 -0300" stop="20260919060000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">Central Das Eleições</title>
   </programme>
-  <programme start="20260919060000 -0300" stop="20260919070000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
+  <programme start="20260919060000 -0300" stop="20260919071000 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">Jornal GloboNews - Edição Das 06h - Ao Vivo</title>
   </programme>
-  <programme start="20260919070000 -0300" stop="20260919080000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 07h - Ao Vivo</title>
+  <programme start="20260919071000 -0300" stop="20260919080000 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">GloboNews Especial</title>
   </programme>
   <programme start="20260919080000 -0300" stop="20260919090000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 08h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 08h - Ao Vivo</title>
   </programme>
   <programme start="20260919090000 -0300" stop="20260919100000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">Globo Repórter</title>
   </programme>
   <programme start="20260919100000 -0300" stop="20260919120000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 10h - Ao Vivo</title>
   </programme>
   <programme start="20260919120000 -0300" stop="20260919143000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição do Meio-dia - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Do Meio-Dia - Ao Vivo</title>
   </programme>
   <programme start="20260919143000 -0300" stop="20260919150000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Cidades e Soluções</title>
+    <title lang="pt">Cidades E Soluções</title>
   </programme>
-  <programme start="20260919150000 -0300" stop="20260919180000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
+  <programme start="20260919150000 -0300" stop="20260919171000 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">Jornal GloboNews - Edição Das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20260919171000 -0300" stop="20260919180000 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">Globo Repórter</title>
   </programme>
   <programme start="20260919180000 -0300" stop="20260919200000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
   </programme>
   <programme start="20260919200000 -0300" stop="20260919213000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 20h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 20h - Ao Vivo</title>
   </programme>
   <programme start="20260919213000 -0300" stop="20260919220000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Cidades e Soluções</title>
+    <title lang="pt">Cidades E Soluções</title>
   </programme>
   <programme start="20260919220000 -0300" stop="20260919230000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
   </programme>
   <programme start="20260919230000 -0300" stop="20260920003000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">GloboNews Documentário</title>
   </programme>
   <programme start="20260920003000 -0300" stop="20260920013000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
   </programme>
   <programme start="20260920013000 -0300" stop="20260920023000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">Globo Repórter</title>
   </programme>
   <programme start="20260920023000 -0300" stop="20260920030000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Cidades e Soluções</title>
+    <title lang="pt">Cidades E Soluções</title>
   </programme>
-  <programme start="20260920030000 -0300" stop="20260920050000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  <programme start="20260920030000 -0300" stop="20260920041000 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">Jornal GloboNews (3h) - Ao Vivo</title>
+  </programme>
+  <programme start="20260920041000 -0300" stop="20260920050000 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">GloboNews Especial</title>
   </programme>
   <programme start="20260920050000 -0300" stop="20260920060000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+    <title lang="pt">Jornal Das Dez</title>
   </programme>
   <programme start="20260920060000 -0300" stop="20260920062000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 06h - Ao Vivo</title>
   </programme>
   <programme start="20260920062000 -0300" stop="20260920070000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">Globo Repórter</title>
   </programme>
   <programme start="20260920070000 -0300" stop="20260920080000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 07h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 07h - Ao Vivo</title>
   </programme>
   <programme start="20260920080000 -0300" stop="20260920100000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 08h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 08h - Ao Vivo</title>
   </programme>
   <programme start="20260920100000 -0300" stop="20260920110000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 10h - Ao Vivo</title>
   </programme>
   <programme start="20260920110000 -0300" stop="20260920123000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">Globo Rural</title>
   </programme>
   <programme start="20260920123000 -0300" stop="20260920142000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição do Meio-dia - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Do Meio-Dia - Ao Vivo</title>
   </programme>
   <programme start="20260920142000 -0300" stop="20260920150000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Pequenas Empresas &amp;amp; Grandes Negócios</title>
+    <title lang="pt">Pequenas Empresas Grandes Negócios</title>
   </programme>
-  <programme start="20260920150000 -0300" stop="20260920180000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
+  <programme start="20260920150000 -0300" stop="20260920171000 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">Jornal GloboNews - Edição Das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20260920171000 -0300" stop="20260920180000 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">GloboNews Especial</title>
   </programme>
   <programme start="20260920180000 -0300" stop="20260920193000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
   </programme>
   <programme start="20260920193000 -0300" stop="20260920200000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">GloboNews Internacional - Ao Vivo</title>
   </programme>
   <programme start="20260920200000 -0300" stop="20260920220000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews Edição das 18h - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Das 18h - Ao Vivo</title>
   </programme>
-  <programme start="20260920220000 -0300" stop="20260920233500 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+  <programme start="20260920220000 -0300" stop="20260920230500 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
+  </programme>
+  <programme start="20260920230500 -0300" stop="20260920233500 -0300" channel="globonews_hd_.claro.br">
+    <title lang="pt">Cidades E Soluções</title>
   </programme>
   <programme start="20260920233500 -0300" stop="20260921023500 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">Fantástico</title>
@@ -30513,10 +30576,13 @@
   <programme start="20260920232400 -0300" stop="20260921002200 -0300" channel="viva_hd.claro.br">
     <title lang="pt">Amor À Vida</title>
   </programme>
-  <programme start="20260919013000 -0300" stop="20260919033000 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20260919013000 -0300" stop="20260919032000 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">São Paulo Open - Quartas de Final</title>
   </programme>
-  <programme start="20260919033000 -0300" stop="20260919063000 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20260919032000 -0300" stop="20260919033500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Heróis do Futuro: Vitória Rosa - Atletismo</title>
+  </programme>
+  <programme start="20260919033500 -0300" stop="20260919063000 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">NFL: Lions x Bills</title>
   </programme>
   <programme start="20260919063000 -0300" stop="20260919073000 -0300" channel="sportv_3_hd_.claro.br">
@@ -33013,7 +33079,7 @@
     <title lang="pt">Harley-Davidson Bagger World Cup</title>
   </programme>
   <programme start="20260919114500 -0300" stop="20260919124500 -0300" channel="espn_4_hd.claro.br">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Fernandinho</title>
   </programme>
   <programme start="20260919124500 -0300" stop="20260919131500 -0300" channel="espn_4_hd.claro.br">
     <title lang="pt">F1: The Inside Line</title>
@@ -33049,13 +33115,13 @@
     <title lang="pt">Show da Rodada da Copa da Liga</title>
   </programme>
   <programme start="20260920010000 -0300" stop="20260920030000 -0300" channel="espn_4_hd.claro.br">
-    <title lang="pt">VT - Manchester City x Sunderland</title>
+    <title lang="pt">VT - Newcastle x Hull City</title>
   </programme>
   <programme start="20260920030000 -0300" stop="20260920031500 -0300" channel="espn_4_hd.claro.br">
     <title lang="pt">Momento ESPN</title>
   </programme>
   <programme start="20260920031500 -0300" stop="20260920041500 -0300" channel="espn_4_hd.claro.br">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Ana Cristina, Ponteira e Oposto da Seleção Feminina de Vôlei</title>
   </programme>
   <programme start="20260920041500 -0300" stop="20260920054500 -0300" channel="espn_4_hd.claro.br">
     <title lang="pt">MotoGP</title>
@@ -33076,28 +33142,25 @@
     <title lang="pt">Especial Professores do Brasil: Judô</title>
   </programme>
   <programme start="20260920123000 -0300" stop="20260920133000 -0300" channel="espn_4_hd.claro.br">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Ana Cristina, Ponteira e Oposto da Seleção Feminina de Vôlei</title>
   </programme>
-  <programme start="20260920133000 -0300" stop="20260920134500 -0300" channel="espn_4_hd.claro.br">
-    <title lang="pt">Momento ESPN</title>
-  </programme>
-  <programme start="20260920134500 -0300" stop="20260920140000 -0300" channel="espn_4_hd.claro.br">
+  <programme start="20260920133000 -0300" stop="20260920140000 -0300" channel="espn_4_hd.claro.br">
     <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
   </programme>
   <programme start="20260920140000 -0300" stop="20260920203000 -0300" channel="espn_4_hd.claro.br">
     <title lang="pt">NFL Redzone - Ao Vivo</title>
   </programme>
   <programme start="20260920203000 -0300" stop="20260920213000 -0300" channel="espn_4_hd.claro.br">
-    <title lang="pt">Nascar Brasil: Etapa Curvelo-MG</title>
+    <title lang="pt">VT - NASCAR Brasil: Etapa de Curvelo</title>
   </programme>
   <programme start="20260920213000 -0300" stop="20260920233000 -0300" channel="espn_4_hd.claro.br">
-    <title lang="pt">VT - Fulham x Manchester United</title>
+    <title lang="pt">VT - Manchester City x Sunderland</title>
   </programme>
   <programme start="20260920233000 -0300" stop="20260921013000 -0300" channel="espn_4_hd.claro.br">
     <title lang="pt">VT - Bournemouth x Liverpool</title>
   </programme>
   <programme start="20260919000000 -0300" stop="20260919010000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Mina de Passe</title>
+    <title lang="pt">Resenha: Fernandinho</title>
   </programme>
   <programme start="20260919000000 -0300" stop="20260919003000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Inside Serie A</title>
@@ -33106,7 +33169,7 @@
     <title lang="pt">Sportscenter</title>
   </programme>
   <programme start="20260919010000 -0300" stop="20260919020000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Mina de Passe</title>
   </programme>
   <programme start="20260919013000 -0300" stop="20260919020000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">F1: The Inside Line</title>
@@ -33154,7 +33217,7 @@
     <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
   </programme>
   <programme start="20260919105000 -0300" stop="20260919125500 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Manchester City x Sunderland - Ao Vivo</title>
+    <title lang="pt">Newcastle x Hull City - Ao Vivo</title>
   </programme>
   <programme start="20260919105000 -0300" stop="20260919130000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Newcastle x Hull City - Ao Vivo</title>
@@ -33166,7 +33229,7 @@
     <title lang="pt">VT - Racing x Sarmiento</title>
   </programme>
   <programme start="20260919150000 -0300" stop="20260919160000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Fernandinho</title>
   </programme>
   <programme start="20260919150000 -0300" stop="20260919153000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Inside Serie A</title>
@@ -33199,7 +33262,7 @@
     <title lang="pt">VT - Brighton &amp; Hove Albion x Arsenal</title>
   </programme>
   <programme start="20260919210000 -0300" stop="20260919220000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Ana Cristina, Ponteira e Oposto da Seleção Feminina de Vôlei</title>
   </programme>
   <programme start="20260919210000 -0300" stop="20260920000000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">ESPN KnockOut</title>
@@ -33217,7 +33280,7 @@
     <title lang="pt">F1: The Inside Line</title>
   </programme>
   <programme start="20260920000000 -0300" stop="20260920010000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Ana Cristina, Ponteira e Oposto da Seleção Feminina de Vôlei</title>
   </programme>
   <programme start="20260920003000 -0300" stop="20260920013000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Sportscenter</title>
@@ -33322,7 +33385,7 @@
     <title lang="pt">VT - Juventus x Atalanta</title>
   </programme>
   <programme start="20260920230000 -0300" stop="20260921000000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Fernandinho</title>
   </programme>
   <programme start="20260919004400 -0300" stop="20260919013200 -0300" channel="discovery_hd_.claro.br">
     <title lang="pt">Construções Remotas</title>
@@ -35541,38 +35604,41 @@
   <programme start="20260920151900 -0300" stop="20260920170200 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Multishow Ao Vivo - Dois Amigos, Um Século De Música - Caetano Veloso E Gilberto Gil</title>
   </programme>
-  <programme start="20260920170200 -0300" stop="20260920173300 -0300" channel="bis_hd_.claro.br">
-    <title lang="pt">Hungria - Dvd Atmosfera</title>
+  <programme start="20260920170200 -0300" stop="20260920171700 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Multishow Ao Vivo - Ivete Sangalo 20 Anos</title>
   </programme>
-  <programme start="20260920173300 -0300" stop="20260920183300 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920171700 -0300" stop="20260920181700 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Versões</title>
   </programme>
-  <programme start="20260920183300 -0300" stop="20260920190200 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920181700 -0300" stop="20260920184600 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Samba Pra Sempre</title>
   </programme>
-  <programme start="20260920190200 -0300" stop="20260920193100 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920184600 -0300" stop="20260920191500 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Inesquecíveis Da Música Brasileira</title>
   </programme>
-  <programme start="20260920193100 -0300" stop="20260920200400 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920191500 -0300" stop="20260920194800 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Além Da Rima</title>
   </programme>
-  <programme start="20260920200400 -0300" stop="20260920203400 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920194800 -0300" stop="20260920201800 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Hip Hop Machine</title>
   </programme>
-  <programme start="20260920203400 -0300" stop="20260920210600 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920201800 -0300" stop="20260920205100 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Voz Da Consciência</title>
   </programme>
-  <programme start="20260920210600 -0300" stop="20260920213400 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920205100 -0300" stop="20260920212000 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Encontros Orquestrados</title>
   </programme>
-  <programme start="20260920213400 -0300" stop="20260920223300 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920212000 -0300" stop="20260920221900 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Experimente</title>
   </programme>
-  <programme start="20260920223300 -0300" stop="20260920233100 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920221900 -0300" stop="20260920231700 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Experimente</title>
   </programme>
-  <programme start="20260920233100 -0300" stop="20260921000000 -0300" channel="bis_hd_.claro.br">
+  <programme start="20260920231700 -0300" stop="20260920234600 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Experimente</title>
+  </programme>
+  <programme start="20260920234600 -0300" stop="20260921003000 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Chitãozinho &amp; Xororó - Uma História De Sucesso</title>
   </programme>
   <programme start="20260919003500 -0300" stop="20260919022000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">A Caverna</title>
@@ -35826,10 +35892,13 @@
   <programme start="20260919103500 -0300" stop="20260919104700 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20260919104700 -0300" stop="20260919112100 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20260919104700 -0300" stop="20260919114400 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20260919112100 -0300" stop="20260919122900 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20260919114400 -0300" stop="20260919120600 -0300" channel="gloob_hd_.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20260919120600 -0300" stop="20260919122900 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20260919122900 -0300" stop="20260919131400 -0300" channel="gloob_hd_.claro.br">
@@ -36027,20 +36096,8 @@
   <programme start="20260920092000 -0300" stop="20260920093200 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Tropa Da Roça</title>
   </programme>
-  <programme start="20260920093200 -0300" stop="20260920105800 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20260920093200 -0300" stop="20260920122800 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Cine Gloob: Trolls</title>
-  </programme>
-  <programme start="20260920105800 -0300" stop="20260920112100 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20260920112100 -0300" stop="20260920114300 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20260920114300 -0300" stop="20260920120600 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20260920120600 -0300" stop="20260920122800 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20260920122800 -0300" stop="20260920125100 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
