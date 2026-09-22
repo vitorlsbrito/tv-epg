@@ -22954,7 +22954,7 @@
     <title lang="pt">Participação de Olho Na Fazenda Nelore Aurora</title>
   </programme>
   <programme start="20260922000000 -0300" stop="20260922010000 -0300" channel="terra_viva.claro.br">
-    <title lang="pt">Bandnews</title>
+    <title lang="pt">Sabor &amp; Arte</title>
   </programme>
   <programme start="20260922010000 -0300" stop="20260922020000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Fish TV</title>
@@ -23004,7 +23004,10 @@
   <programme start="20260922100000 -0300" stop="20260922120000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Dia Dia Rural</title>
   </programme>
-  <programme start="20260922120000 -0300" stop="20260922130000 -0300" channel="terra_viva.claro.br">
+  <programme start="20260922120000 -0300" stop="20260922123000 -0300" channel="terra_viva.claro.br">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20260922123000 -0300" stop="20260922130000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Sabor &amp; Arte</title>
   </programme>
   <programme start="20260922130000 -0300" stop="20260922133000 -0300" channel="terra_viva.claro.br">
@@ -23047,10 +23050,10 @@
     <title lang="pt">Terraviva DBO na TV</title>
   </programme>
   <programme start="20260922233000 -0300" stop="20260923000000 -0300" channel="terra_viva.claro.br">
-    <title lang="pt">Sabor &amp; Arte</title>
+    <title lang="pt">Agritendências</title>
   </programme>
   <programme start="20260923000000 -0300" stop="20260923010000 -0300" channel="terra_viva.claro.br">
-    <title lang="pt">Bandnews</title>
+    <title lang="pt">Sabor &amp; Arte</title>
   </programme>
   <programme start="20260923010000 -0300" stop="20260923020000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Fish TV</title>
@@ -23100,7 +23103,10 @@
   <programme start="20260923100000 -0300" stop="20260923120000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Dia Dia Rural</title>
   </programme>
-  <programme start="20260923120000 -0300" stop="20260923130000 -0300" channel="terra_viva.claro.br">
+  <programme start="20260923120000 -0300" stop="20260923123000 -0300" channel="terra_viva.claro.br">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20260923123000 -0300" stop="20260923130000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Sabor &amp; Arte</title>
   </programme>
   <programme start="20260923130000 -0300" stop="20260923133000 -0300" channel="terra_viva.claro.br">
@@ -23130,10 +23136,10 @@
   <programme start="20260923200000 -0300" stop="20260923210000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Agromais</title>
   </programme>
-  <programme start="20260923210000 -0300" stop="20260923213000 -0300" channel="terra_viva.claro.br">
-    <title lang="pt">Agritendências</title>
+  <programme start="20260923210000 -0300" stop="20260923220000 -0300" channel="terra_viva.claro.br">
+    <title lang="pt">Mundo PBR</title>
   </programme>
-  <programme start="20260923213000 -0300" stop="20260923223000 -0300" channel="terra_viva.claro.br">
+  <programme start="20260923220000 -0300" stop="20260923223000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Fish TV</title>
   </programme>
   <programme start="20260923223000 -0300" stop="20260923230000 -0300" channel="terra_viva.claro.br">
@@ -23143,7 +23149,7 @@
     <title lang="pt">Terraviva DBO na TV</title>
   </programme>
   <programme start="20260923233000 -0300" stop="20260924000000 -0300" channel="terra_viva.claro.br">
-    <title lang="pt">Sabor &amp; Arte</title>
+    <title lang="pt">Agritendências</title>
   </programme>
   <programme start="20260922000000 -0300" stop="20260922001000 -0300" channel="rit_tv.claro.br">
     <title lang="pt">Jornal Toda Hora</title>
@@ -34692,29 +34698,32 @@
   <programme start="20260923231100 -0300" stop="20260924000100 -0300" channel="discovery_hd_.claro.br">
     <title lang="pt">As Piores Prisões do Mundo</title>
   </programme>
+  <programme start="20260922000000 -0300" stop="20260922003000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
   <programme start="20260922003000 -0300" stop="20260922004500 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Oléé</title>
   </programme>
-  <programme start="20260922004500 -0300" stop="20260922023000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">VT - Dinamo Moscou x Orenburg</title>
+  <programme start="20260922004500 -0300" stop="20260922024500 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Paulista de Basquete: Mogi x Corinthians - VT</title>
   </programme>
-  <programme start="20260922023000 -0300" stop="20260922040000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20260922024500 -0300" stop="20260922041500 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Tempo Técnico</title>
   </programme>
-  <programme start="20260922040000 -0300" stop="20260922050000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20260922041500 -0300" stop="20260922051500 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Depois do Jogo</title>
   </programme>
-  <programme start="20260922050000 -0300" stop="20260922053000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">A Nova Geração</title>
+  <programme start="20260922051500 -0300" stop="20260922053000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Vila Bandsports</title>
   </programme>
-  <programme start="20260922053000 -0300" stop="20260922060000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">The Golf Brasil</title>
+  <programme start="20260922053000 -0300" stop="20260922054500 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Momento Brasil Olímpico</title>
   </programme>
-  <programme start="20260922060000 -0300" stop="20260922061500 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Africa Eco Racing</title>
+  <programme start="20260922054500 -0300" stop="20260922060000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">STU Pro Tour São Paulo: Final do Vertical - VT</title>
   </programme>
-  <programme start="20260922061500 -0300" stop="20260922071500 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Mundial de Motocross</title>
+  <programme start="20260922060000 -0300" stop="20260922071500 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">STU Pro Tour São Paulo: Final do Vertical - VT</title>
   </programme>
   <programme start="20260922071500 -0300" stop="20260922073000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Oléé</title>
@@ -34741,13 +34750,13 @@
     <title lang="pt">Oléé</title>
   </programme>
   <programme start="20260922120000 -0300" stop="20260922140000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Programação Band Sports</title>
+    <title lang="pt">G4 - Ao Vivo</title>
   </programme>
   <programme start="20260922140000 -0300" stop="20260922160000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Sala do Esporte - Ao Vivo</title>
   </programme>
   <programme start="20260922160000 -0300" stop="20260922170000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Mundial de Motocross</title>
+    <title lang="pt">AMG Cup</title>
   </programme>
   <programme start="20260922170000 -0300" stop="20260922180000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Donos da Bola</title>
@@ -34755,44 +34764,41 @@
   <programme start="20260922180000 -0300" stop="20260922200000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Bola Rolando - Ao Vivo</title>
   </programme>
-  <programme start="20260922200000 -0300" stop="20260922210000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Esporte Agora - Ao Vivo</title>
-  </programme>
-  <programme start="20260922210000 -0300" stop="20260922220000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Destaques do Sail GP: Etapa Espanha</title>
+  <programme start="20260922200000 -0300" stop="20260922220000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Paulista de Basquete: Franca x Paulistano - Ao Vivo</title>
   </programme>
   <programme start="20260922220000 -0300" stop="20260922230000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Depois do Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20260922230000 -0300" stop="20260923000000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Papo de Paddock</title>
   </programme>
-  <programme start="20260922230000 -0300" stop="20260922233000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">A Nova Geração</title>
-  </programme>
-  <programme start="20260922233000 -0300" stop="20260923003000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Depois do Jogo - Ao Vivo</title>
+  <programme start="20260923000000 -0300" stop="20260923003000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">The Outdoor Sport Show</title>
   </programme>
   <programme start="20260923003000 -0300" stop="20260923004500 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Oléé</title>
   </programme>
-  <programme start="20260923004500 -0300" stop="20260923023000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Programação Band Sports</title>
+  <programme start="20260923004500 -0300" stop="20260923024500 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Paulista de Basquete: Franca x Paulistano - VT</title>
   </programme>
-  <programme start="20260923023000 -0300" stop="20260923033000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20260923024500 -0300" stop="20260923034500 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Depois do Jogo</title>
   </programme>
-  <programme start="20260923033000 -0300" stop="20260923043000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20260923034500 -0300" stop="20260923044500 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Papo de Paddock</title>
   </programme>
-  <programme start="20260923043000 -0300" stop="20260923053000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Destaques do Sail GP: Etapa Espanha</title>
-  </programme>
-  <programme start="20260923053000 -0300" stop="20260923060000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20260923044500 -0300" stop="20260923051500 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">The Outdoor Sport Show</title>
   </programme>
+  <programme start="20260923051500 -0300" stop="20260923060000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Turismo 1.4</title>
+  </programme>
   <programme start="20260923060000 -0300" stop="20260923061500 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Africa Eco Racing</title>
+    <title lang="pt">Turismo 1.4</title>
   </programme>
   <programme start="20260923061500 -0300" stop="20260923071500 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Mundial de Motocross</title>
+    <title lang="pt">AMG Cup</title>
   </programme>
   <programme start="20260923071500 -0300" stop="20260923073000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Oléé</title>
@@ -34804,10 +34810,10 @@
     <title lang="pt">Bandsports News - Ao Vivo</title>
   </programme>
   <programme start="20260923090000 -0300" stop="20260923100000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Na Reta dos Boxes</title>
+    <title lang="pt">Papo de Paddock</title>
   </programme>
   <programme start="20260923100000 -0300" stop="20260923103000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">A Nova Geração</title>
+    <title lang="pt">Gearing Up</title>
   </programme>
   <programme start="20260923103000 -0300" stop="20260923110000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Esporte Total</title>
@@ -34819,34 +34825,25 @@
     <title lang="pt">Oléé</title>
   </programme>
   <programme start="20260923120000 -0300" stop="20260923140000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Programação Band Sports</title>
+    <title lang="pt">G4 - Ao Vivo</title>
   </programme>
-  <programme start="20260923140000 -0300" stop="20260923144500 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20260923140000 -0300" stop="20260923160000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Sala do Esporte - Ao Vivo</title>
   </programme>
-  <programme start="20260923144500 -0300" stop="20260923164500 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Programação Band Sports</title>
+  <programme start="20260923160000 -0300" stop="20260923173000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Copa Sul de Futsal: Campo Mourão x Caçador Futsal - Ao Vivo</title>
   </programme>
-  <programme start="20260923164500 -0300" stop="20260923170000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Vila Bandsports</title>
-  </programme>
-  <programme start="20260923170000 -0300" stop="20260923180000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Donos da Bola</title>
+  <programme start="20260923173000 -0300" stop="20260923180000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">The Outdoor Sport Show</title>
   </programme>
   <programme start="20260923180000 -0300" stop="20260923200000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Bola Rolando - Ao Vivo</title>
   </programme>
-  <programme start="20260923200000 -0300" stop="20260923210000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Esporte Agora - Ao Vivo</title>
+  <programme start="20260923200000 -0300" stop="20260923220000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Paulista de Basquete: Corinthians x Mogi - Ao Vivo</title>
   </programme>
-  <programme start="20260923210000 -0300" stop="20260923223000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20260923220000 -0300" stop="20260923233000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Supermotor - Ao Vivo</title>
-  </programme>
-  <programme start="20260923223000 -0300" stop="20260923231500 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Expedicionários do Brasil</title>
-  </programme>
-  <programme start="20260923231500 -0300" stop="20260923233000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Momento Brasil Olímpico</title>
   </programme>
   <programme start="20260923233000 -0300" stop="20260924003000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Depois do Jogo - Ao Vivo</title>
@@ -36192,13 +36189,16 @@
   <programme start="20260923233000 -0300" stop="20260924000000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">Show da Rodada da Premier League</title>
   </programme>
-  <programme start="20260922000000 -0300" stop="20260922020000 -0300" channel="cnn_brasil_hd.claro.br">
+  <programme start="20260922001500 -0300" stop="20260922021500 -0300" channel="cnn_brasil_hd.claro.br">
     <title lang="pt">CNN Prime Time</title>
   </programme>
-  <programme start="20260922020000 -0300" stop="20260922040000 -0300" channel="cnn_brasil_hd.claro.br">
-    <title lang="pt">Hora H</title>
+  <programme start="20260922021500 -0300" stop="20260922031500 -0300" channel="cnn_brasil_hd.claro.br">
+    <title lang="pt">WW</title>
   </programme>
-  <programme start="20260922040000 -0300" stop="20260922055500 -0300" channel="cnn_brasil_hd.claro.br">
+  <programme start="20260922031500 -0300" stop="20260922035500 -0300" channel="cnn_brasil_hd.claro.br">
+    <title lang="pt">O Grande Debate Eleições</title>
+  </programme>
+  <programme start="20260922035500 -0300" stop="20260922055500 -0300" channel="cnn_brasil_hd.claro.br">
     <title lang="pt">CNN Prime Time</title>
   </programme>
   <programme start="20260922055500 -0300" stop="20260922060000 -0300" channel="cnn_brasil_hd.claro.br">
@@ -43503,49 +43503,52 @@
   <programme start="20260923235000 -0300" stop="20260924000000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">S.O.S. Fada Manu</title>
   </programme>
-  <programme start="20260922012600 -0300" stop="20260922015000 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922011700 -0300" stop="20260922014100 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20260922015000 -0300" stop="20260922021100 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922014100 -0300" stop="20260922020300 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20260922021100 -0300" stop="20260922023400 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922020300 -0300" stop="20260922022600 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20260922023400 -0300" stop="20260922025400 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922022600 -0300" stop="20260922024600 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20260922025400 -0300" stop="20260922031400 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922024600 -0300" stop="20260922030500 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20260922031400 -0300" stop="20260922033400 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922030500 -0300" stop="20260922032600 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20260922033400 -0300" stop="20260922035500 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922032600 -0300" stop="20260922034600 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20260922035500 -0300" stop="20260922041400 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922034600 -0300" stop="20260922040500 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20260922041400 -0300" stop="20260922043600 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922040500 -0300" stop="20260922042800 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20260922043600 -0300" stop="20260922045800 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922042800 -0300" stop="20260922045000 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20260922045800 -0300" stop="20260922052300 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922045000 -0300" stop="20260922051100 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">2 Broke Girls</title>
   </programme>
-  <programme start="20260922052300 -0300" stop="20260922060000 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922051100 -0300" stop="20260922054900 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Cobra Kai</title>
   </programme>
-  <programme start="20260922060000 -0300" stop="20260922064500 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922054900 -0300" stop="20260922060000 -0300" channel="warner_channel_hd.claro.br">
+    <title lang="pt">Hollywood One on One</title>
+  </programme>
+  <programme start="20260922060000 -0300" stop="20260922064100 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Cobra Kai</title>
   </programme>
-  <programme start="20260922064500 -0300" stop="20260922090300 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922064100 -0300" stop="20260922085600 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Um Lugar Chamado Notting Hill</title>
   </programme>
-  <programme start="20260922090300 -0300" stop="20260922092500 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20260922085600 -0300" stop="20260922092500 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
   <programme start="20260922092500 -0300" stop="20260922094700 -0300" channel="warner_channel_hd.claro.br">
