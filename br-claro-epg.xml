@@ -1980,11 +1980,11 @@
   <programme start="20261014233000 -0300" stop="20261015000000 -0300" channel="rede_familia.claro.br">
     <title lang="pt">Informercial</title>
   </programme>
-  <programme start="20261013000000 -0300" stop="20261013010000 -0300" channel="canal_comunitario.claro.br">
-    <title lang="pt">Programação Canal Comunitário</title>
-  </programme>
   <programme start="20261013000000 -0300" stop="20261013060000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Canal Comunitário</title>
+  </programme>
+  <programme start="20261013000000 -0300" stop="20261013010000 -0300" channel="canal_comunitario.claro.br">
+    <title lang="pt">Programação Canal Comunitário</title>
   </programme>
   <programme start="20261013010000 -0300" stop="20261013020000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
@@ -2001,11 +2001,11 @@
   <programme start="20261013050000 -0300" stop="20261013060000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
   </programme>
-  <programme start="20261013060000 -0300" stop="20261013070000 -0300" channel="canal_comunitario.claro.br">
-    <title lang="pt">Programação Canal Comunitário</title>
-  </programme>
   <programme start="20261013060000 -0300" stop="20261013120000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Canal Comunitário</title>
+  </programme>
+  <programme start="20261013060000 -0300" stop="20261013070000 -0300" channel="canal_comunitario.claro.br">
+    <title lang="pt">Programação Canal Comunitário</title>
   </programme>
   <programme start="20261013070000 -0300" stop="20261013080000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
@@ -2022,11 +2022,11 @@
   <programme start="20261013110000 -0300" stop="20261013120000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
   </programme>
-  <programme start="20261013120000 -0300" stop="20261013130000 -0300" channel="canal_comunitario.claro.br">
-    <title lang="pt">Programação Canal Comunitário</title>
-  </programme>
   <programme start="20261013120000 -0300" stop="20261013180000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Canal Comunitário</title>
+  </programme>
+  <programme start="20261013120000 -0300" stop="20261013130000 -0300" channel="canal_comunitario.claro.br">
+    <title lang="pt">Programação Canal Comunitário</title>
   </programme>
   <programme start="20261013130000 -0300" stop="20261013140000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
@@ -2043,11 +2043,11 @@
   <programme start="20261013170000 -0300" stop="20261013180000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
   </programme>
-  <programme start="20261013180000 -0300" stop="20261013190000 -0300" channel="canal_comunitario.claro.br">
-    <title lang="pt">Programação Canal Comunitário</title>
-  </programme>
   <programme start="20261013180000 -0300" stop="20261014000000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Canal Comunitário</title>
+  </programme>
+  <programme start="20261013180000 -0300" stop="20261013190000 -0300" channel="canal_comunitario.claro.br">
+    <title lang="pt">Programação Canal Comunitário</title>
   </programme>
   <programme start="20261013190000 -0300" stop="20261013200000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
@@ -10749,7 +10749,10 @@
   <programme start="20261014111700 -0300" stop="20261014114000 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261014114000 -0300" stop="20261014124900 -0300" channel="gloob.claro.br">
+  <programme start="20261014114000 -0300" stop="20261014122700 -0300" channel="gloob.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20261014122700 -0300" stop="20261014124900 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261014124900 -0300" stop="20261014131000 -0300" channel="gloob.claro.br">
@@ -10791,7 +10794,10 @@
   <programme start="20261014173000 -0300" stop="20261014175300 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261014175300 -0300" stop="20261014183800 -0300" channel="gloob.claro.br">
+  <programme start="20261014175300 -0300" stop="20261014181500 -0300" channel="gloob.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20261014181500 -0300" stop="20261014183800 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261014183800 -0300" stop="20261014190100 -0300" channel="gloob.claro.br">
@@ -10803,10 +10809,7 @@
   <programme start="20261014192500 -0300" stop="20261014194700 -0300" channel="gloob.claro.br">
     <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
   </programme>
-  <programme start="20261014194700 -0300" stop="20261014203200 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20261014203200 -0300" stop="20261014205500 -0300" channel="gloob.claro.br">
+  <programme start="20261014194700 -0300" stop="20261014205500 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261014205500 -0300" stop="20261014223500 -0300" channel="gloob.claro.br">
@@ -17190,97 +17193,100 @@
   <programme start="20261014235600 -0300" stop="20261015000700 -0300" channel="cartoon_network.claro.br">
     <title lang="pt">Ursos Sem Curso</title>
   </programme>
-  <programme start="20261013005000 -0300" stop="20261013014000 -0300" channel="sony.claro.br">
-    <title lang="pt">Shaking The Bar</title>
+  <programme start="20261013000000 -0300" stop="20261013013500 -0300" channel="sony.claro.br">
+    <title lang="pt">A Caçada (2020)</title>
   </programme>
-  <programme start="20261013014000 -0300" stop="20261013021000 -0300" channel="sony.claro.br">
+  <programme start="20261013013500 -0300" stop="20261013020500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013021000 -0300" stop="20261013024000 -0300" channel="sony.claro.br">
+  <programme start="20261013020500 -0300" stop="20261013023500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013024000 -0300" stop="20261013031000 -0300" channel="sony.claro.br">
+  <programme start="20261013023500 -0300" stop="20261013030500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013031000 -0300" stop="20261013034000 -0300" channel="sony.claro.br">
+  <programme start="20261013030500 -0300" stop="20261013033500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013034000 -0300" stop="20261013041000 -0300" channel="sony.claro.br">
+  <programme start="20261013033500 -0300" stop="20261013040500 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013041000 -0300" stop="20261013044000 -0300" channel="sony.claro.br">
+  <programme start="20261013040500 -0300" stop="20261013043500 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013044000 -0300" stop="20261013051000 -0300" channel="sony.claro.br">
+  <programme start="20261013043500 -0300" stop="20261013050500 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013051000 -0300" stop="20261013060000 -0300" channel="sony.claro.br">
+  <programme start="20261013050500 -0300" stop="20261013060000 -0300" channel="sony.claro.br">
     <title lang="pt">The Night Shift</title>
   </programme>
-  <programme start="20261013060000 -0300" stop="20261013070000 -0300" channel="sony.claro.br">
+  <programme start="20261013060000 -0300" stop="20261013065000 -0300" channel="sony.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261013070000 -0300" stop="20261013080000 -0300" channel="sony.claro.br">
+  <programme start="20261013065000 -0300" stop="20261013074000 -0300" channel="sony.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261013080000 -0300" stop="20261013083000 -0300" channel="sony.claro.br">
+  <programme start="20261013074000 -0300" stop="20261013081000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013083000 -0300" stop="20261013090000 -0300" channel="sony.claro.br">
+  <programme start="20261013081000 -0300" stop="20261013084000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013090000 -0300" stop="20261013093000 -0300" channel="sony.claro.br">
+  <programme start="20261013084000 -0300" stop="20261013091000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013093000 -0300" stop="20261013100000 -0300" channel="sony.claro.br">
+  <programme start="20261013091000 -0300" stop="20261013094000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013100000 -0300" stop="20261013103000 -0300" channel="sony.claro.br">
+  <programme start="20261013094000 -0300" stop="20261013101000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013103000 -0300" stop="20261013110000 -0300" channel="sony.claro.br">
+  <programme start="20261013101000 -0300" stop="20261013104000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013110000 -0300" stop="20261013113000 -0300" channel="sony.claro.br">
+  <programme start="20261013104000 -0300" stop="20261013111000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013113000 -0300" stop="20261013120000 -0300" channel="sony.claro.br">
+  <programme start="20261013111000 -0300" stop="20261013114000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013120000 -0300" stop="20261013140500 -0300" channel="sony.claro.br">
-    <title lang="pt">Os Bad Boys</title>
-  </programme>
-  <programme start="20261013140500 -0300" stop="20261013143500 -0300" channel="sony.claro.br">
+  <programme start="20261013114000 -0300" stop="20261013121000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013143500 -0300" stop="20261013150500 -0300" channel="sony.claro.br">
+  <programme start="20261013121000 -0300" stop="20261013142500 -0300" channel="sony.claro.br">
+    <title lang="pt">Ben-Hur</title>
+  </programme>
+  <programme start="20261013142500 -0300" stop="20261013145500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013150500 -0300" stop="20261013153500 -0300" channel="sony.claro.br">
+  <programme start="20261013145500 -0300" stop="20261013152500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013153500 -0300" stop="20261013160500 -0300" channel="sony.claro.br">
+  <programme start="20261013152500 -0300" stop="20261013155500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013160500 -0300" stop="20261013181000 -0300" channel="sony.claro.br">
-    <title lang="pt">Liga da Justiça</title>
+  <programme start="20261013155500 -0300" stop="20261013173500 -0300" channel="sony.claro.br">
+    <title lang="pt">Viagem 2: A Ilha Misteriosa</title>
   </programme>
-  <programme start="20261013181000 -0300" stop="20261013194000 -0300" channel="sony.claro.br">
-    <title lang="pt">João E Maria: Caçadores De Bruxas</title>
+  <programme start="20261013173500 -0300" stop="20261013195500 -0300" channel="sony.claro.br">
+    <title lang="pt">O Protetor</title>
   </programme>
-  <programme start="20261013194000 -0300" stop="20261013213500 -0300" channel="sony.claro.br">
-    <title lang="pt">Cores da Justiça</title>
+  <programme start="20261013195500 -0300" stop="20261013220000 -0300" channel="sony.claro.br">
+    <title lang="pt">O Protetor 2</title>
   </programme>
-  <programme start="20261013213500 -0300" stop="20261014001000 -0300" channel="sony.claro.br">
-    <title lang="pt">007 - Cassino Royale</title>
+  <programme start="20261013220000 -0300" stop="20261013230000 -0300" channel="sony.claro.br">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
   </programme>
-  <programme start="20261014001000 -0300" stop="20261014015500 -0300" channel="sony.claro.br">
-    <title lang="pt">Gente Grande</title>
+  <programme start="20261013230000 -0300" stop="20261014000000 -0300" channel="sony.claro.br">
+    <title lang="pt">Shaking The Bar</title>
   </programme>
-  <programme start="20261014015500 -0300" stop="20261014022500 -0300" channel="sony.claro.br">
+  <programme start="20261014000000 -0300" stop="20261014015000 -0300" channel="sony.claro.br">
+    <title lang="pt">O Último Caçador De Bruxas</title>
+  </programme>
+  <programme start="20261014015000 -0300" stop="20261014022000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014022500 -0300" stop="20261014025000 -0300" channel="sony.claro.br">
+  <programme start="20261014022000 -0300" stop="20261014025000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
   <programme start="20261014025000 -0300" stop="20261014031500 -0300" channel="sony.claro.br">
@@ -17301,62 +17307,68 @@
   <programme start="20261014051000 -0300" stop="20261014060000 -0300" channel="sony.claro.br">
     <title lang="pt">The Night Shift</title>
   </programme>
-  <programme start="20261014060000 -0300" stop="20261014070000 -0300" channel="sony.claro.br">
+  <programme start="20261014060000 -0300" stop="20261014065000 -0300" channel="sony.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261014070000 -0300" stop="20261014080000 -0300" channel="sony.claro.br">
+  <programme start="20261014065000 -0300" stop="20261014074500 -0300" channel="sony.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261014080000 -0300" stop="20261014083000 -0300" channel="sony.claro.br">
+  <programme start="20261014074500 -0300" stop="20261014081500 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261014083000 -0300" stop="20261014090000 -0300" channel="sony.claro.br">
+  <programme start="20261014081500 -0300" stop="20261014084500 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261014090000 -0300" stop="20261014093000 -0300" channel="sony.claro.br">
+  <programme start="20261014084500 -0300" stop="20261014091500 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261014093000 -0300" stop="20261014100000 -0300" channel="sony.claro.br">
+  <programme start="20261014091500 -0300" stop="20261014094500 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261014100000 -0300" stop="20261014103000 -0300" channel="sony.claro.br">
+  <programme start="20261014094500 -0300" stop="20261014101500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014103000 -0300" stop="20261014110000 -0300" channel="sony.claro.br">
+  <programme start="20261014101500 -0300" stop="20261014104500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014110000 -0300" stop="20261014113000 -0300" channel="sony.claro.br">
+  <programme start="20261014104500 -0300" stop="20261014111500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014113000 -0300" stop="20261014115500 -0300" channel="sony.claro.br">
+  <programme start="20261014111500 -0300" stop="20261014114500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014115500 -0300" stop="20261014143000 -0300" channel="sony.claro.br">
-    <title lang="pt">Robin Hood: O Príncipe dos Ladrões</title>
-  </programme>
-  <programme start="20261014143000 -0300" stop="20261014150000 -0300" channel="sony.claro.br">
+  <programme start="20261014114500 -0300" stop="20261014121500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014150000 -0300" stop="20261014153000 -0300" channel="sony.claro.br">
+  <programme start="20261014121500 -0300" stop="20261014135500 -0300" channel="sony.claro.br">
+    <title lang="pt">Viagem 2: A Ilha Misteriosa</title>
+  </programme>
+  <programme start="20261014135500 -0300" stop="20261014142500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014153000 -0300" stop="20261014160000 -0300" channel="sony.claro.br">
+  <programme start="20261014142500 -0300" stop="20261014145500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014160000 -0300" stop="20261014163000 -0300" channel="sony.claro.br">
+  <programme start="20261014145500 -0300" stop="20261014152500 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014163000 -0300" stop="20261014181500 -0300" channel="sony.claro.br">
-    <title lang="pt">Gente Grande</title>
+  <programme start="20261014152500 -0300" stop="20261014155500 -0300" channel="sony.claro.br">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014181500 -0300" stop="20261014200000 -0300" channel="sony.claro.br">
-    <title lang="pt">Gente Grande 2</title>
+  <programme start="20261014155500 -0300" stop="20261014180000 -0300" channel="sony.claro.br">
+    <title lang="pt">Liga da Justiça</title>
+  </programme>
+  <programme start="20261014180000 -0300" stop="20261014200000 -0300" channel="sony.claro.br">
+    <title lang="pt">Uma Ladra Sem Limites</title>
   </programme>
   <programme start="20261014200000 -0300" stop="20261014213500 -0300" channel="sony.claro.br">
-    <title lang="pt">Quarta de Cinema: Shrek para Sempre</title>
+    <title lang="pt">Quarta de Cinema: Viagem Ao Centro da Terra - O Filme</title>
   </programme>
-  <programme start="20261014213500 -0300" stop="20261015000500 -0300" channel="sony.claro.br">
-    <title lang="pt">Quarta de Cinema: Jurassic World - Domínio</title>
+  <programme start="20261014213500 -0300" stop="20261014233000 -0300" channel="sony.claro.br">
+    <title lang="pt">Quarta de Cinema: Sing 2</title>
+  </programme>
+  <programme start="20261014233000 -0300" stop="20261015013000 -0300" channel="sony.claro.br">
+    <title lang="pt">Uma Ladra Sem Limites</title>
   </programme>
   <programme start="20261013003000 -0300" stop="20261013010000 -0300" channel="tv_ra_tim_bum.claro.br">
     <title lang="pt">Musical Rá Tim Bum!</title>
@@ -20004,154 +20016,142 @@
   <programme start="20261013043900 -0300" stop="20261013060000 -0300" channel="tnt.claro.br">
     <title lang="pt">Armas em Jogo</title>
   </programme>
-  <programme start="20261013060000 -0300" stop="20261013060100 -0300" channel="tnt.claro.br">
-    <title lang="pt">TNT Buzz</title>
-  </programme>
-  <programme start="20261013060100 -0300" stop="20261013060400 -0300" channel="tnt.claro.br">
-    <title lang="pt">TNT Buzz</title>
-  </programme>
-  <programme start="20261013060400 -0300" stop="20261013081100 -0300" channel="tnt.claro.br">
-    <title lang="pt">O Destino de Júpiter</title>
-  </programme>
-  <programme start="20261013081100 -0300" stop="20261013100700 -0300" channel="tnt.claro.br">
-    <title lang="pt">O Vingador do Futuro</title>
-  </programme>
-  <programme start="20261013100700 -0300" stop="20261013103300 -0300" channel="tnt.claro.br">
+  <programme start="20261013060000 -0300" stop="20261013064500 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261013103300 -0300" stop="20261013105900 -0300" channel="tnt.claro.br">
+  <programme start="20261013064500 -0300" stop="20261013081600 -0300" channel="tnt.claro.br">
+    <title lang="pt">Turbo</title>
+  </programme>
+  <programme start="20261013081600 -0300" stop="20261013095800 -0300" channel="tnt.claro.br">
+    <title lang="pt">Trolls</title>
+  </programme>
+  <programme start="20261013095800 -0300" stop="20261013102100 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261013105900 -0300" stop="20261013112500 -0300" channel="tnt.claro.br">
+  <programme start="20261013102100 -0300" stop="20261013104500 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261013112500 -0300" stop="20261013115100 -0300" channel="tnt.claro.br">
-    <title lang="pt">Um Maluco no Pedaço</title>
+  <programme start="20261013104500 -0300" stop="20261013110600 -0300" channel="tnt.claro.br">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20261013110600 -0300" stop="20261013112900 -0300" channel="tnt.claro.br">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20261013112900 -0300" stop="20261013115100 -0300" channel="tnt.claro.br">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
   <programme start="20261013115100 -0300" stop="20261013121200 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013121200 -0300" stop="20261013123400 -0300" channel="tnt.claro.br">
+  <programme start="20261013121200 -0300" stop="20261013123000 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013123400 -0300" stop="20261013125500 -0300" channel="tnt.claro.br">
+  <programme start="20261013123000 -0300" stop="20261013134700 -0300" channel="tnt.claro.br">
+    <title lang="pt">Pré-Jogo UEFA Champions League</title>
+  </programme>
+  <programme start="20261013134700 -0300" stop="20261013160100 -0300" channel="tnt.claro.br">
+    <title lang="pt">Lens x Sporting - Ao Vivo</title>
+  </programme>
+  <programme start="20261013160100 -0300" stop="20261013180000 -0300" channel="tnt.claro.br">
+    <title lang="pt">Galatasaray x Barcelona - Ao Vivo</title>
+  </programme>
+  <programme start="20261013180000 -0300" stop="20261013190000 -0300" channel="tnt.claro.br">
+    <title lang="pt">Pós-Jogo UEFA Champions League</title>
+  </programme>
+  <programme start="20261013190000 -0300" stop="20261013200000 -0300" channel="tnt.claro.br">
+    <title lang="pt">Convocados</title>
+  </programme>
+  <programme start="20261013200000 -0300" stop="20261013214600 -0300" channel="tnt.claro.br">
+    <title lang="pt">O Atirador Fantasma</title>
+  </programme>
+  <programme start="20261013214600 -0300" stop="20261013234700 -0300" channel="tnt.claro.br">
+    <title lang="pt">Na Mira do Perigo</title>
+  </programme>
+  <programme start="20261013234700 -0300" stop="20261014000800 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013125500 -0300" stop="20261013131800 -0300" channel="tnt.claro.br">
+  <programme start="20261014000800 -0300" stop="20261014003200 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013131800 -0300" stop="20261013134000 -0300" channel="tnt.claro.br">
+  <programme start="20261014003200 -0300" stop="20261014005600 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013134000 -0300" stop="20261013152200 -0300" channel="tnt.claro.br">
-    <title lang="pt">Rota De Fuga 3: O Resgate</title>
-  </programme>
-  <programme start="20261013152200 -0300" stop="20261013170000 -0300" channel="tnt.claro.br">
-    <title lang="pt">Fúria de Titãs 2</title>
-  </programme>
-  <programme start="20261013170000 -0300" stop="20261013185700 -0300" channel="tnt.claro.br">
-    <title lang="pt">Megatubarão 2</title>
-  </programme>
-  <programme start="20261013185700 -0300" stop="20261013205700 -0300" channel="tnt.claro.br">
-    <title lang="pt">Terremoto: A Falha de San Andreas</title>
-  </programme>
-  <programme start="20261013205700 -0300" stop="20261013233000 -0300" channel="tnt.claro.br">
-    <title lang="pt">O Esquadrão Suicida</title>
-  </programme>
-  <programme start="20261013233000 -0300" stop="20261013235400 -0300" channel="tnt.claro.br">
+  <programme start="20261014005600 -0300" stop="20261014011900 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013235400 -0300" stop="20261014001900 -0300" channel="tnt.claro.br">
+  <programme start="20261014011900 -0300" stop="20261014014000 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014001900 -0300" stop="20261014004400 -0300" channel="tnt.claro.br">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-  </programme>
-  <programme start="20261014004400 -0300" stop="20261014010800 -0300" channel="tnt.claro.br">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-  </programme>
-  <programme start="20261014010800 -0300" stop="20261014012900 -0300" channel="tnt.claro.br">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-  </programme>
-  <programme start="20261014012900 -0300" stop="20261014015400 -0300" channel="tnt.claro.br">
+  <programme start="20261014014000 -0300" stop="20261014020400 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014015400 -0300" stop="20261014021800 -0300" channel="tnt.claro.br">
+  <programme start="20261014020400 -0300" stop="20261014022800 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014021800 -0300" stop="20261014024000 -0300" channel="tnt.claro.br">
+  <programme start="20261014022800 -0300" stop="20261014025000 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014024000 -0300" stop="20261014030300 -0300" channel="tnt.claro.br">
+  <programme start="20261014025000 -0300" stop="20261014031200 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014030300 -0300" stop="20261014044400 -0300" channel="tnt.claro.br">
-    <title lang="pt">Cinquenta Tons de Liberdade</title>
+  <programme start="20261014031200 -0300" stop="20261014050600 -0300" channel="tnt.claro.br">
+    <title lang="pt">Gananciosos</title>
   </programme>
-  <programme start="20261014044400 -0300" stop="20261014051800 -0300" channel="tnt.claro.br">
-    <title lang="pt">Hollywood One on One</title>
+  <programme start="20261014050600 -0300" stop="20261014060000 -0300" channel="tnt.claro.br">
+    <title lang="pt">Armas em Jogo</title>
   </programme>
-  <programme start="20261014051800 -0300" stop="20261014055300 -0300" channel="tnt.claro.br">
-    <title lang="pt">Hollywood One on One</title>
+  <programme start="20261014060000 -0300" stop="20261014062000 -0300" channel="tnt.claro.br">
+    <title lang="pt">Instinto Predador</title>
   </programme>
-  <programme start="20261014055300 -0300" stop="20261014055600 -0300" channel="tnt.claro.br">
-    <title lang="pt">TNT Buzz</title>
-  </programme>
-  <programme start="20261014055600 -0300" stop="20261014060000 -0300" channel="tnt.claro.br">
-    <title lang="pt">TNT Buzz</title>
-  </programme>
-  <programme start="20261014060000 -0300" stop="20261014070300 -0300" channel="tnt.claro.br">
-    <title lang="pt">Mortal Kombat - O Filme</title>
-  </programme>
-  <programme start="20261014070300 -0300" stop="20261014090100 -0300" channel="tnt.claro.br">
-    <title lang="pt">O Vingador do Futuro</title>
-  </programme>
-  <programme start="20261014090100 -0300" stop="20261014111300 -0300" channel="tnt.claro.br">
-    <title lang="pt">Oblivion</title>
-  </programme>
-  <programme start="20261014111300 -0300" stop="20261014113700 -0300" channel="tnt.claro.br">
+  <programme start="20261014062000 -0300" stop="20261014065000 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014113700 -0300" stop="20261014120100 -0300" channel="tnt.claro.br">
+  <programme start="20261014065000 -0300" stop="20261014072000 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014120100 -0300" stop="20261014122700 -0300" channel="tnt.claro.br">
+  <programme start="20261014072000 -0300" stop="20261014075000 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014122700 -0300" stop="20261014125200 -0300" channel="tnt.claro.br">
-    <title lang="pt">Um Maluco no Pedaço</title>
-  </programme>
-  <programme start="20261014125200 -0300" stop="20261014131300 -0300" channel="tnt.claro.br">
+  <programme start="20261014075000 -0300" stop="20261014082000 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014131300 -0300" stop="20261014133400 -0300" channel="tnt.claro.br">
+  <programme start="20261014082000 -0300" stop="20261014085000 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014133400 -0300" stop="20261014135600 -0300" channel="tnt.claro.br">
+  <programme start="20261014085000 -0300" stop="20261014092000 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014135600 -0300" stop="20261014141500 -0300" channel="tnt.claro.br">
+  <programme start="20261014092000 -0300" stop="20261014095000 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014141500 -0300" stop="20261014143400 -0300" channel="tnt.claro.br">
+  <programme start="20261014095000 -0300" stop="20261014103000 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014143400 -0300" stop="20261014163600 -0300" channel="tnt.claro.br">
-    <title lang="pt">Romeu tem que Morrer</title>
+  <programme start="20261014103000 -0300" stop="20261014123000 -0300" channel="tnt.claro.br">
+    <title lang="pt">Galatasaray x Barcelona - Ao Vivo</title>
   </programme>
-  <programme start="20261014163600 -0300" stop="20261014184500 -0300" channel="tnt.claro.br">
-    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+  <programme start="20261014123000 -0300" stop="20261014134700 -0300" channel="tnt.claro.br">
+    <title lang="pt">Pré-Jogo UEFA Champions League</title>
   </programme>
-  <programme start="20261014184500 -0300" stop="20261014211400 -0300" channel="tnt.claro.br">
-    <title lang="pt">Aquaman</title>
+  <programme start="20261014134700 -0300" stop="20261014160100 -0300" channel="tnt.claro.br">
+    <title lang="pt">Lask Linz x Liverpool - Ao Vivo</title>
   </programme>
-  <programme start="20261014211400 -0300" stop="20261014233000 -0300" channel="tnt.claro.br">
-    <title lang="pt">Aquaman 2: O Reino Perdido</title>
+  <programme start="20261014160100 -0300" stop="20261014180000 -0300" channel="tnt.claro.br">
+    <title lang="pt">Roma x Real Madrid - Ao Vivo</title>
   </programme>
-  <programme start="20261014233000 -0300" stop="20261014235200 -0300" channel="tnt.claro.br">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  <programme start="20261014180000 -0300" stop="20261014190000 -0300" channel="tnt.claro.br">
+    <title lang="pt">Pós-Jogo UEFA Champions League</title>
   </programme>
-  <programme start="20261014235200 -0300" stop="20261015001200 -0300" channel="tnt.claro.br">
+  <programme start="20261014190000 -0300" stop="20261014200000 -0300" channel="tnt.claro.br">
+    <title lang="pt">Convocados</title>
+  </programme>
+  <programme start="20261014200000 -0300" stop="20261014215300 -0300" channel="tnt.claro.br">
+    <title lang="pt">Na Mira do Perigo</title>
+  </programme>
+  <programme start="20261014215300 -0300" stop="20261014235200 -0300" channel="tnt.claro.br">
+    <title lang="pt">Barbie</title>
+  </programme>
+  <programme start="20261014235200 -0300" stop="20261015002200 -0300" channel="tnt.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
   <programme start="20261013000000 -0300" stop="20261013040000 -0300" channel="cinecanal.claro.br">
@@ -20709,155 +20709,137 @@
   <programme start="20261013050300 -0300" stop="20261013054800 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261013054800 -0300" stop="20261013060300 -0300" channel="space.claro.br">
+  <programme start="20261013054800 -0300" stop="20261013060000 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013060300 -0300" stop="20261013074300 -0300" channel="space.claro.br">
-    <title lang="pt">Kill Mode - Modo de Destruição</title>
+  <programme start="20261013060000 -0300" stop="20261013074800 -0300" channel="space.claro.br">
+    <title lang="pt">Carter, O Vingador</title>
   </programme>
-  <programme start="20261013074300 -0300" stop="20261013092100 -0300" channel="space.claro.br">
-    <title lang="pt">Difícil de Matar</title>
+  <programme start="20261013074800 -0300" stop="20261013100200 -0300" channel="space.claro.br">
+    <title lang="pt">Atirador</title>
   </programme>
-  <programme start="20261013092100 -0300" stop="20261013111700 -0300" channel="space.claro.br">
-    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+  <programme start="20261013100200 -0300" stop="20261013115700 -0300" channel="space.claro.br">
+    <title lang="pt">Aves de Rapina (Arlequina e sua Emancipação Fantabulosa)</title>
   </programme>
-  <programme start="20261013111700 -0300" stop="20261013120300 -0300" channel="space.claro.br">
+  <programme start="20261013115700 -0300" stop="20261013124500 -0300" channel="space.claro.br">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20261013124500 -0300" stop="20261013133000 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013120300 -0300" stop="20261013125100 -0300" channel="space.claro.br">
+  <programme start="20261013133000 -0300" stop="20261013134800 -0300" channel="space.claro.br">
+    <title lang="pt">Pré-Jogo UEFA Champions League</title>
+  </programme>
+  <programme start="20261013134800 -0300" stop="20261013154700 -0300" channel="space.claro.br">
+    <title lang="pt">Sabah FK x Slavia Praha - Ao Vivo</title>
+  </programme>
+  <programme start="20261013154700 -0300" stop="20261013180000 -0300" channel="space.claro.br">
+    <title lang="pt">Atlético de Madrid x Manchester United - Ao Vivo</title>
+  </programme>
+  <programme start="20261013180000 -0300" stop="20261013184600 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013125100 -0300" stop="20261013133500 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013133500 -0300" stop="20261013142200 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013142200 -0300" stop="20261013150800 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013150800 -0300" stop="20261013155600 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013155600 -0300" stop="20261013164200 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013164200 -0300" stop="20261013172800 -0300" channel="space.claro.br">
+  <programme start="20261013184600 -0300" stop="20261013193300 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013172800 -0300" stop="20261013181400 -0300" channel="space.claro.br">
+  <programme start="20261013193300 -0300" stop="20261013201900 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013181400 -0300" stop="20261013190300 -0300" channel="space.claro.br">
+  <programme start="20261013201900 -0300" stop="20261013210500 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261013190300 -0300" stop="20261013195000 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013195000 -0300" stop="20261013204000 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013204000 -0300" stop="20261013212800 -0300" channel="space.claro.br">
+  <programme start="20261013210500 -0300" stop="20261013215200 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013212800 -0300" stop="20261013221500 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20261013221500 -0300" stop="20261013230000 -0300" channel="space.claro.br">
+  <programme start="20261013215200 -0300" stop="20261013223800 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261013230000 -0300" stop="20261013232600 -0300" channel="space.claro.br">
+  <programme start="20261013223800 -0300" stop="20261013232600 -0300" channel="space.claro.br">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20261013232600 -0300" stop="20261013235400 -0300" channel="space.claro.br">
     <title lang="pt">Operação Fronteira Brasil</title>
   </programme>
-  <programme start="20261013232600 -0300" stop="20261013235100 -0300" channel="space.claro.br">
+  <programme start="20261013235400 -0300" stop="20261014002100 -0300" channel="space.claro.br">
     <title lang="pt">Operação Fronteira Brasil</title>
   </programme>
-  <programme start="20261013235100 -0300" stop="20261014003500 -0300" channel="space.claro.br">
+  <programme start="20261014002100 -0300" stop="20261014010500 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014003500 -0300" stop="20261014012100 -0300" channel="space.claro.br">
+  <programme start="20261014010500 -0300" stop="20261014015100 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014012100 -0300" stop="20261014020600 -0300" channel="space.claro.br">
+  <programme start="20261014015100 -0300" stop="20261014023600 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014020600 -0300" stop="20261014025000 -0300" channel="space.claro.br">
+  <programme start="20261014023600 -0300" stop="20261014032100 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014025000 -0300" stop="20261014033200 -0300" channel="space.claro.br">
+  <programme start="20261014032100 -0300" stop="20261014040500 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014033200 -0300" stop="20261014041500 -0300" channel="space.claro.br">
+  <programme start="20261014040500 -0300" stop="20261014044800 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014041500 -0300" stop="20261014045900 -0300" channel="space.claro.br">
+  <programme start="20261014044800 -0300" stop="20261014053100 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014045900 -0300" stop="20261014054200 -0300" channel="space.claro.br">
+  <programme start="20261014053100 -0300" stop="20261014060000 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014054200 -0300" stop="20261014055000 -0300" channel="space.claro.br">
-    <title lang="pt">Hollywood One on One</title>
+  <programme start="20261014060000 -0300" stop="20261014074400 -0300" channel="space.claro.br">
+    <title lang="pt">MIB - Homens de Preto</title>
   </programme>
-  <programme start="20261014055000 -0300" stop="20261014061300 -0300" channel="space.claro.br">
-    <title lang="pt">Hollywood One on One</title>
+  <programme start="20261014074400 -0300" stop="20261014091800 -0300" channel="space.claro.br">
+    <title lang="pt">MIB - Homens de Preto 2</title>
   </programme>
-  <programme start="20261014061300 -0300" stop="20261014084700 -0300" channel="space.claro.br">
-    <title lang="pt">Doutor Sono</title>
+  <programme start="20261014091800 -0300" stop="20261014111100 -0300" channel="space.claro.br">
+    <title lang="pt">MIB: Homens De Preto 3</title>
   </programme>
-  <programme start="20261014084700 -0300" stop="20261014105700 -0300" channel="space.claro.br">
-    <title lang="pt">Os Pequenos Vestígios</title>
-  </programme>
-  <programme start="20261014105700 -0300" stop="20261014125600 -0300" channel="space.claro.br">
-    <title lang="pt">Homem-Aranha no Aranhaverso</title>
-  </programme>
-  <programme start="20261014125600 -0300" stop="20261014134200 -0300" channel="space.claro.br">
+  <programme start="20261014111100 -0300" stop="20261014115900 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014134200 -0300" stop="20261014142800 -0300" channel="space.claro.br">
+  <programme start="20261014115900 -0300" stop="20261014124300 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014142800 -0300" stop="20261014151400 -0300" channel="space.claro.br">
+  <programme start="20261014124300 -0300" stop="20261014133000 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014151400 -0300" stop="20261014160100 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
+  <programme start="20261014133000 -0300" stop="20261014134800 -0300" channel="space.claro.br">
+    <title lang="pt">Pré-Jogo UEFA Champions League</title>
   </programme>
-  <programme start="20261014160100 -0300" stop="20261014164800 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
+  <programme start="20261014134800 -0300" stop="20261014154700 -0300" channel="space.claro.br">
+    <title lang="pt">Feyenoord x Como - Ao Vivo</title>
   </programme>
-  <programme start="20261014164800 -0300" stop="20261014173300 -0300" channel="space.claro.br">
+  <programme start="20261014154700 -0300" stop="20261014180000 -0300" channel="space.claro.br">
+    <title lang="pt">Aston Villa x Fenerbahçe - Ao Vivo</title>
+  </programme>
+  <programme start="20261014180000 -0300" stop="20261014184800 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014173300 -0300" stop="20261014182200 -0300" channel="space.claro.br">
+  <programme start="20261014184800 -0300" stop="20261014193600 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014182200 -0300" stop="20261014190700 -0300" channel="space.claro.br">
+  <programme start="20261014193600 -0300" stop="20261014202300 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014190700 -0300" stop="20261014195500 -0300" channel="space.claro.br">
+  <programme start="20261014202300 -0300" stop="20261014210800 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014195500 -0300" stop="20261014203900 -0300" channel="space.claro.br">
+  <programme start="20261014210800 -0300" stop="20261014215300 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014203900 -0300" stop="20261014212600 -0300" channel="space.claro.br">
+  <programme start="20261014215300 -0300" stop="20261014223800 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014212600 -0300" stop="20261014221300 -0300" channel="space.claro.br">
+  <programme start="20261014223800 -0300" stop="20261014232900 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014221300 -0300" stop="20261014230000 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261014230000 -0300" stop="20261014232600 -0300" channel="space.claro.br">
+  <programme start="20261014232900 -0300" stop="20261014235700 -0300" channel="space.claro.br">
     <title lang="pt">Operação Fronteira Brasil</title>
   </programme>
-  <programme start="20261014232600 -0300" stop="20261014235200 -0300" channel="space.claro.br">
+  <programme start="20261014235700 -0300" stop="20261015002400 -0300" channel="space.claro.br">
     <title lang="pt">Operação Fronteira Brasil</title>
-  </programme>
-  <programme start="20261014235200 -0300" stop="20261015003600 -0300" channel="space.claro.br">
-    <title lang="pt">C.S.I</title>
   </programme>
   <programme start="20261013014000 -0300" stop="20261013032000 -0300" channel="telecine_fun.claro.br">
     <title lang="pt">Vai Que Cola - O Filme</title>
@@ -37005,97 +36987,100 @@
   <programme start="20261014233200 -0300" stop="20261015000400 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Hungria - Dvd Atmosfera</title>
   </programme>
-  <programme start="20261013005000 -0300" stop="20261013014000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Shaking The Bar</title>
+  <programme start="20261013000000 -0300" stop="20261013013500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">A Caçada (2020)</title>
   </programme>
-  <programme start="20261013014000 -0300" stop="20261013021000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013013500 -0300" stop="20261013020500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013021000 -0300" stop="20261013024000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013020500 -0300" stop="20261013023500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013024000 -0300" stop="20261013031000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013023500 -0300" stop="20261013030500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013031000 -0300" stop="20261013034000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013030500 -0300" stop="20261013033500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013034000 -0300" stop="20261013041000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013033500 -0300" stop="20261013040500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013041000 -0300" stop="20261013044000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013040500 -0300" stop="20261013043500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013044000 -0300" stop="20261013051000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013043500 -0300" stop="20261013050500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013051000 -0300" stop="20261013060000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013050500 -0300" stop="20261013060000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Night Shift</title>
   </programme>
-  <programme start="20261013060000 -0300" stop="20261013070000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013060000 -0300" stop="20261013065000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261013070000 -0300" stop="20261013080000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013065000 -0300" stop="20261013074000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261013080000 -0300" stop="20261013083000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013074000 -0300" stop="20261013081000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013083000 -0300" stop="20261013090000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013081000 -0300" stop="20261013084000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013090000 -0300" stop="20261013093000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013084000 -0300" stop="20261013091000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013093000 -0300" stop="20261013100000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013091000 -0300" stop="20261013094000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261013100000 -0300" stop="20261013103000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013094000 -0300" stop="20261013101000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013103000 -0300" stop="20261013110000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013101000 -0300" stop="20261013104000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013110000 -0300" stop="20261013113000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013104000 -0300" stop="20261013111000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013113000 -0300" stop="20261013120000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013111000 -0300" stop="20261013114000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013120000 -0300" stop="20261013140500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Os Bad Boys</title>
-  </programme>
-  <programme start="20261013140500 -0300" stop="20261013143500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013114000 -0300" stop="20261013121000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013143500 -0300" stop="20261013150500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013121000 -0300" stop="20261013142500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Ben-Hur</title>
+  </programme>
+  <programme start="20261013142500 -0300" stop="20261013145500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013150500 -0300" stop="20261013153500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013145500 -0300" stop="20261013152500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013153500 -0300" stop="20261013160500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261013152500 -0300" stop="20261013155500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261013160500 -0300" stop="20261013181000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Liga da Justiça</title>
+  <programme start="20261013155500 -0300" stop="20261013173500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Viagem 2: A Ilha Misteriosa</title>
   </programme>
-  <programme start="20261013181000 -0300" stop="20261013194000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">João E Maria: Caçadores De Bruxas</title>
+  <programme start="20261013173500 -0300" stop="20261013195500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">O Protetor</title>
   </programme>
-  <programme start="20261013194000 -0300" stop="20261013213500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Cores da Justiça</title>
+  <programme start="20261013195500 -0300" stop="20261013220000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">O Protetor 2</title>
   </programme>
-  <programme start="20261013213500 -0300" stop="20261014001000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">007 - Cassino Royale</title>
+  <programme start="20261013220000 -0300" stop="20261013230000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
   </programme>
-  <programme start="20261014001000 -0300" stop="20261014015500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Gente Grande</title>
+  <programme start="20261013230000 -0300" stop="20261014000000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Shaking The Bar</title>
   </programme>
-  <programme start="20261014015500 -0300" stop="20261014022500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014000000 -0300" stop="20261014015000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">O Último Caçador De Bruxas</title>
+  </programme>
+  <programme start="20261014015000 -0300" stop="20261014022000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014022500 -0300" stop="20261014025000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014022000 -0300" stop="20261014025000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
   <programme start="20261014025000 -0300" stop="20261014031500 -0300" channel="sony_hd_.claro.br">
@@ -37116,62 +37101,68 @@
   <programme start="20261014051000 -0300" stop="20261014060000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Night Shift</title>
   </programme>
-  <programme start="20261014060000 -0300" stop="20261014070000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014060000 -0300" stop="20261014065000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261014070000 -0300" stop="20261014080000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014065000 -0300" stop="20261014074500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261014080000 -0300" stop="20261014083000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014074500 -0300" stop="20261014081500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261014083000 -0300" stop="20261014090000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014081500 -0300" stop="20261014084500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261014090000 -0300" stop="20261014093000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014084500 -0300" stop="20261014091500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261014093000 -0300" stop="20261014100000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014091500 -0300" stop="20261014094500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261014100000 -0300" stop="20261014103000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014094500 -0300" stop="20261014101500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014103000 -0300" stop="20261014110000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014101500 -0300" stop="20261014104500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014110000 -0300" stop="20261014113000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014104500 -0300" stop="20261014111500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014113000 -0300" stop="20261014115500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014111500 -0300" stop="20261014114500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014115500 -0300" stop="20261014143000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Robin Hood: O Príncipe dos Ladrões</title>
-  </programme>
-  <programme start="20261014143000 -0300" stop="20261014150000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014114500 -0300" stop="20261014121500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014150000 -0300" stop="20261014153000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014121500 -0300" stop="20261014135500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Viagem 2: A Ilha Misteriosa</title>
+  </programme>
+  <programme start="20261014135500 -0300" stop="20261014142500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014153000 -0300" stop="20261014160000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014142500 -0300" stop="20261014145500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014160000 -0300" stop="20261014163000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261014145500 -0300" stop="20261014152500 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014163000 -0300" stop="20261014181500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Gente Grande</title>
+  <programme start="20261014152500 -0300" stop="20261014155500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261014181500 -0300" stop="20261014200000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Gente Grande 2</title>
+  <programme start="20261014155500 -0300" stop="20261014180000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Liga da Justiça</title>
+  </programme>
+  <programme start="20261014180000 -0300" stop="20261014200000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Uma Ladra Sem Limites</title>
   </programme>
   <programme start="20261014200000 -0300" stop="20261014213500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Quarta de Cinema: Shrek para Sempre</title>
+    <title lang="pt">Quarta de Cinema: Viagem Ao Centro da Terra - O Filme</title>
   </programme>
-  <programme start="20261014213500 -0300" stop="20261015000500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Quarta de Cinema: Jurassic World - Domínio</title>
+  <programme start="20261014213500 -0300" stop="20261014233000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Quarta de Cinema: Sing 2</title>
+  </programme>
+  <programme start="20261014233000 -0300" stop="20261015013000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Uma Ladra Sem Limites</title>
   </programme>
   <programme start="20261013000000 -0300" stop="20261013040000 -0300" channel="disney_channel_hd_.claro.br">
     <title lang="pt">COMUNICADO IMPORTANTE</title>
@@ -37524,7 +37515,10 @@
   <programme start="20261014111700 -0300" stop="20261014114000 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261014114000 -0300" stop="20261014124900 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261014114000 -0300" stop="20261014122700 -0300" channel="gloob_hd_.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20261014122700 -0300" stop="20261014124900 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261014124900 -0300" stop="20261014131000 -0300" channel="gloob_hd_.claro.br">
@@ -37566,7 +37560,10 @@
   <programme start="20261014173000 -0300" stop="20261014175300 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261014175300 -0300" stop="20261014183800 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261014175300 -0300" stop="20261014181500 -0300" channel="gloob_hd_.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20261014181500 -0300" stop="20261014183800 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261014183800 -0300" stop="20261014190100 -0300" channel="gloob_hd_.claro.br">
@@ -37578,10 +37575,7 @@
   <programme start="20261014192500 -0300" stop="20261014194700 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
   </programme>
-  <programme start="20261014194700 -0300" stop="20261014203200 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20261014203200 -0300" stop="20261014205500 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261014194700 -0300" stop="20261014205500 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261014205500 -0300" stop="20261014223500 -0300" channel="gloob_hd_.claro.br">
@@ -44322,154 +44316,142 @@
   <programme start="20261013043900 -0300" stop="20261013060000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Armas em Jogo</title>
   </programme>
-  <programme start="20261013060000 -0300" stop="20261013060100 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">TNT Buzz</title>
-  </programme>
-  <programme start="20261013060100 -0300" stop="20261013060400 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">TNT Buzz</title>
-  </programme>
-  <programme start="20261013060400 -0300" stop="20261013081100 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">O Destino de Júpiter</title>
-  </programme>
-  <programme start="20261013081100 -0300" stop="20261013100700 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">O Vingador do Futuro</title>
-  </programme>
-  <programme start="20261013100700 -0300" stop="20261013103300 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261013060000 -0300" stop="20261013064500 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261013103300 -0300" stop="20261013105900 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261013064500 -0300" stop="20261013081600 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Turbo</title>
+  </programme>
+  <programme start="20261013081600 -0300" stop="20261013095800 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Trolls</title>
+  </programme>
+  <programme start="20261013095800 -0300" stop="20261013102100 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261013105900 -0300" stop="20261013112500 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261013102100 -0300" stop="20261013104500 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261013112500 -0300" stop="20261013115100 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Um Maluco no Pedaço</title>
+  <programme start="20261013104500 -0300" stop="20261013110600 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20261013110600 -0300" stop="20261013112900 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  </programme>
+  <programme start="20261013112900 -0300" stop="20261013115100 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
   <programme start="20261013115100 -0300" stop="20261013121200 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013121200 -0300" stop="20261013123400 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261013121200 -0300" stop="20261013123000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013123400 -0300" stop="20261013125500 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261013123000 -0300" stop="20261013134700 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Pré-Jogo UEFA Champions League</title>
+  </programme>
+  <programme start="20261013134700 -0300" stop="20261013160100 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Lens x Sporting - Ao Vivo</title>
+  </programme>
+  <programme start="20261013160100 -0300" stop="20261013180000 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Galatasaray x Barcelona - Ao Vivo</title>
+  </programme>
+  <programme start="20261013180000 -0300" stop="20261013190000 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Pós-Jogo UEFA Champions League</title>
+  </programme>
+  <programme start="20261013190000 -0300" stop="20261013200000 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Convocados</title>
+  </programme>
+  <programme start="20261013200000 -0300" stop="20261013214600 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">O Atirador Fantasma</title>
+  </programme>
+  <programme start="20261013214600 -0300" stop="20261013234700 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Na Mira do Perigo</title>
+  </programme>
+  <programme start="20261013234700 -0300" stop="20261014000800 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013125500 -0300" stop="20261013131800 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014000800 -0300" stop="20261014003200 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013131800 -0300" stop="20261013134000 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014003200 -0300" stop="20261014005600 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013134000 -0300" stop="20261013152200 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Rota De Fuga 3: O Resgate</title>
-  </programme>
-  <programme start="20261013152200 -0300" stop="20261013170000 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Fúria de Titãs 2</title>
-  </programme>
-  <programme start="20261013170000 -0300" stop="20261013185700 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Megatubarão 2</title>
-  </programme>
-  <programme start="20261013185700 -0300" stop="20261013205700 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Terremoto: A Falha de San Andreas</title>
-  </programme>
-  <programme start="20261013205700 -0300" stop="20261013233000 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">O Esquadrão Suicida</title>
-  </programme>
-  <programme start="20261013233000 -0300" stop="20261013235400 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014005600 -0300" stop="20261014011900 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261013235400 -0300" stop="20261014001900 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014011900 -0300" stop="20261014014000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014001900 -0300" stop="20261014004400 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-  </programme>
-  <programme start="20261014004400 -0300" stop="20261014010800 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-  </programme>
-  <programme start="20261014010800 -0300" stop="20261014012900 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
-  </programme>
-  <programme start="20261014012900 -0300" stop="20261014015400 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014014000 -0300" stop="20261014020400 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014015400 -0300" stop="20261014021800 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014020400 -0300" stop="20261014022800 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014021800 -0300" stop="20261014024000 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014022800 -0300" stop="20261014025000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014024000 -0300" stop="20261014030300 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014025000 -0300" stop="20261014031200 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014030300 -0300" stop="20261014044400 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Cinquenta Tons de Liberdade</title>
+  <programme start="20261014031200 -0300" stop="20261014050600 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Gananciosos</title>
   </programme>
-  <programme start="20261014044400 -0300" stop="20261014051800 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Hollywood One on One</title>
+  <programme start="20261014050600 -0300" stop="20261014060000 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Armas em Jogo</title>
   </programme>
-  <programme start="20261014051800 -0300" stop="20261014055300 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Hollywood One on One</title>
+  <programme start="20261014060000 -0300" stop="20261014062000 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Instinto Predador</title>
   </programme>
-  <programme start="20261014055300 -0300" stop="20261014055600 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">TNT Buzz</title>
-  </programme>
-  <programme start="20261014055600 -0300" stop="20261014060000 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">TNT Buzz</title>
-  </programme>
-  <programme start="20261014060000 -0300" stop="20261014070300 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Mortal Kombat - O Filme</title>
-  </programme>
-  <programme start="20261014070300 -0300" stop="20261014090100 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">O Vingador do Futuro</title>
-  </programme>
-  <programme start="20261014090100 -0300" stop="20261014111300 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Oblivion</title>
-  </programme>
-  <programme start="20261014111300 -0300" stop="20261014113700 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014062000 -0300" stop="20261014065000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014113700 -0300" stop="20261014120100 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014065000 -0300" stop="20261014072000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014120100 -0300" stop="20261014122700 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014072000 -0300" stop="20261014075000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
   </programme>
-  <programme start="20261014122700 -0300" stop="20261014125200 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Um Maluco no Pedaço</title>
-  </programme>
-  <programme start="20261014125200 -0300" stop="20261014131300 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014075000 -0300" stop="20261014082000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014131300 -0300" stop="20261014133400 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014082000 -0300" stop="20261014085000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014133400 -0300" stop="20261014135600 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014085000 -0300" stop="20261014092000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014135600 -0300" stop="20261014141500 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014092000 -0300" stop="20261014095000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014141500 -0300" stop="20261014143400 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014095000 -0300" stop="20261014103000 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261014143400 -0300" stop="20261014163600 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Romeu tem que Morrer</title>
+  <programme start="20261014103000 -0300" stop="20261014123000 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Galatasaray x Barcelona - Ao Vivo</title>
   </programme>
-  <programme start="20261014163600 -0300" stop="20261014184500 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+  <programme start="20261014123000 -0300" stop="20261014134700 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Pré-Jogo UEFA Champions League</title>
   </programme>
-  <programme start="20261014184500 -0300" stop="20261014211400 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Aquaman</title>
+  <programme start="20261014134700 -0300" stop="20261014160100 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Lask Linz x Liverpool - Ao Vivo</title>
   </programme>
-  <programme start="20261014211400 -0300" stop="20261014233000 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Aquaman 2: O Reino Perdido</title>
+  <programme start="20261014160100 -0300" stop="20261014180000 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Roma x Real Madrid - Ao Vivo</title>
   </programme>
-  <programme start="20261014233000 -0300" stop="20261014235200 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Todo Mundo Odeia O Chris</title>
+  <programme start="20261014180000 -0300" stop="20261014190000 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Pós-Jogo UEFA Champions League</title>
   </programme>
-  <programme start="20261014235200 -0300" stop="20261015001200 -0300" channel="tnt_hd_.claro.br">
+  <programme start="20261014190000 -0300" stop="20261014200000 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Convocados</title>
+  </programme>
+  <programme start="20261014200000 -0300" stop="20261014215300 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Na Mira do Perigo</title>
+  </programme>
+  <programme start="20261014215300 -0300" stop="20261014235200 -0300" channel="tnt_hd_.claro.br">
+    <title lang="pt">Barbie</title>
+  </programme>
+  <programme start="20261014235200 -0300" stop="20261015002200 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
   <programme start="20261013001000 -0300" stop="20261013020900 -0300" channel="space_hd_.claro.br">
@@ -44490,155 +44472,137 @@
   <programme start="20261013050300 -0300" stop="20261013054800 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261013054800 -0300" stop="20261013060300 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013054800 -0300" stop="20261013060000 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013060300 -0300" stop="20261013074300 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">Kill Mode - Modo de Destruição</title>
+  <programme start="20261013060000 -0300" stop="20261013074800 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">Carter, O Vingador</title>
   </programme>
-  <programme start="20261013074300 -0300" stop="20261013092100 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">Difícil de Matar</title>
+  <programme start="20261013074800 -0300" stop="20261013100200 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">Atirador</title>
   </programme>
-  <programme start="20261013092100 -0300" stop="20261013111700 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+  <programme start="20261013100200 -0300" stop="20261013115700 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">Aves de Rapina (Arlequina e sua Emancipação Fantabulosa)</title>
   </programme>
-  <programme start="20261013111700 -0300" stop="20261013120300 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013115700 -0300" stop="20261013124500 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20261013124500 -0300" stop="20261013133000 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013120300 -0300" stop="20261013125100 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013133000 -0300" stop="20261013134800 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">Pré-Jogo UEFA Champions League</title>
+  </programme>
+  <programme start="20261013134800 -0300" stop="20261013154700 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">Sabah FK x Slavia Praha - Ao Vivo</title>
+  </programme>
+  <programme start="20261013154700 -0300" stop="20261013180000 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">Atlético de Madrid x Manchester United - Ao Vivo</title>
+  </programme>
+  <programme start="20261013180000 -0300" stop="20261013184600 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013125100 -0300" stop="20261013133500 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013133500 -0300" stop="20261013142200 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013142200 -0300" stop="20261013150800 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013150800 -0300" stop="20261013155600 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013155600 -0300" stop="20261013164200 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013164200 -0300" stop="20261013172800 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013184600 -0300" stop="20261013193300 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013172800 -0300" stop="20261013181400 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013193300 -0300" stop="20261013201900 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013181400 -0300" stop="20261013190300 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013201900 -0300" stop="20261013210500 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261013190300 -0300" stop="20261013195000 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013195000 -0300" stop="20261013204000 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261013204000 -0300" stop="20261013212800 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013210500 -0300" stop="20261013215200 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261013212800 -0300" stop="20261013221500 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20261013221500 -0300" stop="20261013230000 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013215200 -0300" stop="20261013223800 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261013230000 -0300" stop="20261013232600 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013223800 -0300" stop="20261013232600 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">C.S.I</title>
+  </programme>
+  <programme start="20261013232600 -0300" stop="20261013235400 -0300" channel="space_hd_.claro.br">
     <title lang="pt">Operação Fronteira Brasil</title>
   </programme>
-  <programme start="20261013232600 -0300" stop="20261013235100 -0300" channel="space_hd_.claro.br">
+  <programme start="20261013235400 -0300" stop="20261014002100 -0300" channel="space_hd_.claro.br">
     <title lang="pt">Operação Fronteira Brasil</title>
   </programme>
-  <programme start="20261013235100 -0300" stop="20261014003500 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014002100 -0300" stop="20261014010500 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014003500 -0300" stop="20261014012100 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014010500 -0300" stop="20261014015100 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014012100 -0300" stop="20261014020600 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014015100 -0300" stop="20261014023600 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014020600 -0300" stop="20261014025000 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014023600 -0300" stop="20261014032100 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014025000 -0300" stop="20261014033200 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014032100 -0300" stop="20261014040500 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014033200 -0300" stop="20261014041500 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014040500 -0300" stop="20261014044800 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014041500 -0300" stop="20261014045900 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014044800 -0300" stop="20261014053100 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014045900 -0300" stop="20261014054200 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014053100 -0300" stop="20261014060000 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014054200 -0300" stop="20261014055000 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">Hollywood One on One</title>
+  <programme start="20261014060000 -0300" stop="20261014074400 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">MIB - Homens de Preto</title>
   </programme>
-  <programme start="20261014055000 -0300" stop="20261014061300 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">Hollywood One on One</title>
+  <programme start="20261014074400 -0300" stop="20261014091800 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">MIB - Homens de Preto 2</title>
   </programme>
-  <programme start="20261014061300 -0300" stop="20261014084700 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">Doutor Sono</title>
+  <programme start="20261014091800 -0300" stop="20261014111100 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">MIB: Homens De Preto 3</title>
   </programme>
-  <programme start="20261014084700 -0300" stop="20261014105700 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">Os Pequenos Vestígios</title>
-  </programme>
-  <programme start="20261014105700 -0300" stop="20261014125600 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">Homem-Aranha no Aranhaverso</title>
-  </programme>
-  <programme start="20261014125600 -0300" stop="20261014134200 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014111100 -0300" stop="20261014115900 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014134200 -0300" stop="20261014142800 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014115900 -0300" stop="20261014124300 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014142800 -0300" stop="20261014151400 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014124300 -0300" stop="20261014133000 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014151400 -0300" stop="20261014160100 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
+  <programme start="20261014133000 -0300" stop="20261014134800 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">Pré-Jogo UEFA Champions League</title>
   </programme>
-  <programme start="20261014160100 -0300" stop="20261014164800 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
+  <programme start="20261014134800 -0300" stop="20261014154700 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">Feyenoord x Como - Ao Vivo</title>
   </programme>
-  <programme start="20261014164800 -0300" stop="20261014173300 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014154700 -0300" stop="20261014180000 -0300" channel="space_hd_.claro.br">
+    <title lang="pt">Aston Villa x Fenerbahçe - Ao Vivo</title>
+  </programme>
+  <programme start="20261014180000 -0300" stop="20261014184800 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014173300 -0300" stop="20261014182200 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014184800 -0300" stop="20261014193600 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014182200 -0300" stop="20261014190700 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014193600 -0300" stop="20261014202300 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014190700 -0300" stop="20261014195500 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014202300 -0300" stop="20261014210800 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014195500 -0300" stop="20261014203900 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014210800 -0300" stop="20261014215300 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I</title>
   </programme>
-  <programme start="20261014203900 -0300" stop="20261014212600 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014215300 -0300" stop="20261014223800 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014212600 -0300" stop="20261014221300 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014223800 -0300" stop="20261014232900 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
-  <programme start="20261014221300 -0300" stop="20261014230000 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20261014230000 -0300" stop="20261014232600 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014232900 -0300" stop="20261014235700 -0300" channel="space_hd_.claro.br">
     <title lang="pt">Operação Fronteira Brasil</title>
   </programme>
-  <programme start="20261014232600 -0300" stop="20261014235200 -0300" channel="space_hd_.claro.br">
+  <programme start="20261014235700 -0300" stop="20261015002400 -0300" channel="space_hd_.claro.br">
     <title lang="pt">Operação Fronteira Brasil</title>
-  </programme>
-  <programme start="20261014235200 -0300" stop="20261015003600 -0300" channel="space_hd_.claro.br">
-    <title lang="pt">C.S.I</title>
   </programme>
   <programme start="20261013013000 -0300" stop="20261013041000 -0300" channel="megapix_hd_.claro.br">
     <title lang="pt">A Origem</title>
@@ -45639,37 +45603,34 @@
   <programme start="20261014234500 -0300" stop="20261015003500 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Condenadas À Morte</title>
   </programme>
-  <programme start="20261013000400 -0300" stop="20261013005300 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013000900 -0300" stop="20261013005900 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">The Mentalist</title>
   </programme>
-  <programme start="20261013005300 -0300" stop="20261013013700 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013005900 -0300" stop="20261013014300 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261013013700 -0300" stop="20261013022200 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013014300 -0300" stop="20261013022800 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261013022200 -0300" stop="20261013030600 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013022800 -0300" stop="20261013031200 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261013030600 -0300" stop="20261013034900 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013031200 -0300" stop="20261013035400 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Major Crimes</title>
   </programme>
-  <programme start="20261013034900 -0300" stop="20261013043200 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013035400 -0300" stop="20261013043600 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Major Crimes</title>
   </programme>
-  <programme start="20261013043200 -0300" stop="20261013060000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013043600 -0300" stop="20261013051900 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Major Crimes</title>
   </programme>
-  <programme start="20261013060000 -0300" stop="20261013061500 -0300" channel="tnt_series_hd.claro.br">
-    <title lang="pt">Law &amp; Order SVU</title>
-  </programme>
-  <programme start="20261013061500 -0300" stop="20261013065900 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013051900 -0300" stop="20261013060000 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Major Crimes</title>
   </programme>
-  <programme start="20261013065900 -0300" stop="20261013074300 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013060000 -0300" stop="20261013063700 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Major Crimes</title>
   </programme>
-  <programme start="20261013074300 -0300" stop="20261013083000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261013063700 -0300" stop="20261013083000 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Person of Interest</title>
   </programme>
   <programme start="20261013083000 -0300" stop="20261013091700 -0300" channel="tnt_series_hd.claro.br">
