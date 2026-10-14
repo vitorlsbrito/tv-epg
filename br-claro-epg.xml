@@ -3390,11 +3390,11 @@
   <programme start="20261015231500 -0300" stop="20261016004500 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">A Praça é Nossa</title>
   </programme>
-  <programme start="20261014013000 -0300" stop="20261014023000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Um Milagre</title>
+  <programme start="20261014000000 -0300" stop="20261014020000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Sem Censura</title>
   </programme>
-  <programme start="20261014023000 -0300" stop="20261014030000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Como Nascem os Heróis</title>
+  <programme start="20261014020000 -0300" stop="20261014030000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Um Milagre</title>
   </programme>
   <programme start="20261014030000 -0300" stop="20261014040000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Criaturas do Grande Azul</title>
@@ -3414,95 +3414,98 @@
   <programme start="20261014063000 -0300" stop="20261014070000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Culturas do Campo</title>
   </programme>
-  <programme start="20261014070000 -0300" stop="20261014070900 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014070000 -0300" stop="20261014070500 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Esse é o Bicho!</title>
+  </programme>
+  <programme start="20261014070500 -0300" stop="20261014071000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Lia, Pedro e o Mini Mundo</title>
+  </programme>
+  <programme start="20261014071000 -0300" stop="20261014072500 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Playpolis - A Primeira Brincadeira</title>
+  </programme>
+  <programme start="20261014072500 -0300" stop="20261014073200 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Tropa Troco</title>
+  </programme>
+  <programme start="20261014073200 -0300" stop="20261014074100 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261014070900 -0300" stop="20261014072300 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014074100 -0300" stop="20261014075500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Massinhas</title>
   </programme>
-  <programme start="20261014072300 -0300" stop="20261014072800 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014075500 -0300" stop="20261014080000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261014072800 -0300" stop="20261014074200 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014080000 -0300" stop="20261014081400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Lupita no Planeta de Gente Grande</title>
   </programme>
-  <programme start="20261014074200 -0300" stop="20261014074700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014081400 -0300" stop="20261014081900 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261014074700 -0300" stop="20261014080100 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014081900 -0300" stop="20261014083300 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Igarapé Mágico</title>
   </programme>
-  <programme start="20261014080100 -0300" stop="20261014081500 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Igarapé Mágico</title>
-  </programme>
-  <programme start="20261014081500 -0300" stop="20261014082900 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014083300 -0300" stop="20261014084700 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Sonhos e Sapatilhas</title>
   </programme>
-  <programme start="20261014082900 -0300" stop="20261014083700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014084700 -0300" stop="20261014085500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Os Chocolix</title>
   </programme>
-  <programme start="20261014083700 -0300" stop="20261014084500 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Os Chocolix</title>
-  </programme>
-  <programme start="20261014084500 -0300" stop="20261014085800 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">O Portão Mágico</title>
-  </programme>
-  <programme start="20261014085800 -0300" stop="20261014090300 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014085500 -0300" stop="20261014090800 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261014090300 -0300" stop="20261014090800 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20261014090800 -0300" stop="20261014091800 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014090800 -0300" stop="20261014091300 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Histórias Atrás da Porta</title>
   </programme>
-  <programme start="20261014091800 -0300" stop="20261014093000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014091300 -0300" stop="20261014092300 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">O Diário de Mika</title>
   </programme>
-  <programme start="20261014093000 -0300" stop="20261014094200 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014092300 -0300" stop="20261014093500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Peixonauta</title>
   </programme>
-  <programme start="20261014094200 -0300" stop="20261014095400 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014093500 -0300" stop="20261014094700 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Peixonauta</title>
   </programme>
-  <programme start="20261014095400 -0300" stop="20261014100700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014094700 -0300" stop="20261014095900 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">O Portão Mágico</title>
+  </programme>
+  <programme start="20261014095900 -0300" stop="20261014101200 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261014100700 -0300" stop="20261014102000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014101200 -0300" stop="20261014102500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261014102000 -0300" stop="20261014103300 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014102500 -0300" stop="20261014103800 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261014103300 -0300" stop="20261014104600 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014103800 -0300" stop="20261014105100 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261014104600 -0300" stop="20261014110000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014105100 -0300" stop="20261014110500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20261014110000 -0300" stop="20261014111400 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014110500 -0300" stop="20261014111900 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20261014111400 -0300" stop="20261014112700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014111900 -0300" stop="20261014112400 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Além da Lenda</title>
+  </programme>
+  <programme start="20261014112400 -0300" stop="20261014113700 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
+  </programme>
+  <programme start="20261014113700 -0300" stop="20261014115000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme start="20261014112700 -0300" stop="20261014114000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Iuri &amp; Udi</title>
-  </programme>
-  <programme start="20261014114000 -0300" stop="20261014120000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014115000 -0300" stop="20261014121500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Heroínas Negras Brasileiras</title>
   </programme>
-  <programme start="20261014120000 -0300" stop="20261014121500 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Sessão de cinema: Bolha</title>
-  </programme>
-  <programme start="20261014121500 -0300" stop="20261014123000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Sessão de Cinema: Malu e a Máquina</title>
-  </programme>
-  <programme start="20261014123000 -0300" stop="20261014124500 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Bela Raízes</title>
-  </programme>
-  <programme start="20261014124500 -0300" stop="20261014133000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014121500 -0300" stop="20261014130000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Repórter Brasil Tarde</title>
+  </programme>
+  <programme start="20261014130000 -0300" stop="20261014131000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Horário Eleitoral</title>
+  </programme>
+  <programme start="20261014131000 -0300" stop="20261014133000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Rotas Criativas do Brasil</title>
   </programme>
   <programme start="20261014133000 -0300" stop="20261014140000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Vem Ver</title>
@@ -3514,7 +3517,7 @@
     <title lang="pt">Meu Pedaço Do Brasil</title>
   </programme>
   <programme start="20261014150000 -0300" stop="20261014153000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Game Dev Brasil</title>
+    <title lang="pt">Parques do Brasil</title>
   </programme>
   <programme start="20261014153000 -0300" stop="20261014160000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Expedições</title>
@@ -3531,29 +3534,35 @@
   <programme start="20261014190000 -0300" stop="20261014200000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Repórter Brasil</title>
   </programme>
-  <programme start="20261014200000 -0300" stop="20261014210000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014200000 -0300" stop="20261014203000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Um Milagre</title>
+  </programme>
+  <programme start="20261014203000 -0300" stop="20261014204000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Horário Eleitoral</title>
+  </programme>
+  <programme start="20261014204000 -0300" stop="20261014210000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Rotas Criativas do Brasil</title>
   </programme>
   <programme start="20261014210000 -0300" stop="20261014213000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Mar Brasil</title>
-  </programme>
-  <programme start="20261014213000 -0300" stop="20261014220000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Vozes do Rio Pinheiros</title>
-  </programme>
-  <programme start="20261014220000 -0300" stop="20261014230000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Rumo ao Maravilhoso</title>
-  </programme>
-  <programme start="20261014230000 -0300" stop="20261014233000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Trilha de Letras</title>
-  </programme>
-  <programme start="20261014233000 -0300" stop="20261015013000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Sem Censura</title>
-  </programme>
-  <programme start="20261015013000 -0300" stop="20261015023000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Um Milagre</title>
   </programme>
-  <programme start="20261015023000 -0300" stop="20261015030000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261014213000 -0300" stop="20261014220000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Mar Brasil</title>
+  </programme>
+  <programme start="20261014220000 -0300" stop="20261014223000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Vozes do Rio Pinheiros</title>
+  </programme>
+  <programme start="20261014223000 -0300" stop="20261014233000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Rumo ao Maravilhoso</title>
+  </programme>
+  <programme start="20261014233000 -0300" stop="20261015000000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Trilha de Letras</title>
+  </programme>
+  <programme start="20261015000000 -0300" stop="20261015020000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Sem Censura</title>
+  </programme>
+  <programme start="20261015020000 -0300" stop="20261015030000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Um Milagre</title>
   </programme>
   <programme start="20261015030000 -0300" stop="20261015033000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Mar Brasil</title>
@@ -3576,95 +3585,98 @@
   <programme start="20261015063000 -0300" stop="20261015070000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Agricultura Alto Vale</title>
   </programme>
-  <programme start="20261015070000 -0300" stop="20261015070900 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015070000 -0300" stop="20261015070500 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Esse é o Bicho!</title>
+  </programme>
+  <programme start="20261015070500 -0300" stop="20261015071000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Lia, Pedro e o Mini Mundo</title>
+  </programme>
+  <programme start="20261015071000 -0300" stop="20261015072500 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Playpolis - A Primeira Brincadeira</title>
+  </programme>
+  <programme start="20261015072500 -0300" stop="20261015073200 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Tropa Troco</title>
+  </programme>
+  <programme start="20261015073200 -0300" stop="20261015074100 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261015070900 -0300" stop="20261015072300 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015074100 -0300" stop="20261015075500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Massinhas</title>
   </programme>
-  <programme start="20261015072300 -0300" stop="20261015072800 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015075500 -0300" stop="20261015080000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261015072800 -0300" stop="20261015074200 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015080000 -0300" stop="20261015081400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Lupita no Planeta de Gente Grande</title>
   </programme>
-  <programme start="20261015074200 -0300" stop="20261015074700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015081400 -0300" stop="20261015081900 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261015074700 -0300" stop="20261015080100 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015081900 -0300" stop="20261015083300 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Igarapé Mágico</title>
   </programme>
-  <programme start="20261015080100 -0300" stop="20261015081500 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Igarapé Mágico</title>
-  </programme>
-  <programme start="20261015081500 -0300" stop="20261015082900 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015083300 -0300" stop="20261015084700 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Sonhos e Sapatilhas</title>
   </programme>
-  <programme start="20261015082900 -0300" stop="20261015083700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015084700 -0300" stop="20261015085500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Os Chocolix</title>
   </programme>
-  <programme start="20261015083700 -0300" stop="20261015084500 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Os Chocolix</title>
-  </programme>
-  <programme start="20261015084500 -0300" stop="20261015085800 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015085500 -0300" stop="20261015090800 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">O Portão Mágico</title>
   </programme>
-  <programme start="20261015085800 -0300" stop="20261015090300 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015090800 -0300" stop="20261015091300 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261015090300 -0300" stop="20261015090800 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20261015090800 -0300" stop="20261015091800 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015091300 -0300" stop="20261015092300 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Histórias Atrás da Porta</title>
   </programme>
-  <programme start="20261015091800 -0300" stop="20261015093000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015092300 -0300" stop="20261015093500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">O Diário de Mika</title>
   </programme>
-  <programme start="20261015093000 -0300" stop="20261015094200 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015093500 -0300" stop="20261015094700 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Peixonauta</title>
   </programme>
-  <programme start="20261015094200 -0300" stop="20261015095400 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015094700 -0300" stop="20261015095900 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Peixonauta</title>
   </programme>
-  <programme start="20261015095400 -0300" stop="20261015100700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015095900 -0300" stop="20261015101200 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261015100700 -0300" stop="20261015102000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015101200 -0300" stop="20261015102500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261015102000 -0300" stop="20261015103300 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015102500 -0300" stop="20261015103800 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261015103300 -0300" stop="20261015104600 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015103800 -0300" stop="20261015105100 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261015104600 -0300" stop="20261015110000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015105100 -0300" stop="20261015110500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20261015110000 -0300" stop="20261015111400 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015110500 -0300" stop="20261015111900 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20261015111400 -0300" stop="20261015112700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015111900 -0300" stop="20261015112400 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Além da Lenda</title>
+  </programme>
+  <programme start="20261015112400 -0300" stop="20261015113700 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
+  </programme>
+  <programme start="20261015113700 -0300" stop="20261015115000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme start="20261015112700 -0300" stop="20261015114000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Iuri &amp; Udi</title>
-  </programme>
-  <programme start="20261015114000 -0300" stop="20261015120000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015115000 -0300" stop="20261015121500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Heroínas Negras Brasileiras</title>
   </programme>
-  <programme start="20261015120000 -0300" stop="20261015121500 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Sessão de cinema: Lulina e a Lua</title>
-  </programme>
-  <programme start="20261015121500 -0300" stop="20261015123000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Sessão de cinema: Bolha</title>
-  </programme>
-  <programme start="20261015123000 -0300" stop="20261015124500 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Bela Raízes</title>
-  </programme>
-  <programme start="20261015124500 -0300" stop="20261015133000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015121500 -0300" stop="20261015130000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Repórter Brasil Tarde</title>
+  </programme>
+  <programme start="20261015130000 -0300" stop="20261015131000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Horário Eleitoral</title>
+  </programme>
+  <programme start="20261015131000 -0300" stop="20261015133000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Rotas Criativas do Brasil</title>
   </programme>
   <programme start="20261015133000 -0300" stop="20261015140000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">É Logo Ali!</title>
@@ -3676,7 +3688,7 @@
     <title lang="pt">Meu Pedaço Do Brasil</title>
   </programme>
   <programme start="20261015150000 -0300" stop="20261015153000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Game Dev Brasil</title>
+    <title lang="pt">Parques do Brasil</title>
   </programme>
   <programme start="20261015153000 -0300" stop="20261015160000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Expedições</title>
@@ -3693,20 +3705,26 @@
   <programme start="20261015190000 -0300" stop="20261015200000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Repórter Brasil</title>
   </programme>
-  <programme start="20261015200000 -0300" stop="20261015210000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015200000 -0300" stop="20261015203000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Um Milagre</title>
   </programme>
-  <programme start="20261015210000 -0300" stop="20261015220000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015203000 -0300" stop="20261015204000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20261015204000 -0300" stop="20261015210000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Rotas Criativas do Brasil</title>
+  </programme>
+  <programme start="20261015210000 -0300" stop="20261015213000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Um Milagre</title>
+  </programme>
+  <programme start="20261015213000 -0300" stop="20261015220000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Um Ano Selvagem na Terra</title>
   </programme>
   <programme start="20261015220000 -0300" stop="20261015230000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Brasil no Mundo</title>
   </programme>
-  <programme start="20261015230000 -0300" stop="20261015233000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261015230000 -0300" stop="20261016000000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Aprender a Sonhar</title>
-  </programme>
-  <programme start="20261015233000 -0300" stop="20261016013000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Sem Censura</title>
   </programme>
   <programme start="20261014000000 -0300" stop="20261014003000 -0300" channel="tv_camara.claro.br">
     <title lang="pt">Artérias</title>
@@ -4185,11 +4203,11 @@
   <programme start="20261015213000 -0300" stop="20261016000000 -0300" channel="tv_senado.claro.br">
     <title lang="pt">Comissão</title>
   </programme>
-  <programme start="20261014013000 -0300" stop="20261014023000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Um Milagre</title>
+  <programme start="20261014000000 -0300" stop="20261014020000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Sem Censura</title>
   </programme>
-  <programme start="20261014023000 -0300" stop="20261014030000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Como Nascem os Heróis</title>
+  <programme start="20261014020000 -0300" stop="20261014030000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Um Milagre</title>
   </programme>
   <programme start="20261014030000 -0300" stop="20261014040000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Criaturas do Grande Azul</title>
@@ -4209,95 +4227,98 @@
   <programme start="20261014063000 -0300" stop="20261014070000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Culturas do Campo</title>
   </programme>
-  <programme start="20261014070000 -0300" stop="20261014070900 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014070000 -0300" stop="20261014070500 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Esse é o Bicho!</title>
+  </programme>
+  <programme start="20261014070500 -0300" stop="20261014071000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Lia, Pedro e o Mini Mundo</title>
+  </programme>
+  <programme start="20261014071000 -0300" stop="20261014072500 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Playpolis - A Primeira Brincadeira</title>
+  </programme>
+  <programme start="20261014072500 -0300" stop="20261014073200 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Tropa Troco</title>
+  </programme>
+  <programme start="20261014073200 -0300" stop="20261014074100 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261014070900 -0300" stop="20261014072300 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014074100 -0300" stop="20261014075500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Massinhas</title>
   </programme>
-  <programme start="20261014072300 -0300" stop="20261014072800 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014075500 -0300" stop="20261014080000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261014072800 -0300" stop="20261014074200 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014080000 -0300" stop="20261014081400 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Lupita no Planeta de Gente Grande</title>
   </programme>
-  <programme start="20261014074200 -0300" stop="20261014074700 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014081400 -0300" stop="20261014081900 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261014074700 -0300" stop="20261014080100 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014081900 -0300" stop="20261014083300 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Igarapé Mágico</title>
   </programme>
-  <programme start="20261014080100 -0300" stop="20261014081500 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Igarapé Mágico</title>
-  </programme>
-  <programme start="20261014081500 -0300" stop="20261014082900 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014083300 -0300" stop="20261014084700 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Sonhos e Sapatilhas</title>
   </programme>
-  <programme start="20261014082900 -0300" stop="20261014083700 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014084700 -0300" stop="20261014085500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Os Chocolix</title>
   </programme>
-  <programme start="20261014083700 -0300" stop="20261014084500 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Os Chocolix</title>
-  </programme>
-  <programme start="20261014084500 -0300" stop="20261014085800 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">O Portão Mágico</title>
-  </programme>
-  <programme start="20261014085800 -0300" stop="20261014090300 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014085500 -0300" stop="20261014090800 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261014090300 -0300" stop="20261014090800 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20261014090800 -0300" stop="20261014091800 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014090800 -0300" stop="20261014091300 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Histórias Atrás da Porta</title>
   </programme>
-  <programme start="20261014091800 -0300" stop="20261014093000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014091300 -0300" stop="20261014092300 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">O Diário de Mika</title>
   </programme>
-  <programme start="20261014093000 -0300" stop="20261014094200 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014092300 -0300" stop="20261014093500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Peixonauta</title>
   </programme>
-  <programme start="20261014094200 -0300" stop="20261014095400 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014093500 -0300" stop="20261014094700 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Peixonauta</title>
   </programme>
-  <programme start="20261014095400 -0300" stop="20261014100700 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014094700 -0300" stop="20261014095900 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">O Portão Mágico</title>
+  </programme>
+  <programme start="20261014095900 -0300" stop="20261014101200 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261014100700 -0300" stop="20261014102000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014101200 -0300" stop="20261014102500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261014102000 -0300" stop="20261014103300 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014102500 -0300" stop="20261014103800 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261014103300 -0300" stop="20261014104600 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014103800 -0300" stop="20261014105100 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261014104600 -0300" stop="20261014110000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014105100 -0300" stop="20261014110500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20261014110000 -0300" stop="20261014111400 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014110500 -0300" stop="20261014111900 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20261014111400 -0300" stop="20261014112700 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014111900 -0300" stop="20261014112400 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Além da Lenda</title>
+  </programme>
+  <programme start="20261014112400 -0300" stop="20261014113700 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
+  </programme>
+  <programme start="20261014113700 -0300" stop="20261014115000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme start="20261014112700 -0300" stop="20261014114000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Iuri &amp; Udi</title>
-  </programme>
-  <programme start="20261014114000 -0300" stop="20261014120000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014115000 -0300" stop="20261014121500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Heroínas Negras Brasileiras</title>
   </programme>
-  <programme start="20261014120000 -0300" stop="20261014121500 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Sessão de cinema: Bolha</title>
-  </programme>
-  <programme start="20261014121500 -0300" stop="20261014123000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Sessão de Cinema: Malu e a Máquina</title>
-  </programme>
-  <programme start="20261014123000 -0300" stop="20261014124500 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Bela Raízes</title>
-  </programme>
-  <programme start="20261014124500 -0300" stop="20261014133000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014121500 -0300" stop="20261014130000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Repórter Brasil Tarde</title>
+  </programme>
+  <programme start="20261014130000 -0300" stop="20261014131000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Horário Eleitoral</title>
+  </programme>
+  <programme start="20261014131000 -0300" stop="20261014133000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Rotas Criativas do Brasil</title>
   </programme>
   <programme start="20261014133000 -0300" stop="20261014140000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Vem Ver</title>
@@ -4309,7 +4330,7 @@
     <title lang="pt">Meu Pedaço Do Brasil</title>
   </programme>
   <programme start="20261014150000 -0300" stop="20261014153000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Game Dev Brasil</title>
+    <title lang="pt">Parques do Brasil</title>
   </programme>
   <programme start="20261014153000 -0300" stop="20261014160000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Expedições</title>
@@ -4326,29 +4347,35 @@
   <programme start="20261014190000 -0300" stop="20261014200000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Repórter Brasil</title>
   </programme>
-  <programme start="20261014200000 -0300" stop="20261014210000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014200000 -0300" stop="20261014203000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Um Milagre</title>
+  </programme>
+  <programme start="20261014203000 -0300" stop="20261014204000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Horário Eleitoral</title>
+  </programme>
+  <programme start="20261014204000 -0300" stop="20261014210000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Rotas Criativas do Brasil</title>
   </programme>
   <programme start="20261014210000 -0300" stop="20261014213000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Mar Brasil</title>
-  </programme>
-  <programme start="20261014213000 -0300" stop="20261014220000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Vozes do Rio Pinheiros</title>
-  </programme>
-  <programme start="20261014220000 -0300" stop="20261014230000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Rumo ao Maravilhoso</title>
-  </programme>
-  <programme start="20261014230000 -0300" stop="20261014233000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Trilha de Letras</title>
-  </programme>
-  <programme start="20261014233000 -0300" stop="20261015013000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Sem Censura</title>
-  </programme>
-  <programme start="20261015013000 -0300" stop="20261015023000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Um Milagre</title>
   </programme>
-  <programme start="20261015023000 -0300" stop="20261015030000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261014213000 -0300" stop="20261014220000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Mar Brasil</title>
+  </programme>
+  <programme start="20261014220000 -0300" stop="20261014223000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Vozes do Rio Pinheiros</title>
+  </programme>
+  <programme start="20261014223000 -0300" stop="20261014233000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Rumo ao Maravilhoso</title>
+  </programme>
+  <programme start="20261014233000 -0300" stop="20261015000000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Trilha de Letras</title>
+  </programme>
+  <programme start="20261015000000 -0300" stop="20261015020000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Sem Censura</title>
+  </programme>
+  <programme start="20261015020000 -0300" stop="20261015030000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Um Milagre</title>
   </programme>
   <programme start="20261015030000 -0300" stop="20261015033000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Mar Brasil</title>
@@ -4371,95 +4398,98 @@
   <programme start="20261015063000 -0300" stop="20261015070000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Agricultura Alto Vale</title>
   </programme>
-  <programme start="20261015070000 -0300" stop="20261015070900 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015070000 -0300" stop="20261015070500 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Esse é o Bicho!</title>
+  </programme>
+  <programme start="20261015070500 -0300" stop="20261015071000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Lia, Pedro e o Mini Mundo</title>
+  </programme>
+  <programme start="20261015071000 -0300" stop="20261015072500 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Playpolis - A Primeira Brincadeira</title>
+  </programme>
+  <programme start="20261015072500 -0300" stop="20261015073200 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Tropa Troco</title>
+  </programme>
+  <programme start="20261015073200 -0300" stop="20261015074100 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261015070900 -0300" stop="20261015072300 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015074100 -0300" stop="20261015075500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Massinhas</title>
   </programme>
-  <programme start="20261015072300 -0300" stop="20261015072800 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015075500 -0300" stop="20261015080000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261015072800 -0300" stop="20261015074200 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015080000 -0300" stop="20261015081400 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Lupita no Planeta de Gente Grande</title>
   </programme>
-  <programme start="20261015074200 -0300" stop="20261015074700 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015081400 -0300" stop="20261015081900 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261015074700 -0300" stop="20261015080100 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015081900 -0300" stop="20261015083300 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Igarapé Mágico</title>
   </programme>
-  <programme start="20261015080100 -0300" stop="20261015081500 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Igarapé Mágico</title>
-  </programme>
-  <programme start="20261015081500 -0300" stop="20261015082900 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015083300 -0300" stop="20261015084700 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Sonhos e Sapatilhas</title>
   </programme>
-  <programme start="20261015082900 -0300" stop="20261015083700 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015084700 -0300" stop="20261015085500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Os Chocolix</title>
   </programme>
-  <programme start="20261015083700 -0300" stop="20261015084500 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Os Chocolix</title>
-  </programme>
-  <programme start="20261015084500 -0300" stop="20261015085800 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015085500 -0300" stop="20261015090800 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">O Portão Mágico</title>
   </programme>
-  <programme start="20261015085800 -0300" stop="20261015090300 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015090800 -0300" stop="20261015091300 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Mundo Bita</title>
   </programme>
-  <programme start="20261015090300 -0300" stop="20261015090800 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
-  </programme>
-  <programme start="20261015090800 -0300" stop="20261015091800 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015091300 -0300" stop="20261015092300 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Histórias Atrás da Porta</title>
   </programme>
-  <programme start="20261015091800 -0300" stop="20261015093000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015092300 -0300" stop="20261015093500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">O Diário de Mika</title>
   </programme>
-  <programme start="20261015093000 -0300" stop="20261015094200 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015093500 -0300" stop="20261015094700 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Peixonauta</title>
   </programme>
-  <programme start="20261015094200 -0300" stop="20261015095400 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015094700 -0300" stop="20261015095900 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Peixonauta</title>
   </programme>
-  <programme start="20261015095400 -0300" stop="20261015100700 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015095900 -0300" stop="20261015101200 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261015100700 -0300" stop="20261015102000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015101200 -0300" stop="20261015102500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261015102000 -0300" stop="20261015103300 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015102500 -0300" stop="20261015103800 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261015103300 -0300" stop="20261015104600 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015103800 -0300" stop="20261015105100 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261015104600 -0300" stop="20261015110000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015105100 -0300" stop="20261015110500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20261015110000 -0300" stop="20261015111400 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015110500 -0300" stop="20261015111900 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">O Show da Luna!</title>
   </programme>
-  <programme start="20261015111400 -0300" stop="20261015112700 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015111900 -0300" stop="20261015112400 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Além da Lenda</title>
+  </programme>
+  <programme start="20261015112400 -0300" stop="20261015113700 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
+  </programme>
+  <programme start="20261015113700 -0300" stop="20261015115000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme start="20261015112700 -0300" stop="20261015114000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Iuri &amp; Udi</title>
-  </programme>
-  <programme start="20261015114000 -0300" stop="20261015120000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015115000 -0300" stop="20261015121500 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Heroínas Negras Brasileiras</title>
   </programme>
-  <programme start="20261015120000 -0300" stop="20261015121500 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Sessão de cinema: Lulina e a Lua</title>
-  </programme>
-  <programme start="20261015121500 -0300" stop="20261015123000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Sessão de cinema: Bolha</title>
-  </programme>
-  <programme start="20261015123000 -0300" stop="20261015124500 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Bela Raízes</title>
-  </programme>
-  <programme start="20261015124500 -0300" stop="20261015133000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015121500 -0300" stop="20261015130000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Repórter Brasil Tarde</title>
+  </programme>
+  <programme start="20261015130000 -0300" stop="20261015131000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Horário Eleitoral</title>
+  </programme>
+  <programme start="20261015131000 -0300" stop="20261015133000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Rotas Criativas do Brasil</title>
   </programme>
   <programme start="20261015133000 -0300" stop="20261015140000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">É Logo Ali!</title>
@@ -4471,7 +4501,7 @@
     <title lang="pt">Meu Pedaço Do Brasil</title>
   </programme>
   <programme start="20261015150000 -0300" stop="20261015153000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Game Dev Brasil</title>
+    <title lang="pt">Parques do Brasil</title>
   </programme>
   <programme start="20261015153000 -0300" stop="20261015160000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Expedições</title>
@@ -4488,20 +4518,26 @@
   <programme start="20261015190000 -0300" stop="20261015200000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Repórter Brasil</title>
   </programme>
-  <programme start="20261015200000 -0300" stop="20261015210000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015200000 -0300" stop="20261015203000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Um Milagre</title>
   </programme>
-  <programme start="20261015210000 -0300" stop="20261015220000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015203000 -0300" stop="20261015204000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20261015204000 -0300" stop="20261015210000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Rotas Criativas do Brasil</title>
+  </programme>
+  <programme start="20261015210000 -0300" stop="20261015213000 -0300" channel="tv_brasil_hd.claro.br">
+    <title lang="pt">Um Milagre</title>
+  </programme>
+  <programme start="20261015213000 -0300" stop="20261015220000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Um Ano Selvagem na Terra</title>
   </programme>
   <programme start="20261015220000 -0300" stop="20261015230000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Brasil no Mundo</title>
   </programme>
-  <programme start="20261015230000 -0300" stop="20261015233000 -0300" channel="tv_brasil_hd.claro.br">
+  <programme start="20261015230000 -0300" stop="20261016000000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Aprender a Sonhar</title>
-  </programme>
-  <programme start="20261015233000 -0300" stop="20261016013000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Sem Censura</title>
   </programme>
   <programme start="20261014004500 -0300" stop="20261014013500 -0300" channel="e!.claro.br">
     <title lang="pt">Million Dollar Listing NY</title>
@@ -10524,16 +10560,10 @@
   <programme start="20261014100700 -0300" stop="20261014101900 -0300" channel="gloob.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20261014101900 -0300" stop="20261014105500 -0300" channel="gloob.claro.br">
+  <programme start="20261014101900 -0300" stop="20261014120200 -0300" channel="gloob.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20261014105500 -0300" stop="20261014111700 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20261014111700 -0300" stop="20261014114000 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20261014114000 -0300" stop="20261014122700 -0300" channel="gloob.claro.br">
+  <programme start="20261014120200 -0300" stop="20261014122700 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261014122700 -0300" stop="20261014124900 -0300" channel="gloob.claro.br">
@@ -10776,7 +10806,10 @@
   <programme start="20261015175100 -0300" stop="20261015181500 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261015181500 -0300" stop="20261015190100 -0300" channel="gloob.claro.br">
+  <programme start="20261015181500 -0300" stop="20261015183800 -0300" channel="gloob.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20261015183800 -0300" stop="20261015190100 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261015190100 -0300" stop="20261015192300 -0300" channel="gloob.claro.br">
@@ -28065,10 +28098,10 @@
   <programme start="20261015230000 -0300" stop="20261016000100 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Off Docs: Contos De Nazaré</title>
   </programme>
-  <programme start="20261014003000 -0300" stop="20261014011500 -0300" channel="band_hd.claro.br">
+  <programme start="20261014004500 -0300" stop="20261014012000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jornal da Noite</title>
   </programme>
-  <programme start="20261014011500 -0300" stop="20261014020000 -0300" channel="band_hd.claro.br">
+  <programme start="20261014012000 -0300" stop="20261014020000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Esporte Total</title>
   </programme>
   <programme start="20261014020000 -0300" stop="20261014040000 -0300" channel="band_hd.claro.br">
@@ -28089,13 +28122,16 @@
   <programme start="20261014110000 -0300" stop="20261014120000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jogo Aberto</title>
   </programme>
-  <programme start="20261014120000 -0300" stop="20261014132500 -0300" channel="band_hd.claro.br">
+  <programme start="20261014120000 -0300" stop="20261014130000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Os Donos da Bola - Regional</title>
   </programme>
-  <programme start="20261014132500 -0300" stop="20261014134500 -0300" channel="band_hd.claro.br">
+  <programme start="20261014130000 -0300" stop="20261014131000 -0300" channel="band_hd.claro.br">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20261014131000 -0300" stop="20261014133000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Acontece</title>
   </programme>
-  <programme start="20261014134500 -0300" stop="20261014143000 -0300" channel="band_hd.claro.br">
+  <programme start="20261014133000 -0300" stop="20261014143000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Band Mulher</title>
   </programme>
   <programme start="20261014143000 -0300" stop="20261014160000 -0300" channel="band_hd.claro.br">
@@ -28113,19 +28149,22 @@
   <programme start="20261014192000 -0300" stop="20261014203000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jornal da Band</title>
   </programme>
-  <programme start="20261014203000 -0300" stop="20261014212500 -0300" channel="band_hd.claro.br">
+  <programme start="20261014203000 -0300" stop="20261014204000 -0300" channel="band_hd.claro.br">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20261014204000 -0300" stop="20261014213500 -0300" channel="band_hd.claro.br">
     <title lang="pt">Guerra das Rosas</title>
   </programme>
-  <programme start="20261014212500 -0300" stop="20261014222000 -0300" channel="band_hd.claro.br">
+  <programme start="20261014213500 -0300" stop="20261014223000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Show da Fé</title>
   </programme>
-  <programme start="20261014222000 -0300" stop="20261015000000 -0300" channel="band_hd.claro.br">
-    <title lang="pt">Cine Clube: Ela</title>
+  <programme start="20261014223000 -0300" stop="20261015001500 -0300" channel="band_hd.claro.br">
+    <title lang="pt">Cine Clube: Snatch - Porcos e Diamantes</title>
   </programme>
-  <programme start="20261015000000 -0300" stop="20261015010000 -0300" channel="band_hd.claro.br">
+  <programme start="20261015001500 -0300" stop="20261015011000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jornal da Noite</title>
   </programme>
-  <programme start="20261015010000 -0300" stop="20261015020000 -0300" channel="band_hd.claro.br">
+  <programme start="20261015011000 -0300" stop="20261015020000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Esporte Total</title>
   </programme>
   <programme start="20261015020000 -0300" stop="20261015040000 -0300" channel="band_hd.claro.br">
@@ -28146,13 +28185,16 @@
   <programme start="20261015110000 -0300" stop="20261015120000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jogo Aberto</title>
   </programme>
-  <programme start="20261015120000 -0300" stop="20261015132500 -0300" channel="band_hd.claro.br">
+  <programme start="20261015120000 -0300" stop="20261015130000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Os Donos da Bola - Regional</title>
   </programme>
-  <programme start="20261015132500 -0300" stop="20261015134500 -0300" channel="band_hd.claro.br">
+  <programme start="20261015130000 -0300" stop="20261015131000 -0300" channel="band_hd.claro.br">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20261015131000 -0300" stop="20261015133000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Acontece</title>
   </programme>
-  <programme start="20261015134500 -0300" stop="20261015143000 -0300" channel="band_hd.claro.br">
+  <programme start="20261015133000 -0300" stop="20261015143000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Band Mulher</title>
   </programme>
   <programme start="20261015143000 -0300" stop="20261015160000 -0300" channel="band_hd.claro.br">
@@ -28170,13 +28212,16 @@
   <programme start="20261015192000 -0300" stop="20261015203000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jornal da Band</title>
   </programme>
-  <programme start="20261015203000 -0300" stop="20261015212500 -0300" channel="band_hd.claro.br">
+  <programme start="20261015203000 -0300" stop="20261015204000 -0300" channel="band_hd.claro.br">
+    <title lang="pt">Horário Político</title>
+  </programme>
+  <programme start="20261015204000 -0300" stop="20261015213500 -0300" channel="band_hd.claro.br">
     <title lang="pt">Guerra das Rosas</title>
   </programme>
-  <programme start="20261015212500 -0300" stop="20261015222000 -0300" channel="band_hd.claro.br">
+  <programme start="20261015213500 -0300" stop="20261015223000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Show da Fé</title>
   </programme>
-  <programme start="20261015222000 -0300" stop="20261016000000 -0300" channel="band_hd.claro.br">
+  <programme start="20261015223000 -0300" stop="20261016001500 -0300" channel="band_hd.claro.br">
     <title lang="pt">Linha de Combate</title>
   </programme>
   <programme start="20261014000000 -0300" stop="20261014003000 -0300" channel="cultura_hd.claro.br">
@@ -37260,16 +37305,10 @@
   <programme start="20261014100700 -0300" stop="20261014101900 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20261014101900 -0300" stop="20261014105500 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261014101900 -0300" stop="20261014120200 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Tara Duncan</title>
   </programme>
-  <programme start="20261014105500 -0300" stop="20261014111700 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20261014111700 -0300" stop="20261014114000 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20261014114000 -0300" stop="20261014122700 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261014120200 -0300" stop="20261014122700 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261014122700 -0300" stop="20261014124900 -0300" channel="gloob_hd_.claro.br">
@@ -37512,7 +37551,10 @@
   <programme start="20261015175100 -0300" stop="20261015181500 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261015181500 -0300" stop="20261015190100 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261015181500 -0300" stop="20261015183800 -0300" channel="gloob_hd_.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20261015183800 -0300" stop="20261015190100 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261015190100 -0300" stop="20261015192300 -0300" channel="gloob_hd_.claro.br">
