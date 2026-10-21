@@ -4270,22 +4270,22 @@
     <title lang="pt">Os Chocolix</title>
   </programme>
   <programme start="20261021085500 -0300" stop="20261021090800 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Mundo Bita</title>
+    <title lang="pt">O Portão Mágico</title>
   </programme>
   <programme start="20261021090800 -0300" stop="20261021091300 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Histórias Atrás da Porta</title>
+    <title lang="pt">Mundo Bita</title>
   </programme>
   <programme start="20261021091300 -0300" stop="20261021092300 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">O Diário de Mika</title>
+    <title lang="pt">Histórias Atrás da Porta</title>
   </programme>
   <programme start="20261021092300 -0300" stop="20261021093500 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Peixonauta</title>
+    <title lang="pt">O Diário de Mika</title>
   </programme>
   <programme start="20261021093500 -0300" stop="20261021094700 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Peixonauta</title>
   </programme>
   <programme start="20261021094700 -0300" stop="20261021095900 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">O Portão Mágico</title>
+    <title lang="pt">Peixonauta</title>
   </programme>
   <programme start="20261021095900 -0300" stop="20261021101200 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Criança de Raiz</title>
@@ -4369,7 +4369,7 @@
     <title lang="pt">Mar Brasil</title>
   </programme>
   <programme start="20261021220000 -0300" stop="20261021223000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Vozes do Rio Pinheiros</title>
+    <title lang="pt">Energia no Brasil</title>
   </programme>
   <programme start="20261021223000 -0300" stop="20261021233000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Rumo ao Maravilhoso</title>
@@ -4387,7 +4387,7 @@
     <title lang="pt">Mar Brasil</title>
   </programme>
   <programme start="20261022033000 -0300" stop="20261022040000 -0300" channel="tv_brasil_hd.claro.br">
-    <title lang="pt">Vozes do Rio Pinheiros</title>
+    <title lang="pt">Energia no Brasil</title>
   </programme>
   <programme start="20261022040000 -0300" stop="20261022050000 -0300" channel="tv_brasil_hd.claro.br">
     <title lang="pt">Rumo ao Maravilhoso</title>
@@ -6070,7 +6070,7 @@
     <title lang="pt">VT - Mirassol x Internacional</title>
   </programme>
   <programme start="20261021040000 -0300" stop="20261021050000 -0300" channel="sportv.claro.br">
-    <title lang="pt">Copa do Brasil Feminina de Futebol</title>
+    <title lang="pt">VT - Bragantino x Ferroviária</title>
   </programme>
   <programme start="20261021050000 -0300" stop="20261021053000 -0300" channel="sportv.claro.br">
     <title lang="pt">VT - Remo x Bragantino</title>
@@ -6142,7 +6142,7 @@
     <title lang="pt">VT - Bahia x Flamengo</title>
   </programme>
   <programme start="20261022050000 -0300" stop="20261022060000 -0300" channel="sportv.claro.br">
-    <title lang="pt">Copa do Brasil Feminina de Futebol</title>
+    <title lang="pt">VT - Bragantino x Ferroviária</title>
   </programme>
   <programme start="20261022060000 -0300" stop="20261022070000 -0300" channel="sportv.claro.br">
     <title lang="pt">VT - Atlético-MG x Cruzeiro</title>
@@ -6169,13 +6169,13 @@
     <title lang="pt">Pílula Futebol Feminino: Olho Nelas</title>
   </programme>
   <programme start="20261022160000 -0300" stop="20261022183000 -0300" channel="sportv.claro.br">
-    <title lang="pt">Copa do Brasil de Futebol Sub-20</title>
+    <title lang="pt">Botafogo x Palmeiras - Ao Vivo</title>
   </programme>
   <programme start="20261022183000 -0300" stop="20261022210000 -0300" channel="sportv.claro.br">
-    <title lang="pt">Copa do Brasil Feminina de Futebol</title>
+    <title lang="pt">Fluminense x Flamengo - Ao Vivo</title>
   </programme>
   <programme start="20261022210000 -0300" stop="20261022230000 -0300" channel="sportv.claro.br">
-    <title lang="pt">Conmebol Libertadores Feminina 2026</title>
+    <title lang="pt">Olimpia x Cruzeiro - Ao Vivo</title>
   </programme>
   <programme start="20261022230000 -0300" stop="20261022233000 -0300" channel="sportv.claro.br">
     <title lang="pt">Giro Da Rodada - Brasileirão - 31ª Rodada</title>
@@ -6219,11 +6219,8 @@
   <programme start="20261021094900 -0300" stop="20261021103700 -0300" channel="viva.claro.br">
     <title lang="pt">Maria Mercedes</title>
   </programme>
-  <programme start="20261021103700 -0300" stop="20261021112700 -0300" channel="viva.claro.br">
+  <programme start="20261021103700 -0300" stop="20261021121400 -0300" channel="viva.claro.br">
     <title lang="pt">As Filhas Da Senhora Garcia</title>
-  </programme>
-  <programme start="20261021112700 -0300" stop="20261021121400 -0300" channel="viva.claro.br">
-    <title lang="pt">Escolha Do Público (Batalha De Novelas)</title>
   </programme>
   <programme start="20261021121400 -0300" stop="20261021125700 -0300" channel="viva.claro.br">
     <title lang="pt">Tropicaliente</title>
@@ -6253,7 +6250,7 @@
     <title lang="pt">Tropicaliente</title>
   </programme>
   <programme start="20261021193900 -0300" stop="20261021202200 -0300" channel="viva.claro.br">
-    <title lang="pt">Escolha Do Público (Batalha De Novelas)</title>
+    <title lang="pt">O Cravo E A Rosa</title>
   </programme>
   <programme start="20261021202200 -0300" stop="20261021210700 -0300" channel="viva.claro.br">
     <title lang="pt">Rock Story</title>
@@ -10593,7 +10590,10 @@
   <programme start="20261021233600 -0300" stop="20261021235900 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261021235900 -0300" stop="20261022015100 -0300" channel="gloob.claro.br">
+  <programme start="20261021235900 -0300" stop="20261022012900 -0300" channel="gloob.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20261022012900 -0300" stop="20261022015100 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261022015100 -0300" stop="20261022020300 -0300" channel="gloob.claro.br">
@@ -10704,10 +10704,7 @@
   <programme start="20261022112500 -0300" stop="20261022114700 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261022114700 -0300" stop="20261022121000 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20261022121000 -0300" stop="20261022123200 -0300" channel="gloob.claro.br">
+  <programme start="20261022114700 -0300" stop="20261022123200 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261022123200 -0300" stop="20261022125700 -0300" channel="gloob.claro.br">
@@ -10743,8 +10740,11 @@
   <programme start="20261022163700 -0300" stop="20261022170000 -0300" channel="gloob.claro.br">
     <title lang="pt">Dragões - Pilotos De Berk</title>
   </programme>
-  <programme start="20261022170000 -0300" stop="20261022190000 -0300" channel="gloob.claro.br">
+  <programme start="20261022170000 -0300" stop="20261022183600 -0300" channel="gloob.claro.br">
     <title lang="pt">As Meninas Da Garagem Secreta</title>
+  </programme>
+  <programme start="20261022183600 -0300" stop="20261022190000 -0300" channel="gloob.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261022190000 -0300" stop="20261022192300 -0300" channel="gloob.claro.br">
     <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
@@ -10764,13 +10764,13 @@
   <programme start="20261022210000 -0300" stop="20261022222000 -0300" channel="gloob.claro.br">
     <title lang="pt">Cine Gloob: Abá e Sua Banda</title>
   </programme>
-  <programme start="20261022222000 -0300" stop="20261022230400 -0300" channel="gloob.claro.br">
+  <programme start="20261022222000 -0300" stop="20261022224200 -0300" channel="gloob.claro.br">
     <title lang="pt">Pokémon: Sol &amp; Lua</title>
   </programme>
-  <programme start="20261022230400 -0300" stop="20261022234900 -0300" channel="gloob.claro.br">
+  <programme start="20261022224200 -0300" stop="20261022232700 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261022234900 -0300" stop="20261023003400 -0300" channel="gloob.claro.br">
+  <programme start="20261022232700 -0300" stop="20261023003400 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261021030000 -0300" stop="20261021031000 -0300" channel="woohoo.claro.br">
@@ -14199,139 +14199,133 @@
   <programme start="20261022235100 -0300" stop="20261023000500 -0300" channel="a&amp;e.claro.br">
     <title lang="pt">Rota: A Polícia de Elite</title>
   </programme>
-  <programme start="20261021000500 -0300" stop="20261021004900 -0300" channel="id.claro.br">
-    <title lang="pt">Na Mira dos Sequestradores</title>
-  </programme>
-  <programme start="20261021004900 -0300" stop="20261021013300 -0300" channel="id.claro.br">
+  <programme start="20261021003500 -0300" stop="20261021011900 -0300" channel="id.claro.br">
     <title lang="pt">Seu Pior Pesadelo</title>
   </programme>
-  <programme start="20261021013300 -0300" stop="20261021021700 -0300" channel="id.claro.br">
+  <programme start="20261021011900 -0300" stop="20261021020200 -0300" channel="id.claro.br">
     <title lang="pt">Mentiras Criminosas</title>
   </programme>
-  <programme start="20261021021700 -0300" stop="20261021030100 -0300" channel="id.claro.br">
+  <programme start="20261021020200 -0300" stop="20261021024600 -0300" channel="id.claro.br">
     <title lang="pt">People Magazine: Além Da Notícia</title>
   </programme>
-  <programme start="20261021030100 -0300" stop="20261021034500 -0300" channel="id.claro.br">
+  <programme start="20261021024600 -0300" stop="20261021032900 -0300" channel="id.claro.br">
     <title lang="pt">Assassinato de Uma Sexta à Noite</title>
   </programme>
-  <programme start="20261021034500 -0300" stop="20261021042900 -0300" channel="id.claro.br">
+  <programme start="20261021032900 -0300" stop="20261021041300 -0300" channel="id.claro.br">
     <title lang="pt">Ainda Um Mistério</title>
   </programme>
-  <programme start="20261021042900 -0300" stop="20261021051300 -0300" channel="id.claro.br">
+  <programme start="20261021041300 -0300" stop="20261021045600 -0300" channel="id.claro.br">
     <title lang="pt">Câmera Crime</title>
   </programme>
-  <programme start="20261021051300 -0300" stop="20261021053700 -0300" channel="id.claro.br">
+  <programme start="20261021045600 -0300" stop="20261021051800 -0300" channel="id.claro.br">
     <title lang="pt">Sinais de um Psicopata</title>
   </programme>
-  <programme start="20261021053700 -0300" stop="20261021060000 -0300" channel="id.claro.br">
+  <programme start="20261021051800 -0300" stop="20261021060000 -0300" channel="id.claro.br">
     <title lang="pt">Sinais de um Psicopata</title>
   </programme>
-  <programme start="20261021060000 -0300" stop="20261021062500 -0300" channel="id.claro.br">
+  <programme start="20261021060000 -0300" stop="20261021062300 -0300" channel="id.claro.br">
     <title lang="pt">Sinais de um Psicopata</title>
   </programme>
-  <programme start="20261021062500 -0300" stop="20261021070900 -0300" channel="id.claro.br">
+  <programme start="20261021062300 -0300" stop="20261021070700 -0300" channel="id.claro.br">
     <title lang="pt">DNA Criminoso </title>
   </programme>
-  <programme start="20261021070900 -0300" stop="20261021075300 -0300" channel="id.claro.br">
+  <programme start="20261021070700 -0300" stop="20261021075000 -0300" channel="id.claro.br">
     <title lang="pt">DNA Criminoso </title>
   </programme>
-  <programme start="20261021075300 -0300" stop="20261021083700 -0300" channel="id.claro.br">
-    <title lang="pt">Lobo Em Pele De Cordeiro</title>
-  </programme>
-  <programme start="20261021083700 -0300" stop="20261021092100 -0300" channel="id.claro.br">
+  <programme start="20261021075000 -0300" stop="20261021083400 -0300" channel="id.claro.br">
     <title lang="pt">Vivendo com o Inimigo</title>
   </programme>
-  <programme start="20261021092100 -0300" stop="20261021100500 -0300" channel="id.claro.br">
+  <programme start="20261021083400 -0300" stop="20261021091700 -0300" channel="id.claro.br">
+    <title lang="pt">Vivendo com o Inimigo</title>
+  </programme>
+  <programme start="20261021091700 -0300" stop="20261021100000 -0300" channel="id.claro.br">
     <title lang="pt">Vidas Destruídas</title>
   </programme>
-  <programme start="20261021100500 -0300" stop="20261021104900 -0300" channel="id.claro.br">
-    <title lang="pt">Assassinatos em Família</title>
+  <programme start="20261021100000 -0300" stop="20261021104400 -0300" channel="id.claro.br">
+    <title lang="pt">Vidas Destruídas</title>
   </programme>
-  <programme start="20261021104900 -0300" stop="20261021113300 -0300" channel="id.claro.br">
-    <title lang="pt">Vivendo Com O Inimigo: Sombras da Morte</title>
-  </programme>
-  <programme start="20261021113300 -0300" stop="20261021121700 -0300" channel="id.claro.br">
-    <title lang="pt">Irmãs Perversas</title>
-  </programme>
-  <programme start="20261021121700 -0300" stop="20261021130100 -0300" channel="id.claro.br">
-    <title lang="pt">Falsidade.com</title>
-  </programme>
-  <programme start="20261021130100 -0300" stop="20261021134500 -0300" channel="id.claro.br">
+  <programme start="20261021104400 -0300" stop="20261021112800 -0300" channel="id.claro.br">
     <title lang="pt">Emboscada</title>
   </programme>
-  <programme start="20261021134500 -0300" stop="20261021142900 -0300" channel="id.claro.br">
+  <programme start="20261021112800 -0300" stop="20261021121100 -0300" channel="id.claro.br">
+    <title lang="pt">Emboscada</title>
+  </programme>
+  <programme start="20261021121100 -0300" stop="20261021125500 -0300" channel="id.claro.br">
     <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
   </programme>
-  <programme start="20261021142900 -0300" stop="20261021151300 -0300" channel="id.claro.br">
-    <title lang="pt">Amor Assassino</title>
+  <programme start="20261021125500 -0300" stop="20261021133800 -0300" channel="id.claro.br">
+    <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
   </programme>
-  <programme start="20261021151300 -0300" stop="20261021155700 -0300" channel="id.claro.br">
-    <title lang="pt">Pecados Mortais</title>
+  <programme start="20261021133800 -0300" stop="20261021150600 -0300" channel="id.claro.br">
+    <title lang="pt">O Lado Sombrio de Hollywood</title>
   </programme>
-  <programme start="20261021155700 -0300" stop="20261021164100 -0300" channel="id.claro.br">
-    <title lang="pt">Paixões Perigosas</title>
+  <programme start="20261021150600 -0300" stop="20261021163400 -0300" channel="id.claro.br">
+    <title lang="pt">O Lado Sombrio de Hollywood</title>
   </programme>
-  <programme start="20261021164100 -0300" stop="20261021172500 -0300" channel="id.claro.br">
-    <title lang="pt">Análise de um Crime</title>
+  <programme start="20261021163400 -0300" stop="20261021171700 -0300" channel="id.claro.br">
+    <title lang="pt">Playboy: Fama e Morte</title>
   </programme>
-  <programme start="20261021172500 -0300" stop="20261021180900 -0300" channel="id.claro.br">
-    <title lang="pt">Detetive Americano com Joe Kenda</title>
+  <programme start="20261021171700 -0300" stop="20261021180100 -0300" channel="id.claro.br">
+    <title lang="pt">Playboy: Fama e Morte</title>
   </programme>
-  <programme start="20261021180900 -0300" stop="20261021183300 -0300" channel="id.claro.br">
+  <programme start="20261021180100 -0300" stop="20261021182500 -0300" channel="id.claro.br">
     <title lang="pt">Olhos Da Lei</title>
   </programme>
-  <programme start="20261021183300 -0300" stop="20261021185700 -0300" channel="id.claro.br">
+  <programme start="20261021182500 -0300" stop="20261021184800 -0300" channel="id.claro.br">
     <title lang="pt">Olhos Da Lei</title>
   </programme>
-  <programme start="20261021185700 -0300" stop="20261021194100 -0300" channel="id.claro.br">
-    <title lang="pt">Bodycam: Registros Criminosos</title>
-  </programme>
-  <programme start="20261021194100 -0300" stop="20261021200300 -0300" channel="id.claro.br">
+  <programme start="20261021184800 -0300" stop="20261021191000 -0300" channel="id.claro.br">
     <title lang="pt">Crimes Que Viralizaram</title>
   </programme>
-  <programme start="20261021200300 -0300" stop="20261021202500 -0300" channel="id.claro.br">
+  <programme start="20261021191000 -0300" stop="20261021193100 -0300" channel="id.claro.br">
     <title lang="pt">Crimes Que Viralizaram</title>
   </programme>
-  <programme start="20261021202500 -0300" stop="20261021210900 -0300" channel="id.claro.br">
+  <programme start="20261021193100 -0300" stop="20261021195200 -0300" channel="id.claro.br">
+    <title lang="pt">Crimes Que Viralizaram</title>
+  </programme>
+  <programme start="20261021195200 -0300" stop="20261021201400 -0300" channel="id.claro.br">
+    <title lang="pt">Crimes Que Viralizaram</title>
+  </programme>
+  <programme start="20261021201400 -0300" stop="20261021205800 -0300" channel="id.claro.br">
     <title lang="pt">People Magazine: Por Dentro das Seitas</title>
   </programme>
-  <programme start="20261021210900 -0300" stop="20261021215300 -0300" channel="id.claro.br">
+  <programme start="20261021205800 -0300" stop="20261021214100 -0300" channel="id.claro.br">
     <title lang="pt">People Magazine: Por Dentro das Seitas</title>
   </programme>
-  <programme start="20261021215300 -0300" stop="20261021223700 -0300" channel="id.claro.br">
+  <programme start="20261021214100 -0300" stop="20261021222400 -0300" channel="id.claro.br">
     <title lang="pt">Detetive Americano com Joe Kenda</title>
   </programme>
-  <programme start="20261021223700 -0300" stop="20261021232100 -0300" channel="id.claro.br">
+  <programme start="20261021222400 -0300" stop="20261021230800 -0300" channel="id.claro.br">
     <title lang="pt">Investigação Criminal</title>
   </programme>
-  <programme start="20261021232100 -0300" stop="20261022000500 -0300" channel="id.claro.br">
+  <programme start="20261021230800 -0300" stop="20261021235100 -0300" channel="id.claro.br">
     <title lang="pt">Confissões de Assassinos: Verdades Perturbadoras</title>
   </programme>
-  <programme start="20261022000500 -0300" stop="20261022004900 -0300" channel="id.claro.br">
+  <programme start="20261021235100 -0300" stop="20261022003500 -0300" channel="id.claro.br">
     <title lang="pt">Caçada por Desaparecidos: Chicago</title>
   </programme>
-  <programme start="20261022004900 -0300" stop="20261022013300 -0300" channel="id.claro.br">
+  <programme start="20261022003500 -0300" stop="20261022011900 -0300" channel="id.claro.br">
     <title lang="pt">Seu Pior Pesadelo</title>
   </programme>
-  <programme start="20261022013300 -0300" stop="20261022021700 -0300" channel="id.claro.br">
+  <programme start="20261022011900 -0300" stop="20261022020200 -0300" channel="id.claro.br">
     <title lang="pt">Mentiras Criminosas</title>
   </programme>
-  <programme start="20261022021700 -0300" stop="20261022030100 -0300" channel="id.claro.br">
+  <programme start="20261022020200 -0300" stop="20261022024500 -0300" channel="id.claro.br">
     <title lang="pt">People Magazine: Além Da Notícia</title>
   </programme>
-  <programme start="20261022030100 -0300" stop="20261022034500 -0300" channel="id.claro.br">
+  <programme start="20261022024500 -0300" stop="20261022032900 -0300" channel="id.claro.br">
     <title lang="pt">Assassinato de Uma Sexta à Noite</title>
   </programme>
-  <programme start="20261022034500 -0300" stop="20261022042900 -0300" channel="id.claro.br">
+  <programme start="20261022032900 -0300" stop="20261022041200 -0300" channel="id.claro.br">
     <title lang="pt">Ainda Um Mistério</title>
   </programme>
-  <programme start="20261022042900 -0300" stop="20261022051300 -0300" channel="id.claro.br">
+  <programme start="20261022041200 -0300" stop="20261022045600 -0300" channel="id.claro.br">
     <title lang="pt">Câmera Crime</title>
   </programme>
-  <programme start="20261022051300 -0300" stop="20261022053700 -0300" channel="id.claro.br">
+  <programme start="20261022045600 -0300" stop="20261022051800 -0300" channel="id.claro.br">
     <title lang="pt">Sinais de um Psicopata</title>
   </programme>
-  <programme start="20261022053700 -0300" stop="20261022060000 -0300" channel="id.claro.br">
+  <programme start="20261022051800 -0300" stop="20261022060000 -0300" channel="id.claro.br">
     <title lang="pt">Sinais de um Psicopata</title>
   </programme>
   <programme start="20261022060000 -0300" stop="20261022062500 -0300" channel="id.claro.br">
@@ -14344,7 +14338,7 @@
     <title lang="pt">DNA Criminoso </title>
   </programme>
   <programme start="20261022075300 -0300" stop="20261022083700 -0300" channel="id.claro.br">
-    <title lang="pt">Lobo Em Pele De Cordeiro</title>
+    <title lang="pt">Vivendo com o Inimigo</title>
   </programme>
   <programme start="20261022083700 -0300" stop="20261022092100 -0300" channel="id.claro.br">
     <title lang="pt">Vivendo com o Inimigo</title>
@@ -14353,34 +14347,34 @@
     <title lang="pt">Vidas Destruídas</title>
   </programme>
   <programme start="20261022100500 -0300" stop="20261022104900 -0300" channel="id.claro.br">
-    <title lang="pt">Assassinatos em Família</title>
+    <title lang="pt">Vidas Destruídas</title>
   </programme>
   <programme start="20261022104900 -0300" stop="20261022113300 -0300" channel="id.claro.br">
-    <title lang="pt">Vivendo Com O Inimigo: Sombras da Morte</title>
-  </programme>
-  <programme start="20261022113300 -0300" stop="20261022121700 -0300" channel="id.claro.br">
-    <title lang="pt">Irmãs Perversas</title>
-  </programme>
-  <programme start="20261022121700 -0300" stop="20261022130100 -0300" channel="id.claro.br">
-    <title lang="pt">Falsidade.com</title>
-  </programme>
-  <programme start="20261022130100 -0300" stop="20261022134500 -0300" channel="id.claro.br">
     <title lang="pt">Emboscada</title>
   </programme>
-  <programme start="20261022134500 -0300" stop="20261022142900 -0300" channel="id.claro.br">
+  <programme start="20261022113300 -0300" stop="20261022121700 -0300" channel="id.claro.br">
+    <title lang="pt">Emboscada</title>
+  </programme>
+  <programme start="20261022121700 -0300" stop="20261022130100 -0300" channel="id.claro.br">
     <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
   </programme>
+  <programme start="20261022130100 -0300" stop="20261022134500 -0300" channel="id.claro.br">
+    <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
+  </programme>
+  <programme start="20261022134500 -0300" stop="20261022142900 -0300" channel="id.claro.br">
+    <title lang="pt">Assassinatos na Rua Elm</title>
+  </programme>
   <programme start="20261022142900 -0300" stop="20261022151300 -0300" channel="id.claro.br">
-    <title lang="pt">Amor Assassino</title>
+    <title lang="pt">Assassinatos na Rua Elm</title>
   </programme>
   <programme start="20261022151300 -0300" stop="20261022155700 -0300" channel="id.claro.br">
-    <title lang="pt">Pecados Mortais</title>
+    <title lang="pt">Assassinatos na Rua Elm</title>
   </programme>
   <programme start="20261022155700 -0300" stop="20261022164100 -0300" channel="id.claro.br">
-    <title lang="pt">Paixões Perigosas</title>
+    <title lang="pt">Detetive Americano com Joe Kenda</title>
   </programme>
   <programme start="20261022164100 -0300" stop="20261022172500 -0300" channel="id.claro.br">
-    <title lang="pt">Análise de um Crime</title>
+    <title lang="pt">Detetive Americano com Joe Kenda</title>
   </programme>
   <programme start="20261022172500 -0300" stop="20261022180900 -0300" channel="id.claro.br">
     <title lang="pt">Detetive Americano com Joe Kenda</title>
@@ -14391,8 +14385,11 @@
   <programme start="20261022183300 -0300" stop="20261022185700 -0300" channel="id.claro.br">
     <title lang="pt">Olhos Da Lei</title>
   </programme>
-  <programme start="20261022185700 -0300" stop="20261022194100 -0300" channel="id.claro.br">
-    <title lang="pt">Bodycam: Registros Criminosos</title>
+  <programme start="20261022185700 -0300" stop="20261022191900 -0300" channel="id.claro.br">
+    <title lang="pt">Crimes Que Viralizaram</title>
+  </programme>
+  <programme start="20261022191900 -0300" stop="20261022194100 -0300" channel="id.claro.br">
+    <title lang="pt">Crimes Que Viralizaram</title>
   </programme>
   <programme start="20261022194100 -0300" stop="20261022200300 -0300" channel="id.claro.br">
     <title lang="pt">Crimes Que Viralizaram</title>
@@ -15258,8 +15255,38 @@
   <programme start="20261022075400 -0300" stop="20261022085100 -0300" channel="bis.claro.br">
     <title lang="pt">Experimente</title>
   </programme>
-  <programme start="20261022085100 -0300" stop="20261022094900 -0300" channel="bis.claro.br">
+  <programme start="20261022085100 -0300" stop="20261022091900 -0300" channel="bis.claro.br">
     <title lang="pt">Alerta Sessions</title>
+  </programme>
+  <programme start="20261022091900 -0300" stop="20261022092200 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022092200 -0300" stop="20261022092500 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022092500 -0300" stop="20261022092800 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022092800 -0300" stop="20261022093100 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022093100 -0300" stop="20261022093400 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022093400 -0300" stop="20261022093700 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022093700 -0300" stop="20261022094000 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022094000 -0300" stop="20261022094300 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022094300 -0300" stop="20261022094600 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022094600 -0300" stop="20261022094900 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
   </programme>
   <programme start="20261022094900 -0300" stop="20261022105200 -0300" channel="bis.claro.br">
     <title lang="pt">Sam Smith: Love Goes - Live At Abbey Road</title>
@@ -15273,8 +15300,38 @@
   <programme start="20261022122100 -0300" stop="20261022131800 -0300" channel="bis.claro.br">
     <title lang="pt">Experimente</title>
   </programme>
-  <programme start="20261022131800 -0300" stop="20261022143300 -0300" channel="bis.claro.br">
+  <programme start="20261022131800 -0300" stop="20261022140300 -0300" channel="bis.claro.br">
     <title lang="pt">Michael Jackson - A História</title>
+  </programme>
+  <programme start="20261022140300 -0300" stop="20261022140600 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022140600 -0300" stop="20261022140900 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022140900 -0300" stop="20261022141200 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022141200 -0300" stop="20261022141500 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022141500 -0300" stop="20261022141800 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022141800 -0300" stop="20261022142100 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022142100 -0300" stop="20261022142400 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022142400 -0300" stop="20261022142700 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022142700 -0300" stop="20261022143000 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022143000 -0300" stop="20261022143300 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
   </programme>
   <programme start="20261022143300 -0300" stop="20261022150500 -0300" channel="bis.claro.br">
     <title lang="pt">Hungria - Dvd Atmosfera</title>
@@ -15297,7 +15354,28 @@
   <programme start="20261022183300 -0300" stop="20261022183600 -0300" channel="bis.claro.br">
     <title lang="pt">Setlist</title>
   </programme>
-  <programme start="20261022183600 -0300" stop="20261022190000 -0300" channel="bis.claro.br">
+  <programme start="20261022183600 -0300" stop="20261022183900 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022183900 -0300" stop="20261022184200 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022184200 -0300" stop="20261022184500 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022184500 -0300" stop="20261022184800 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022184800 -0300" stop="20261022185100 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022185100 -0300" stop="20261022185400 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022185400 -0300" stop="20261022185700 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022185700 -0300" stop="20261022190000 -0300" channel="bis.claro.br">
     <title lang="pt">Setlist</title>
   </programme>
   <programme start="20261022190000 -0300" stop="20261022193000 -0300" channel="bis.claro.br">
@@ -15312,8 +15390,38 @@
   <programme start="20261022203000 -0300" stop="20261022210000 -0300" channel="bis.claro.br">
     <title lang="pt">One Take Show</title>
   </programme>
-  <programme start="20261022210000 -0300" stop="20261022220200 -0300" channel="bis.claro.br">
+  <programme start="20261022210000 -0300" stop="20261022213200 -0300" channel="bis.claro.br">
     <title lang="pt">Afrofluxo: O Som Da Música Preta</title>
+  </programme>
+  <programme start="20261022213200 -0300" stop="20261022213500 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022213500 -0300" stop="20261022213800 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022213800 -0300" stop="20261022214100 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022214100 -0300" stop="20261022214400 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022214400 -0300" stop="20261022214700 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022214700 -0300" stop="20261022215000 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022215000 -0300" stop="20261022215300 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022215300 -0300" stop="20261022215600 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022215600 -0300" stop="20261022215900 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022215900 -0300" stop="20261022220200 -0300" channel="bis.claro.br">
+    <title lang="pt">Setlist</title>
   </programme>
   <programme start="20261022220200 -0300" stop="20261022234400 -0300" channel="bis.claro.br">
     <title lang="pt">Bjork: Cornucopia</title>
@@ -20799,20 +20907,20 @@
   <programme start="20261022233000 -0300" stop="20261023012500 -0300" channel="telecine_fun.claro.br">
     <title lang="pt">Sing: Quem Canta Seus Males Espanta</title>
   </programme>
-  <programme start="20261021000600 -0300" stop="20261021013600 -0300" channel="cinemax.claro.br">
+  <programme start="20261021000100 -0300" stop="20261021012900 -0300" channel="cinemax.claro.br">
     <title lang="pt">Gamer</title>
   </programme>
-  <programme start="20261021013600 -0300" stop="20261021030700 -0300" channel="cinemax.claro.br">
+  <programme start="20261021012900 -0300" stop="20261021025600 -0300" channel="cinemax.claro.br">
     <title lang="pt">Os Renegados</title>
   </programme>
-  <programme start="20261021030700 -0300" stop="20261021045600 -0300" channel="cinemax.claro.br">
+  <programme start="20261021025600 -0300" stop="20261021044300 -0300" channel="cinemax.claro.br">
     <title lang="pt">O Gângster, o Policial e o Diabo</title>
   </programme>
-  <programme start="20261021045600 -0300" stop="20261021060000 -0300" channel="cinemax.claro.br">
-    <title lang="pt">HBO Movies</title>
+  <programme start="20261021044300 -0300" stop="20261021060000 -0300" channel="cinemax.claro.br">
+    <title lang="pt">Hollywood One on One</title>
   </programme>
   <programme start="20261021060000 -0300" stop="20261021063000 -0300" channel="cinemax.claro.br">
-    <title lang="pt">HBO Movies</title>
+    <title lang="pt">Hollywood One on One</title>
   </programme>
   <programme start="20261021063000 -0300" stop="20261021075200 -0300" channel="cinemax.claro.br">
     <title lang="pt">Um Gigolô Europeu Por Acidente</title>
@@ -25798,76 +25906,76 @@
     <title lang="pt">ZonaDocu: El Cuerpo Y El Deseo</title>
   </programme>
   <programme start="20261021000000 -0300" stop="20261021020000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021020000 -0300" stop="20261021040000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021040000 -0300" stop="20261021060000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021060000 -0300" stop="20261021080000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021080000 -0300" stop="20261021100000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021100000 -0300" stop="20261021120000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021120000 -0300" stop="20261021140000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021140000 -0300" stop="20261021160000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021160000 -0300" stop="20261021180000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021180000 -0300" stop="20261021190000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021190000 -0300" stop="20261021220000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021220000 -0300" stop="20261022000000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022000000 -0300" stop="20261022020000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022020000 -0300" stop="20261022040000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022040000 -0300" stop="20261022060000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022060000 -0300" stop="20261022080000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022080000 -0300" stop="20261022100000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022100000 -0300" stop="20261022120000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022120000 -0300" stop="20261022140000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022140000 -0300" stop="20261022160000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022160000 -0300" stop="20261022180000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022180000 -0300" stop="20261022200000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022200000 -0300" stop="20261022220000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="premiere_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021000000 -0300" stop="20261021060000 -0300" channel="premiere_3.claro.br">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
@@ -25966,76 +26074,76 @@
     <title lang="pt">Com o PREMIERE dá jogo!</title>
   </programme>
   <programme start="20261021000000 -0300" stop="20261021020000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021020000 -0300" stop="20261021040000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021040000 -0300" stop="20261021060000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021060000 -0300" stop="20261021080000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021080000 -0300" stop="20261021100000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021100000 -0300" stop="20261021120000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021120000 -0300" stop="20261021140000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021140000 -0300" stop="20261021160000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021160000 -0300" stop="20261021180000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021180000 -0300" stop="20261021200000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021200000 -0300" stop="20261021220000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021220000 -0300" stop="20261022000000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022000000 -0300" stop="20261022020000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022020000 -0300" stop="20261022040000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022040000 -0300" stop="20261022060000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022060000 -0300" stop="20261022080000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022080000 -0300" stop="20261022100000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022100000 -0300" stop="20261022120000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022120000 -0300" stop="20261022140000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022140000 -0300" stop="20261022160000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022160000 -0300" stop="20261022180000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022180000 -0300" stop="20261022200000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022200000 -0300" stop="20261022220000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="premiere_5.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021000000 -0300" stop="20261021020000 -0300" channel="premiere_6.claro.br">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
@@ -26922,11 +27030,14 @@
   <programme start="20261022233000 -0300" stop="20261023000000 -0300" channel="tv_climatempo.claro.br">
     <title lang="pt">Brasil e China</title>
   </programme>
-  <programme start="20261021000500 -0300" stop="20261021015000 -0300" channel="tve_international.claro.br">
+  <programme start="20261021000500 -0300" stop="20261021013500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Al Cielo Con Ella</title>
   </programme>
-  <programme start="20261021015000 -0300" stop="20261021025000 -0300" channel="tve_international.claro.br">
+  <programme start="20261021013500 -0300" stop="20261021023000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Sukha</title>
+  </programme>
+  <programme start="20261021023000 -0300" stop="20261021025000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Telediario Matinal</title>
   </programme>
   <programme start="20261021025000 -0300" stop="20261021053500 -0300" channel="tve_international.claro.br">
     <title lang="pt">La Hora De La 1</title>
@@ -26952,19 +27063,22 @@
   <programme start="20261021104300 -0300" stop="20261021105000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Aqui La Tierra</title>
   </programme>
-  <programme start="20261021105000 -0300" stop="20261021125500 -0300" channel="tve_international.claro.br">
+  <programme start="20261021105000 -0300" stop="20261021125000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Directo Al Grano</title>
   </programme>
-  <programme start="20261021125500 -0300" stop="20261021134500 -0300" channel="tve_international.claro.br">
+  <programme start="20261021125000 -0300" stop="20261021134500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Senderos Del Mundo</title>
   </programme>
-  <programme start="20261021134500 -0300" stop="20261021143500 -0300" channel="tve_international.claro.br">
+  <programme start="20261021134500 -0300" stop="20261021143000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Saber y Ganar</title>
   </programme>
-  <programme start="20261021143500 -0300" stop="20261021144000 -0300" channel="tve_international.claro.br">
+  <programme start="20261021143000 -0300" stop="20261021143200 -0300" channel="tve_international.claro.br">
     <title lang="pt">Esto Es España</title>
   </programme>
-  <programme start="20261021144000 -0300" stop="20261021152500 -0300" channel="tve_international.claro.br">
+  <programme start="20261021143200 -0300" stop="20261021143500 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Esto Es España</title>
+  </programme>
+  <programme start="20261021143500 -0300" stop="20261021152500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Malas Lenguas</title>
   </programme>
   <programme start="20261021152500 -0300" stop="20261021155500 -0300" channel="tve_international.claro.br">
@@ -27003,10 +27117,10 @@
   <programme start="20261021224500 -0300" stop="20261022002500 -0300" channel="tve_international.claro.br">
     <title lang="pt">El Túnel</title>
   </programme>
-  <programme start="20261022002500 -0300" stop="20261022021500 -0300" channel="tve_international.claro.br">
+  <programme start="20261022002500 -0300" stop="20261022021000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Al Cielo Con Ella</title>
   </programme>
-  <programme start="20261022021500 -0300" stop="20261022025000 -0300" channel="tve_international.claro.br">
+  <programme start="20261022021000 -0300" stop="20261022025000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Metropolis</title>
   </programme>
   <programme start="20261022025000 -0300" stop="20261022053500 -0300" channel="tve_international.claro.br">
@@ -27033,19 +27147,22 @@
   <programme start="20261022104300 -0300" stop="20261022105000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Aqui La Tierra</title>
   </programme>
-  <programme start="20261022105000 -0300" stop="20261022125500 -0300" channel="tve_international.claro.br">
+  <programme start="20261022105000 -0300" stop="20261022125000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Directo Al Grano</title>
   </programme>
-  <programme start="20261022125500 -0300" stop="20261022135000 -0300" channel="tve_international.claro.br">
+  <programme start="20261022125000 -0300" stop="20261022134500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Senderos Del Mundo</title>
   </programme>
-  <programme start="20261022135000 -0300" stop="20261022143500 -0300" channel="tve_international.claro.br">
+  <programme start="20261022134500 -0300" stop="20261022143000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Saber y Ganar</title>
   </programme>
-  <programme start="20261022143500 -0300" stop="20261022144000 -0300" channel="tve_international.claro.br">
+  <programme start="20261022143000 -0300" stop="20261022143200 -0300" channel="tve_international.claro.br">
     <title lang="pt">Esto Es España</title>
   </programme>
-  <programme start="20261022144000 -0300" stop="20261022152500 -0300" channel="tve_international.claro.br">
+  <programme start="20261022143200 -0300" stop="20261022143500 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Esto Es España</title>
+  </programme>
+  <programme start="20261022143500 -0300" stop="20261022152500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Malas Lenguas</title>
   </programme>
   <programme start="20261022152500 -0300" stop="20261022155500 -0300" channel="tve_international.claro.br">
@@ -27084,7 +27201,7 @@
   <programme start="20261022224500 -0300" stop="20261022235500 -0300" channel="tve_international.claro.br">
     <title lang="pt">El Perro Andaluz By Manu Sanchez</title>
   </programme>
-  <programme start="20261022235500 -0300" stop="20261023025000 -0300" channel="tve_international.claro.br">
+  <programme start="20261022235500 -0300" stop="20261023023000 -0300" channel="tve_international.claro.br">
     <title lang="pt">El Perro Andaluz By Manu Sanchez</title>
   </programme>
   <programme start="20261021003300 -0300" stop="20261021004700 -0300" channel="sexy_hot.claro.br">
@@ -31261,7 +31378,7 @@
     <title lang="pt">VT - Mirassol x Internacional</title>
   </programme>
   <programme start="20261021040000 -0300" stop="20261021050000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Copa do Brasil Feminina de Futebol</title>
+    <title lang="pt">VT - Bragantino x Ferroviária</title>
   </programme>
   <programme start="20261021050000 -0300" stop="20261021053000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">VT - Remo x Bragantino</title>
@@ -31333,7 +31450,7 @@
     <title lang="pt">VT - Bahia x Flamengo</title>
   </programme>
   <programme start="20261022050000 -0300" stop="20261022060000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Copa do Brasil Feminina de Futebol</title>
+    <title lang="pt">VT - Bragantino x Ferroviária</title>
   </programme>
   <programme start="20261022060000 -0300" stop="20261022070000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">VT - Atlético-MG x Cruzeiro</title>
@@ -31360,13 +31477,13 @@
     <title lang="pt">Pílula Futebol Feminino: Olho Nelas</title>
   </programme>
   <programme start="20261022160000 -0300" stop="20261022183000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Copa do Brasil de Futebol Sub-20</title>
+    <title lang="pt">Botafogo x Palmeiras - Ao Vivo</title>
   </programme>
   <programme start="20261022183000 -0300" stop="20261022210000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Copa do Brasil Feminina de Futebol</title>
+    <title lang="pt">Fluminense x Flamengo - Ao Vivo</title>
   </programme>
   <programme start="20261022210000 -0300" stop="20261022230000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Conmebol Libertadores Feminina 2026</title>
+    <title lang="pt">Olimpia x Cruzeiro - Ao Vivo</title>
   </programme>
   <programme start="20261022230000 -0300" stop="20261022233000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Giro Da Rodada - Brasileirão - 31ª Rodada</title>
@@ -31494,11 +31611,8 @@
   <programme start="20261021094900 -0300" stop="20261021103700 -0300" channel="viva_hd.claro.br">
     <title lang="pt">Maria Mercedes</title>
   </programme>
-  <programme start="20261021103700 -0300" stop="20261021112700 -0300" channel="viva_hd.claro.br">
+  <programme start="20261021103700 -0300" stop="20261021121400 -0300" channel="viva_hd.claro.br">
     <title lang="pt">As Filhas Da Senhora Garcia</title>
-  </programme>
-  <programme start="20261021112700 -0300" stop="20261021121400 -0300" channel="viva_hd.claro.br">
-    <title lang="pt">Escolha Do Público (Batalha De Novelas)</title>
   </programme>
   <programme start="20261021121400 -0300" stop="20261021125700 -0300" channel="viva_hd.claro.br">
     <title lang="pt">Tropicaliente</title>
@@ -31528,7 +31642,7 @@
     <title lang="pt">Tropicaliente</title>
   </programme>
   <programme start="20261021193900 -0300" stop="20261021202200 -0300" channel="viva_hd.claro.br">
-    <title lang="pt">Escolha Do Público (Batalha De Novelas)</title>
+    <title lang="pt">O Cravo E A Rosa</title>
   </programme>
   <programme start="20261021202200 -0300" stop="20261021210700 -0300" channel="viva_hd.claro.br">
     <title lang="pt">Rock Story</title>
@@ -36720,8 +36834,38 @@
   <programme start="20261022075400 -0300" stop="20261022085100 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Experimente</title>
   </programme>
-  <programme start="20261022085100 -0300" stop="20261022094900 -0300" channel="bis_hd_.claro.br">
+  <programme start="20261022085100 -0300" stop="20261022091900 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Alerta Sessions</title>
+  </programme>
+  <programme start="20261022091900 -0300" stop="20261022092200 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022092200 -0300" stop="20261022092500 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022092500 -0300" stop="20261022092800 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022092800 -0300" stop="20261022093100 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022093100 -0300" stop="20261022093400 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022093400 -0300" stop="20261022093700 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022093700 -0300" stop="20261022094000 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022094000 -0300" stop="20261022094300 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022094300 -0300" stop="20261022094600 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022094600 -0300" stop="20261022094900 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
   </programme>
   <programme start="20261022094900 -0300" stop="20261022105200 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Sam Smith: Love Goes - Live At Abbey Road</title>
@@ -36735,8 +36879,38 @@
   <programme start="20261022122100 -0300" stop="20261022131800 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Experimente</title>
   </programme>
-  <programme start="20261022131800 -0300" stop="20261022143300 -0300" channel="bis_hd_.claro.br">
+  <programme start="20261022131800 -0300" stop="20261022140300 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Michael Jackson - A História</title>
+  </programme>
+  <programme start="20261022140300 -0300" stop="20261022140600 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022140600 -0300" stop="20261022140900 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022140900 -0300" stop="20261022141200 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022141200 -0300" stop="20261022141500 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022141500 -0300" stop="20261022141800 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022141800 -0300" stop="20261022142100 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022142100 -0300" stop="20261022142400 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022142400 -0300" stop="20261022142700 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022142700 -0300" stop="20261022143000 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022143000 -0300" stop="20261022143300 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
   </programme>
   <programme start="20261022143300 -0300" stop="20261022150500 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Hungria - Dvd Atmosfera</title>
@@ -36759,7 +36933,28 @@
   <programme start="20261022183300 -0300" stop="20261022183600 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Setlist</title>
   </programme>
-  <programme start="20261022183600 -0300" stop="20261022190000 -0300" channel="bis_hd_.claro.br">
+  <programme start="20261022183600 -0300" stop="20261022183900 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022183900 -0300" stop="20261022184200 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022184200 -0300" stop="20261022184500 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022184500 -0300" stop="20261022184800 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022184800 -0300" stop="20261022185100 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022185100 -0300" stop="20261022185400 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022185400 -0300" stop="20261022185700 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022185700 -0300" stop="20261022190000 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Setlist</title>
   </programme>
   <programme start="20261022190000 -0300" stop="20261022193000 -0300" channel="bis_hd_.claro.br">
@@ -36774,8 +36969,38 @@
   <programme start="20261022203000 -0300" stop="20261022210000 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">One Take Show</title>
   </programme>
-  <programme start="20261022210000 -0300" stop="20261022220200 -0300" channel="bis_hd_.claro.br">
+  <programme start="20261022210000 -0300" stop="20261022213200 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Afrofluxo: O Som Da Música Preta</title>
+  </programme>
+  <programme start="20261022213200 -0300" stop="20261022213500 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022213500 -0300" stop="20261022213800 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022213800 -0300" stop="20261022214100 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022214100 -0300" stop="20261022214400 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022214400 -0300" stop="20261022214700 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022214700 -0300" stop="20261022215000 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022215000 -0300" stop="20261022215300 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022215300 -0300" stop="20261022215600 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022215600 -0300" stop="20261022215900 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
+  </programme>
+  <programme start="20261022215900 -0300" stop="20261022220200 -0300" channel="bis_hd_.claro.br">
+    <title lang="pt">Setlist</title>
   </programme>
   <programme start="20261022220200 -0300" stop="20261022234400 -0300" channel="bis_hd_.claro.br">
     <title lang="pt">Bjork: Cornucopia</title>
@@ -37164,7 +37389,10 @@
   <programme start="20261021233600 -0300" stop="20261021235900 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261021235900 -0300" stop="20261022015100 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261021235900 -0300" stop="20261022012900 -0300" channel="gloob_hd_.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
+  </programme>
+  <programme start="20261022012900 -0300" stop="20261022015100 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261022015100 -0300" stop="20261022020300 -0300" channel="gloob_hd_.claro.br">
@@ -37275,10 +37503,7 @@
   <programme start="20261022112500 -0300" stop="20261022114700 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261022114700 -0300" stop="20261022121000 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20261022121000 -0300" stop="20261022123200 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261022114700 -0300" stop="20261022123200 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261022123200 -0300" stop="20261022125700 -0300" channel="gloob_hd_.claro.br">
@@ -37314,8 +37539,11 @@
   <programme start="20261022163700 -0300" stop="20261022170000 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Dragões - Pilotos De Berk</title>
   </programme>
-  <programme start="20261022170000 -0300" stop="20261022190000 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261022170000 -0300" stop="20261022183600 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">As Meninas Da Garagem Secreta</title>
+  </programme>
+  <programme start="20261022183600 -0300" stop="20261022190000 -0300" channel="gloob_hd_.claro.br">
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261022190000 -0300" stop="20261022192300 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
@@ -37335,13 +37563,13 @@
   <programme start="20261022210000 -0300" stop="20261022222000 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Cine Gloob: Abá e Sua Banda</title>
   </programme>
-  <programme start="20261022222000 -0300" stop="20261022230400 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261022222000 -0300" stop="20261022224200 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Pokémon: Sol &amp; Lua</title>
   </programme>
-  <programme start="20261022230400 -0300" stop="20261022234900 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261022224200 -0300" stop="20261022232700 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
-  <programme start="20261022234900 -0300" stop="20261023003400 -0300" channel="gloob_hd_.claro.br">
+  <programme start="20261022232700 -0300" stop="20261023003400 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261021000100 -0300" stop="20261021000600 -0300" channel="discovery_kids_hd_.claro.br">
@@ -44955,20 +45183,20 @@
   <programme start="20261022234300 -0300" stop="20261023000500 -0300" channel="id_hd_.claro.br">
     <title lang="pt">Sinais de um Psicopata</title>
   </programme>
-  <programme start="20261021000600 -0300" stop="20261021013600 -0300" channel="cinemax_hd_.claro.br">
+  <programme start="20261021000100 -0300" stop="20261021012900 -0300" channel="cinemax_hd_.claro.br">
     <title lang="pt">Gamer</title>
   </programme>
-  <programme start="20261021013600 -0300" stop="20261021030700 -0300" channel="cinemax_hd_.claro.br">
+  <programme start="20261021012900 -0300" stop="20261021025600 -0300" channel="cinemax_hd_.claro.br">
     <title lang="pt">Os Renegados</title>
   </programme>
-  <programme start="20261021030700 -0300" stop="20261021045600 -0300" channel="cinemax_hd_.claro.br">
+  <programme start="20261021025600 -0300" stop="20261021044300 -0300" channel="cinemax_hd_.claro.br">
     <title lang="pt">O Gângster, o Policial e o Diabo</title>
   </programme>
-  <programme start="20261021045600 -0300" stop="20261021060000 -0300" channel="cinemax_hd_.claro.br">
-    <title lang="pt">HBO Movies</title>
+  <programme start="20261021044300 -0300" stop="20261021060000 -0300" channel="cinemax_hd_.claro.br">
+    <title lang="pt">Hollywood One on One</title>
   </programme>
   <programme start="20261021060000 -0300" stop="20261021063000 -0300" channel="cinemax_hd_.claro.br">
-    <title lang="pt">HBO Movies</title>
+    <title lang="pt">Hollywood One on One</title>
   </programme>
   <programme start="20261021063000 -0300" stop="20261021075200 -0300" channel="cinemax_hd_.claro.br">
     <title lang="pt">Um Gigolô Europeu Por Acidente</title>
@@ -48397,292 +48625,292 @@
     <title lang="pt">Hype Brazil</title>
   </programme>
   <programme start="20261021000000 -0300" stop="20261021020000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021020000 -0300" stop="20261021040000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021040000 -0300" stop="20261021060000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021060000 -0300" stop="20261021080000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021080000 -0300" stop="20261021100000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021100000 -0300" stop="20261021120000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021120000 -0300" stop="20261021140000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021140000 -0300" stop="20261021160000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021160000 -0300" stop="20261021180000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021180000 -0300" stop="20261021190000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021190000 -0300" stop="20261021220000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021220000 -0300" stop="20261022000000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022000000 -0300" stop="20261022020000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022020000 -0300" stop="20261022040000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022040000 -0300" stop="20261022060000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022060000 -0300" stop="20261022080000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022080000 -0300" stop="20261022100000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022100000 -0300" stop="20261022120000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022120000 -0300" stop="20261022140000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022140000 -0300" stop="20261022160000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022160000 -0300" stop="20261022180000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022180000 -0300" stop="20261022200000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022200000 -0300" stop="20261022220000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="premiere_hd_2.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vasco x Corinthians</title>
   </programme>
   <programme start="20261021000000 -0300" stop="20261021020000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021020000 -0300" stop="20261021040000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021040000 -0300" stop="20261021060000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021060000 -0300" stop="20261021080000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021080000 -0300" stop="20261021100000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021100000 -0300" stop="20261021120000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021120000 -0300" stop="20261021140000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021140000 -0300" stop="20261021160000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021160000 -0300" stop="20261021180000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021180000 -0300" stop="20261021200000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021200000 -0300" stop="20261021220000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021220000 -0300" stop="20261022000000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022000000 -0300" stop="20261022020000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022020000 -0300" stop="20261022040000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022040000 -0300" stop="20261022060000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022060000 -0300" stop="20261022080000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022080000 -0300" stop="20261022100000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022100000 -0300" stop="20261022120000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022120000 -0300" stop="20261022140000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022140000 -0300" stop="20261022160000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022160000 -0300" stop="20261022180000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022180000 -0300" stop="20261022200000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022200000 -0300" stop="20261022220000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="premiere_hd_3_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Internacional x Botafogo</title>
   </programme>
   <programme start="20261021000000 -0300" stop="20261021020000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021020000 -0300" stop="20261021040000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021040000 -0300" stop="20261021060000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021060000 -0300" stop="20261021080000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021080000 -0300" stop="20261021100000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021100000 -0300" stop="20261021120000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021120000 -0300" stop="20261021140000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021140000 -0300" stop="20261021160000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021160000 -0300" stop="20261021180000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021180000 -0300" stop="20261021200000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021200000 -0300" stop="20261021220000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021220000 -0300" stop="20261022000000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022000000 -0300" stop="20261022020000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022020000 -0300" stop="20261022040000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022040000 -0300" stop="20261022060000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022060000 -0300" stop="20261022080000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022080000 -0300" stop="20261022100000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022100000 -0300" stop="20261022120000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022120000 -0300" stop="20261022140000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022140000 -0300" stop="20261022160000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022160000 -0300" stop="20261022180000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022180000 -0300" stop="20261022200000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022200000 -0300" stop="20261022220000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="premiere_hd_4_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Vitória x Athletico-PR</title>
   </programme>
   <programme start="20261021000000 -0300" stop="20261021020000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021020000 -0300" stop="20261021040000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021040000 -0300" stop="20261021060000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021060000 -0300" stop="20261021080000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021080000 -0300" stop="20261021100000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021100000 -0300" stop="20261021120000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021120000 -0300" stop="20261021140000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021140000 -0300" stop="20261021160000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021160000 -0300" stop="20261021180000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021180000 -0300" stop="20261021200000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021200000 -0300" stop="20261021220000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021220000 -0300" stop="20261022000000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022000000 -0300" stop="20261022020000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022020000 -0300" stop="20261022040000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022040000 -0300" stop="20261022060000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022060000 -0300" stop="20261022080000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022080000 -0300" stop="20261022100000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022100000 -0300" stop="20261022120000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022120000 -0300" stop="20261022140000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022140000 -0300" stop="20261022160000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022160000 -0300" stop="20261022180000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022180000 -0300" stop="20261022200000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022200000 -0300" stop="20261022220000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261022220000 -0300" stop="20261023000000 -0300" channel="premiere_hd_5_.claro.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <title lang="pt">Dia 24/10 - Mirassol x São Paulo</title>
   </programme>
   <programme start="20261021000000 -0300" stop="20261021003000 -0300" channel="premiere_clubes_hd.claro.br">
     <title lang="pt">VT - Remo x Santos</title>
