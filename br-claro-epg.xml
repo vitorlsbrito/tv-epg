@@ -1350,11 +1350,8 @@
     <display-name lang="pt">781</display-name>
     <icon src="https://mondrian.claro.com.br/channels/default/playboy-tv.svg" />
   </channel>
-  <programme start="20261103000000 -0300" stop="20261103003000 -0300" channel="band.claro.br">
+  <programme start="20261103000000 -0300" stop="20261103010000 -0300" channel="band.claro.br">
     <title lang="pt">Jornal da Noite</title>
-  </programme>
-  <programme start="20261103003000 -0300" stop="20261103010000 -0300" channel="band.claro.br">
-    <title lang="pt">Band Eleições</title>
   </programme>
   <programme start="20261103010000 -0300" stop="20261103020000 -0300" channel="band.claro.br">
     <title lang="pt">Esporte Total</title>
@@ -1468,7 +1465,7 @@
     <title lang="pt">Show da Fé</title>
   </programme>
   <programme start="20261104222000 -0300" stop="20261105000000 -0300" channel="band.claro.br">
-    <title lang="pt">Cine Clube: Linha de Ação</title>
+    <title lang="pt">Cine Clube: Quatro Amigas e um Casamento</title>
   </programme>
   <programme start="20261103000000 -0300" stop="20261103011000 -0300" channel="tv_seculo_21.claro.br">
     <title lang="pt">Programa Mãos Ensanguentadas de Jesus</title>
@@ -3333,17 +3330,23 @@
   <programme start="20261104234500 -0300" stop="20261105004500 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">The Noite com Danilo Gentili</title>
   </programme>
-  <programme start="20261103050000 -0300" stop="20261103053000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Brasil Visto de Cima</title>
+  <programme start="20261103013000 -0300" stop="20261103023000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Um Milagre</title>
   </programme>
-  <programme start="20261103053000 -0300" stop="20261103060000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Brasil Visto de Cima</title>
+  <programme start="20261103023000 -0300" stop="20261103043000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Sessão de Cinema: Sujeito Oculto</title>
+  </programme>
+  <programme start="20261103043000 -0300" stop="20261103050000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Caminhos da Reportagem</title>
+  </programme>
+  <programme start="20261103050000 -0300" stop="20261103060000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Trio de Ataque</title>
   </programme>
   <programme start="20261103060000 -0300" stop="20261103063000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Olhar Independente</title>
+    <title lang="pt">Discotoca</title>
   </programme>
   <programme start="20261103063000 -0300" stop="20261103070000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Bem Viver</title>
+    <title lang="pt">Agro Educativa</title>
   </programme>
   <programme start="20261103070000 -0300" stop="20261103070500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Esse é o Bicho!</title>
@@ -3411,41 +3414,44 @@
   <programme start="20261103104100 -0300" stop="20261103105400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261103105400 -0300" stop="20261103110700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261103105400 -0300" stop="20261103110100 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">As Aventuras de Tita</title>
+  </programme>
+  <programme start="20261103110100 -0300" stop="20261103111400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261103110700 -0300" stop="20261103112000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261103111400 -0300" stop="20261103112700 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261103112000 -0300" stop="20261103112500 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261103112700 -0300" stop="20261103113200 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Além da Lenda</title>
   </programme>
-  <programme start="20261103112500 -0300" stop="20261103113800 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
-  </programme>
-  <programme start="20261103113800 -0300" stop="20261103115100 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261103113200 -0300" stop="20261103114500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Júlio e Verne – Os Irmãos Gemiais</title>
   </programme>
-  <programme start="20261103115100 -0300" stop="20261103120400 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261103114500 -0300" stop="20261103115800 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
+  </programme>
+  <programme start="20261103115800 -0300" stop="20261103121100 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme start="20261103120400 -0300" stop="20261103121700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261103121100 -0300" stop="20261103122400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme start="20261103121700 -0300" stop="20261103122700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261103122400 -0300" stop="20261103123400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Heroínas Negras Brasileiras</title>
   </programme>
-  <programme start="20261103122700 -0300" stop="20261103124500 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261103123400 -0300" stop="20261103124500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Heroínas Negras Brasileiras</title>
   </programme>
   <programme start="20261103124500 -0300" stop="20261103133000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Repórter Brasil Tarde</title>
   </programme>
   <programme start="20261103133000 -0300" stop="20261103140000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Bem Bahia</title>
+    <title lang="pt">Destino Pernambuco</title>
   </programme>
   <programme start="20261103140000 -0300" stop="20261103143000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Brasil Visto de Cima</title>
+    <title lang="pt">Faróis do Brasil</title>
   </programme>
   <programme start="20261103143000 -0300" stop="20261103150000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Meu Pedaço Do Brasil</title>
@@ -3460,7 +3466,7 @@
     <title lang="pt">Sem Censura</title>
   </programme>
   <programme start="20261103180000 -0300" stop="20261103183000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Brasil Visto de Cima</title>
+    <title lang="pt">Brasil Sobre Duas Rodas</title>
   </programme>
   <programme start="20261103183000 -0300" stop="20261103190000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Stadium</title>
@@ -3468,14 +3474,17 @@
   <programme start="20261103190000 -0300" stop="20261103200000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Repórter Brasil</title>
   </programme>
-  <programme start="20261103200000 -0300" stop="20261103204500 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261103200000 -0300" stop="20261103210000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Um Milagre</title>
   </programme>
-  <programme start="20261103204500 -0300" stop="20261103230000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">São Paulo x Ferroviária - Ao Vivo</title>
+  <programme start="20261103210000 -0300" stop="20261103220000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Criaturas do Grande Azul</title>
+  </programme>
+  <programme start="20261103220000 -0300" stop="20261103230000 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">Economia e Futuro</title>
   </programme>
   <programme start="20261103230000 -0300" stop="20261103233000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Ciência Flutuante</title>
+    <title lang="pt">Como Nascem os Heróis</title>
   </programme>
   <programme start="20261103233000 -0300" stop="20261104013000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Sem Censura</title>
@@ -3493,10 +3502,10 @@
     <title lang="pt">Como Nascem os Heróis</title>
   </programme>
   <programme start="20261104050000 -0300" stop="20261104053000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Brasil Visto de Cima</title>
+    <title lang="pt">Faróis do Brasil</title>
   </programme>
   <programme start="20261104053000 -0300" stop="20261104060000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Brasil Visto de Cima</title>
+    <title lang="pt">Brasil Sobre Duas Rodas</title>
   </programme>
   <programme start="20261104060000 -0300" stop="20261104063000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Univerciência</title>
@@ -3570,31 +3579,34 @@
   <programme start="20261104104100 -0300" stop="20261104105400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Criança de Raiz</title>
   </programme>
-  <programme start="20261104105400 -0300" stop="20261104110700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261104105400 -0300" stop="20261104110100 -0300" channel="tv_brasil.claro.br">
+    <title lang="pt">As Aventuras de Tita</title>
+  </programme>
+  <programme start="20261104110100 -0300" stop="20261104111400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261104110700 -0300" stop="20261104112000 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261104111400 -0300" stop="20261104112700 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Ninhos em Movimento</title>
   </programme>
-  <programme start="20261104112000 -0300" stop="20261104112500 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261104112700 -0300" stop="20261104113200 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Além da Lenda</title>
   </programme>
-  <programme start="20261104112500 -0300" stop="20261104113800 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261104113200 -0300" stop="20261104114500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
   </programme>
-  <programme start="20261104113800 -0300" stop="20261104115100 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261104114500 -0300" stop="20261104115800 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
   </programme>
-  <programme start="20261104115100 -0300" stop="20261104120400 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261104115800 -0300" stop="20261104121100 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme start="20261104120400 -0300" stop="20261104121700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261104121100 -0300" stop="20261104122400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Iuri &amp; Udi</title>
   </programme>
-  <programme start="20261104121700 -0300" stop="20261104122700 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261104122400 -0300" stop="20261104123400 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Heroínas Negras Brasileiras</title>
   </programme>
-  <programme start="20261104122700 -0300" stop="20261104124500 -0300" channel="tv_brasil.claro.br">
+  <programme start="20261104123400 -0300" stop="20261104124500 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Heroínas Negras Brasileiras</title>
   </programme>
   <programme start="20261104124500 -0300" stop="20261104133000 -0300" channel="tv_brasil.claro.br">
@@ -3604,10 +3616,10 @@
     <title lang="pt">Vem Ver</title>
   </programme>
   <programme start="20261104140000 -0300" stop="20261104143000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Brasil Visto de Cima</title>
+    <title lang="pt">Faróis do Brasil</title>
   </programme>
   <programme start="20261104143000 -0300" stop="20261104150000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Meu Pedaço Do Brasil</title>
+    <title lang="pt">Meu Pedaço do Brasil</title>
   </programme>
   <programme start="20261104150000 -0300" stop="20261104153000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Parques do Brasil</title>
@@ -3619,7 +3631,7 @@
     <title lang="pt">Sem Censura</title>
   </programme>
   <programme start="20261104180000 -0300" stop="20261104183000 -0300" channel="tv_brasil.claro.br">
-    <title lang="pt">Brasil Visto de Cima</title>
+    <title lang="pt">Brasil Sobre Duas Rodas</title>
   </programme>
   <programme start="20261104183000 -0300" stop="20261104190000 -0300" channel="tv_brasil.claro.br">
     <title lang="pt">Stadium</title>
@@ -5319,19 +5331,19 @@
   <programme start="20261104233800 -0300" stop="20261105004400 -0300" channel="gnt.claro.br">
     <title lang="pt">Que História É Essa, Porchat?</title>
   </programme>
-  <programme start="20261103000900 -0300" stop="20261103005900 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">O Sócio</title>
-  </programme>
-  <programme start="20261103005900 -0300" stop="20261103012400 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261103003400 -0300" stop="20261103010100 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Duelo Com Bobby Flay</title>
   </programme>
-  <programme start="20261103012400 -0300" stop="20261103021200 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261103010100 -0300" stop="20261103012300 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+  </programme>
+  <programme start="20261103012300 -0300" stop="20261103021100 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">90 Dias Na Cama</title>
   </programme>
-  <programme start="20261103021200 -0300" stop="20261103034100 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261103021100 -0300" stop="20261103034000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Pesadelo na Cozinha</title>
   </programme>
-  <programme start="20261103034100 -0300" stop="20261103051200 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261103034000 -0300" stop="20261103051200 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
   </programme>
   <programme start="20261103051200 -0300" stop="20261103053400 -0300" channel="discovery_home_&amp;_health.claro.br">
@@ -5340,140 +5352,140 @@
   <programme start="20261103053400 -0300" stop="20261103060000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
   </programme>
-  <programme start="20261103060000 -0300" stop="20261103064900 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261103060000 -0300" stop="20261103064400 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Nate E Jeremiah: Bem-vindo Ao Lar!</title>
   </programme>
-  <programme start="20261103064900 -0300" stop="20261103071400 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">A Pequena Grande Família: Dia de Ação de Graças 1</title>
+  <programme start="20261103064400 -0300" stop="20261103070900 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">A Pequena Grande Família</title>
   </programme>
-  <programme start="20261103071400 -0300" stop="20261103073800 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">A Pequena Grande Família: Dia de Ação de Graças 2</title>
+  <programme start="20261103070900 -0300" stop="20261103073400 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">A Pequena Grande Família: Depois do Acidente</title>
   </programme>
-  <programme start="20261103073800 -0300" stop="20261103082700 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261103073400 -0300" stop="20261103082400 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Os Pequenos Johnstons</title>
   </programme>
-  <programme start="20261103082700 -0300" stop="20261103091800 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261103082400 -0300" stop="20261103091500 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Os Pequenos Johnstons</title>
   </programme>
-  <programme start="20261103091800 -0300" stop="20261103110300 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
+  <programme start="20261103091500 -0300" stop="20261103110100 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
   </programme>
-  <programme start="20261103110300 -0300" stop="20261103124800 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
-  </programme>
-  <programme start="20261103124800 -0300" stop="20261103133900 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-  </programme>
-  <programme start="20261103133900 -0300" stop="20261103143100 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
-  </programme>
-  <programme start="20261103143100 -0300" stop="20261103152300 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
-  </programme>
-  <programme start="20261103152300 -0300" stop="20261103170500 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
-  </programme>
-  <programme start="20261103170500 -0300" stop="20261103175600 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Quilos Mortais: Itália</title>
-  </programme>
-  <programme start="20261103175600 -0300" stop="20261103193400 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Quilos Mortais</title>
-  </programme>
-  <programme start="20261103193400 -0300" stop="20261103211200 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Quilos Mortais</title>
-  </programme>
-  <programme start="20261103211200 -0300" stop="20261103220100 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
-  </programme>
-  <programme start="20261103220100 -0300" stop="20261103225000 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
-  </programme>
-  <programme start="20261103225000 -0300" stop="20261103231900 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
-  </programme>
-  <programme start="20261103231900 -0300" stop="20261103234700 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
-  </programme>
-  <programme start="20261103234700 -0300" stop="20261104012700 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Quilos Mortais</title>
-  </programme>
-  <programme start="20261104012700 -0300" stop="20261104021100 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261103110100 -0300" stop="20261103115500 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">90 Dias Na Cama</title>
   </programme>
-  <programme start="20261104021100 -0300" stop="20261104034000 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261103115500 -0300" stop="20261103124600 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20261103124600 -0300" stop="20261103133800 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+  </programme>
+  <programme start="20261103133800 -0300" stop="20261103143000 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+  </programme>
+  <programme start="20261103143000 -0300" stop="20261103152200 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
+  </programme>
+  <programme start="20261103152200 -0300" stop="20261103170600 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20261103170600 -0300" stop="20261103175700 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Quilos Mortais: Itália</title>
+  </programme>
+  <programme start="20261103175700 -0300" stop="20261103193500 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20261103193500 -0300" stop="20261103211300 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20261103211300 -0300" stop="20261103220200 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+  </programme>
+  <programme start="20261103220200 -0300" stop="20261103225100 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+  </programme>
+  <programme start="20261103225100 -0300" stop="20261103232000 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
+  </programme>
+  <programme start="20261103232000 -0300" stop="20261103234800 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
+  </programme>
+  <programme start="20261103234800 -0300" stop="20261104012800 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20261104012800 -0300" stop="20261104021200 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
+  </programme>
+  <programme start="20261104021200 -0300" stop="20261104034100 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Pesadelo na Cozinha</title>
   </programme>
-  <programme start="20261104034000 -0300" stop="20261104040700 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104034100 -0300" stop="20261104040800 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Sobre Essa Pele</title>
   </programme>
-  <programme start="20261104040700 -0300" stop="20261104053800 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104040800 -0300" stop="20261104053800 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
   </programme>
   <programme start="20261104053800 -0300" stop="20261104060000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
   </programme>
-  <programme start="20261104060000 -0300" stop="20261104064900 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Keith &amp; Evan: Reformando Com O Coração</title>
-  </programme>
-  <programme start="20261104064900 -0300" stop="20261104071400 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104060000 -0300" stop="20261104062200 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">A Pequena Grande Família</title>
   </programme>
-  <programme start="20261104071400 -0300" stop="20261104073800 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104062200 -0300" stop="20261104064400 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">A Pequena Grande Família</title>
   </programme>
-  <programme start="20261104073800 -0300" stop="20261104082700 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104064400 -0300" stop="20261104073400 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Os Pequenos Johnstons</title>
   </programme>
-  <programme start="20261104082700 -0300" stop="20261104091800 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104073400 -0300" stop="20261104091500 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Os Pequenos Johnstons</title>
   </programme>
-  <programme start="20261104091800 -0300" stop="20261104110300 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
-  </programme>
-  <programme start="20261104110300 -0300" stop="20261104124800 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104091500 -0300" stop="20261104110100 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
   </programme>
-  <programme start="20261104124800 -0300" stop="20261104133900 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104110100 -0300" stop="20261104115500 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">90 Dias Na Cama</title>
+  </programme>
+  <programme start="20261104115500 -0300" stop="20261104124600 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20261104124600 -0300" stop="20261104133800 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
   </programme>
-  <programme start="20261104133900 -0300" stop="20261104143100 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-  </programme>
-  <programme start="20261104143100 -0300" stop="20261104152300 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
-  </programme>
-  <programme start="20261104152300 -0300" stop="20261104161400 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">90 Dias Para Casar</title>
-  </programme>
-  <programme start="20261104161400 -0300" stop="20261104170500 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">90 Dias Para Casar</title>
-  </programme>
-  <programme start="20261104170500 -0300" stop="20261104184700 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Quilos Mortais</title>
-  </programme>
-  <programme start="20261104184700 -0300" stop="20261104191600 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Missão Faxina com Ellen Milgrau</title>
-  </programme>
-  <programme start="20261104191600 -0300" stop="20261104194500 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Missão Faxina com Ellen Milgrau</title>
-  </programme>
-  <programme start="20261104194500 -0300" stop="20261104203400 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104133800 -0300" stop="20261104143000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
   </programme>
-  <programme start="20261104203400 -0300" stop="20261104212300 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104143000 -0300" stop="20261104152200 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
+  </programme>
+  <programme start="20261104152200 -0300" stop="20261104170600 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20261104170600 -0300" stop="20261104184800 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20261104184800 -0300" stop="20261104191700 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Missão Faxina com Ellen Milgrau</title>
+  </programme>
+  <programme start="20261104191700 -0300" stop="20261104194600 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Missão Faxina com Ellen Milgrau</title>
+  </programme>
+  <programme start="20261104194600 -0300" stop="20261104203500 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+  </programme>
+  <programme start="20261104203500 -0300" stop="20261104212400 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
   </programme>
-  <programme start="20261104212300 -0300" stop="20261104221200 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104212400 -0300" stop="20261104221300 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
   </programme>
-  <programme start="20261104221200 -0300" stop="20261104230100 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104221300 -0300" stop="20261104230200 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Irmãos à Obra: Sob Pressão</title>
   </programme>
-  <programme start="20261104230100 -0300" stop="20261104235100 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261104230200 -0300" stop="20261104235200 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Salvando Reformas Com Jasmine Roth</title>
   </programme>
-  <programme start="20261104235100 -0300" stop="20261105013100 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Quilos Mortais</title>
+  <programme start="20261104235200 -0300" stop="20261105013200 -0300" channel="discovery_home_&amp;_health.claro.br">
+    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
   </programme>
   <programme start="20261103000200 -0300" stop="20261103003900 -0300" channel="multishow.claro.br">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
@@ -7323,41 +7335,44 @@
   <programme start="20261104235300 -0300" stop="20261105002000 -0300" channel="off.claro.br">
     <title lang="pt">Visão De Rua</title>
   </programme>
-  <programme start="20261103003000 -0300" stop="20261103010000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Sentidos do Fio: Desconstrução + Expansão + Diálogo com Outras Linguagens</title>
+  <programme start="20261103004500 -0300" stop="20261103011500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Sentidos do Fio: Fabulações + Mitologia, Narrativa, Ancestralidade</title>
   </programme>
-  <programme start="20261103010000 -0300" stop="20261103013000 -0300" channel="arte_1.claro.br">
+  <programme start="20261103011500 -0300" stop="20261103014500 -0300" channel="arte_1.claro.br">
     <title lang="pt">Buscando Buskers - Som e Afeto</title>
   </programme>
-  <programme start="20261103013000 -0300" stop="20261103023000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Fábricas de Sonho: Michel Arnoult</title>
+  <programme start="20261103014500 -0300" stop="20261103021500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 em Movimento</title>
   </programme>
-  <programme start="20261103023000 -0300" stop="20261103030000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte Indígena Contemporânea</title>
+  <programme start="20261103021500 -0300" stop="20261103024500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Especial Arte 1</title>
   </programme>
-  <programme start="20261103030000 -0300" stop="20261103031500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Depois que Tudo Foi Dito: Públicos</title>
+  <programme start="20261103024500 -0300" stop="20261103031500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
   </programme>
-  <programme start="20261103031500 -0300" stop="20261103050000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Gritos e Sussurros</title>
+  <programme start="20261103031500 -0300" stop="20261103034500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
+  </programme>
+  <programme start="20261103034500 -0300" stop="20261103050000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Nacional: Brazilian Beats 2</title>
   </programme>
   <programme start="20261103050000 -0300" stop="20261103060000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Vaga Carne</title>
+    <title lang="pt">Arquitetos Brasileiros: MMBB</title>
   </programme>
-  <programme start="20261103060000 -0300" stop="20261103070000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte na Tecnologia</title>
+  <programme start="20261103060000 -0300" stop="20261103063000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Um.Artista</title>
   </programme>
-  <programme start="20261103070000 -0300" stop="20261103073000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Buscando Buskers - Som e Afeto</title>
+  <programme start="20261103063000 -0300" stop="20261103064500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
   </programme>
-  <programme start="20261103073000 -0300" stop="20261103080000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Sentidos do Fio: Desconstrução + Expansão + Diálogo com Outras Linguagens</title>
+  <programme start="20261103064500 -0300" stop="20261103074500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Fábricas de Sonho: Mauricio Azeredo</title>
   </programme>
-  <programme start="20261103080000 -0300" stop="20261103090000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Tempo de Dança: Desafios e Mudanças</title>
+  <programme start="20261103074500 -0300" stop="20261103084500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Tempo de Dança: Além das Capitais</title>
   </programme>
-  <programme start="20261103090000 -0300" stop="20261103103000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Tempos Modernos</title>
+  <programme start="20261103084500 -0300" stop="20261103103000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 em Preto e Branco: O Crepúsculo</title>
   </programme>
   <programme start="20261103103000 -0300" stop="20261103110000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
@@ -7366,7 +7381,7 @@
     <title lang="pt">Arte Indígena Contemporânea</title>
   </programme>
   <programme start="20261103113000 -0300" stop="20261103120000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Material Bruto: Helena Solberg</title>
+    <title lang="pt">Material Bruto: Helvécio Ratton</title>
   </programme>
   <programme start="20261103120000 -0300" stop="20261103123000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Buscando Buskers - Som e Afeto</title>
@@ -7374,38 +7389,35 @@
   <programme start="20261103123000 -0300" stop="20261103130000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
-  <programme start="20261103130000 -0300" stop="20261103140000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Vaga Carne</title>
+  <programme start="20261103130000 -0300" stop="20261103141500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Nacional: Brazilian Beats 2</title>
   </programme>
-  <programme start="20261103140000 -0300" stop="20261103143000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Hilda Hilst Entre Estações</title>
-  </programme>
-  <programme start="20261103143000 -0300" stop="20261103150000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Sergio Fouad</title>
-  </programme>
-  <programme start="20261103150000 -0300" stop="20261103163000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Tempos Modernos</title>
-  </programme>
-  <programme start="20261103163000 -0300" stop="20261103164500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte Makers</title>
-  </programme>
-  <programme start="20261103164500 -0300" stop="20261103170000 -0300" channel="arte_1.claro.br">
+  <programme start="20261103141500 -0300" stop="20261103143000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
   </programme>
+  <programme start="20261103143000 -0300" stop="20261103150000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Um.Artista</title>
+  </programme>
+  <programme start="20261103150000 -0300" stop="20261103164500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 em Preto e Branco: O Crepúsculo</title>
+  </programme>
+  <programme start="20261103164500 -0300" stop="20261103170000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Curta Arte 1: Poétika</title>
+  </programme>
   <programme start="20261103170000 -0300" stop="20261103180000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Fábricas de Sonho: Michel Arnoult</title>
+    <title lang="pt">Fábricas de Sonho: Mauricio Azeredo</title>
   </programme>
   <programme start="20261103180000 -0300" stop="20261103190000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
   </programme>
   <programme start="20261103190000 -0300" stop="20261103193000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 em Movimento</title>
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
   </programme>
   <programme start="20261103193000 -0300" stop="20261103203000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte na Tecnologia</title>
+    <title lang="pt">Música e Poesia</title>
   </programme>
   <programme start="20261103203000 -0300" stop="20261103210000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Material Bruto: Helena Solberg</title>
+    <title lang="pt">Material Bruto: Helvécio Ratton</title>
   </programme>
   <programme start="20261103210000 -0300" stop="20261103213000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Especial Arte 1</title>
@@ -7417,52 +7429,49 @@
     <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
   </programme>
   <programme start="20261103223000 -0300" stop="20261103230000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Sentidos do Fio: Desconstrução + Expansão + Diálogo com Outras Linguagens</title>
+    <title lang="pt">Sentidos do Fio: Fabulações + Mitologia, Narrativa, Ancestralidade</title>
   </programme>
-  <programme start="20261103230000 -0300" stop="20261104004500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Documenta: Gaga - O Amor pela Dança</title>
+  <programme start="20261103230000 -0300" stop="20261104000000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Primavera de Pequim - A Revolução Artística na China</title>
   </programme>
-  <programme start="20261104004500 -0300" stop="20261104014500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Mario Figueiroa</title>
+  <programme start="20261104000000 -0300" stop="20261104010000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Vinyl Nation</title>
   </programme>
-  <programme start="20261104014500 -0300" stop="20261104021500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 em Movimento</title>
+  <programme start="20261104010000 -0300" stop="20261104020000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arquitetos Brasileiros: MMBB</title>
   </programme>
-  <programme start="20261104021500 -0300" stop="20261104024500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Especial Arte 1</title>
+  <programme start="20261104020000 -0300" stop="20261104023000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Um.Artista</title>
   </programme>
-  <programme start="20261104024500 -0300" stop="20261104031500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Material Bruto: Helena Solberg</title>
+  <programme start="20261104023000 -0300" stop="20261104033000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Música e Poesia</title>
   </programme>
-  <programme start="20261104031500 -0300" stop="20261104041500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
+  <programme start="20261104033000 -0300" stop="20261104060000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Dersu Uzala</title>
   </programme>
-  <programme start="20261104041500 -0300" stop="20261104043000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte Makers</title>
-  </programme>
-  <programme start="20261104043000 -0300" stop="20261104060000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Tempos Modernos</title>
-  </programme>
-  <programme start="20261104060000 -0300" stop="20261104070000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Tempo de Dança: Desafios e Mudanças</title>
-  </programme>
-  <programme start="20261104070000 -0300" stop="20261104071500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
+  <programme start="20261104060000 -0300" stop="20261104071500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Nacional: Brazilian Beats 2</title>
   </programme>
   <programme start="20261104071500 -0300" stop="20261104074500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Sentidos do Fio: Fabulações + Mitologia, Narrativa, Ancestralidade</title>
+  </programme>
+  <programme start="20261104074500 -0300" stop="20261104080000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
+  </programme>
+  <programme start="20261104080000 -0300" stop="20261104083000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
   </programme>
-  <programme start="20261104074500 -0300" stop="20261104084500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Fábricas de Sonho: Mauricio Azeredo</title>
+  <programme start="20261104083000 -0300" stop="20261104093000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Primavera de Pequim - A Revolução Artística na China</title>
   </programme>
-  <programme start="20261104084500 -0300" stop="20261104103000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Documenta: Gaga - O Amor pela Dança</title>
+  <programme start="20261104093000 -0300" stop="20261104103000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Vinyl Nation</title>
   </programme>
   <programme start="20261104103000 -0300" stop="20261104113000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
   </programme>
   <programme start="20261104113000 -0300" stop="20261104120000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Sergio Fouad</title>
+    <title lang="pt">Um.Artista</title>
   </programme>
   <programme start="20261104120000 -0300" stop="20261104123000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
@@ -7470,50 +7479,47 @@
   <programme start="20261104123000 -0300" stop="20261104130000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
   </programme>
-  <programme start="20261104130000 -0300" stop="20261104133000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Compondo Futuros - Os alunos do Festival de Inverno de Campos do Jordão</title>
-  </programme>
-  <programme start="20261104133000 -0300" stop="20261104140000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 em Movimento</title>
+  <programme start="20261104130000 -0300" stop="20261104140000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 In Concert</title>
   </programme>
   <programme start="20261104140000 -0300" stop="20261104143000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Sentidos do Fio: Desconstrução + Expansão + Diálogo com Outras Linguagens</title>
+    <title lang="pt">Sentidos do Fio: Fabulações + Mitologia, Narrativa, Ancestralidade</title>
   </programme>
   <programme start="20261104143000 -0300" stop="20261104150000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
-  <programme start="20261104150000 -0300" stop="20261104164500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Documenta: Gaga - O Amor pela Dança</title>
+  <programme start="20261104150000 -0300" stop="20261104160000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Primavera de Pequim - A Revolução Artística na China</title>
   </programme>
-  <programme start="20261104164500 -0300" stop="20261104170000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte Makers</title>
+  <programme start="20261104160000 -0300" stop="20261104170000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Vinyl Nation</title>
   </programme>
   <programme start="20261104170000 -0300" stop="20261104180000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte na Tecnologia</title>
+    <title lang="pt">Música e Poesia</title>
   </programme>
-  <programme start="20261104180000 -0300" stop="20261104190000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Vaga Carne</title>
+  <programme start="20261104180000 -0300" stop="20261104191500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Nacional: Brazilian Beats 2</title>
   </programme>
-  <programme start="20261104190000 -0300" stop="20261104193000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Hilda Hilst Entre Estações</title>
+  <programme start="20261104191500 -0300" stop="20261104193000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
   </programme>
   <programme start="20261104193000 -0300" stop="20261104200000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Protagonistas Invisíveis: Sergio Fouad</title>
+    <title lang="pt">Um.Artista</title>
   </programme>
   <programme start="20261104200000 -0300" stop="20261104203000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte Indígena Contemporânea</title>
   </programme>
   <programme start="20261104203000 -0300" stop="20261104213000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Fábricas de Sonho: Mauricio Azeredo</title>
+    <title lang="pt">Abre a Coxia: Teatro Oficina</title>
   </programme>
   <programme start="20261104213000 -0300" stop="20261104223000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Tempo de Dança: Além das Capitais</title>
+    <title lang="pt">Tempo de Dança: Viver de Dança</title>
   </programme>
   <programme start="20261104223000 -0300" stop="20261104230000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Buscando Buskers - Som e Afeto</title>
   </programme>
-  <programme start="20261104230000 -0300" stop="20261105011500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1: O Apartamento</title>
+  <programme start="20261104230000 -0300" stop="20261105001500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1: Encontros</title>
   </programme>
   <programme start="20261103000000 -0300" stop="20261103040000 -0300" channel="polishop.claro.br">
     <title lang="pt">Programação Polishop TV</title>
@@ -18933,46 +18939,61 @@
   <programme start="20261104234900 -0300" stop="20261104235900 -0300" channel="zoomoo.claro.br">
     <title lang="pt">Brincando Com Caetano e Vicente</title>
   </programme>
-  <programme start="20261103010400 -0300" stop="20261103012700 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103010200 -0300" stop="20261103012600 -0300" channel="warner_channel.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20261103012700 -0300" stop="20261103015000 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103012600 -0300" stop="20261103014800 -0300" channel="warner_channel.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20261103015000 -0300" stop="20261103021200 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103014800 -0300" stop="20261103020900 -0300" channel="warner_channel.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20261103021200 -0300" stop="20261103023500 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103020900 -0300" stop="20261103023200 -0300" channel="warner_channel.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20261103023500 -0300" stop="20261103025800 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103023200 -0300" stop="20261103025400 -0300" channel="warner_channel.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103025800 -0300" stop="20261103032000 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103025400 -0300" stop="20261103031400 -0300" channel="warner_channel.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103032000 -0300" stop="20261103034200 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103031400 -0300" stop="20261103033500 -0300" channel="warner_channel.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103034200 -0300" stop="20261103040300 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103033500 -0300" stop="20261103035400 -0300" channel="warner_channel.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103040300 -0300" stop="20261103042500 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103035400 -0300" stop="20261103041500 -0300" channel="warner_channel.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103042500 -0300" stop="20261103044800 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103041500 -0300" stop="20261103043700 -0300" channel="warner_channel.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103044800 -0300" stop="20261103060000 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103043700 -0300" stop="20261103045900 -0300" channel="warner_channel.claro.br">
     <title lang="pt">2 Broke Girls</title>
   </programme>
-  <programme start="20261103060000 -0300" stop="20261103063900 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103045900 -0300" stop="20261103052200 -0300" channel="warner_channel.claro.br">
+    <title lang="pt">2 Broke Girls</title>
+  </programme>
+  <programme start="20261103052200 -0300" stop="20261103054300 -0300" channel="warner_channel.claro.br">
+    <title lang="pt">2 Broke Girls</title>
+  </programme>
+  <programme start="20261103054300 -0300" stop="20261103060000 -0300" channel="warner_channel.claro.br">
+    <title lang="pt">Hollywood One on One</title>
+  </programme>
+  <programme start="20261103060000 -0300" stop="20261103060200 -0300" channel="warner_channel.claro.br">
+    <title lang="pt">TNT Buzz</title>
+  </programme>
+  <programme start="20261103060200 -0300" stop="20261103062600 -0300" channel="warner_channel.claro.br">
+    <title lang="pt">Miracle Workers</title>
+  </programme>
+  <programme start="20261103062600 -0300" stop="20261103064400 -0300" channel="warner_channel.claro.br">
     <title lang="pt">Young Sheldon</title>
   </programme>
-  <programme start="20261103063900 -0300" stop="20261103081800 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103064400 -0300" stop="20261103082300 -0300" channel="warner_channel.claro.br">
     <title lang="pt">As Patricinhas De Beverly Hills</title>
   </programme>
-  <programme start="20261103081800 -0300" stop="20261103084100 -0300" channel="warner_channel.claro.br">
+  <programme start="20261103082300 -0300" stop="20261103084100 -0300" channel="warner_channel.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
   <programme start="20261103084100 -0300" stop="20261103090500 -0300" channel="warner_channel.claro.br">
@@ -22141,7 +22162,7 @@
     <title lang="pt">Direto ao Ponto</title>
   </programme>
   <programme start="20261103110000 -0300" stop="20261103113000 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Soja Brasil</title>
+    <title lang="pt">Mais Milho</title>
   </programme>
   <programme start="20261103113000 -0300" stop="20261103120000 -0300" channel="canal_rural.claro.br">
     <title lang="pt">No Trecho</title>
@@ -22171,18 +22192,21 @@
     <title lang="pt">Rural Notícias</title>
   </programme>
   <programme start="20261103193000 -0300" stop="20261103194500 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Interligados Vida no Campo</title>
+    <title lang="pt">Interligados</title>
   </programme>
   <programme start="20261103194500 -0300" stop="20261103200000 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Lance na TV</title>
   </programme>
-  <programme start="20261103200000 -0300" stop="20261104000000 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Leilão</title>
+  <programme start="20261103200000 -0300" stop="20261103210000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Mangalarga Marchador</title>
   </programme>
-  <programme start="20261104000000 -0300" stop="20261104010000 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Leilão</title>
+  <programme start="20261103210000 -0300" stop="20261103220000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Brasil Caipira</title>
   </programme>
-  <programme start="20261104010000 -0300" stop="20261104030000 -0300" channel="canal_rural.claro.br">
+  <programme start="20261103220000 -0300" stop="20261104000000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Lance Cast</title>
+  </programme>
+  <programme start="20261104000000 -0300" stop="20261104030000 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Televendas Marilda</title>
   </programme>
   <programme start="20261104030000 -0300" stop="20261104040000 -0300" channel="canal_rural.claro.br">
@@ -22233,10 +22257,16 @@
   <programme start="20261104130000 -0300" stop="20261104131500 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Planeta Campo</title>
   </programme>
-  <programme start="20261104131500 -0300" stop="20261104140000 -0300" channel="canal_rural.claro.br">
+  <programme start="20261104131500 -0300" stop="20261104134500 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Live Clima Campo</title>
   </programme>
-  <programme start="20261104140000 -0300" stop="20261104173000 -0300" channel="canal_rural.claro.br">
+  <programme start="20261104134500 -0300" stop="20261104140000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Agro Pelo Brasil</title>
+  </programme>
+  <programme start="20261104140000 -0300" stop="20261104160000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Fórum Santa Catarina e o Agro 5.0</title>
+  </programme>
+  <programme start="20261104160000 -0300" stop="20261104173000 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Televendas Marilda</title>
   </programme>
   <programme start="20261104173000 -0300" stop="20261104180000 -0300" channel="canal_rural.claro.br">
@@ -22249,13 +22279,19 @@
     <title lang="pt">Rural Notícias</title>
   </programme>
   <programme start="20261104193000 -0300" stop="20261104194500 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Interligados Vida no Campo</title>
+    <title lang="pt">Interligados</title>
   </programme>
   <programme start="20261104194500 -0300" stop="20261104200000 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Terra Pecuária</title>
   </programme>
-  <programme start="20261104200000 -0300" stop="20261105000000 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Leilão</title>
+  <programme start="20261104200000 -0300" stop="20261104210000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Vale Agrícola</title>
+  </programme>
+  <programme start="20261104210000 -0300" stop="20261104220000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Cheiro de Galpão</title>
+  </programme>
+  <programme start="20261104220000 -0300" stop="20261105000000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Lance Cast</title>
   </programme>
   <programme start="20261103000000 -0300" stop="20261103010000 -0300" channel="rede_vida.claro.br">
     <title lang="pt">Conta Comigo</title>
@@ -27981,11 +28017,8 @@
   <programme start="20261104235300 -0300" stop="20261105002000 -0300" channel="off_hd_.claro.br">
     <title lang="pt">Visão De Rua</title>
   </programme>
-  <programme start="20261103000000 -0300" stop="20261103003000 -0300" channel="band_hd.claro.br">
+  <programme start="20261103000000 -0300" stop="20261103010000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jornal da Noite</title>
-  </programme>
-  <programme start="20261103003000 -0300" stop="20261103010000 -0300" channel="band_hd.claro.br">
-    <title lang="pt">Band Eleições</title>
   </programme>
   <programme start="20261103010000 -0300" stop="20261103020000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Esporte Total</title>
@@ -28099,7 +28132,7 @@
     <title lang="pt">Show da Fé</title>
   </programme>
   <programme start="20261104222000 -0300" stop="20261105000000 -0300" channel="band_hd.claro.br">
-    <title lang="pt">Cine Clube: Linha de Ação</title>
+    <title lang="pt">Cine Clube: Quatro Amigas e um Casamento</title>
   </programme>
   <programme start="20261103000000 -0300" stop="20261103010000 -0300" channel="cultura_hd.claro.br">
     <title lang="pt">Persona em Foco</title>
@@ -30627,19 +30660,19 @@
   <programme start="20261104233800 -0300" stop="20261105004400 -0300" channel="gnt_hd_.claro.br">
     <title lang="pt">Que História É Essa, Porchat?</title>
   </programme>
-  <programme start="20261103000900 -0300" stop="20261103005900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">O Sócio</title>
-  </programme>
-  <programme start="20261103005900 -0300" stop="20261103012400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261103003400 -0300" stop="20261103010100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Duelo Com Bobby Flay</title>
   </programme>
-  <programme start="20261103012400 -0300" stop="20261103021200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261103010100 -0300" stop="20261103012300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Duelo Com Bobby Flay</title>
+  </programme>
+  <programme start="20261103012300 -0300" stop="20261103021100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">90 Dias Na Cama</title>
   </programme>
-  <programme start="20261103021200 -0300" stop="20261103034100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261103021100 -0300" stop="20261103034000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Pesadelo na Cozinha</title>
   </programme>
-  <programme start="20261103034100 -0300" stop="20261103051200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261103034000 -0300" stop="20261103051200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
   </programme>
   <programme start="20261103051200 -0300" stop="20261103053400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
@@ -30648,140 +30681,140 @@
   <programme start="20261103053400 -0300" stop="20261103060000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
   </programme>
-  <programme start="20261103060000 -0300" stop="20261103064900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261103060000 -0300" stop="20261103064400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Nate E Jeremiah: Bem-vindo Ao Lar!</title>
   </programme>
-  <programme start="20261103064900 -0300" stop="20261103071400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">A Pequena Grande Família: Dia de Ação de Graças 1</title>
+  <programme start="20261103064400 -0300" stop="20261103070900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">A Pequena Grande Família</title>
   </programme>
-  <programme start="20261103071400 -0300" stop="20261103073800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">A Pequena Grande Família: Dia de Ação de Graças 2</title>
+  <programme start="20261103070900 -0300" stop="20261103073400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">A Pequena Grande Família: Depois do Acidente</title>
   </programme>
-  <programme start="20261103073800 -0300" stop="20261103082700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261103073400 -0300" stop="20261103082400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Os Pequenos Johnstons</title>
   </programme>
-  <programme start="20261103082700 -0300" stop="20261103091800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261103082400 -0300" stop="20261103091500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Os Pequenos Johnstons</title>
   </programme>
-  <programme start="20261103091800 -0300" stop="20261103110300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
+  <programme start="20261103091500 -0300" stop="20261103110100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
   </programme>
-  <programme start="20261103110300 -0300" stop="20261103124800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
-  </programme>
-  <programme start="20261103124800 -0300" stop="20261103133900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-  </programme>
-  <programme start="20261103133900 -0300" stop="20261103143100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
-  </programme>
-  <programme start="20261103143100 -0300" stop="20261103152300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
-  </programme>
-  <programme start="20261103152300 -0300" stop="20261103170500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
-  </programme>
-  <programme start="20261103170500 -0300" stop="20261103175600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Quilos Mortais: Itália</title>
-  </programme>
-  <programme start="20261103175600 -0300" stop="20261103193400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Quilos Mortais</title>
-  </programme>
-  <programme start="20261103193400 -0300" stop="20261103211200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Quilos Mortais</title>
-  </programme>
-  <programme start="20261103211200 -0300" stop="20261103220100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
-  </programme>
-  <programme start="20261103220100 -0300" stop="20261103225000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
-  </programme>
-  <programme start="20261103225000 -0300" stop="20261103231900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
-  </programme>
-  <programme start="20261103231900 -0300" stop="20261103234700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
-  </programme>
-  <programme start="20261103234700 -0300" stop="20261104012700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Quilos Mortais</title>
-  </programme>
-  <programme start="20261104012700 -0300" stop="20261104021100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261103110100 -0300" stop="20261103115500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">90 Dias Na Cama</title>
   </programme>
-  <programme start="20261104021100 -0300" stop="20261104034000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261103115500 -0300" stop="20261103124600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20261103124600 -0300" stop="20261103133800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+  </programme>
+  <programme start="20261103133800 -0300" stop="20261103143000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+  </programme>
+  <programme start="20261103143000 -0300" stop="20261103152200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
+  </programme>
+  <programme start="20261103152200 -0300" stop="20261103170600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20261103170600 -0300" stop="20261103175700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Quilos Mortais: Itália</title>
+  </programme>
+  <programme start="20261103175700 -0300" stop="20261103193500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20261103193500 -0300" stop="20261103211300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20261103211300 -0300" stop="20261103220200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+  </programme>
+  <programme start="20261103220200 -0300" stop="20261103225100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+  </programme>
+  <programme start="20261103225100 -0300" stop="20261103232000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
+  </programme>
+  <programme start="20261103232000 -0300" stop="20261103234800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão</title>
+  </programme>
+  <programme start="20261103234800 -0300" stop="20261104012800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20261104012800 -0300" stop="20261104021200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
+  </programme>
+  <programme start="20261104021200 -0300" stop="20261104034100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Pesadelo na Cozinha</title>
   </programme>
-  <programme start="20261104034000 -0300" stop="20261104040700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104034100 -0300" stop="20261104040800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Sobre Essa Pele</title>
   </programme>
-  <programme start="20261104040700 -0300" stop="20261104053800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104040800 -0300" stop="20261104053800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
   </programme>
   <programme start="20261104053800 -0300" stop="20261104060000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
   </programme>
-  <programme start="20261104060000 -0300" stop="20261104064900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Keith &amp; Evan: Reformando Com O Coração</title>
-  </programme>
-  <programme start="20261104064900 -0300" stop="20261104071400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104060000 -0300" stop="20261104062200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">A Pequena Grande Família</title>
   </programme>
-  <programme start="20261104071400 -0300" stop="20261104073800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104062200 -0300" stop="20261104064400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">A Pequena Grande Família</title>
   </programme>
-  <programme start="20261104073800 -0300" stop="20261104082700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104064400 -0300" stop="20261104073400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Os Pequenos Johnstons</title>
   </programme>
-  <programme start="20261104082700 -0300" stop="20261104091800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104073400 -0300" stop="20261104091500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Os Pequenos Johnstons</title>
   </programme>
-  <programme start="20261104091800 -0300" stop="20261104110300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">90 Dias para Casar: Do Outro Lado</title>
-  </programme>
-  <programme start="20261104110300 -0300" stop="20261104124800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104091500 -0300" stop="20261104110100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
   </programme>
-  <programme start="20261104124800 -0300" stop="20261104133900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104110100 -0300" stop="20261104115500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">90 Dias Na Cama</title>
+  </programme>
+  <programme start="20261104115500 -0300" stop="20261104124600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Do Velho Ao Novo</title>
+  </programme>
+  <programme start="20261104124600 -0300" stop="20261104133800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
   </programme>
-  <programme start="20261104133900 -0300" stop="20261104143100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
-  </programme>
-  <programme start="20261104143100 -0300" stop="20261104152300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
-  </programme>
-  <programme start="20261104152300 -0300" stop="20261104161400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">90 Dias Para Casar</title>
-  </programme>
-  <programme start="20261104161400 -0300" stop="20261104170500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">90 Dias Para Casar</title>
-  </programme>
-  <programme start="20261104170500 -0300" stop="20261104184700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Quilos Mortais</title>
-  </programme>
-  <programme start="20261104184700 -0300" stop="20261104191600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Missão Faxina com Ellen Milgrau</title>
-  </programme>
-  <programme start="20261104191600 -0300" stop="20261104194500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Missão Faxina com Ellen Milgrau</title>
-  </programme>
-  <programme start="20261104194500 -0300" stop="20261104203400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104133800 -0300" stop="20261104143000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
   </programme>
-  <programme start="20261104203400 -0300" stop="20261104212300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104143000 -0300" stop="20261104152200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
+  </programme>
+  <programme start="20261104152200 -0300" stop="20261104170600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">90 Dias Para Casar</title>
+  </programme>
+  <programme start="20261104170600 -0300" stop="20261104184800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20261104184800 -0300" stop="20261104191700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Missão Faxina com Ellen Milgrau</title>
+  </programme>
+  <programme start="20261104191700 -0300" stop="20261104194600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Missão Faxina com Ellen Milgrau</title>
+  </programme>
+  <programme start="20261104194600 -0300" stop="20261104203500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+  </programme>
+  <programme start="20261104203500 -0300" stop="20261104212400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
   </programme>
-  <programme start="20261104212300 -0300" stop="20261104221200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104212400 -0300" stop="20261104221300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
   </programme>
-  <programme start="20261104221200 -0300" stop="20261104230100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104221300 -0300" stop="20261104230200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Irmãos à Obra: Sob Pressão</title>
   </programme>
-  <programme start="20261104230100 -0300" stop="20261104235100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261104230200 -0300" stop="20261104235200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Salvando Reformas Com Jasmine Roth</title>
   </programme>
-  <programme start="20261104235100 -0300" stop="20261105013100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Quilos Mortais</title>
+  <programme start="20261104235200 -0300" stop="20261105013200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
   </programme>
   <programme start="20261103000200 -0300" stop="20261103003900 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
@@ -42951,46 +42984,61 @@
   <programme start="20261104235000 -0300" stop="20261105000000 -0300" channel="gloobinho_hd.claro.br">
     <title lang="pt">S.O.S. Fada Manu</title>
   </programme>
-  <programme start="20261103010400 -0300" stop="20261103012700 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103010200 -0300" stop="20261103012600 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20261103012700 -0300" stop="20261103015000 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103012600 -0300" stop="20261103014800 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20261103015000 -0300" stop="20261103021200 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103014800 -0300" stop="20261103020900 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20261103021200 -0300" stop="20261103023500 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103020900 -0300" stop="20261103023200 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20261103023500 -0300" stop="20261103025800 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103023200 -0300" stop="20261103025400 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103025800 -0300" stop="20261103032000 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103025400 -0300" stop="20261103031400 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103032000 -0300" stop="20261103034200 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103031400 -0300" stop="20261103033500 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103034200 -0300" stop="20261103040300 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103033500 -0300" stop="20261103035400 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103040300 -0300" stop="20261103042500 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103035400 -0300" stop="20261103041500 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103042500 -0300" stop="20261103044800 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103041500 -0300" stop="20261103043700 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">The Big Bang Theory</title>
   </programme>
-  <programme start="20261103044800 -0300" stop="20261103060000 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103043700 -0300" stop="20261103045900 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">2 Broke Girls</title>
   </programme>
-  <programme start="20261103060000 -0300" stop="20261103063900 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103045900 -0300" stop="20261103052200 -0300" channel="warner_channel_hd.claro.br">
+    <title lang="pt">2 Broke Girls</title>
+  </programme>
+  <programme start="20261103052200 -0300" stop="20261103054300 -0300" channel="warner_channel_hd.claro.br">
+    <title lang="pt">2 Broke Girls</title>
+  </programme>
+  <programme start="20261103054300 -0300" stop="20261103060000 -0300" channel="warner_channel_hd.claro.br">
+    <title lang="pt">Hollywood One on One</title>
+  </programme>
+  <programme start="20261103060000 -0300" stop="20261103060200 -0300" channel="warner_channel_hd.claro.br">
+    <title lang="pt">TNT Buzz</title>
+  </programme>
+  <programme start="20261103060200 -0300" stop="20261103062600 -0300" channel="warner_channel_hd.claro.br">
+    <title lang="pt">Miracle Workers</title>
+  </programme>
+  <programme start="20261103062600 -0300" stop="20261103064400 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Young Sheldon</title>
   </programme>
-  <programme start="20261103063900 -0300" stop="20261103081800 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103064400 -0300" stop="20261103082300 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">As Patricinhas De Beverly Hills</title>
   </programme>
-  <programme start="20261103081800 -0300" stop="20261103084100 -0300" channel="warner_channel_hd.claro.br">
+  <programme start="20261103082300 -0300" stop="20261103084100 -0300" channel="warner_channel_hd.claro.br">
     <title lang="pt">Two and a Half Men</title>
   </programme>
   <programme start="20261103084100 -0300" stop="20261103090500 -0300" channel="warner_channel_hd.claro.br">
@@ -45150,83 +45198,83 @@
   <programme start="20261104232000 -0300" stop="20261105011100 -0300" channel="canal_brasil_hd_.claro.br">
     <title lang="pt">Praça Paris</title>
   </programme>
-  <programme start="20261103001000 -0300" stop="20261103003500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103004000 -0300" stop="20261103013000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Quem dá Mais?</title>
   </programme>
-  <programme start="20261103003500 -0300" stop="20261103010000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Quem dá Mais?</title>
-  </programme>
-  <programme start="20261103010000 -0300" stop="20261103012500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Quem dá Mais?</title>
-  </programme>
-  <programme start="20261103012500 -0300" stop="20261103021500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Quem dá Mais?</title>
-  </programme>
-  <programme start="20261103021500 -0300" stop="20261103030500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Quem dá Mais?</title>
-  </programme>
-  <programme start="20261103030500 -0300" stop="20261103035500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
-  </programme>
-  <programme start="20261103035500 -0300" stop="20261103044500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Mente Criminosa</title>
-  </programme>
-  <programme start="20261103044500 -0300" stop="20261103053700 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
-  </programme>
-  <programme start="20261103053700 -0300" stop="20261103060000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Guerra No Trânsito</title>
-  </programme>
-  <programme start="20261103060000 -0300" stop="20261103064500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Palavra de Assassino</title>
-  </programme>
-  <programme start="20261103064500 -0300" stop="20261103073000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Palavra de Assassino</title>
-  </programme>
-  <programme start="20261103073000 -0300" stop="20261103081500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
-  </programme>
-  <programme start="20261103081500 -0300" stop="20261103090000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
-  </programme>
-  <programme start="20261103090000 -0300" stop="20261103094500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">As Primeiras 48 Horas</title>
-  </programme>
-  <programme start="20261103094500 -0300" stop="20261103103000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
-  </programme>
-  <programme start="20261103103000 -0300" stop="20261103111500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103013000 -0300" stop="20261103021500 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Casos Arquivados</title>
   </programme>
-  <programme start="20261103111500 -0300" stop="20261103120500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103021500 -0300" stop="20261103030500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">As Primeiras 48 Horas</title>
+  </programme>
+  <programme start="20261103030500 -0300" stop="20261103035500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
+  </programme>
+  <programme start="20261103035500 -0300" stop="20261103044500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Segredos Das Celebridades: Sex Tapes</title>
+  </programme>
+  <programme start="20261103044500 -0300" stop="20261103051000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Guerra No Trânsito</title>
+  </programme>
+  <programme start="20261103051000 -0300" stop="20261103053500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Guerra No Trânsito</title>
+  </programme>
+  <programme start="20261103053500 -0300" stop="20261103060000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Flagrantes: Câmeras De Segurança</title>
+  </programme>
+  <programme start="20261103060000 -0300" stop="20261103062000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Clientes Em Guerra</title>
+  </programme>
+  <programme start="20261103062000 -0300" stop="20261103064500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Quem dá Mais?</title>
+  </programme>
+  <programme start="20261103064500 -0300" stop="20261103071000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Quem dá Mais?</title>
+  </programme>
+  <programme start="20261103071000 -0300" stop="20261103075500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Casos Arquivados</title>
+  </programme>
+  <programme start="20261103075500 -0300" stop="20261103084000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">As Primeiras 48 Horas</title>
+  </programme>
+  <programme start="20261103084000 -0300" stop="20261103094000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">El Chapo</title>
+  </programme>
+  <programme start="20261103094000 -0300" stop="20261103102500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
+  </programme>
+  <programme start="20261103102500 -0300" stop="20261103111000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Acusado: Fui Eu Que Fiz Isso?</title>
+  </programme>
+  <programme start="20261103111000 -0300" stop="20261103120000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Acumuladores Compulsivos</title>
   </programme>
-  <programme start="20261103120500 -0300" stop="20261103125500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103120000 -0300" stop="20261103125000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Acumuladores Compulsivos</title>
   </programme>
-  <programme start="20261103125500 -0300" stop="20261103142500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103125000 -0300" stop="20261103142000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Acumuladores Compulsivos</title>
   </programme>
-  <programme start="20261103142500 -0300" stop="20261103145000 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103142000 -0300" stop="20261103144500 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Polícia Em Ação</title>
   </programme>
-  <programme start="20261103145000 -0300" stop="20261103151500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103144500 -0300" stop="20261103151000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Polícia Em Ação</title>
   </programme>
-  <programme start="20261103151500 -0300" stop="20261103154000 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103151000 -0300" stop="20261103153500 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Polícia Em Ação</title>
   </programme>
-  <programme start="20261103154000 -0300" stop="20261103160500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103153500 -0300" stop="20261103160000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Polícia Em Ação</title>
   </programme>
-  <programme start="20261103160500 -0300" stop="20261103165500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Mente Criminosa</title>
+  <programme start="20261103160000 -0300" stop="20261103170000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">El Chapo</title>
   </programme>
-  <programme start="20261103165500 -0300" stop="20261103175000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
+  <programme start="20261103170000 -0300" stop="20261103175000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
   </programme>
   <programme start="20261103175000 -0300" stop="20261103184000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
+    <title lang="pt">Segredos Das Celebridades: Sex Tapes</title>
   </programme>
   <programme start="20261103184000 -0300" stop="20261103193000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Em Nome da Justiça</title>
@@ -45241,60 +45289,69 @@
     <title lang="pt">Massacre Familiar</title>
   </programme>
   <programme start="20261103220000 -0300" stop="20261103225000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
+    <title lang="pt">El Chapo</title>
   </programme>
-  <programme start="20261103225000 -0300" stop="20261103234500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
-  </programme>
-  <programme start="20261103234500 -0300" stop="20261104003500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Em Nome da Justiça</title>
-  </programme>
-  <programme start="20261104003500 -0300" stop="20261104012500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103225000 -0300" stop="20261103234000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Palavra de Assassino</title>
   </programme>
-  <programme start="20261104012500 -0300" stop="20261104021500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261103234000 -0300" stop="20261104003000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Massacre Familiar</title>
   </programme>
-  <programme start="20261104021500 -0300" stop="20261104030500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261104003000 -0300" stop="20261104012000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Massacre Familiar</title>
   </programme>
-  <programme start="20261104030500 -0300" stop="20261104035500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
+  <programme start="20261104012000 -0300" stop="20261104021000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Em Nome da Justiça</title>
   </programme>
-  <programme start="20261104035500 -0300" stop="20261104044500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Mente Criminosa</title>
+  <programme start="20261104021000 -0300" stop="20261104025500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Casos Arquivados</title>
   </programme>
-  <programme start="20261104044500 -0300" stop="20261104053800 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
+  <programme start="20261104025500 -0300" stop="20261104034000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">As Primeiras 48 Horas</title>
+  </programme>
+  <programme start="20261104034000 -0300" stop="20261104042900 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
+  </programme>
+  <programme start="20261104042900 -0300" stop="20261104051600 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Segredos Das Celebridades: Sex Tapes</title>
+  </programme>
+  <programme start="20261104051600 -0300" stop="20261104053800 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Guerra No Trânsito</title>
   </programme>
   <programme start="20261104053800 -0300" stop="20261104060000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Guerra No Trânsito</title>
   </programme>
-  <programme start="20261104060000 -0300" stop="20261104062500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Guerra No Trânsito</title>
+  <programme start="20261104060000 -0300" stop="20261104062000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Clientes Em Guerra</title>
   </programme>
-  <programme start="20261104062500 -0300" stop="20261104071000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Condenadas À Morte</title>
+  <programme start="20261104062000 -0300" stop="20261104064000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Clientes Em Guerra</title>
   </programme>
-  <programme start="20261104071000 -0300" stop="20261104075500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Massacre Familiar</title>
+  <programme start="20261104064000 -0300" stop="20261104070500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Quem dá Mais?</title>
   </programme>
-  <programme start="20261104075500 -0300" stop="20261104084500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Massacre Familiar</title>
+  <programme start="20261104070500 -0300" stop="20261104073000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Quem dá Mais?</title>
   </programme>
-  <programme start="20261104084500 -0300" stop="20261104093500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">As Primeiras 48 Horas</title>
+  <programme start="20261104073000 -0300" stop="20261104075500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Quem dá Mais?</title>
   </programme>
-  <programme start="20261104093500 -0300" stop="20261104102500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
-  </programme>
-  <programme start="20261104102500 -0300" stop="20261104111500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261104075500 -0300" stop="20261104084000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Casos Arquivados</title>
   </programme>
-  <programme start="20261104111500 -0300" stop="20261104120500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Acumuladores Compulsivos</title>
+  <programme start="20261104084000 -0300" stop="20261104092500 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">As Primeiras 48 Horas</title>
   </programme>
-  <programme start="20261104120500 -0300" stop="20261104125500 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261104092500 -0300" stop="20261104102000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">El Chapo</title>
+  </programme>
+  <programme start="20261104102000 -0300" stop="20261104111000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Massacre Familiar</title>
+  </programme>
+  <programme start="20261104111000 -0300" stop="20261104120000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Massacre Familiar</title>
+  </programme>
+  <programme start="20261104120000 -0300" stop="20261104125500 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Acumuladores Compulsivos</title>
   </programme>
   <programme start="20261104125500 -0300" stop="20261104142500 -0300" channel="a&amp;e_hd.claro.br">
@@ -45312,20 +45369,20 @@
   <programme start="20261104154000 -0300" stop="20261104160500 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Polícia Em Ação</title>
   </programme>
-  <programme start="20261104160500 -0300" stop="20261104165500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Mente Criminosa</title>
+  <programme start="20261104160500 -0300" stop="20261104170000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">El Chapo</title>
   </programme>
-  <programme start="20261104165500 -0300" stop="20261104175000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
+  <programme start="20261104170000 -0300" stop="20261104175000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">As Primeiras 48 Horas: Minutos Críticos</title>
   </programme>
   <programme start="20261104175000 -0300" stop="20261104184000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Arquivo Morto: O Dna Não Falha</title>
+    <title lang="pt">Segredos Das Celebridades: Sex Tapes</title>
   </programme>
   <programme start="20261104184000 -0300" stop="20261104193000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Condenadas À Morte</title>
   </programme>
   <programme start="20261104193000 -0300" stop="20261104202000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Assassinatos Em Motéis</title>
+    <title lang="pt">Me Diga Como Morri</title>
   </programme>
   <programme start="20261104202000 -0300" stop="20261104211000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
@@ -45333,49 +45390,58 @@
   <programme start="20261104211000 -0300" stop="20261104220000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Esquadrão de Homicídios: Nova Orleans</title>
   </programme>
-  <programme start="20261104220000 -0300" stop="20261104225500 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
+  <programme start="20261104220000 -0300" stop="20261104230000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">El Chapo</title>
   </programme>
-  <programme start="20261104225500 -0300" stop="20261104235000 -0300" channel="a&amp;e_hd.claro.br">
-    <title lang="pt">Jo</title>
-  </programme>
-  <programme start="20261104235000 -0300" stop="20261105004000 -0300" channel="a&amp;e_hd.claro.br">
+  <programme start="20261104230000 -0300" stop="20261104235000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Condenadas À Morte</title>
   </programme>
-  <programme start="20261103000200 -0300" stop="20261103004600 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261104235000 -0300" stop="20261105004000 -0300" channel="a&amp;e_hd.claro.br">
+    <title lang="pt">Me Diga Como Morri</title>
+  </programme>
+  <programme start="20261103000300 -0300" stop="20261103004900 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">The Mentalist</title>
   </programme>
-  <programme start="20261103004600 -0300" stop="20261103012800 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103004900 -0300" stop="20261103013400 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">The Mentalist</title>
   </programme>
-  <programme start="20261103012800 -0300" stop="20261103021000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103013400 -0300" stop="20261103021700 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">The Mentalist</title>
   </programme>
-  <programme start="20261103021000 -0300" stop="20261103030000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103021700 -0300" stop="20261103025900 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261103030000 -0300" stop="20261103034900 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103025900 -0300" stop="20261103034000 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261103034900 -0300" stop="20261103043900 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103034000 -0300" stop="20261103042300 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261103043900 -0300" stop="20261103052900 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103042300 -0300" stop="20261103050500 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261103052900 -0300" stop="20261103060000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103050500 -0300" stop="20261103054600 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261103060000 -0300" stop="20261103064000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103054600 -0300" stop="20261103060000 -0300" channel="tnt_series_hd.claro.br">
+    <title lang="pt">Hollywood One on One</title>
+  </programme>
+  <programme start="20261103060000 -0300" stop="20261103064600 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261103064000 -0300" stop="20261103072500 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103064600 -0300" stop="20261103064800 -0300" channel="tnt_series_hd.claro.br">
+    <title lang="pt">TNT Buzz</title>
+  </programme>
+  <programme start="20261103064800 -0300" stop="20261103065100 -0300" channel="tnt_series_hd.claro.br">
+    <title lang="pt">TNT Buzz</title>
+  </programme>
+  <programme start="20261103065100 -0300" stop="20261103073600 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Major Crimes</title>
   </programme>
-  <programme start="20261103072500 -0300" stop="20261103080900 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103073600 -0300" stop="20261103081900 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Major Crimes</title>
   </programme>
-  <programme start="20261103080900 -0300" stop="20261103085400 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261103081900 -0300" stop="20261103085400 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Person of Interest</title>
   </programme>
   <programme start="20261103085400 -0300" stop="20261103093600 -0300" channel="tnt_series_hd.claro.br">
