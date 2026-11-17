@@ -1971,11 +1971,11 @@
   <programme start="20261118233000 -0300" stop="20261119000000 -0300" channel="rede_familia.claro.br">
     <title lang="pt">Informercial</title>
   </programme>
-  <programme start="20261117000000 -0300" stop="20261117010000 -0300" channel="canal_comunitario.claro.br">
-    <title lang="pt">Programação Canal Comunitário</title>
-  </programme>
   <programme start="20261117000000 -0300" stop="20261117060000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Canal Comunitário</title>
+  </programme>
+  <programme start="20261117000000 -0300" stop="20261117010000 -0300" channel="canal_comunitario.claro.br">
+    <title lang="pt">Programação Canal Comunitário</title>
   </programme>
   <programme start="20261117010000 -0300" stop="20261117020000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
@@ -1992,11 +1992,11 @@
   <programme start="20261117050000 -0300" stop="20261117060000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
   </programme>
-  <programme start="20261117060000 -0300" stop="20261117070000 -0300" channel="canal_comunitario.claro.br">
-    <title lang="pt">Programação Canal Comunitário</title>
-  </programme>
   <programme start="20261117060000 -0300" stop="20261117120000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Canal Comunitário</title>
+  </programme>
+  <programme start="20261117060000 -0300" stop="20261117070000 -0300" channel="canal_comunitario.claro.br">
+    <title lang="pt">Programação Canal Comunitário</title>
   </programme>
   <programme start="20261117070000 -0300" stop="20261117080000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
@@ -2013,11 +2013,11 @@
   <programme start="20261117110000 -0300" stop="20261117120000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
   </programme>
-  <programme start="20261117120000 -0300" stop="20261117130000 -0300" channel="canal_comunitario.claro.br">
-    <title lang="pt">Programação Canal Comunitário</title>
-  </programme>
   <programme start="20261117120000 -0300" stop="20261117180000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Canal Comunitário</title>
+  </programme>
+  <programme start="20261117120000 -0300" stop="20261117130000 -0300" channel="canal_comunitario.claro.br">
+    <title lang="pt">Programação Canal Comunitário</title>
   </programme>
   <programme start="20261117130000 -0300" stop="20261117140000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
@@ -2034,11 +2034,11 @@
   <programme start="20261117170000 -0300" stop="20261117180000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
   </programme>
-  <programme start="20261117180000 -0300" stop="20261117190000 -0300" channel="canal_comunitario.claro.br">
-    <title lang="pt">Programação Canal Comunitário</title>
-  </programme>
   <programme start="20261117180000 -0300" stop="20261118000000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Canal Comunitário</title>
+  </programme>
+  <programme start="20261117180000 -0300" stop="20261117190000 -0300" channel="canal_comunitario.claro.br">
+    <title lang="pt">Programação Canal Comunitário</title>
   </programme>
   <programme start="20261117190000 -0300" stop="20261117200000 -0300" channel="canal_comunitario.claro.br">
     <title lang="pt">Programação Canal Comunitário</title>
@@ -7323,71 +7323,62 @@
   <programme start="20261118235000 -0300" stop="20261119000000 -0300" channel="off.claro.br">
     <title lang="pt">Curtas Do Off: Arte, Cor E Renascimento</title>
   </programme>
-  <programme start="20261117011500 -0300" stop="20261117014500 -0300" channel="arte_1.claro.br">
+  <programme start="20261117010000 -0300" stop="20261117013000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Insight</title>
   </programme>
-  <programme start="20261117014500 -0300" stop="20261117021500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Buscando Buskers - Som e Afeto</title>
+  <programme start="20261117013000 -0300" stop="20261117020000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
   </programme>
-  <programme start="20261117021500 -0300" stop="20261117023000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte Makers</title>
+  <programme start="20261117020000 -0300" stop="20261117031500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Nacional: La Parle</title>
   </programme>
-  <programme start="20261117023000 -0300" stop="20261117030000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
+  <programme start="20261117031500 -0300" stop="20261117033000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Curta Arte 1</title>
   </programme>
-  <programme start="20261117030000 -0300" stop="20261117033000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
+  <programme start="20261117033000 -0300" stop="20261117060000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
   </programme>
-  <programme start="20261117033000 -0300" stop="20261117043000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Nitsche</title>
+  <programme start="20261117060000 -0300" stop="20261117063000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Um.Artista: Beatrice Arraes</title>
   </programme>
-  <programme start="20261117043000 -0300" stop="20261117053000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Pão e Gente</title>
+  <programme start="20261117063000 -0300" stop="20261117073000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Abre a Coxia: Teatro do Incêndio</title>
   </programme>
-  <programme start="20261117053000 -0300" stop="20261117060000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Hilda Hilst Entre Estações</title>
+  <programme start="20261117073000 -0300" stop="20261117083000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Tempo de Dança: Dançar, e Depois?</title>
   </programme>
-  <programme start="20261117060000 -0300" stop="20261117070000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Abre a Coxia: Teatro Oficina</title>
-  </programme>
-  <programme start="20261117070000 -0300" stop="20261117071500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Curta Arte 1: Poétika</title>
-  </programme>
-  <programme start="20261117071500 -0300" stop="20261117081500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Tempo de Dança: Viver de Dança</title>
-  </programme>
-  <programme start="20261117081500 -0300" stop="20261117103000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Também Fomos Felizes</title>
+  <programme start="20261117083000 -0300" stop="20261117103000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Fahrenheit 451</title>
   </programme>
   <programme start="20261117103000 -0300" stop="20261117110000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
   </programme>
   <programme start="20261117110000 -0300" stop="20261117113000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte Indígena Contemporânea</title>
+    <title lang="pt">Amostradas</title>
   </programme>
   <programme start="20261117113000 -0300" stop="20261117120000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Material Bruto: Eunice Gutman</title>
+    <title lang="pt">Material Bruto: Ana Maria Magalhães</title>
   </programme>
   <programme start="20261117120000 -0300" stop="20261117123000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Buscando Buskers - Som e Afeto</title>
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
   </programme>
   <programme start="20261117123000 -0300" stop="20261117130000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
-  <programme start="20261117130000 -0300" stop="20261117140000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Pão e Gente</title>
+  <programme start="20261117130000 -0300" stop="20261117141500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Nacional: La Parle</title>
   </programme>
-  <programme start="20261117140000 -0300" stop="20261117141500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Curta Arte 1: Poétika</title>
+  <programme start="20261117141500 -0300" stop="20261117143000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Curta Arte 1</title>
   </programme>
-  <programme start="20261117141500 -0300" stop="20261117144500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Um.Artista</title>
+  <programme start="20261117143000 -0300" stop="20261117150000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Um.Artista: Beatrice Arraes</title>
   </programme>
-  <programme start="20261117144500 -0300" stop="20261117170000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Também Fomos Felizes</title>
+  <programme start="20261117150000 -0300" stop="20261117170000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Fahrenheit 451</title>
   </programme>
   <programme start="20261117170000 -0300" stop="20261117180000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Abre a Coxia: Teatro Oficina</title>
+    <title lang="pt">Abre a Coxia: Teatro do Incêndio</title>
   </programme>
   <programme start="20261117180000 -0300" stop="20261117190000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
@@ -7396,10 +7387,10 @@
     <title lang="pt">Descobrindo os Tesouros do Brasil</title>
   </programme>
   <programme start="20261117193000 -0300" stop="20261117203000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Música e Poesia</title>
+    <title lang="pt">Música e Poesia: Alice Sant'Anna</title>
   </programme>
   <programme start="20261117203000 -0300" stop="20261117210000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Material Bruto: Eunice Gutman</title>
+    <title lang="pt">Material Bruto: Ana Maria Magalhães</title>
   </programme>
   <programme start="20261117210000 -0300" stop="20261117213000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Especial Arte 1</title>
@@ -7413,41 +7404,47 @@
   <programme start="20261117223000 -0300" stop="20261117230000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Insight</title>
   </programme>
-  <programme start="20261117230000 -0300" stop="20261118004500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Documenta: Andy Warhol - Um Sonho Americano</title>
+  <programme start="20261117230000 -0300" stop="20261118003000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Gauguin no Taiti</title>
   </programme>
-  <programme start="20261118004500 -0300" stop="20261118014500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Nitsche</title>
+  <programme start="20261118003000 -0300" stop="20261118013000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Geografia da Arte: Invader + Paris</title>
   </programme>
-  <programme start="20261118014500 -0300" stop="20261118024500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Música e Poesia</title>
+  <programme start="20261118013000 -0300" stop="20261118023000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Música e Poesia: Alice Sant'Anna</title>
   </programme>
-  <programme start="20261118024500 -0300" stop="20261118031500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Especial Arte 1</title>
+  <programme start="20261118023000 -0300" stop="20261118030000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Amostradas</title>
   </programme>
-  <programme start="20261118031500 -0300" stop="20261118060000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Casanova de Fellini</title>
-  </programme>
-  <programme start="20261118060000 -0300" stop="20261118063000 -0300" channel="arte_1.claro.br">
+  <programme start="20261118030000 -0300" stop="20261118033000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
   </programme>
+  <programme start="20261118033000 -0300" stop="20261118040000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
+  </programme>
+  <programme start="20261118040000 -0300" stop="20261118060000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Fahrenheit 451</title>
+  </programme>
+  <programme start="20261118060000 -0300" stop="20261118063000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Material Bruto: Ana Maria Magalhães</title>
+  </programme>
   <programme start="20261118063000 -0300" stop="20261118073000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Música e Poesia</title>
+    <title lang="pt">Geografia da Arte: Invader + Paris</title>
   </programme>
-  <programme start="20261118073000 -0300" stop="20261118083000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Nitsche</title>
+  <programme start="20261118073000 -0300" stop="20261118080000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 em Movimento</title>
   </programme>
-  <programme start="20261118083000 -0300" stop="20261118084500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte Makers</title>
+  <programme start="20261118080000 -0300" stop="20261118090000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Música e Poesia: Alice Sant'Anna</title>
   </programme>
-  <programme start="20261118084500 -0300" stop="20261118103000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Documenta: Andy Warhol - Um Sonho Americano</title>
+  <programme start="20261118090000 -0300" stop="20261118103000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Gauguin no Taiti</title>
   </programme>
   <programme start="20261118103000 -0300" stop="20261118113000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
   </programme>
   <programme start="20261118113000 -0300" stop="20261118120000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Um.Artista</title>
+    <title lang="pt">Um.Artista: Beatrice Arraes</title>
   </programme>
   <programme start="20261118120000 -0300" stop="20261118123000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
@@ -7456,7 +7453,7 @@
     <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
   </programme>
   <programme start="20261118130000 -0300" stop="20261118133000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Música no Meu Jardim: Bach por Marcelo Bratke</title>
+    <title lang="pt">Música no Meu Jardim: Mozart por Marcelo Bratke</title>
   </programme>
   <programme start="20261118133000 -0300" stop="20261118140000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
@@ -7467,38 +7464,38 @@
   <programme start="20261118143000 -0300" stop="20261118150000 -0300" channel="arte_1.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
-  <programme start="20261118150000 -0300" stop="20261118164500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Documenta: Andy Warhol - Um Sonho Americano</title>
+  <programme start="20261118150000 -0300" stop="20261118163000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Documenta: Gauguin no Taiti</title>
   </programme>
-  <programme start="20261118164500 -0300" stop="20261118170000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte Makers</title>
+  <programme start="20261118163000 -0300" stop="20261118170000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Material Bruto: Ana Maria Magalhães</title>
   </programme>
   <programme start="20261118170000 -0300" stop="20261118180000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Música e Poesia</title>
+    <title lang="pt">Música e Poesia: Alice Sant'Anna</title>
   </programme>
-  <programme start="20261118180000 -0300" stop="20261118190000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Pão e Gente</title>
+  <programme start="20261118180000 -0300" stop="20261118191500 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Arte 1 Nacional: La Parle</title>
   </programme>
-  <programme start="20261118190000 -0300" stop="20261118193000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte 1 Nacional: Hilda Hilst Entre Estações</title>
+  <programme start="20261118191500 -0300" stop="20261118193000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Curta Arte 1</title>
   </programme>
   <programme start="20261118193000 -0300" stop="20261118200000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Um.Artista</title>
+    <title lang="pt">Um.Artista: Beatrice Arraes</title>
   </programme>
   <programme start="20261118200000 -0300" stop="20261118203000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Arte Indígena Contemporânea</title>
+    <title lang="pt">Amostradas</title>
   </programme>
   <programme start="20261118203000 -0300" stop="20261118213000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Abre a Coxia: Teatro do Incêndio</title>
+    <title lang="pt">Abre a Coxia: Grupo TAPA</title>
   </programme>
   <programme start="20261118213000 -0300" stop="20261118223000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Tempo de Dança: Dançar, e Depois?</title>
+    <title lang="pt">Arte 1 na Dança: Bolero</title>
   </programme>
   <programme start="20261118223000 -0300" stop="20261118230000 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Buscando Buskers - Som e Afeto</title>
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
   </programme>
-  <programme start="20261118230000 -0300" stop="20261119011500 -0300" channel="arte_1.claro.br">
-    <title lang="pt">Cine Clube Arte 1: Acima das Nuvens</title>
+  <programme start="20261118230000 -0300" stop="20261119013000 -0300" channel="arte_1.claro.br">
+    <title lang="pt">Cine Clube Arte 1: Terra de Deus</title>
   </programme>
   <programme start="20261117000000 -0300" stop="20261117040000 -0300" channel="polishop.claro.br">
     <title lang="pt">Programação Polishop TV</title>
@@ -10552,16 +10549,16 @@
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118002400 -0300" stop="20261118004600 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118004600 -0300" stop="20261118010900 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118010900 -0300" stop="20261118013100 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118013100 -0300" stop="20261118015400 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118015400 -0300" stop="20261118020600 -0300" channel="gloob.claro.br">
     <title lang="pt">Tara Duncan</title>
@@ -10759,7 +10756,7 @@
     <title lang="pt">Árvore Familiar Dos Croods, A</title>
   </programme>
   <programme start="20261118231800 -0300" stop="20261118234100 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118234100 -0300" stop="20261119000400 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
@@ -27954,11 +27951,8 @@
   <programme start="20261117192000 -0300" stop="20261117203000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jornal da Band</title>
   </programme>
-  <programme start="20261117203000 -0300" stop="20261117205500 -0300" channel="band_hd.claro.br">
+  <programme start="20261117203000 -0300" stop="20261117212500 -0300" channel="band_hd.claro.br">
     <title lang="pt">A Traição</title>
-  </programme>
-  <programme start="20261117205500 -0300" stop="20261117212500 -0300" channel="band_hd.claro.br">
-    <title lang="pt">Guerra das Rosas</title>
   </programme>
   <programme start="20261117212500 -0300" stop="20261117222000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Show da Fé</title>
@@ -28017,17 +28011,20 @@
   <programme start="20261118192000 -0300" stop="20261118203000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Jornal da Band</title>
   </programme>
-  <programme start="20261118203000 -0300" stop="20261118205500 -0300" channel="band_hd.claro.br">
+  <programme start="20261118203000 -0300" stop="20261118212500 -0300" channel="band_hd.claro.br">
     <title lang="pt">A Traição</title>
-  </programme>
-  <programme start="20261118205500 -0300" stop="20261118212500 -0300" channel="band_hd.claro.br">
-    <title lang="pt">Guerra das Rosas</title>
   </programme>
   <programme start="20261118212500 -0300" stop="20261118222000 -0300" channel="band_hd.claro.br">
     <title lang="pt">Show da Fé</title>
   </programme>
-  <programme start="20261118222000 -0300" stop="20261119000000 -0300" channel="band_hd.claro.br">
-    <title lang="pt">Cine Clube: O Duelo</title>
+  <programme start="20261118222000 -0300" stop="20261118223000 -0300" channel="band_hd.claro.br">
+    <title lang="pt">Dossiê Celebridades - A Prévia</title>
+  </programme>
+  <programme start="20261118223000 -0300" stop="20261118235000 -0300" channel="band_hd.claro.br">
+    <title lang="pt">Dossiê Celebridades</title>
+  </programme>
+  <programme start="20261118235000 -0300" stop="20261119005500 -0300" channel="band_hd.claro.br">
+    <title lang="pt">Jornal da Noite</title>
   </programme>
   <programme start="20261117000000 -0300" stop="20261117010000 -0300" channel="cultura_hd.claro.br">
     <title lang="pt">Persona em Foco</title>
@@ -31464,71 +31461,62 @@
   <programme start="20261118230000 -0300" stop="20261119010000 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
   </programme>
-  <programme start="20261117011500 -0300" stop="20261117014500 -0300" channel="arte_1_hd.claro.br">
+  <programme start="20261117010000 -0300" stop="20261117013000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Insight</title>
   </programme>
-  <programme start="20261117014500 -0300" stop="20261117021500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Buscando Buskers - Som e Afeto</title>
+  <programme start="20261117013000 -0300" stop="20261117020000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
   </programme>
-  <programme start="20261117021500 -0300" stop="20261117023000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte Makers</title>
+  <programme start="20261117020000 -0300" stop="20261117031500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Nacional: La Parle</title>
   </programme>
-  <programme start="20261117023000 -0300" stop="20261117030000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
+  <programme start="20261117031500 -0300" stop="20261117033000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Curta Arte 1</title>
   </programme>
-  <programme start="20261117030000 -0300" stop="20261117033000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
+  <programme start="20261117033000 -0300" stop="20261117060000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
   </programme>
-  <programme start="20261117033000 -0300" stop="20261117043000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Nitsche</title>
+  <programme start="20261117060000 -0300" stop="20261117063000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Um.Artista: Beatrice Arraes</title>
   </programme>
-  <programme start="20261117043000 -0300" stop="20261117053000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Nacional: Pão e Gente</title>
+  <programme start="20261117063000 -0300" stop="20261117073000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Abre a Coxia: Teatro do Incêndio</title>
   </programme>
-  <programme start="20261117053000 -0300" stop="20261117060000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Nacional: Hilda Hilst Entre Estações</title>
+  <programme start="20261117073000 -0300" stop="20261117083000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Tempo de Dança: Dançar, e Depois?</title>
   </programme>
-  <programme start="20261117060000 -0300" stop="20261117070000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Abre a Coxia: Teatro Oficina</title>
-  </programme>
-  <programme start="20261117070000 -0300" stop="20261117071500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Curta Arte 1: Poétika</title>
-  </programme>
-  <programme start="20261117071500 -0300" stop="20261117081500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Tempo de Dança: Viver de Dança</title>
-  </programme>
-  <programme start="20261117081500 -0300" stop="20261117103000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Também Fomos Felizes</title>
+  <programme start="20261117083000 -0300" stop="20261117103000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Fahrenheit 451</title>
   </programme>
   <programme start="20261117103000 -0300" stop="20261117110000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
   </programme>
   <programme start="20261117110000 -0300" stop="20261117113000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte Indígena Contemporânea</title>
+    <title lang="pt">Amostradas</title>
   </programme>
   <programme start="20261117113000 -0300" stop="20261117120000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Material Bruto: Eunice Gutman</title>
+    <title lang="pt">Material Bruto: Ana Maria Magalhães</title>
   </programme>
   <programme start="20261117120000 -0300" stop="20261117123000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Buscando Buskers - Som e Afeto</title>
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
   </programme>
   <programme start="20261117123000 -0300" stop="20261117130000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
-  <programme start="20261117130000 -0300" stop="20261117140000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Nacional: Pão e Gente</title>
+  <programme start="20261117130000 -0300" stop="20261117141500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Nacional: La Parle</title>
   </programme>
-  <programme start="20261117140000 -0300" stop="20261117141500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Curta Arte 1: Poétika</title>
+  <programme start="20261117141500 -0300" stop="20261117143000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Curta Arte 1</title>
   </programme>
-  <programme start="20261117141500 -0300" stop="20261117144500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Um.Artista</title>
+  <programme start="20261117143000 -0300" stop="20261117150000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Um.Artista: Beatrice Arraes</title>
   </programme>
-  <programme start="20261117144500 -0300" stop="20261117170000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Também Fomos Felizes</title>
+  <programme start="20261117150000 -0300" stop="20261117170000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Fahrenheit 451</title>
   </programme>
   <programme start="20261117170000 -0300" stop="20261117180000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Abre a Coxia: Teatro Oficina</title>
+    <title lang="pt">Abre a Coxia: Teatro do Incêndio</title>
   </programme>
   <programme start="20261117180000 -0300" stop="20261117190000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
@@ -31537,10 +31525,10 @@
     <title lang="pt">Descobrindo os Tesouros do Brasil</title>
   </programme>
   <programme start="20261117193000 -0300" stop="20261117203000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Música e Poesia</title>
+    <title lang="pt">Música e Poesia: Alice Sant'Anna</title>
   </programme>
   <programme start="20261117203000 -0300" stop="20261117210000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Material Bruto: Eunice Gutman</title>
+    <title lang="pt">Material Bruto: Ana Maria Magalhães</title>
   </programme>
   <programme start="20261117210000 -0300" stop="20261117213000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Especial Arte 1</title>
@@ -31554,41 +31542,47 @@
   <programme start="20261117223000 -0300" stop="20261117230000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Insight</title>
   </programme>
-  <programme start="20261117230000 -0300" stop="20261118004500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Documenta: Andy Warhol - Um Sonho Americano</title>
+  <programme start="20261117230000 -0300" stop="20261118003000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Documenta: Gauguin no Taiti</title>
   </programme>
-  <programme start="20261118004500 -0300" stop="20261118014500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Nitsche</title>
+  <programme start="20261118003000 -0300" stop="20261118013000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Geografia da Arte: Invader + Paris</title>
   </programme>
-  <programme start="20261118014500 -0300" stop="20261118024500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Música e Poesia</title>
+  <programme start="20261118013000 -0300" stop="20261118023000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Música e Poesia: Alice Sant'Anna</title>
   </programme>
-  <programme start="20261118024500 -0300" stop="20261118031500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Especial Arte 1</title>
+  <programme start="20261118023000 -0300" stop="20261118030000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Amostradas</title>
   </programme>
-  <programme start="20261118031500 -0300" stop="20261118060000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Cine Clube Arte 1 Clássicos: Casanova de Fellini</title>
-  </programme>
-  <programme start="20261118060000 -0300" stop="20261118063000 -0300" channel="arte_1_hd.claro.br">
+  <programme start="20261118030000 -0300" stop="20261118033000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
   </programme>
+  <programme start="20261118033000 -0300" stop="20261118040000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
+  </programme>
+  <programme start="20261118040000 -0300" stop="20261118060000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Fahrenheit 451</title>
+  </programme>
+  <programme start="20261118060000 -0300" stop="20261118063000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Material Bruto: Ana Maria Magalhães</title>
+  </programme>
   <programme start="20261118063000 -0300" stop="20261118073000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Música e Poesia</title>
+    <title lang="pt">Geografia da Arte: Invader + Paris</title>
   </programme>
-  <programme start="20261118073000 -0300" stop="20261118083000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arquitetos Brasileiros: Nitsche</title>
+  <programme start="20261118073000 -0300" stop="20261118080000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 em Movimento</title>
   </programme>
-  <programme start="20261118083000 -0300" stop="20261118084500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte Makers</title>
+  <programme start="20261118080000 -0300" stop="20261118090000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Música e Poesia: Alice Sant'Anna</title>
   </programme>
-  <programme start="20261118084500 -0300" stop="20261118103000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Documenta: Andy Warhol - Um Sonho Americano</title>
+  <programme start="20261118090000 -0300" stop="20261118103000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Documenta: Gauguin no Taiti</title>
   </programme>
   <programme start="20261118103000 -0300" stop="20261118113000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 em Série: A Arte dos Museus</title>
   </programme>
   <programme start="20261118113000 -0300" stop="20261118120000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Um.Artista</title>
+    <title lang="pt">Um.Artista: Beatrice Arraes</title>
   </programme>
   <programme start="20261118120000 -0300" stop="20261118123000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
@@ -31597,7 +31591,7 @@
     <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
   </programme>
   <programme start="20261118130000 -0300" stop="20261118133000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Música no Meu Jardim: Bach por Marcelo Bratke</title>
+    <title lang="pt">Música no Meu Jardim: Mozart por Marcelo Bratke</title>
   </programme>
   <programme start="20261118133000 -0300" stop="20261118140000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Arte 1 em Movimento</title>
@@ -31608,38 +31602,38 @@
   <programme start="20261118143000 -0300" stop="20261118150000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Especial Arte 1</title>
   </programme>
-  <programme start="20261118150000 -0300" stop="20261118164500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Documenta: Andy Warhol - Um Sonho Americano</title>
+  <programme start="20261118150000 -0300" stop="20261118163000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Documenta: Gauguin no Taiti</title>
   </programme>
-  <programme start="20261118164500 -0300" stop="20261118170000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte Makers</title>
+  <programme start="20261118163000 -0300" stop="20261118170000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Material Bruto: Ana Maria Magalhães</title>
   </programme>
   <programme start="20261118170000 -0300" stop="20261118180000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Música e Poesia</title>
+    <title lang="pt">Música e Poesia: Alice Sant'Anna</title>
   </programme>
-  <programme start="20261118180000 -0300" stop="20261118190000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Nacional: Pão e Gente</title>
+  <programme start="20261118180000 -0300" stop="20261118191500 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Arte 1 Nacional: La Parle</title>
   </programme>
-  <programme start="20261118190000 -0300" stop="20261118193000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte 1 Nacional: Hilda Hilst Entre Estações</title>
+  <programme start="20261118191500 -0300" stop="20261118193000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Curta Arte 1</title>
   </programme>
   <programme start="20261118193000 -0300" stop="20261118200000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Um.Artista</title>
+    <title lang="pt">Um.Artista: Beatrice Arraes</title>
   </programme>
   <programme start="20261118200000 -0300" stop="20261118203000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Arte Indígena Contemporânea</title>
+    <title lang="pt">Amostradas</title>
   </programme>
   <programme start="20261118203000 -0300" stop="20261118213000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Abre a Coxia: Teatro do Incêndio</title>
+    <title lang="pt">Abre a Coxia: Grupo TAPA</title>
   </programme>
   <programme start="20261118213000 -0300" stop="20261118223000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Tempo de Dança: Dançar, e Depois?</title>
+    <title lang="pt">Arte 1 na Dança: Bolero</title>
   </programme>
   <programme start="20261118223000 -0300" stop="20261118230000 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Buscando Buskers - Som e Afeto</title>
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
   </programme>
-  <programme start="20261118230000 -0300" stop="20261119011500 -0300" channel="arte_1_hd.claro.br">
-    <title lang="pt">Cine Clube Arte 1: Acima das Nuvens</title>
+  <programme start="20261118230000 -0300" stop="20261119013000 -0300" channel="arte_1_hd.claro.br">
+    <title lang="pt">Cine Clube Arte 1: Terra de Deus</title>
   </programme>
   <programme start="20261117000000 -0300" stop="20261117004000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">101 Canções que Tocaram o Brasil</title>
@@ -37039,16 +37033,16 @@
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118002400 -0300" stop="20261118004600 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118004600 -0300" stop="20261118010900 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118010900 -0300" stop="20261118013100 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118013100 -0300" stop="20261118015400 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118015400 -0300" stop="20261118020600 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Tara Duncan</title>
@@ -37246,7 +37240,7 @@
     <title lang="pt">Árvore Familiar Dos Croods, A</title>
   </programme>
   <programme start="20261118231800 -0300" stop="20261118234100 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261118234100 -0300" stop="20261119000400 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
@@ -45384,29 +45378,32 @@
   <programme start="20261118235000 -0300" stop="20261119004000 -0300" channel="a&amp;e_hd.claro.br">
     <title lang="pt">Me Diga Como Morri</title>
   </programme>
-  <programme start="20261117000200 -0300" stop="20261117004500 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261117003300 -0300" stop="20261117011900 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">The Mentalist</title>
   </programme>
-  <programme start="20261117004500 -0300" stop="20261117012800 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261117011900 -0300" stop="20261117020100 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">The Mentalist</title>
   </programme>
-  <programme start="20261117012800 -0300" stop="20261117021000 -0300" channel="tnt_series_hd.claro.br">
-    <title lang="pt">The Mentalist</title>
-  </programme>
-  <programme start="20261117021000 -0300" stop="20261117030000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261117020100 -0300" stop="20261117024400 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261117030000 -0300" stop="20261117035000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261117024400 -0300" stop="20261117032700 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261117035000 -0300" stop="20261117044000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261117032700 -0300" stop="20261117040900 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261117044000 -0300" stop="20261117052600 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261117040900 -0300" stop="20261117045000 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
   </programme>
-  <programme start="20261117052600 -0300" stop="20261117060000 -0300" channel="tnt_series_hd.claro.br">
+  <programme start="20261117045000 -0300" stop="20261117053300 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
+  </programme>
+  <programme start="20261117053300 -0300" stop="20261117054700 -0300" channel="tnt_series_hd.claro.br">
+    <title lang="pt">Hollywood One on One</title>
+  </programme>
+  <programme start="20261117054700 -0300" stop="20261117060000 -0300" channel="tnt_series_hd.claro.br">
+    <title lang="pt">Hollywood One on One</title>
   </programme>
   <programme start="20261117060000 -0300" stop="20261117062600 -0300" channel="tnt_series_hd.claro.br">
     <title lang="pt">Law &amp; Order SVU</title>
