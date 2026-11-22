@@ -2191,28 +2191,28 @@
     <title lang="pt">Canto e Sabor do Brasil</title>
   </programme>
   <programme start="20261122120000 -0300" stop="20261122140000 -0300" channel="canal_universitario.claro.br">
-    <title lang="pt">Programação Canal Universitário</title>
-  </programme>
-  <programme start="20261122120000 -0300" stop="20261122140000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Samba na Gamboa</title>
   </programme>
-  <programme start="20261122140000 -0300" stop="20261122160000 -0300" channel="canal_universitario.claro.br">
+  <programme start="20261122120000 -0300" stop="20261122140000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Programação Canal Universitário</title>
   </programme>
   <programme start="20261122140000 -0300" stop="20261122160000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Sessão Família</title>
   </programme>
-  <programme start="20261122160000 -0300" stop="20261122180000 -0300" channel="canal_universitario.claro.br">
+  <programme start="20261122140000 -0300" stop="20261122160000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Programação Canal Universitário</title>
   </programme>
   <programme start="20261122160000 -0300" stop="20261122180000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Cinema Catarinense</title>
   </programme>
-  <programme start="20261122180000 -0300" stop="20261122200000 -0300" channel="canal_universitario.claro.br">
+  <programme start="20261122160000 -0300" stop="20261122180000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Programação Canal Universitário</title>
   </programme>
   <programme start="20261122180000 -0300" stop="20261122183000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Parques do Brasil</title>
+  </programme>
+  <programme start="20261122180000 -0300" stop="20261122200000 -0300" channel="canal_universitario.claro.br">
+    <title lang="pt">Programação Canal Universitário</title>
   </programme>
   <programme start="20261122183000 -0300" stop="20261122190000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Meu Pedaço Do Brasil</title>
@@ -2223,11 +2223,11 @@
   <programme start="20261122194000 -0300" stop="20261122200000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Stadium</title>
   </programme>
-  <programme start="20261122200000 -0300" stop="20261122220000 -0300" channel="canal_universitario.claro.br">
-    <title lang="pt">Programação Canal Universitário</title>
-  </programme>
   <programme start="20261122200000 -0300" stop="20261122203000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">A Cor da Nossa Tela</title>
+  </programme>
+  <programme start="20261122200000 -0300" stop="20261122220000 -0300" channel="canal_universitario.claro.br">
+    <title lang="pt">Programação Canal Universitário</title>
   </programme>
   <programme start="20261122203000 -0300" stop="20261122210000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">A Escrava Isaura</title>
@@ -2235,11 +2235,11 @@
   <programme start="20261122210000 -0300" stop="20261122220000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">No Mundo da Bola</title>
   </programme>
-  <programme start="20261122220000 -0300" stop="20261123000000 -0300" channel="canal_universitario.claro.br">
-    <title lang="pt">Programação Canal Universitário</title>
-  </programme>
   <programme start="20261122220000 -0300" stop="20261122223000 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Caminhos da Reportagem</title>
+  </programme>
+  <programme start="20261122220000 -0300" stop="20261123000000 -0300" channel="canal_universitario.claro.br">
+    <title lang="pt">Programação Canal Universitário</title>
   </programme>
   <programme start="20261122223000 -0300" stop="20261122224500 -0300" channel="canal_universitario.claro.br">
     <title lang="pt">Sessão Cinema</title>
@@ -2692,13 +2692,16 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
   </programme>
   <programme start="20261123031500 -0300" stop="20261123040000 -0300" channel="globo_(eptv).claro.br">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
+    <title lang="pt">Terra da Gente</title>
   </programme>
   <programme start="20261123040000 -0300" stop="20261123060000 -0300" channel="globo_(eptv).claro.br">
     <title lang="pt">Hora Um</title>
   </programme>
-  <programme start="20261123060000 -0300" stop="20261123083000 -0300" channel="globo_(eptv).claro.br">
+  <programme start="20261123060000 -0300" stop="20261123073000 -0300" channel="globo_(eptv).claro.br">
     <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20261123073000 -0300" stop="20261123083000 -0300" channel="globo_(eptv).claro.br">
+    <title lang="pt">Bom Dia Cidade</title>
   </programme>
   <programme start="20261123083000 -0300" stop="20261123093000 -0300" channel="globo_(eptv).claro.br">
     <title lang="pt">Bom Dia Brasil</title>
@@ -2721,8 +2724,11 @@
   <programme start="20261123144500 -0300" stop="20261123152500 -0300" channel="globo_(eptv).claro.br">
     <title lang="pt">Roque Santeiro</title>
   </programme>
-  <programme start="20261123152500 -0300" stop="20261123170500 -0300" channel="globo_(eptv).claro.br">
+  <programme start="20261123152500 -0300" stop="20261123165500 -0300" channel="globo_(eptv).claro.br">
     <title lang="pt">Sessão da Tarde: A Boneca Que Virou Gente 2</title>
+  </programme>
+  <programme start="20261123165500 -0300" stop="20261123170500 -0300" channel="globo_(eptv).claro.br">
+    <title lang="pt">Boletim EPTV Cidade</title>
   </programme>
   <programme start="20261123170500 -0300" stop="20261123174500 -0300" channel="globo_(eptv).claro.br">
     <title lang="pt">Vale a Pena Ver de Novo: A Dona do Pedaço</title>
@@ -2785,7 +2791,7 @@
     <title lang="pt">Record Teen - Todo Mundo Odeia o Chris</title>
   </programme>
   <programme start="20261122134500 -0300" stop="20261122153000 -0300" channel="record.claro.br">
-    <title lang="pt">Cine Maior</title>
+    <title lang="pt">Cine Maior: Invasão a Londres</title>
   </programme>
   <programme start="20261122153000 -0300" stop="20261122180000 -0300" channel="record.claro.br">
     <title lang="pt">Acerte ou Caia</title>
@@ -3913,7 +3919,7 @@
     <title lang="pt">Ecosenado</title>
   </programme>
   <programme start="20261122173000 -0300" stop="20261122180000 -0300" channel="tv_senado.claro.br">
-    <title lang="pt">Tela Brasil</title>
+    <title lang="pt">Tela Brasil: Vestígios de Um Palácio - 50 Anos Sem o Monroe</title>
   </programme>
   <programme start="20261122180000 -0300" stop="20261122190000 -0300" channel="tv_senado.claro.br">
     <title lang="pt">Concertos em Geral</title>
@@ -3933,26 +3939,26 @@
   <programme start="20261122221500 -0300" stop="20261123000000 -0300" channel="tv_senado.claro.br">
     <title lang="pt">Senadoc: Vidas Descartáveis</title>
   </programme>
-  <programme start="20261123000000 -0300" stop="20261123005100 -0300" channel="tv_senado.claro.br">
+  <programme start="20261123000000 -0300" stop="20261123005400 -0300" channel="tv_senado.claro.br">
     <title lang="pt">Contraplano</title>
   </programme>
-  <programme start="20261123005100 -0300" stop="20261123014500 -0300" channel="tv_senado.claro.br">
+  <programme start="20261123005400 -0300" stop="20261123015400 -0300" channel="tv_senado.claro.br">
     <title lang="pt">Estúdio A</title>
   </programme>
-  <programme start="20261123014500 -0300" stop="20261123031700 -0300" channel="tv_senado.claro.br">
-    <title lang="pt">Senadoc: Crônica da Demolição</title>
+  <programme start="20261123015400 -0300" stop="20261123031300 -0300" channel="tv_senado.claro.br">
+    <title lang="pt">Senadoc: Vento na Fronteira</title>
   </programme>
-  <programme start="20261123031700 -0300" stop="20261123041600 -0300" channel="tv_senado.claro.br">
-    <title lang="pt">Senadoc: Cleo</title>
+  <programme start="20261123031300 -0300" stop="20261123044600 -0300" channel="tv_senado.claro.br">
+    <title lang="pt">Senadoc: Dedo na Ferida</title>
   </programme>
-  <programme start="20261123041600 -0300" stop="20261123052800 -0300" channel="tv_senado.claro.br">
-    <title lang="pt">Senadoc: Armados</title>
+  <programme start="20261123044600 -0300" stop="20261123054100 -0300" channel="tv_senado.claro.br">
+    <title lang="pt">Senadoc: A Dupla Jornada</title>
   </programme>
-  <programme start="20261123052800 -0300" stop="20261123070000 -0300" channel="tv_senado.claro.br">
-    <title lang="pt">Senadoc: Vidas Descartáveis</title>
+  <programme start="20261123054100 -0300" stop="20261123070000 -0300" channel="tv_senado.claro.br">
+    <title lang="pt">Senadoc: Camocim</title>
   </programme>
   <programme start="20261123070000 -0300" stop="20261123073000 -0300" channel="tv_senado.claro.br">
-    <title lang="pt">Tela Brasil: Uma Outra Independência - Ep. 2 - Outras Terras, Outras Gentes</title>
+    <title lang="pt">Tela Brasil: Vestígios de Um Palácio - 50 Anos Sem o Monroe</title>
   </programme>
   <programme start="20261123073000 -0300" stop="20261123080000 -0300" channel="tv_senado.claro.br">
     <title lang="pt">Parlamento Brasil</title>
@@ -5067,22 +5073,19 @@
   <programme start="20261123235600 -0300" stop="20261124004100 -0300" channel="gnt.claro.br">
     <title lang="pt">Poderosas Do Cerrado</title>
   </programme>
-  <programme start="20261122000000 -0300" stop="20261122005000 -0300" channel="discovery_home_&amp;_health.claro.br">
-    <title lang="pt">Salvando Reformas Com Jasmine Roth</title>
-  </programme>
-  <programme start="20261122005000 -0300" stop="20261122013900 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122004100 -0300" stop="20261122013200 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
   </programme>
-  <programme start="20261122013900 -0300" stop="20261122020500 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122013200 -0300" stop="20261122015800 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Reformas Incríveis</title>
   </programme>
-  <programme start="20261122020500 -0300" stop="20261122022700 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122015800 -0300" stop="20261122022300 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Reformas Incríveis</title>
   </programme>
-  <programme start="20261122022700 -0300" stop="20261122031600 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122022300 -0300" stop="20261122031300 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Irmãos à Obra: Compra e Venda</title>
   </programme>
-  <programme start="20261122031600 -0300" stop="20261122045000 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122031300 -0300" stop="20261122045000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">90 Dias Para Casar</title>
   </programme>
   <programme start="20261122045000 -0300" stop="20261122053800 -0300" channel="discovery_home_&amp;_health.claro.br">
@@ -5091,25 +5094,25 @@
   <programme start="20261122053800 -0300" stop="20261122060000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Reforma À Venda</title>
   </programme>
-  <programme start="20261122060000 -0300" stop="20261122064400 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122060000 -0300" stop="20261122065000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Salvando Reformas Com Jasmine Roth</title>
   </programme>
-  <programme start="20261122064400 -0300" stop="20261122073400 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122065000 -0300" stop="20261122074100 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Salvando Reformas Com Jasmine Roth</title>
   </programme>
-  <programme start="20261122073400 -0300" stop="20261122082400 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122074100 -0300" stop="20261122083200 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
   </programme>
-  <programme start="20261122082400 -0300" stop="20261122091500 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122083200 -0300" stop="20261122092300 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
   </programme>
-  <programme start="20261122091500 -0300" stop="20261122100200 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122092300 -0300" stop="20261122101100 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Gordon Ramsay: Do Inferno ao Paraíso em 24 Horas</title>
   </programme>
-  <programme start="20261122100200 -0300" stop="20261122115800 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122101100 -0300" stop="20261122121200 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Masterchef: Profissionais Brasil</title>
   </programme>
-  <programme start="20261122115800 -0300" stop="20261122134200 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122121200 -0300" stop="20261122134200 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Pesadelo Na Cozinha</title>
   </programme>
   <programme start="20261122134200 -0300" stop="20261122143100 -0300" channel="discovery_home_&amp;_health.claro.br">
@@ -5142,28 +5145,28 @@
   <programme start="20261122221200 -0300" stop="20261122230100 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">90 Dias: De Volta Pra Pista</title>
   </programme>
-  <programme start="20261122230100 -0300" stop="20261123005300 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261122230100 -0300" stop="20261123010100 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Masterchef: Profissionais Brasil</title>
   </programme>
-  <programme start="20261123005300 -0300" stop="20261123014000 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123010100 -0300" stop="20261123014700 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Gordon Ramsay: Serviço Secreto</title>
   </programme>
-  <programme start="20261123014000 -0300" stop="20261123022800 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123014700 -0300" stop="20261123023300 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Mama June: Da Crise à Redenção</title>
   </programme>
-  <programme start="20261123022800 -0300" stop="20261123031600 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123023300 -0300" stop="20261123031900 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Mama June: Da Crise à Redenção</title>
   </programme>
-  <programme start="20261123031600 -0300" stop="20261123040000 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123031900 -0300" stop="20261123040300 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Baylen: Uma Vida Sem Filtro</title>
   </programme>
-  <programme start="20261123040000 -0300" stop="20261123044700 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123040300 -0300" stop="20261123044900 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Reforma em Família com Izzy</title>
   </programme>
-  <programme start="20261123044700 -0300" stop="20261123053400 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123044900 -0300" stop="20261123053500 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Reformar Para Vender Com Tarek E Heather</title>
   </programme>
-  <programme start="20261123053400 -0300" stop="20261123060000 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123053500 -0300" stop="20261123060000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Reforma À Venda</title>
   </programme>
   <programme start="20261123060000 -0300" stop="20261123064400 -0300" channel="discovery_home_&amp;_health.claro.br">
@@ -5199,25 +5202,25 @@
   <programme start="20261123152200 -0300" stop="20261123170600 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
   </programme>
-  <programme start="20261123170600 -0300" stop="20261123175700 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123170600 -0300" stop="20261123175600 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Grandes Demais</title>
   </programme>
-  <programme start="20261123175700 -0300" stop="20261123195100 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123175600 -0300" stop="20261123195700 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Masterchef: Profissionais Brasil</title>
   </programme>
-  <programme start="20261123195100 -0300" stop="20261123212700 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123195700 -0300" stop="20261123213000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Pesadelo na Cozinha</title>
   </programme>
-  <programme start="20261123212700 -0300" stop="20261123221000 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123213000 -0300" stop="20261123221300 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Chefs De Alto Nível Com Gordon Ramsay</title>
   </programme>
-  <programme start="20261123221000 -0300" stop="20261123225800 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123221300 -0300" stop="20261123230000 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Chefs De Alto Nível Com Gordon Ramsay</title>
   </programme>
-  <programme start="20261123225800 -0300" stop="20261123234600 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123230000 -0300" stop="20261123234700 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">Pesadelo na Cozinha com Gordon Ramsay</title>
   </programme>
-  <programme start="20261123234600 -0300" stop="20261124003400 -0300" channel="discovery_home_&amp;_health.claro.br">
+  <programme start="20261123234700 -0300" stop="20261124003400 -0300" channel="discovery_home_&amp;_health.claro.br">
     <title lang="pt">O Sócio</title>
   </programme>
   <programme start="20261122005000 -0300" stop="20261122020500 -0300" channel="multishow.claro.br">
@@ -5454,8 +5457,11 @@
   <programme start="20261123172300 -0300" stop="20261123180000 -0300" channel="multishow.claro.br">
     <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
   </programme>
-  <programme start="20261123180000 -0300" stop="20261123192000 -0300" channel="multishow.claro.br">
+  <programme start="20261123180000 -0300" stop="20261123191500 -0300" channel="multishow.claro.br">
     <title lang="pt">Tvz Ao Vivo: Tvz Com Wanessa Camargo E Gominho - Raphaela Santos (Ao Vivo)</title>
+  </programme>
+  <programme start="20261123191500 -0300" stop="20261123192000 -0300" channel="multishow.claro.br">
+    <title lang="pt">Humor Multishow</title>
   </programme>
   <programme start="20261123192000 -0300" stop="20261123200000 -0300" channel="multishow.claro.br">
     <title lang="pt">Sessão Nostalgia - Toma Lá Da Cá</title>
@@ -5466,7 +5472,10 @@
   <programme start="20261123210000 -0300" stop="20261123213800 -0300" channel="multishow.claro.br">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
   </programme>
-  <programme start="20261123213800 -0300" stop="20261123214500 -0300" channel="multishow.claro.br">
+  <programme start="20261123213800 -0300" stop="20261123214200 -0300" channel="multishow.claro.br">
+    <title lang="pt">Humor Multishow</title>
+  </programme>
+  <programme start="20261123214200 -0300" stop="20261123214500 -0300" channel="multishow.claro.br">
     <title lang="pt">Humor Multishow</title>
   </programme>
   <programme start="20261123214500 -0300" stop="20261123223300 -0300" channel="multishow.claro.br">
@@ -5622,10 +5631,10 @@
   <programme start="20261123230000 -0300" stop="20261124000000 -0300" channel="shoptime.claro.br">
     <title lang="pt">Assim é Fácil</title>
   </programme>
-  <programme start="20261122003000 -0300" stop="20261122023000 -0300" channel="sportv_2.claro.br">
-    <title lang="pt">VT - Suzano x Minas</title>
+  <programme start="20261122003000 -0300" stop="20261122022500 -0300" channel="sportv_2.claro.br">
+    <title lang="pt">VT - Campinas x Monte Carmelo</title>
   </programme>
-  <programme start="20261122023000 -0300" stop="20261122030000 -0300" channel="sportv_2.claro.br">
+  <programme start="20261122022500 -0300" stop="20261122030000 -0300" channel="sportv_2.claro.br">
     <title lang="pt">Sessão Sportv: Sem Bloqueio - Episódio 1</title>
   </programme>
   <programme start="20261122030000 -0300" stop="20261122060000 -0300" channel="sportv_2.claro.br">
@@ -5833,7 +5842,7 @@
     <title lang="pt">Tá On - Ao Vivo</title>
   </programme>
   <programme start="20261123130000 -0300" stop="20261123153000 -0300" channel="sportv.claro.br">
-    <title lang="pt">Seleção sportv - Ao Vivo</title>
+    <title lang="pt">Redação sportv - Ao Vivo</title>
   </programme>
   <programme start="20261123153000 -0300" stop="20261123161500 -0300" channel="sportv.claro.br">
     <title lang="pt">Globo Esporte</title>
@@ -5854,7 +5863,7 @@
     <title lang="pt">Tá na Área - Ao Vivo</title>
   </programme>
   <programme start="20261123200000 -0300" stop="20261123210000 -0300" channel="sportv.claro.br">
-    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
+    <title lang="pt">Aquecimento SporTV - Ao Vivo</title>
   </programme>
   <programme start="20261123210000 -0300" stop="20261123230000 -0300" channel="sportv.claro.br">
     <title lang="pt">Santos x Grêmio - Ao Vivo</title>
@@ -6304,24 +6313,30 @@
     <title lang="pt">Fórmula 1 - GP do Brasil - São Paulo</title>
   </programme>
   <programme start="20261122050000 -0300" stop="20261122070000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Fórmula 1 - GP de Singapura</title>
+    <title lang="pt">Fórmula 1 - GP dos EUA</title>
   </programme>
-  <programme start="20261122070000 -0300" stop="20261122085000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Fórmula 1 - GP do Bahrein</title>
-  </programme>
-  <programme start="20261122085000 -0300" stop="20261122105000 -0300" channel="sportv_3.claro.br">
+  <programme start="20261122070000 -0300" stop="20261122090000 -0300" channel="sportv_3.claro.br">
     <title lang="pt">Fórmula 1 - GP de Las Vegas</title>
   </programme>
-  <programme start="20261122105000 -0300" stop="20261122115000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Feminina - Tóquio, Japão</title>
+  <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Brasil</title>
   </programme>
-  <programme start="20261122115000 -0300" stop="20261122125500 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Masculina - Tóquio, Japão</title>
-  </programme>
-  <programme start="20261122125500 -0300" stop="20261122135500 -0300" channel="sportv_3.claro.br">
+  <programme start="20261122100000 -0300" stop="20261122110500 -0300" channel="sportv_3.claro.br">
     <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Canadá</title>
   </programme>
-  <programme start="20261122135500 -0300" stop="20261122163000 -0300" channel="sportv_3.claro.br">
+  <programme start="20261122110500 -0300" stop="20261122112500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP Da Europa) - Rubinho</title>
+  </programme>
+  <programme start="20261122112500 -0300" stop="20261122115500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Lendas Ayrton Senna</title>
+  </programme>
+  <programme start="20261122115500 -0300" stop="20261122125000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Feminina - Tóquio, Japão</title>
+  </programme>
+  <programme start="20261122125000 -0300" stop="20261122135000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Masculina - Tóquio, Japão</title>
+  </programme>
+  <programme start="20261122135000 -0300" stop="20261122163000 -0300" channel="sportv_3.claro.br">
     <title lang="pt">Troféu Perpétuo Roberto Marinho de Hipismo - Ao Vivo</title>
   </programme>
   <programme start="20261122163000 -0300" stop="20261122170000 -0300" channel="sportv_3.claro.br">
@@ -6330,95 +6345,116 @@
   <programme start="20261122170000 -0300" stop="20261122190000 -0300" channel="sportv_3.claro.br">
     <title lang="pt">Fórmula 1 - GP de Las Vegas</title>
   </programme>
-  <programme start="20261122190000 -0300" stop="20261122200000 -0300" channel="sportv_3.claro.br">
+  <programme start="20261122190000 -0300" stop="20261122200500 -0300" channel="sportv_3.claro.br">
     <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Bahrein</title>
   </programme>
-  <programme start="20261122200000 -0300" stop="20261123012000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Circuito Mundial De Surfe - Melhores Momentos - Episódio Especial Yago Dora e Luana Silva</title>
+  <programme start="20261122200500 -0300" stop="20261122221000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
   </programme>
-  <programme start="20261123012000 -0300" stop="20261123041500 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Jungle Fight 155</title>
+  <programme start="20261122221000 -0300" stop="20261122223000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Heróis do Futuro: Ítalo Ferreira - Surfe</title>
   </programme>
-  <programme start="20261123041500 -0300" stop="20261123051500 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Jungle Fight 156 - Finais</title>
+  <programme start="20261122223000 -0300" stop="20261122233000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">WSL Replay 2026 - Inside Pro Surfing - Lexus Trestles Pro</title>
   </programme>
-  <programme start="20261123051500 -0300" stop="20261123061500 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Jungle Fight 156 - Finais</title>
-  </programme>
-  <programme start="20261123061500 -0300" stop="20261123082500 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Jungle Fight 156 - Finais</title>
-  </programme>
-  <programme start="20261123082500 -0300" stop="20261123091000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Acesso Total - Ippon</title>
-  </programme>
-  <programme start="20261123091000 -0300" stop="20261123111000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Fórmula 1 - GP do Brasil - São Paulo</title>
-  </programme>
-  <programme start="20261123111000 -0300" stop="20261123131500 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Fórmula 1 - GP dos EUA</title>
-  </programme>
-  <programme start="20261123131500 -0300" stop="20261123141500 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Fórmula 1 - GP de Singapura - Melhores Momentos</title>
-  </programme>
-  <programme start="20261123141500 -0300" stop="20261123144500 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Lendas Ayrton Senna</title>
-  </programme>
-  <programme start="20261123144500 -0300" stop="20261123170000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Programação sportv 3</title>
-  </programme>
-  <programme start="20261123170000 -0300" stop="20261123190000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Futsal Feminina - Disputa de 3º Lugar</title>
-  </programme>
-  <programme start="20261123190000 -0300" stop="20261123193000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Fifa Movies</title>
-  </programme>
-  <programme start="20261123193000 -0300" stop="20261123213000 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
-  </programme>
-  <programme start="20261123213000 -0300" stop="20261123234500 -0300" channel="sportv_3.claro.br">
-    <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
-  </programme>
-  <programme start="20261123234500 -0300" stop="20261124011500 -0300" channel="sportv_3.claro.br">
+  <programme start="20261122233000 -0300" stop="20261123003000 -0300" channel="sportv_3.claro.br">
     <title lang="pt">SLS - Liga Mundial De Skates Street - Final Feminina - Tóquio, Japão</title>
   </programme>
-  <programme start="20261122000000 -0300" stop="20261122010000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Capitalismo Americano - O Culto à Riqueza: Riqueza Irrestrita</title>
+  <programme start="20261123003000 -0300" stop="20261123014000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Copa do Mundo de Skate Street - Final Feminina - Utsunomiya - Ao Vivo</title>
   </programme>
-  <programme start="20261122010000 -0300" stop="20261122013500 -0300" channel="curta!.claro.br">
-    <title lang="pt">Sessão PortaCurtas: Vinicius de Moraes, Um Rapaz de Família</title>
+  <programme start="20261123014000 -0300" stop="20261123031000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Copa do Mundo de Skate Street - Final Masculina - Utsunomiya - Ao Vivo</title>
   </programme>
-  <programme start="20261122013500 -0300" stop="20261122030000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Marisa Monte - Infinito ao Meu Redor</title>
+  <programme start="20261123031000 -0300" stop="20261123041500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Masculina - Tóquio, Japão</title>
+  </programme>
+  <programme start="20261123041500 -0300" stop="20261123043500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Heróis do Futuro: Paulo André - Atletismo</title>
+  </programme>
+  <programme start="20261123043500 -0300" stop="20261123045500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Heróis do Futuro: Vitória Rosa - Atletismo</title>
+  </programme>
+  <programme start="20261123045500 -0300" stop="20261123070000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Diamond League - 11ª Etapa - Londres, Inglaterra</title>
+  </programme>
+  <programme start="20261123070000 -0300" stop="20261123090000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Diamond League - 12ª Etapa - Lausanne, Suiça</title>
+  </programme>
+  <programme start="20261123090000 -0300" stop="20261123110500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Diamond League - 13ª Etapa - Silésia, Polônia</title>
+  </programme>
+  <programme start="20261123110500 -0300" stop="20261123130000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Diamond League - 14ª Etapa - Zurique, Suiça</title>
+  </programme>
+  <programme start="20261123130000 -0300" stop="20261123150000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
+  </programme>
+  <programme start="20261123150000 -0300" stop="20261123170000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Fórmula 1 - GP de Las Vegas</title>
+  </programme>
+  <programme start="20261123170000 -0300" stop="20261123190000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Fórmula 1 - GP do Brasil - São Paulo</title>
+  </programme>
+  <programme start="20261123190000 -0300" stop="20261123200000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Canadá</title>
+  </programme>
+  <programme start="20261123200000 -0300" stop="20261123205500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">WSL Replay 2026 - Philippines Pro</title>
+  </programme>
+  <programme start="20261123205500 -0300" stop="20261123215000 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">WSL Replay 2026 - Inside Pro Surfing - Lexus Trestles Pro</title>
+  </programme>
+  <programme start="20261123215000 -0300" stop="20261123220500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Heróis do Futuro: Ítalo Ferreira - Surfe</title>
+  </programme>
+  <programme start="20261123220500 -0300" stop="20261123230500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Circuito Mundial De Surfe - Melhores Momentos - Episódio Especial Yago Dora e Luana Silva</title>
+  </programme>
+  <programme start="20261123230500 -0300" stop="20261124000500 -0300" channel="sportv_3.claro.br">
+    <title lang="pt">Circuito Mundial De Surfe - Melhores Momentos - Episódio Especial Yago Dora e Luana Silva</title>
+  </programme>
+  <programme start="20261122000000 -0300" stop="20261122010500 -0300" channel="curta!.claro.br">
+    <title lang="pt">Jazz</title>
+  </programme>
+  <programme start="20261122010500 -0300" stop="20261122020500 -0300" channel="curta!.claro.br">
+    <title lang="pt">Guignard: Mundo sem Chão</title>
+  </programme>
+  <programme start="20261122020500 -0300" stop="20261122023500 -0300" channel="curta!.claro.br">
+    <title lang="pt">Explodindo o Passado - Reflexões no Presente: Energia Nuclear</title>
+  </programme>
+  <programme start="20261122023500 -0300" stop="20261122030000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Grandes Cenas: Morto Não Fala</title>
   </programme>
   <programme start="20261122030000 -0300" stop="20261122040000 -0300" channel="curta!.claro.br">
     <title lang="pt">Palmares: Coração Brasileiro, Alma Africana</title>
   </programme>
   <programme start="20261122040000 -0300" stop="20261122043000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Fluxo Azul: Flores que Salvam Águas</title>
+    <title lang="pt">Fluxo Azul: Tecendo o Ciclo - Mulheres e Águas</title>
   </programme>
   <programme start="20261122043000 -0300" stop="20261122050000 -0300" channel="curta!.claro.br">
     <title lang="pt">Cidades Possíveis</title>
   </programme>
   <programme start="20261122050000 -0300" stop="20261122053000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Incertezas Críticas: Alberto Manguel</title>
+    <title lang="pt">Incertezas Críticas: Tariq Ali</title>
   </programme>
   <programme start="20261122053000 -0300" stop="20261122060000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Os Ímpares: Rita Lee - Nina Becker e Juliana Linhares</title>
+    <title lang="pt">Os Ímpares: João Donato - Duda Brack e Thalma de Freitas</title>
   </programme>
   <programme start="20261122060000 -0300" stop="20261122063000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Potências da Imagem: Política e Ativismo</title>
+    <title lang="pt">Potências da Imagem: Corpo</title>
   </programme>
   <programme start="20261122063000 -0300" stop="20261122070000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Companhias do Teatro Brasileiro: Grupo Macunaíma</title>
+    <title lang="pt">Companhias do Teatro Brasileiro: Grupo Galpão</title>
   </programme>
   <programme start="20261122070000 -0300" stop="20261122080000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Fronteiras do Pensamento: Para Compreender o Século XXI</title>
+    <title lang="pt">Consciência</title>
   </programme>
   <programme start="20261122080000 -0300" stop="20261122090000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Onde Nascem as Ideias: Juçara</title>
+    <title lang="pt">Onde Nascem as Ideias: Angel Vianna</title>
   </programme>
   <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="curta!.claro.br">
-    <title lang="pt">As Aventuras da Arte Moderna: Meia Noite em Paris</title>
+    <title lang="pt">A História Oculta das Obras de Arte</title>
   </programme>
   <programme start="20261122100000 -0300" stop="20261122110000 -0300" channel="curta!.claro.br">
     <title lang="pt">História do Anarquismo - Sem Deuses, Sem Mestres</title>
@@ -6427,130 +6463,118 @@
     <title lang="pt">Como Nascem os Heróis</title>
   </programme>
   <programme start="20261122114000 -0300" stop="20261122123000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Cineastas: Andrucha Waddington</title>
+    <title lang="pt">Cineastas: Sandra Kogut</title>
   </programme>
   <programme start="20261122123000 -0300" stop="20261122133000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Os Oligarcas de Putin: Conquistando o Ocidente</title>
+    <title lang="pt">Os Oligarcas de Putin: Financiando a Guerra da Ucrânia</title>
   </programme>
   <programme start="20261122133000 -0300" stop="20261122140000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Mistérios do Arquivo</title>
-  </programme>
-  <programme start="20261122140000 -0300" stop="20261122143000 -0300" channel="curta!.claro.br">
     <title lang="pt">Agbara Dudu - Narrativas Negras</title>
   </programme>
-  <programme start="20261122143000 -0300" stop="20261122150000 -0300" channel="curta!.claro.br">
+  <programme start="20261122140000 -0300" stop="20261122143000 -0300" channel="curta!.claro.br">
     <title lang="pt">101 Canções que Tocaram o Brasil</title>
   </programme>
-  <programme start="20261122150000 -0300" stop="20261122153000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Os Manuscritos Secretos da História: Os Miseráveis de Victor Hugo</title>
+  <programme start="20261122143000 -0300" stop="20261122150000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Os Manuscritos Secretos da História</title>
   </programme>
-  <programme start="20261122153000 -0300" stop="20261122170000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Com a Palavra, Arnaldo Antunes</title>
+  <programme start="20261122150000 -0300" stop="20261122152000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Sessão PortaCurtas: Sergio Ricardo AKA Joao Lutfi</title>
   </programme>
-  <programme start="20261122170000 -0300" stop="20261122180000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Van Gogh, a Criação de Um Mestre</title>
+  <programme start="20261122152000 -0300" stop="20261122162500 -0300" channel="curta!.claro.br">
+    <title lang="pt">A Indústria da Ignorância</title>
   </programme>
-  <programme start="20261122180000 -0300" stop="20261122183000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Impressões do Brasil: Viviane Mosé</title>
+  <programme start="20261122162500 -0300" stop="20261122180000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Som, Sol &amp; Surf - Saquarema</title>
   </programme>
-  <programme start="20261122183000 -0300" stop="20261122200000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Watoriki - Conversa com Davi Kopenawa</title>
+  <programme start="20261122180000 -0300" stop="20261122184000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Elas No Singular</title>
   </programme>
-  <programme start="20261122200000 -0300" stop="20261122213500 -0300" channel="curta!.claro.br">
-    <title lang="pt">Artéria: Poesia em Revista</title>
+  <programme start="20261122184000 -0300" stop="20261122203500 -0300" channel="curta!.claro.br">
+    <title lang="pt">Não é a Primeira Vez Que Lutamos Pelo Nosso Amor</title>
   </programme>
-  <programme start="20261122213500 -0300" stop="20261122223000 -0300" channel="curta!.claro.br">
-    <title lang="pt">O Cinema de Spike Lee</title>
+  <programme start="20261122203500 -0300" stop="20261122221500 -0300" channel="curta!.claro.br">
+    <title lang="pt">1968 - Um Ano na Vida</title>
   </programme>
-  <programme start="20261122223000 -0300" stop="20261122233500 -0300" channel="curta!.claro.br">
-    <title lang="pt">O Poder de Veto: Ameaça à Paz Mundial</title>
-  </programme>
-  <programme start="20261122233500 -0300" stop="20261123000000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Grandes Cenas</title>
+  <programme start="20261122221500 -0300" stop="20261123000000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Eu não sou seu Negro</title>
   </programme>
   <programme start="20261123000000 -0300" stop="20261123003000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Grandes Mitos: A Ilíada</title>
+    <title lang="pt">Grandes Mitos: A Ilíada e a Odisseia</title>
   </programme>
   <programme start="20261123003000 -0300" stop="20261123010000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Os Manuscritos Secretos da História: Os Miseráveis de Victor Hugo</title>
+    <title lang="pt">Os Manuscritos Secretos da História</title>
   </programme>
   <programme start="20261123010000 -0300" stop="20261123020000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Van Gogh, a Criação de Um Mestre</title>
+    <title lang="pt">A Indústria da Ignorância</title>
   </programme>
   <programme start="20261123020000 -0300" stop="20261123033500 -0300" channel="curta!.claro.br">
-    <title lang="pt">Moto Contínuo - Uma Imersão na São Paulo Companhia de Dança</title>
+    <title lang="pt">Som, Sol &amp; Surf - Saquarema</title>
   </programme>
   <programme start="20261123033500 -0300" stop="20261123040000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Grandes Cenas: Sem Asas</title>
+    <title lang="pt">Sessão PortaCurtas: Sergio Ricardo AKA Joao Lutfi</title>
   </programme>
-  <programme start="20261123040000 -0300" stop="20261123050000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Capitalismo Americano - O Culto à Riqueza: Riqueza Irrestrita</title>
-  </programme>
-  <programme start="20261123050000 -0300" stop="20261123060000 -0300" channel="curta!.claro.br">
-    <title lang="pt">O Poder de Veto: Ameaça à Paz Mundial</title>
+  <programme start="20261123040000 -0300" stop="20261123060000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Não é a Primeira Vez Que Lutamos Pelo Nosso Amor</title>
   </programme>
   <programme start="20261123060000 -0300" stop="20261123070000 -0300" channel="curta!.claro.br">
     <title lang="pt">História do Anarquismo - Sem Deuses, Sem Mestres</title>
   </programme>
   <programme start="20261123070000 -0300" stop="20261123073000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Os Manuscritos Secretos da História: Os Miseráveis de Victor Hugo</title>
+    <title lang="pt">Os Manuscritos Secretos da História</title>
   </programme>
   <programme start="20261123073000 -0300" stop="20261123080000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Ideias para o Mundo: Pierre Lévy</title>
+    <title lang="pt">Elas No Singular</title>
   </programme>
-  <programme start="20261123080000 -0300" stop="20261123091000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Fronteiras do Pensamento: Para Compreender o Século XXI</title>
+  <programme start="20261123080000 -0300" stop="20261123090000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Fronteiras do Pensamento: Nós, Eles, os Outros</title>
   </programme>
-  <programme start="20261123091000 -0300" stop="20261123095000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Incertezas Críticas: Alberto Manguel</title>
+  <programme start="20261123090000 -0300" stop="20261123093000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Incertezas Críticas: Tariq Ali</title>
   </programme>
-  <programme start="20261123095000 -0300" stop="20261123102000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Caixa Postal: Onde Andará Dulce Veiga - Caio Fernando Abreu e Maria Adelaide Amaral</title>
+  <programme start="20261123093000 -0300" stop="20261123100000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Caixa Postal: O Ex-Mágico - Murilo Rubião e Otto Lara Resende</title>
   </programme>
-  <programme start="20261123102000 -0300" stop="20261123120000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Artéria: Poesia em Revista</title>
+  <programme start="20261123100000 -0300" stop="20261123110000 -0300" channel="curta!.claro.br">
+    <title lang="pt">A Indústria da Ignorância</title>
   </programme>
-  <programme start="20261123120000 -0300" stop="20261123130000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Capitalismo Americano - O Culto à Riqueza: Riqueza Irrestrita</title>
+  <programme start="20261123110000 -0300" stop="20261123120000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Consciência</title>
   </programme>
-  <programme start="20261123130000 -0300" stop="20261123140000 -0300" channel="curta!.claro.br">
-    <title lang="pt">O Poder de Veto: Ameaça à Paz Mundial</title>
+  <programme start="20261123120000 -0300" stop="20261123140000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Não é a Primeira Vez Que Lutamos Pelo Nosso Amor</title>
   </programme>
   <programme start="20261123140000 -0300" stop="20261123143000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Como Nascem os Heróis</title>
+    <title lang="pt">Histórias da Gente Brasileira: Colônia - Sobrevivência</title>
   </programme>
   <programme start="20261123143000 -0300" stop="20261123150000 -0300" channel="curta!.claro.br">
     <title lang="pt">Mistérios do Arquivo</title>
   </programme>
-  <programme start="20261123150000 -0300" stop="20261123163000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Watoriki - Conversa com Davi Kopenawa</title>
+  <programme start="20261123150000 -0300" stop="20261123160000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Mokambo: Força da Tradição Bantu</title>
   </programme>
-  <programme start="20261123163000 -0300" stop="20261123180000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Henfil</title>
+  <programme start="20261123160000 -0300" stop="20261123180000 -0300" channel="curta!.claro.br">
+    <title lang="pt">Eu não sou seu Negro</title>
   </programme>
   <programme start="20261123180000 -0300" stop="20261123183000 -0300" channel="curta!.claro.br">
     <title lang="pt">Cidades Possíveis</title>
   </programme>
   <programme start="20261123183000 -0300" stop="20261123190000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Impressões do Brasil: Fabrício Carpinejar</title>
+    <title lang="pt">Impressões do Brasil: Jeferson Tenório</title>
   </programme>
   <programme start="20261123190000 -0300" stop="20261123200000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Os Oligarcas de Putin: Financiando a Guerra da Ucrânia</title>
+    <title lang="pt">Decifrando a Criptomoeda</title>
   </programme>
   <programme start="20261123200000 -0300" stop="20261123204000 -0300" channel="curta!.claro.br">
     <title lang="pt">101 Canções que Tocaram o Brasil</title>
   </programme>
   <programme start="20261123204000 -0300" stop="20261123212000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Os Ímpares: João Donato - Duda Brack e Thalma de Freitas</title>
+    <title lang="pt">Os Ímpares: Dona Ivone Lara - Marina Íris e Roberta Sá</title>
   </programme>
   <programme start="20261123212000 -0300" stop="20261123220000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Na Trilha do Som: André Abujamra</title>
+    <title lang="pt">Na Trilha do Som: Plínio Profeta</title>
   </programme>
-  <programme start="20261123220000 -0300" stop="20261123233500 -0300" channel="curta!.claro.br">
-    <title lang="pt">Som, Sol &amp; Surf - Saquarema</title>
-  </programme>
-  <programme start="20261123233500 -0300" stop="20261124000000 -0300" channel="curta!.claro.br">
-    <title lang="pt">Sessão PortaCurtas: Sergio Ricardo AKA Joao Lutfi</title>
+  <programme start="20261123220000 -0300" stop="20261124000000 -0300" channel="curta!.claro.br">
+    <title lang="pt">A Noite de Alaíde</title>
   </programme>
   <programme start="20261122001300 -0300" stop="20261122005900 -0300" channel="modo_viagem.claro.br">
     <title lang="pt">Euceano</title>
@@ -9280,7 +9304,7 @@
     <title lang="pt">NBA Action</title>
   </programme>
   <programme start="20261122003000 -0300" stop="20261122013000 -0300" channel="espn.claro.br">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Arthur, Meio Campo do Santos</title>
   </programme>
   <programme start="20261122003000 -0300" stop="20261122010000 -0300" channel="espn.claro.br">
     <title lang="pt">ATP Tour: This Week</title>
@@ -9292,10 +9316,10 @@
     <title lang="pt">Especial Sulamericana: Campanha do Campeão</title>
   </programme>
   <programme start="20261122020000 -0300" stop="20261122040000 -0300" channel="espn.claro.br">
-    <title lang="pt">Campeonato Brasileiro Série B</title>
+    <title lang="pt">VT - Criciúma x Novorizontino</title>
   </programme>
   <programme start="20261122020000 -0300" stop="20261122030000 -0300" channel="espn.claro.br">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Arthur, Meio Campo do Santos</title>
   </programme>
   <programme start="20261122030000 -0300" stop="20261122050000 -0300" channel="espn.claro.br">
     <title lang="pt">VT - Tottenham Hotspur x Ipswich</title>
@@ -9345,77 +9369,71 @@
   <programme start="20261122140000 -0300" stop="20261122160000 -0300" channel="espn.claro.br">
     <title lang="pt">Tênis</title>
   </programme>
-  <programme start="20261122153000 -0300" stop="20261122163000 -0300" channel="espn.claro.br">
-    <title lang="pt">Especial: América Brasileña</title>
+  <programme start="20261122153000 -0300" stop="20261122170000 -0300" channel="espn.claro.br">
+    <title lang="pt">Mundo F - Ao Vivo</title>
   </programme>
-  <programme start="20261122160000 -0300" stop="20261122170000 -0300" channel="espn.claro.br">
-    <title lang="pt">2026 Wimbledon Official Film</title>
-  </programme>
-  <programme start="20261122163000 -0300" stop="20261122184500 -0300" channel="espn.claro.br">
-    <title lang="pt">Atalanta x Internazionale - Ao Vivo</title>
-  </programme>
-  <programme start="20261122170000 -0300" stop="20261122173000 -0300" channel="espn.claro.br">
+  <programme start="20261122160000 -0300" stop="20261122163000 -0300" channel="espn.claro.br">
     <title lang="pt">ATP Tour: This Week</title>
   </programme>
-  <programme start="20261122173000 -0300" stop="20261122180000 -0300" channel="espn.claro.br">
-    <title lang="pt">Premier League Stories</title>
+  <programme start="20261122163000 -0300" stop="20261122182500 -0300" channel="espn.claro.br">
+    <title lang="pt">VT - Washington Spirit x Kansas City Current</title>
   </programme>
-  <programme start="20261122180000 -0300" stop="20261122182500 -0300" channel="espn.claro.br">
-    <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+  <programme start="20261122170000 -0300" stop="20261122181500 -0300" channel="espn.claro.br">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20261122181500 -0300" stop="20261122203000 -0300" channel="espn.claro.br">
+    <title lang="pt">Atlético-GO x Vila Nova - Ao Vivo</title>
   </programme>
   <programme start="20261122182500 -0300" stop="20261122192500 -0300" channel="espn.claro.br">
     <title lang="pt">NFL: Las Vegas Raiders x Denver Broncos - Ao Vivo</title>
   </programme>
-  <programme start="20261122184500 -0300" stop="20261122193000 -0300" channel="espn.claro.br">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
-  </programme>
   <programme start="20261122192500 -0300" stop="20261122213000 -0300" channel="espn.claro.br">
     <title lang="pt">NFL: Las Vegas Raiders x Denver Broncos - Ao Vivo</title>
   </programme>
-  <programme start="20261122193000 -0300" stop="20261122213000 -0300" channel="espn.claro.br">
-    <title lang="pt">Campeonato Argentino - Ao Vivo</title>
+  <programme start="20261122203000 -0300" stop="20261122213000 -0300" channel="espn.claro.br">
+    <title lang="pt">Equipe F - Ao Vivo</title>
   </programme>
-  <programme start="20261122213000 -0300" stop="20261122230000 -0300" channel="espn.claro.br">
-    <title lang="pt">Linha de Passe: Mesa-Redonda - Ao Vivo</title>
+  <programme start="20261122213000 -0300" stop="20261122223000 -0300" channel="espn.claro.br">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
   </programme>
   <programme start="20261122213000 -0300" stop="20261122223000 -0300" channel="espn.claro.br">
     <title lang="pt">ESPN FIlmes: Saban</title>
   </programme>
+  <programme start="20261122223000 -0300" stop="20261122233000 -0300" channel="espn.claro.br">
+    <title lang="pt">Resenha: Mário Tilico e Flávio</title>
+  </programme>
   <programme start="20261122223000 -0300" stop="20261123003000 -0300" channel="espn.claro.br">
     <title lang="pt">VT - Juventus x Venezia</title>
   </programme>
-  <programme start="20261122230000 -0300" stop="20261123000000 -0300" channel="espn.claro.br">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
+  <programme start="20261122233000 -0300" stop="20261123003000 -0300" channel="espn.claro.br">
+    <title lang="pt">Especial: América Brasileña</title>
   </programme>
-  <programme start="20261123000000 -0300" stop="20261123010000 -0300" channel="espn.claro.br">
-    <title lang="pt">Resenha</title>
+  <programme start="20261123003000 -0300" stop="20261123023000 -0300" channel="espn.claro.br">
+    <title lang="pt">VT - Liverpool x Manchester United</title>
   </programme>
   <programme start="20261123003000 -0300" stop="20261123013000 -0300" channel="espn.claro.br">
     <title lang="pt">Sportscenter</title>
   </programme>
-  <programme start="20261123010000 -0300" stop="20261123030000 -0300" channel="espn.claro.br">
-    <title lang="pt">VT - Liverpool x Manchester United</title>
-  </programme>
   <programme start="20261123013000 -0300" stop="20261123040000 -0300" channel="espn.claro.br">
     <title lang="pt">VT - NFL: Tampa Bay Buccaneers x Detroit Lions</title>
   </programme>
-  <programme start="20261123030000 -0300" stop="20261123033000 -0300" channel="espn.claro.br">
-    <title lang="pt">Especial Sulamericana: Campanha do Campeão</title>
+  <programme start="20261123023000 -0300" stop="20261123033000 -0300" channel="espn.claro.br">
+    <title lang="pt">Bola da Vez: Arthur, Meio Campo do Santos</title>
   </programme>
-  <programme start="20261123033000 -0300" stop="20261123043000 -0300" channel="espn.claro.br">
-    <title lang="pt">Bola da Vez</title>
+  <programme start="20261123033000 -0300" stop="20261123053000 -0300" channel="espn.claro.br">
+    <title lang="pt">VT - Sassuolo x Genoa</title>
   </programme>
   <programme start="20261123040000 -0300" stop="20261123060000 -0300" channel="espn.claro.br">
     <title lang="pt">VT - Rugby Nations Championship: França x Argentina</title>
   </programme>
-  <programme start="20261123043000 -0300" stop="20261123063000 -0300" channel="espn.claro.br">
-    <title lang="pt">VT - Sassuolo x Genoa</title>
+  <programme start="20261123053000 -0300" stop="20261123060000 -0300" channel="espn.claro.br">
+    <title lang="pt">Premier League Stories</title>
+  </programme>
+  <programme start="20261123060000 -0300" stop="20261123080000 -0300" channel="espn.claro.br">
+    <title lang="pt">VT - Kocaelispor x Fenerbahce</title>
   </programme>
   <programme start="20261123060000 -0300" stop="20261123070000 -0300" channel="espn.claro.br">
     <title lang="pt">Sportscenter</title>
-  </programme>
-  <programme start="20261123063000 -0300" stop="20261123080000 -0300" channel="espn.claro.br">
-    <title lang="pt">Linha de Passe: Mesa-Redonda</title>
   </programme>
   <programme start="20261123070000 -0300" stop="20261123080000 -0300" channel="espn.claro.br">
     <title lang="pt">Sportscenter</title>
@@ -9684,25 +9702,16 @@
   <programme start="20261123100000 -0300" stop="20261123113000 -0300" channel="record_news.claro.br">
     <title lang="pt">Alerta Brasil</title>
   </programme>
-  <programme start="20261123113000 -0300" stop="20261123120000 -0300" channel="record_news.claro.br">
+  <programme start="20261123113000 -0300" stop="20261123133000 -0300" channel="record_news.claro.br">
     <title lang="pt">Hora News</title>
   </programme>
-  <programme start="20261123120000 -0300" stop="20261123133000 -0300" channel="record_news.claro.br">
-    <title lang="pt">Hora News</title>
-  </programme>
-  <programme start="20261123133000 -0300" stop="20261123140000 -0300" channel="record_news.claro.br">
-    <title lang="pt">Conexão Record News</title>
-  </programme>
-  <programme start="20261123140000 -0300" stop="20261123153000 -0300" channel="record_news.claro.br">
+  <programme start="20261123133000 -0300" stop="20261123153000 -0300" channel="record_news.claro.br">
     <title lang="pt">Conexão Record News</title>
   </programme>
   <programme start="20261123153000 -0300" stop="20261123161000 -0300" channel="record_news.claro.br">
     <title lang="pt">Zapping</title>
   </programme>
-  <programme start="20261123161000 -0300" stop="20261123180000 -0300" channel="record_news.claro.br">
-    <title lang="pt">Link News</title>
-  </programme>
-  <programme start="20261123180000 -0300" stop="20261123184500 -0300" channel="record_news.claro.br">
+  <programme start="20261123161000 -0300" stop="20261123184500 -0300" channel="record_news.claro.br">
     <title lang="pt">Link News</title>
   </programme>
   <programme start="20261123184500 -0300" stop="20261123190000 -0300" channel="record_news.claro.br">
@@ -9732,58 +9741,73 @@
   <programme start="20261122010000 -0300" stop="20261122023000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Sail GP</title>
   </programme>
-  <programme start="20261122023000 -0300" stop="20261122043000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">VT - CSKA x Akhmat</title>
+  <programme start="20261122023000 -0300" stop="20261122041500 -0300" channel="band_sports.claro.br">
+    <title lang="pt">NDU: Economia Mackenzie x Atlética USCS - VT</title>
   </programme>
-  <programme start="20261122043000 -0300" stop="20261122063000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">Programação BandSports</title>
+  <programme start="20261122041500 -0300" stop="20261122044500 -0300" channel="band_sports.claro.br">
+    <title lang="pt">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20261122044500 -0300" stop="20261122063000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Intercontinental de Futsal: Sporting x Palma - VT</title>
   </programme>
   <programme start="20261122063000 -0300" stop="20261122080000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Sail GP</title>
   </programme>
-  <programme start="20261122080000 -0300" stop="20261122093000 -0300" channel="band_sports.claro.br">
+  <programme start="20261122080000 -0300" stop="20261122092000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Sail GP</title>
   </programme>
-  <programme start="20261122093000 -0300" stop="20261122103000 -0300" channel="band_sports.claro.br">
+  <programme start="20261122092000 -0300" stop="20261122102500 -0300" channel="band_sports.claro.br">
     <title lang="pt">Porsche Cup Brasil</title>
   </programme>
-  <programme start="20261122103000 -0300" stop="20261122123000 -0300" channel="band_sports.claro.br">
+  <programme start="20261122102500 -0300" stop="20261122123000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Dinamo Makhachkala x Spartak Moscou - Ao Vivo</title>
   </programme>
   <programme start="20261122123000 -0300" stop="20261122130000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">Gearing Up</title>
+    <title lang="pt">Fórmula 4 Brasil</title>
   </programme>
   <programme start="20261122130000 -0300" stop="20261122140000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Porsche Cup Brasil</title>
   </programme>
   <programme start="20261122140000 -0300" stop="20261122150000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">AMG Cup</title>
+    <title lang="pt">Esporte Agora - Ao Vivo</title>
   </programme>
   <programme start="20261122150000 -0300" stop="20261122160000 -0300" channel="band_sports.claro.br">
     <title lang="pt">AMG Cup</title>
   </programme>
-  <programme start="20261122160000 -0300" stop="20261122180000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">Catarinense de Vôlei Feminino: Brusque x Pinhalzinho - VT</title>
+  <programme start="20261122160000 -0300" stop="20261122163000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Fórmula 4 Brasil</title>
   </programme>
-  <programme start="20261122180000 -0300" stop="20261122200000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">Catarinense de Vôlei Feminino: Brusque x Pinhalzinho - Ao Vivo</title>
-  </programme>
-  <programme start="20261122200000 -0300" stop="20261122213000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">Encontro de Craques</title>
-  </programme>
-  <programme start="20261122213000 -0300" stop="20261122233000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">VT - Dinamo Makhachkala x Spartak Moscou</title>
-  </programme>
-  <programme start="20261122233000 -0300" stop="20261123003000 -0300" channel="band_sports.claro.br">
-    <title lang="pt">Porsche Cup Brasil</title>
-  </programme>
-  <programme start="20261123003000 -0300" stop="20261123013000 -0300" channel="band_sports.claro.br">
+  <programme start="20261122163000 -0300" stop="20261122173000 -0300" channel="band_sports.claro.br">
     <title lang="pt">AMG Cup</title>
   </programme>
-  <programme start="20261123013000 -0300" stop="20261123030000 -0300" channel="band_sports.claro.br">
+  <programme start="20261122173000 -0300" stop="20261122175000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20261122175000 -0300" stop="20261122195000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Catarinense de Vôlei Feminino: Brusque x Pinhalzinho - Ao Vivo</title>
+  </programme>
+  <programme start="20261122195000 -0300" stop="20261122213000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Fazenda Futsal x Traipu - Ao Vivo</title>
+  </programme>
+  <programme start="20261122213000 -0300" stop="20261122223000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Encontro de Craques</title>
+  </programme>
+  <programme start="20261122223000 -0300" stop="20261122230000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20261122230000 -0300" stop="20261123010000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">VT - Dinamo Makhachkala x Spartak Moscou</title>
+  </programme>
+  <programme start="20261123010000 -0300" stop="20261123013000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Fórmula 4 Brasil</title>
+  </programme>
+  <programme start="20261123013000 -0300" stop="20261123020000 -0300" channel="band_sports.claro.br">
+    <title lang="pt">Fórmula 4 Brasil</title>
+  </programme>
+  <programme start="20261123020000 -0300" stop="20261123033000 -0300" channel="band_sports.claro.br">
     <title lang="pt">Sail GP</title>
   </programme>
-  <programme start="20261123030000 -0300" stop="20261123050000 -0300" channel="band_sports.claro.br">
+  <programme start="20261123033000 -0300" stop="20261123050000 -0300" channel="band_sports.claro.br">
     <title lang="pt">SFT Combat</title>
   </programme>
   <programme start="20261123050000 -0300" stop="20261123060000 -0300" channel="band_sports.claro.br">
@@ -10300,13 +10324,13 @@
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261122212400 -0300" stop="20261122214700 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261122214700 -0300" stop="20261122220900 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261122220900 -0300" stop="20261122223200 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261122223200 -0300" stop="20261122225400 -0300" channel="gloob.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
@@ -10438,10 +10462,10 @@
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261123114700 -0300" stop="20261123120900 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261123120900 -0300" stop="20261123123200 -0300" channel="gloob.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261123123200 -0300" stop="20261123125700 -0300" channel="gloob.claro.br">
     <title lang="pt">D.P.A. - Detetives Do Prédio A</title>
@@ -16591,70 +16615,43 @@
     <title lang="pt">The Night Shift</title>
   </programme>
   <programme start="20261122060000 -0300" stop="20261122070000 -0300" channel="sony.claro.br">
-    <title lang="pt">Bettys Diagnose</title>
+    <title lang="pt">Grey's Anatomy</title>
   </programme>
-  <programme start="20261122070000 -0300" stop="20261122080000 -0300" channel="sony.claro.br">
-    <title lang="pt">Bettys Diagnose</title>
-  </programme>
-  <programme start="20261122080000 -0300" stop="20261122083000 -0300" channel="sony.claro.br">
+  <programme start="20261122070000 -0300" stop="20261122073000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261122083000 -0300" stop="20261122090000 -0300" channel="sony.claro.br">
-    <title lang="pt">The Nanny</title>
+  <programme start="20261122073000 -0300" stop="20261122092000 -0300" channel="sony.claro.br">
+    <title lang="pt">Pixels</title>
   </programme>
-  <programme start="20261122090000 -0300" stop="20261122093000 -0300" channel="sony.claro.br">
-    <title lang="pt">The Nanny</title>
+  <programme start="20261122092000 -0300" stop="20261122115500 -0300" channel="sony.claro.br">
+    <title lang="pt">007 - Operação Skyfall</title>
   </programme>
-  <programme start="20261122093000 -0300" stop="20261122100000 -0300" channel="sony.claro.br">
-    <title lang="pt">The Nanny</title>
+  <programme start="20261122115500 -0300" stop="20261122133500 -0300" channel="sony.claro.br">
+    <title lang="pt">Busca Implacável</title>
   </programme>
-  <programme start="20261122100000 -0300" stop="20261122103000 -0300" channel="sony.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  <programme start="20261122133500 -0300" stop="20261122151500 -0300" channel="sony.claro.br">
+    <title lang="pt">Busca Implacável 2</title>
   </programme>
-  <programme start="20261122103000 -0300" stop="20261122110000 -0300" channel="sony.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  <programme start="20261122151500 -0300" stop="20261122171000 -0300" channel="sony.claro.br">
+    <title lang="pt">Busca Implacável 3</title>
   </programme>
-  <programme start="20261122110000 -0300" stop="20261122113000 -0300" channel="sony.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  <programme start="20261122171000 -0300" stop="20261122190000 -0300" channel="sony.claro.br">
+    <title lang="pt">Corra!</title>
   </programme>
-  <programme start="20261122113000 -0300" stop="20261122120000 -0300" channel="sony.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-  </programme>
-  <programme start="20261122120000 -0300" stop="20261122141000 -0300" channel="sony.claro.br">
-    <title lang="pt">Esquadrão Suicida</title>
-  </programme>
-  <programme start="20261122141000 -0300" stop="20261122143500 -0300" channel="sony.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-  </programme>
-  <programme start="20261122143500 -0300" stop="20261122150000 -0300" channel="sony.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-  </programme>
-  <programme start="20261122150000 -0300" stop="20261122172000 -0300" channel="sony.claro.br">
-    <title lang="pt">O Ataque</title>
-  </programme>
-  <programme start="20261122172000 -0300" stop="20261122190500 -0300" channel="sony.claro.br">
-    <title lang="pt">O Atirador: O Fim de Um Assassino</title>
-  </programme>
-  <programme start="20261122190500 -0300" stop="20261122220000 -0300" channel="sony.claro.br">
+  <programme start="20261122190000 -0300" stop="20261122220000 -0300" channel="sony.claro.br">
     <title lang="pt">John Wick 4: Baba Yaga</title>
   </programme>
-  <programme start="20261122220000 -0300" stop="20261122230000 -0300" channel="sony.claro.br">
-    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+  <programme start="20261122220000 -0300" stop="20261123002000 -0300" channel="sony.claro.br">
+    <title lang="pt">O Protetor</title>
   </programme>
-  <programme start="20261122230000 -0300" stop="20261122235000 -0300" channel="sony.claro.br">
-    <title lang="pt">Shaking The Bar</title>
+  <programme start="20261123002000 -0300" stop="20261123021000 -0300" channel="sony.claro.br">
+    <title lang="pt">Corra!</title>
   </programme>
-  <programme start="20261122235000 -0300" stop="20261123015500 -0300" channel="sony.claro.br">
-    <title lang="pt">Shaking The Bar</title>
-  </programme>
-  <programme start="20261123015500 -0300" stop="20261123025000 -0300" channel="sony.claro.br">
+  <programme start="20261123021000 -0300" stop="20261123031000 -0300" channel="sony.claro.br">
     <title lang="pt">Grey's Anatomy</title>
   </programme>
-  <programme start="20261123025000 -0300" stop="20261123034000 -0300" channel="sony.claro.br">
+  <programme start="20261123031000 -0300" stop="20261123041000 -0300" channel="sony.claro.br">
     <title lang="pt">Grey's Anatomy</title>
-  </programme>
-  <programme start="20261123034000 -0300" stop="20261123041000 -0300" channel="sony.claro.br">
-    <title lang="pt">The Nanny</title>
   </programme>
   <programme start="20261123041000 -0300" stop="20261123044000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
@@ -16668,62 +16665,59 @@
   <programme start="20261123060000 -0300" stop="20261123070000 -0300" channel="sony.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261123070000 -0300" stop="20261123075500 -0300" channel="sony.claro.br">
+  <programme start="20261123070000 -0300" stop="20261123080000 -0300" channel="sony.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261123075500 -0300" stop="20261123082500 -0300" channel="sony.claro.br">
+  <programme start="20261123080000 -0300" stop="20261123083000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261123082500 -0300" stop="20261123085500 -0300" channel="sony.claro.br">
+  <programme start="20261123083000 -0300" stop="20261123090000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261123085500 -0300" stop="20261123092500 -0300" channel="sony.claro.br">
+  <programme start="20261123090000 -0300" stop="20261123093000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261123092500 -0300" stop="20261123095500 -0300" channel="sony.claro.br">
+  <programme start="20261123093000 -0300" stop="20261123100000 -0300" channel="sony.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261123095500 -0300" stop="20261123102500 -0300" channel="sony.claro.br">
-    <title lang="pt">The Nanny</title>
-  </programme>
-  <programme start="20261123102500 -0300" stop="20261123105500 -0300" channel="sony.claro.br">
+  <programme start="20261123100000 -0300" stop="20261123103000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123105500 -0300" stop="20261123112500 -0300" channel="sony.claro.br">
+  <programme start="20261123103000 -0300" stop="20261123110000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123112500 -0300" stop="20261123115500 -0300" channel="sony.claro.br">
+  <programme start="20261123110000 -0300" stop="20261123113000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123115500 -0300" stop="20261123122500 -0300" channel="sony.claro.br">
+  <programme start="20261123113000 -0300" stop="20261123120000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123122500 -0300" stop="20261123142500 -0300" channel="sony.claro.br">
-    <title lang="pt">O Vingador do Futuro</title>
+  <programme start="20261123120000 -0300" stop="20261123135000 -0300" channel="sony.claro.br">
+    <title lang="pt">Pixels</title>
   </programme>
-  <programme start="20261123142500 -0300" stop="20261123145500 -0300" channel="sony.claro.br">
+  <programme start="20261123135000 -0300" stop="20261123142000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123145500 -0300" stop="20261123152500 -0300" channel="sony.claro.br">
+  <programme start="20261123142000 -0300" stop="20261123145000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123152500 -0300" stop="20261123155500 -0300" channel="sony.claro.br">
+  <programme start="20261123145000 -0300" stop="20261123152000 -0300" channel="sony.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123155500 -0300" stop="20261123162500 -0300" channel="sony.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  <programme start="20261123152000 -0300" stop="20261123170500 -0300" channel="sony.claro.br">
+    <title lang="pt">Vencer ou Morrer</title>
   </programme>
-  <programme start="20261123162500 -0300" stop="20261123181000 -0300" channel="sony.claro.br">
-    <title lang="pt">De Volta Ao Jogo</title>
+  <programme start="20261123170500 -0300" stop="20261123200000 -0300" channel="sony.claro.br">
+    <title lang="pt">John Wick 4: Baba Yaga</title>
   </programme>
-  <programme start="20261123181000 -0300" stop="20261123200000 -0300" channel="sony.claro.br">
-    <title lang="pt">Nico - Acima da Lei</title>
+  <programme start="20261123200000 -0300" stop="20261123215000 -0300" channel="sony.claro.br">
+    <title lang="pt">Segundas Retrô: Rambo Iii</title>
   </programme>
-  <programme start="20261123200000 -0300" stop="20261123224000 -0300" channel="sony.claro.br">
-    <title lang="pt">Segundas Retrô: Armageddon</title>
+  <programme start="20261123215000 -0300" stop="20261123234000 -0300" channel="sony.claro.br">
+    <title lang="pt">Reação Em Cadeia</title>
   </programme>
-  <programme start="20261123224000 -0300" stop="20261124002500 -0300" channel="sony.claro.br">
-    <title lang="pt">O Paciente - O Caso Tancredo Neves</title>
+  <programme start="20261123234000 -0300" stop="20261124003000 -0300" channel="sony.claro.br">
+    <title lang="pt">Mamonas Assassinas</title>
   </programme>
   <programme start="20261122000000 -0300" stop="20261122003000 -0300" channel="tv_ra_tim_bum.claro.br">
     <title lang="pt">Que Monstro te Mordeu?</title>
@@ -20058,7 +20052,7 @@
   <programme start="20261123223500 -0300" stop="20261124001000 -0300" channel="studio_universal.claro.br">
     <title lang="pt">Um Sapato Para o Natal</title>
   </programme>
-  <programme start="20261122010400 -0300" stop="20261122014600 -0300" channel="space.claro.br">
+  <programme start="20261122005300 -0300" stop="20261122014600 -0300" channel="space.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
   <programme start="20261122014600 -0300" stop="20261122023100 -0300" channel="space.claro.br">
@@ -21591,19 +21585,16 @@
   <programme start="20261122130000 -0300" stop="20261122170000 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Leilão</title>
   </programme>
-  <programme start="20261122170000 -0300" stop="20261122200000 -0300" channel="canal_rural.claro.br">
+  <programme start="20261122170000 -0300" stop="20261122210000 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Leilão</title>
   </programme>
-  <programme start="20261122200000 -0300" stop="20261122210000 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Vale Agrícola</title>
+  <programme start="20261122210000 -0300" stop="20261123000000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Leilão</title>
   </programme>
-  <programme start="20261122210000 -0300" stop="20261122220000 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Brasil Caipira</title>
+  <programme start="20261123000000 -0300" stop="20261123010000 -0300" channel="canal_rural.claro.br">
+    <title lang="pt">Leilão</title>
   </programme>
-  <programme start="20261122220000 -0300" stop="20261123000000 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Lance Cast</title>
-  </programme>
-  <programme start="20261123000000 -0300" stop="20261123030000 -0300" channel="canal_rural.claro.br">
+  <programme start="20261123010000 -0300" stop="20261123030000 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Televendas Marilda</title>
   </programme>
   <programme start="20261123030000 -0300" stop="20261123040000 -0300" channel="canal_rural.claro.br">
@@ -21658,7 +21649,7 @@
     <title lang="pt">Live Clima Campo</title>
   </programme>
   <programme start="20261123133000 -0300" stop="20261123140000 -0300" channel="canal_rural.claro.br">
-    <title lang="pt">Interligados Vida no Campo</title>
+    <title lang="pt">Memórias Do Brasil Rural</title>
   </programme>
   <programme start="20261123140000 -0300" stop="20261123173000 -0300" channel="canal_rural.claro.br">
     <title lang="pt">Televendas Marilda</title>
@@ -21777,20 +21768,11 @@
   <programme start="20261122213000 -0300" stop="20261122223000 -0300" channel="rede_vida.claro.br">
     <title lang="pt">Acima de Tudo o Amor</title>
   </programme>
-  <programme start="20261122223000 -0300" stop="20261122230000 -0300" channel="rede_vida.claro.br">
+  <programme start="20261122223000 -0300" stop="20261122233000 -0300" channel="rede_vida.claro.br">
+    <title lang="pt">Quem sou Eu?</title>
+  </programme>
+  <programme start="20261122233000 -0300" stop="20261123000000 -0300" channel="rede_vida.claro.br">
     <title lang="pt">Kerigma</title>
-  </programme>
-  <programme start="20261122230000 -0300" stop="20261122233000 -0300" channel="rede_vida.claro.br">
-    <title lang="pt">Redevida Serviço</title>
-  </programme>
-  <programme start="20261122233000 -0300" stop="20261122234000 -0300" channel="rede_vida.claro.br">
-    <title lang="pt">Meditação da Palavra Com Frei Gilson</title>
-  </programme>
-  <programme start="20261122234000 -0300" stop="20261122235500 -0300" channel="rede_vida.claro.br">
-    <title lang="pt">Terço da Misericórdia</title>
-  </programme>
-  <programme start="20261122235500 -0300" stop="20261123000000 -0300" channel="rede_vida.claro.br">
-    <title lang="pt">Terço Bizantino</title>
   </programme>
   <programme start="20261123000000 -0300" stop="20261123010000 -0300" channel="rede_vida.claro.br">
     <title lang="pt">Conta Comigo</title>
@@ -22146,14 +22128,11 @@
   <programme start="20261122080000 -0300" stop="20261122083000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Energia Agro</title>
   </programme>
-  <programme start="20261122083000 -0300" stop="20261122100000 -0300" channel="terra_viva.claro.br">
-    <title lang="pt">Central de Negócios</title>
+  <programme start="20261122083000 -0300" stop="20261122110000 -0300" channel="terra_viva.claro.br">
+    <title lang="pt">Central de Negócios – Estância Bahia</title>
   </programme>
-  <programme start="20261122100000 -0300" stop="20261122120000 -0300" channel="terra_viva.claro.br">
-    <title lang="pt">Leilão Virtual</title>
-  </programme>
-  <programme start="20261122120000 -0300" stop="20261122140000 -0300" channel="terra_viva.claro.br">
-    <title lang="pt">Leilão Virtual Touros e Matrizes Guadalupe</title>
+  <programme start="20261122110000 -0300" stop="20261122140000 -0300" channel="terra_viva.claro.br">
+    <title lang="pt">Central de Negócios – Estância Bahia</title>
   </programme>
   <programme start="20261122140000 -0300" stop="20261122170000 -0300" channel="terra_viva.claro.br">
     <title lang="pt">Leilão Virtual Corte Marca LC</title>
@@ -23142,10 +23121,7 @@
   <programme start="20261123130000 -0300" stop="20261123131500 -0300" channel="tv_pai_eterno.claro.br">
     <title lang="pt">Diálogos</title>
   </programme>
-  <programme start="20261123131500 -0300" stop="20261123133000 -0300" channel="tv_pai_eterno.claro.br">
-    <title lang="pt">Programa Pai Eterno</title>
-  </programme>
-  <programme start="20261123133000 -0300" stop="20261123143000 -0300" channel="tv_pai_eterno.claro.br">
+  <programme start="20261123131500 -0300" stop="20261123143000 -0300" channel="tv_pai_eterno.claro.br">
     <title lang="pt">Aqui em Casa</title>
   </programme>
   <programme start="20261123143000 -0300" stop="20261123150000 -0300" channel="tv_pai_eterno.claro.br">
@@ -23178,11 +23154,8 @@
   <programme start="20261123210000 -0300" stop="20261123213000 -0300" channel="tv_pai_eterno.claro.br">
     <title lang="pt">Novena dos Filhos do Pai Eterno</title>
   </programme>
-  <programme start="20261123213000 -0300" stop="20261123220000 -0300" channel="tv_pai_eterno.claro.br">
-    <title lang="pt">Jovem Romeiro</title>
-  </programme>
-  <programme start="20261123220000 -0300" stop="20261123223000 -0300" channel="tv_pai_eterno.claro.br">
-    <title lang="pt">A Redenção</title>
+  <programme start="20261123213000 -0300" stop="20261123223000 -0300" channel="tv_pai_eterno.claro.br">
+    <title lang="pt">Padre Pelágio</title>
   </programme>
   <programme start="20261123223000 -0300" stop="20261123230000 -0300" channel="tv_pai_eterno.claro.br">
     <title lang="pt">Novena do Perpétuo Socorro</title>
@@ -23325,14 +23298,17 @@
   <programme start="20261122083000 -0300" stop="20261122090000 -0300" channel="agro_mais.claro.br">
     <title lang="pt">SC Agricultura</title>
   </programme>
-  <programme start="20261122090000 -0300" stop="20261122140000 -0300" channel="agro_mais.claro.br">
-    <title lang="pt">Jumasa Máquinas</title>
+  <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="agro_mais.claro.br">
+    <title lang="pt">Programa Leilões</title>
   </programme>
-  <programme start="20261122140000 -0300" stop="20261122170000 -0300" channel="agro_mais.claro.br">
+  <programme start="20261122100000 -0300" stop="20261122140000 -0300" channel="agro_mais.claro.br">
     <title lang="pt">Leilão Virtual Fazenda Preciosa Miguel Faitta</title>
   </programme>
-  <programme start="20261122170000 -0300" stop="20261122210000 -0300" channel="agro_mais.claro.br">
+  <programme start="20261122140000 -0300" stop="20261122190000 -0300" channel="agro_mais.claro.br">
     <title lang="pt">Leilão Virtual Fazenda Preciosa Miguel Faitta</title>
+  </programme>
+  <programme start="20261122190000 -0300" stop="20261122210000 -0300" channel="agro_mais.claro.br">
+    <title lang="pt">Programa Leilões</title>
   </programme>
   <programme start="20261122210000 -0300" stop="20261122220000 -0300" channel="agro_mais.claro.br">
     <title lang="pt">Coração de Pescador</title>
@@ -23970,29 +23946,17 @@
   <programme start="20261122023500 -0300" stop="20261122030000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Gretel's Magical Oven</title>
   </programme>
-  <programme start="20261122030000 -0300" stop="20261122034700 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">The Comedy of Life</title>
+  <programme start="20261122030000 -0300" stop="20261122033000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Nhk Career Seminar For Job Seekers</title>
   </programme>
-  <programme start="20261122034700 -0300" stop="20261122035700 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Train Driver's Cab View Mini</title>
-  </programme>
-  <programme start="20261122035700 -0300" stop="20261122040000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Mini Program</title>
-  </programme>
-  <programme start="20261122040000 -0300" stop="20261122060000 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261122033000 -0300" stop="20261122060000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Grand Sumo Tournament</title>
   </programme>
   <programme start="20261122060000 -0300" stop="20261122060500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">News</title>
   </programme>
-  <programme start="20261122060500 -0300" stop="20261122063400 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">The Winning Meals Of Great Historical Figures</title>
-  </programme>
-  <programme start="20261122063400 -0300" stop="20261122063900 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">This World is Filled With Wants</title>
-  </programme>
-  <programme start="20261122063900 -0300" stop="20261122064300 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Mini Program</title>
+  <programme start="20261122060500 -0300" stop="20261122064300 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">The Visualization Entertainment: Go! Kaneo-kun</title>
   </programme>
   <programme start="20261122064300 -0300" stop="20261122065800 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Nosy's Inspiring Atelier</title>
@@ -24016,13 +23980,13 @@
     <title lang="pt">News &amp; Weather</title>
   </programme>
   <programme start="20261122090000 -0300" stop="20261122094900 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">The Disappearing Middle Class: What Happened To Ordinary Life?</title>
+    <title lang="pt">The World On The Edge</title>
   </programme>
   <programme start="20261122094900 -0300" stop="20261122095000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">World Weather</title>
   </programme>
   <programme start="20261122095000 -0300" stop="20261122104000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Premium Drama Selection Company</title>
+    <title lang="pt">Our Scandals And My Public Image</title>
   </programme>
   <programme start="20261122104000 -0300" stop="20261122104500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">News &amp; Weather</title>
@@ -24046,7 +24010,7 @@
     <title lang="pt">Songs for Everyone</title>
   </programme>
   <programme start="20261122133000 -0300" stop="20261122150000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">The Great Nature</title>
+    <title lang="pt">Relaxing Life On Remote Islands</title>
   </programme>
   <programme start="20261122150000 -0300" stop="20261122153000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">What The Villains Have To Say</title>
@@ -24075,17 +24039,44 @@
   <programme start="20261122175500 -0300" stop="20261122180000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">World Weather</title>
   </programme>
-  <programme start="20261122180000 -0300" stop="20261122190000 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261122180000 -0300" stop="20261122181000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">News</title>
+  </programme>
+  <programme start="20261122181000 -0300" stop="20261122183900 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">With Mother</title>
+  </programme>
+  <programme start="20261122183900 -0300" stop="20261122184300 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Mini Program</title>
+  </programme>
+  <programme start="20261122184300 -0300" stop="20261122185300 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Natural Grandeur of the East</title>
+  </programme>
+  <programme start="20261122185300 -0300" stop="20261122190000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">News &amp; Weather</title>
+  </programme>
+  <programme start="20261122190000 -0300" stop="20261122193000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">News: Good Morning Japan</title>
   </programme>
-  <programme start="20261122190000 -0300" stop="20261122200000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">News: Good Morning Japan</title>
+  <programme start="20261122193000 -0300" stop="20261122195300 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">The Business Keyhole</title>
+  </programme>
+  <programme start="20261122195300 -0300" stop="20261122195500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Mini Program</title>
+  </programme>
+  <programme start="20261122195500 -0300" stop="20261122200000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Weather</title>
   </programme>
   <programme start="20261122200000 -0300" stop="20261122201500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Drama Serial Blossom</title>
   </programme>
-  <programme start="20261122201500 -0300" stop="20261122215400 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Asaichi</title>
+  <programme start="20261122201500 -0300" stop="20261122214400 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Relaxing Life On Remote Islands</title>
+  </programme>
+  <programme start="20261122214400 -0300" stop="20261122214900 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Natural Grandeur of the East</title>
+  </programme>
+  <programme start="20261122214900 -0300" stop="20261122215400 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Mini Program</title>
   </programme>
   <programme start="20261122215400 -0300" stop="20261122215500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">World Weather</title>
@@ -24096,8 +24087,11 @@
   <programme start="20261122220000 -0300" stop="20261122220500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">News &amp; Weather</title>
   </programme>
-  <programme start="20261122220500 -0300" stop="20261122225100 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Project X: The Challengers-new Beginnings</title>
+  <programme start="20261122220500 -0300" stop="20261122224900 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Rokkaku Seiji's Nomitetsu Railroad Trip</title>
+  </programme>
+  <programme start="20261122224900 -0300" stop="20261122225100 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Mini Program</title>
   </programme>
   <programme start="20261122225100 -0300" stop="20261122230500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Natural Grandeur of the East</title>
@@ -24111,74 +24105,92 @@
   <programme start="20261122235500 -0300" stop="20261123000000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">World Weather</title>
   </programme>
-  <programme start="20261123000000 -0300" stop="20261123002000 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261123000000 -0300" stop="20261123001500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">News</title>
   </programme>
-  <programme start="20261123002000 -0300" stop="20261123002800 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Information Worth Knowing From The News Commentator Bureau</title>
-  </programme>
-  <programme start="20261123002800 -0300" stop="20261123003000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Mini Program</title>
+  <programme start="20261123001500 -0300" stop="20261123003000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Ramen Japan</title>
   </programme>
   <programme start="20261123003000 -0300" stop="20261123004500 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Drama Serial Hiyokko</title>
+    <title lang="pt">Hiyokko Highlights</title>
   </programme>
   <programme start="20261123004500 -0300" stop="20261123010000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Drama Serial Blossom</title>
   </programme>
   <programme start="20261123010000 -0300" stop="20261123010500 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">News</title>
-  </programme>
-  <programme start="20261123010500 -0300" stop="20261123025000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">News Around Japan</title>
-  </programme>
-  <programme start="20261123025000 -0300" stop="20261123025500 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">World Weather</title>
-  </programme>
-  <programme start="20261123025500 -0300" stop="20261123030000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">World Music Album</title>
-  </programme>
-  <programme start="20261123030000 -0300" stop="20261123031000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">News &amp; Weather</title>
   </programme>
-  <programme start="20261123031000 -0300" stop="20261123035500 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261123010500 -0300" stop="20261123015000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Songs of Our Generation</title>
   </programme>
-  <programme start="20261123035500 -0300" stop="20261123060000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Grand Sumo Tournament</title>
+  <programme start="20261123015000 -0300" stop="20261123015500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">World Music Album</title>
   </programme>
-  <programme start="20261123060000 -0300" stop="20261123061000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">News</title>
+  <programme start="20261123015500 -0300" stop="20261123020000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">The Great Nature</title>
   </programme>
-  <programme start="20261123061000 -0300" stop="20261123062000 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261123020000 -0300" stop="20261123040000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Kanto University Rugby League</title>
+  </programme>
+  <programme start="20261123040000 -0300" stop="20261123041000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Train Driver's Cab View Mini</title>
+  </programme>
+  <programme start="20261123041000 -0300" stop="20261123044000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">The Great Nature</title>
+  </programme>
+  <programme start="20261123044000 -0300" stop="20261123051000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Actor Koyuki And The Fermenting Master, Grandma In Aomori</title>
+  </programme>
+  <programme start="20261123051000 -0300" stop="20261123052000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Fun with Japanese</title>
   </programme>
-  <programme start="20261123062000 -0300" stop="20261123063500 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261123052000 -0300" stop="20261123053500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Peek-a-boo</title>
   </programme>
-  <programme start="20261123063500 -0300" stop="20261123065900 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261123053500 -0300" stop="20261123055900 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">With Mother</title>
   </programme>
-  <programme start="20261123065900 -0300" stop="20261123070000 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261123055900 -0300" stop="20261123060000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">1-minute Anime: Songs For Sdgs</title>
+  </programme>
+  <programme start="20261123060000 -0300" stop="20261123060500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">News</title>
+  </programme>
+  <programme start="20261123060500 -0300" stop="20261123061000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">We Love Fluffy Animals</title>
+  </programme>
+  <programme start="20261123061000 -0300" stop="20261123062500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Kid's Discovery</title>
+  </programme>
+  <programme start="20261123062500 -0300" stop="20261123065500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Nyan-chu! Space! Broadcasting!</title>
+  </programme>
+  <programme start="20261123065500 -0300" stop="20261123070000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">World Weather</title>
   </programme>
   <programme start="20261123070000 -0300" stop="20261123073000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">NHK News 7</title>
   </programme>
-  <programme start="20261123073000 -0300" stop="20261123075700 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Today's Close-up</title>
+  <programme start="20261123073000 -0300" stop="20261123081500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Win The Regular Program Slot</title>
   </programme>
-  <programme start="20261123075700 -0300" stop="20261123084300 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Amazing Video Collection!</title>
+  <programme start="20261123081500 -0300" stop="20261123084500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Ichibanmori: The People Behind Japan's Best</title>
   </programme>
-  <programme start="20261123084300 -0300" stop="20261123084500 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">World Weather</title>
+  <programme start="20261123084500 -0300" stop="20261123085500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Natural Grandeur of the East</title>
   </programme>
-  <programme start="20261123084500 -0300" stop="20261123090000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">NHK News 845</title>
+  <programme start="20261123085500 -0300" stop="20261123090000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">News &amp; Weather</title>
   </programme>
-  <programme start="20261123090000 -0300" stop="20261123100000 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261123090000 -0300" stop="20261123093000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">News Watch 9</title>
+  </programme>
+  <programme start="20261123093000 -0300" stop="20261123095700 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Puppy Comes Home!</title>
+  </programme>
+  <programme start="20261123095700 -0300" stop="20261123100000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Mini Program</title>
   </programme>
   <programme start="20261123100000 -0300" stop="20261123104500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">The Fountain of Ancient Wisdom</title>
@@ -24189,14 +24201,14 @@
   <programme start="20261123110000 -0300" stop="20261123113000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Late Night Show With Nitty And Gritty</title>
   </programme>
-  <programme start="20261123113000 -0300" stop="20261123114000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">News Commentary</title>
-  </programme>
-  <programme start="20261123114000 -0300" stop="20261123114500 -0300" channel="nhk_world_premium.claro.br">
+  <programme start="20261123113000 -0300" stop="20261123113500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">News &amp; Weather</title>
   </programme>
+  <programme start="20261123113500 -0300" stop="20261123114500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Mini Program</title>
+  </programme>
   <programme start="20261123114500 -0300" stop="20261123122900 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">International News Report</title>
+    <title lang="pt">Natsui Itsuki's Haiku Trip!</title>
   </programme>
   <programme start="20261123122900 -0300" stop="20261123123000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">World Weather</title>
@@ -24235,22 +24247,22 @@
     <title lang="pt">With Mother</title>
   </programme>
   <programme start="20261123152500 -0300" stop="20261123153000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Natural Grandeur of the East</title>
+    <title lang="pt">Giant Trees In Japan</title>
   </programme>
   <programme start="20261123153000 -0300" stop="20261123154500 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Drama Serial Blossom</title>
   </programme>
-  <programme start="20261123154500 -0300" stop="20261123161200 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Today's Close-up</title>
+  <programme start="20261123154500 -0300" stop="20261123163000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Win The Regular Program Slot</title>
   </programme>
-  <programme start="20261123161200 -0300" stop="20261123161500 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">World Weather</title>
+  <programme start="20261123163000 -0300" stop="20261123170000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Ichibanmori: The People Behind Japan's Best</title>
   </programme>
-  <programme start="20261123161500 -0300" stop="20261123170000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Amazing Video Collection!</title>
+  <programme start="20261123170000 -0300" stop="20261123171000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">TV Exercise</title>
   </programme>
-  <programme start="20261123170000 -0300" stop="20261123172500 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Grand Sumo Tournament</title>
+  <programme start="20261123171000 -0300" stop="20261123172500 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Health for Today</title>
   </programme>
   <programme start="20261123172500 -0300" stop="20261123175000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">My Gardening</title>
@@ -24283,13 +24295,10 @@
     <title lang="pt">News &amp; Weather</title>
   </programme>
   <programme start="20261123220500 -0300" stop="20261123225000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Amazing Video Collection!</title>
+    <title lang="pt">Win The Regular Program Slot</title>
   </programme>
-  <programme start="20261123225000 -0300" stop="20261123231700 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Today's Close-up</title>
-  </programme>
-  <programme start="20261123231700 -0300" stop="20261123232000 -0300" channel="nhk_world_premium.claro.br">
-    <title lang="pt">Mini Program</title>
+  <programme start="20261123225000 -0300" stop="20261123232000 -0300" channel="nhk_world_premium.claro.br">
+    <title lang="pt">Ichibanmori: The People Behind Japan's Best</title>
   </programme>
   <programme start="20261123232000 -0300" stop="20261123235000 -0300" channel="nhk_world_premium.claro.br">
     <title lang="pt">Late Night Show With Nitty And Gritty</title>
@@ -25672,7 +25681,7 @@
     <title lang="pt">TG2 Giorno</title>
   </programme>
   <programme start="20261122094500 -0300" stop="20261122100000 -0300" channel="rai_international.claro.br">
-    <title lang="pt">TG2 Motori</title>
+    <title lang="pt">Doc. Riedizione</title>
   </programme>
   <programme start="20261122100000 -0300" stop="20261122103000 -0300" channel="rai_international.claro.br">
     <title lang="pt">Sulla via di Damasco</title>
@@ -25681,7 +25690,7 @@
     <title lang="pt">Aspettando</title>
   </programme>
   <programme start="20261122104500 -0300" stop="20261122130000 -0300" channel="rai_international.claro.br">
-    <title lang="pt">Cristianita</title>
+    <title lang="pt">Cristianità</title>
   </programme>
   <programme start="20261122130000 -0300" stop="20261122150000 -0300" channel="rai_international.claro.br">
     <title lang="pt">In Mezz'ora</title>
@@ -25710,8 +25719,11 @@
   <programme start="20261122221500 -0300" stop="20261123001500 -0300" channel="rai_international.claro.br">
     <title lang="pt">Report</title>
   </programme>
-  <programme start="20261123001500 -0300" stop="20261123031500 -0300" channel="rai_international.claro.br">
-    <title lang="pt">Supercoppa Superlega Maschile 2026: Finale</title>
+  <programme start="20261123001500 -0300" stop="20261123021500 -0300" channel="rai_international.claro.br">
+    <title lang="pt">Volley Superlega Maschile</title>
+  </programme>
+  <programme start="20261123021500 -0300" stop="20261123031500 -0300" channel="rai_international.claro.br">
+    <title lang="pt">Speciale TG1</title>
   </programme>
   <programme start="20261123031500 -0300" stop="20261123033000 -0300" channel="rai_international.claro.br">
     <title lang="pt">TG1</title>
@@ -25741,7 +25753,7 @@
     <title lang="pt">TG2 Giorno</title>
   </programme>
   <programme start="20261123094500 -0300" stop="20261123100000 -0300" channel="rai_international.claro.br">
-    <title lang="pt">TG Sport Giorno</title>
+    <title lang="pt">TG Sport</title>
   </programme>
   <programme start="20261123100000 -0300" stop="20261123101500 -0300" channel="rai_international.claro.br">
     <title lang="pt">TG Rai News</title>
@@ -27766,13 +27778,16 @@
     <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
   </programme>
   <programme start="20261123031500 -0300" stop="20261123040000 -0300" channel="globo_hd_(eptv).claro.br">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola II</title>
+    <title lang="pt">Terra da Gente</title>
   </programme>
   <programme start="20261123040000 -0300" stop="20261123060000 -0300" channel="globo_hd_(eptv).claro.br">
     <title lang="pt">Hora Um</title>
   </programme>
-  <programme start="20261123060000 -0300" stop="20261123083000 -0300" channel="globo_hd_(eptv).claro.br">
+  <programme start="20261123060000 -0300" stop="20261123073000 -0300" channel="globo_hd_(eptv).claro.br">
     <title lang="pt">Bom Dia SP</title>
+  </programme>
+  <programme start="20261123073000 -0300" stop="20261123083000 -0300" channel="globo_hd_(eptv).claro.br">
+    <title lang="pt">Bom Dia Cidade</title>
   </programme>
   <programme start="20261123083000 -0300" stop="20261123093000 -0300" channel="globo_hd_(eptv).claro.br">
     <title lang="pt">Bom Dia Brasil</title>
@@ -27795,8 +27810,11 @@
   <programme start="20261123144500 -0300" stop="20261123152500 -0300" channel="globo_hd_(eptv).claro.br">
     <title lang="pt">Roque Santeiro</title>
   </programme>
-  <programme start="20261123152500 -0300" stop="20261123170500 -0300" channel="globo_hd_(eptv).claro.br">
+  <programme start="20261123152500 -0300" stop="20261123165500 -0300" channel="globo_hd_(eptv).claro.br">
     <title lang="pt">Sessão da Tarde: A Boneca Que Virou Gente 2</title>
+  </programme>
+  <programme start="20261123165500 -0300" stop="20261123170500 -0300" channel="globo_hd_(eptv).claro.br">
+    <title lang="pt">Boletim EPTV Cidade</title>
   </programme>
   <programme start="20261123170500 -0300" stop="20261123174500 -0300" channel="globo_hd_(eptv).claro.br">
     <title lang="pt">Vale a Pena Ver de Novo: A Dona do Pedaço</title>
@@ -27859,7 +27877,7 @@
     <title lang="pt">Record Teen - Todo Mundo Odeia o Chris</title>
   </programme>
   <programme start="20261122134500 -0300" stop="20261122153000 -0300" channel="record_hd.claro.br">
-    <title lang="pt">Cine Maior</title>
+    <title lang="pt">Cine Maior: Invasão a Londres</title>
   </programme>
   <programme start="20261122153000 -0300" stop="20261122180000 -0300" channel="record_hd.claro.br">
     <title lang="pt">Acerte ou Caia</title>
@@ -27963,7 +27981,10 @@
   <programme start="20261122083000 -0300" stop="20261122090000 -0300" channel="rede_tv_hd.claro.br">
     <title lang="pt">Programa Mundo Empresarial</title>
   </programme>
-  <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="rede_tv_hd.claro.br">
+  <programme start="20261122090000 -0300" stop="20261122094500 -0300" channel="rede_tv_hd.claro.br">
+    <title lang="pt">Ultrafarma</title>
+  </programme>
+  <programme start="20261122094500 -0300" stop="20261122100000 -0300" channel="rede_tv_hd.claro.br">
     <title lang="pt">A Hora Do Zap</title>
   </programme>
   <programme start="20261122100000 -0300" stop="20261122114500 -0300" channel="rede_tv_hd.claro.br">
@@ -29775,22 +29796,19 @@
   <programme start="20261123235600 -0300" stop="20261124004100 -0300" channel="gnt_hd_.claro.br">
     <title lang="pt">Poderosas Do Cerrado</title>
   </programme>
-  <programme start="20261122000000 -0300" stop="20261122005000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
-    <title lang="pt">Salvando Reformas Com Jasmine Roth</title>
-  </programme>
-  <programme start="20261122005000 -0300" stop="20261122013900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122004100 -0300" stop="20261122013200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
   </programme>
-  <programme start="20261122013900 -0300" stop="20261122020500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122013200 -0300" stop="20261122015800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Reformas Incríveis</title>
   </programme>
-  <programme start="20261122020500 -0300" stop="20261122022700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122015800 -0300" stop="20261122022300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Reformas Incríveis</title>
   </programme>
-  <programme start="20261122022700 -0300" stop="20261122031600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122022300 -0300" stop="20261122031300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Irmãos à Obra: Compra e Venda</title>
   </programme>
-  <programme start="20261122031600 -0300" stop="20261122045000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122031300 -0300" stop="20261122045000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">90 Dias Para Casar</title>
   </programme>
   <programme start="20261122045000 -0300" stop="20261122053800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
@@ -29799,25 +29817,25 @@
   <programme start="20261122053800 -0300" stop="20261122060000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Reforma À Venda</title>
   </programme>
-  <programme start="20261122060000 -0300" stop="20261122064400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122060000 -0300" stop="20261122065000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Salvando Reformas Com Jasmine Roth</title>
   </programme>
-  <programme start="20261122064400 -0300" stop="20261122073400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122065000 -0300" stop="20261122074100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Salvando Reformas Com Jasmine Roth</title>
   </programme>
-  <programme start="20261122073400 -0300" stop="20261122082400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122074100 -0300" stop="20261122083200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
   </programme>
-  <programme start="20261122082400 -0300" stop="20261122091500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122083200 -0300" stop="20261122092300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
   </programme>
-  <programme start="20261122091500 -0300" stop="20261122100200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122092300 -0300" stop="20261122101100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Gordon Ramsay: Do Inferno ao Paraíso em 24 Horas</title>
   </programme>
-  <programme start="20261122100200 -0300" stop="20261122115800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122101100 -0300" stop="20261122121200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Masterchef: Profissionais Brasil</title>
   </programme>
-  <programme start="20261122115800 -0300" stop="20261122134200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122121200 -0300" stop="20261122134200 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Pesadelo Na Cozinha</title>
   </programme>
   <programme start="20261122134200 -0300" stop="20261122143100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
@@ -29850,28 +29868,28 @@
   <programme start="20261122221200 -0300" stop="20261122230100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">90 Dias: De Volta Pra Pista</title>
   </programme>
-  <programme start="20261122230100 -0300" stop="20261123005300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261122230100 -0300" stop="20261123010100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Masterchef: Profissionais Brasil</title>
   </programme>
-  <programme start="20261123005300 -0300" stop="20261123014000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123010100 -0300" stop="20261123014700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Gordon Ramsay: Serviço Secreto</title>
   </programme>
-  <programme start="20261123014000 -0300" stop="20261123022800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123014700 -0300" stop="20261123023300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Mama June: Da Crise à Redenção</title>
   </programme>
-  <programme start="20261123022800 -0300" stop="20261123031600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123023300 -0300" stop="20261123031900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Mama June: Da Crise à Redenção</title>
   </programme>
-  <programme start="20261123031600 -0300" stop="20261123040000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123031900 -0300" stop="20261123040300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Baylen: Uma Vida Sem Filtro</title>
   </programme>
-  <programme start="20261123040000 -0300" stop="20261123044700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123040300 -0300" stop="20261123044900 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Reforma em Família com Izzy</title>
   </programme>
-  <programme start="20261123044700 -0300" stop="20261123053400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123044900 -0300" stop="20261123053500 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Reformar Para Vender Com Tarek E Heather</title>
   </programme>
-  <programme start="20261123053400 -0300" stop="20261123060000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123053500 -0300" stop="20261123060000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Reforma À Venda</title>
   </programme>
   <programme start="20261123060000 -0300" stop="20261123064400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
@@ -29907,25 +29925,25 @@
   <programme start="20261123152200 -0300" stop="20261123170600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
   </programme>
-  <programme start="20261123170600 -0300" stop="20261123175700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123170600 -0300" stop="20261123175600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Grandes Demais</title>
   </programme>
-  <programme start="20261123175700 -0300" stop="20261123195100 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123175600 -0300" stop="20261123195700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Masterchef: Profissionais Brasil</title>
   </programme>
-  <programme start="20261123195100 -0300" stop="20261123212700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123195700 -0300" stop="20261123213000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Pesadelo na Cozinha</title>
   </programme>
-  <programme start="20261123212700 -0300" stop="20261123221000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123213000 -0300" stop="20261123221300 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Chefs De Alto Nível Com Gordon Ramsay</title>
   </programme>
-  <programme start="20261123221000 -0300" stop="20261123225800 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123221300 -0300" stop="20261123230000 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Chefs De Alto Nível Com Gordon Ramsay</title>
   </programme>
-  <programme start="20261123225800 -0300" stop="20261123234600 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123230000 -0300" stop="20261123234700 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">Pesadelo na Cozinha com Gordon Ramsay</title>
   </programme>
-  <programme start="20261123234600 -0300" stop="20261124003400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
+  <programme start="20261123234700 -0300" stop="20261124003400 -0300" channel="discovery_home_&amp;_health_hd_.claro.br">
     <title lang="pt">O Sócio</title>
   </programme>
   <programme start="20261122005000 -0300" stop="20261122020500 -0300" channel="multishow_hd_.claro.br">
@@ -30162,8 +30180,11 @@
   <programme start="20261123172300 -0300" stop="20261123180000 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
   </programme>
-  <programme start="20261123180000 -0300" stop="20261123192000 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20261123180000 -0300" stop="20261123191500 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Tvz Ao Vivo: Tvz Com Wanessa Camargo E Gominho - Raphaela Santos (Ao Vivo)</title>
+  </programme>
+  <programme start="20261123191500 -0300" stop="20261123192000 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Humor Multishow</title>
   </programme>
   <programme start="20261123192000 -0300" stop="20261123200000 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Sessão Nostalgia - Toma Lá Da Cá</title>
@@ -30174,7 +30195,10 @@
   <programme start="20261123210000 -0300" stop="20261123213800 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
   </programme>
-  <programme start="20261123213800 -0300" stop="20261123214500 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20261123213800 -0300" stop="20261123214200 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Humor Multishow</title>
+  </programme>
+  <programme start="20261123214200 -0300" stop="20261123214500 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Humor Multishow</title>
   </programme>
   <programme start="20261123214500 -0300" stop="20261123223300 -0300" channel="multishow_hd_.claro.br">
@@ -30319,7 +30343,7 @@
     <title lang="pt">Tá On - Ao Vivo</title>
   </programme>
   <programme start="20261123130000 -0300" stop="20261123153000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Seleção sportv - Ao Vivo</title>
+    <title lang="pt">Redação sportv - Ao Vivo</title>
   </programme>
   <programme start="20261123153000 -0300" stop="20261123161500 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Globo Esporte</title>
@@ -30340,7 +30364,7 @@
     <title lang="pt">Tá na Área - Ao Vivo</title>
   </programme>
   <programme start="20261123200000 -0300" stop="20261123210000 -0300" channel="sportv_hd_.claro.br">
-    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
+    <title lang="pt">Aquecimento SporTV - Ao Vivo</title>
   </programme>
   <programme start="20261123210000 -0300" stop="20261123230000 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Santos x Grêmio - Ao Vivo</title>
@@ -30646,24 +30670,30 @@
     <title lang="pt">Fórmula 1 - GP do Brasil - São Paulo</title>
   </programme>
   <programme start="20261122050000 -0300" stop="20261122070000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP de Singapura</title>
+    <title lang="pt">Fórmula 1 - GP dos EUA</title>
   </programme>
-  <programme start="20261122070000 -0300" stop="20261122085000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP do Bahrein</title>
-  </programme>
-  <programme start="20261122085000 -0300" stop="20261122105000 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20261122070000 -0300" stop="20261122090000 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Fórmula 1 - GP de Las Vegas</title>
   </programme>
-  <programme start="20261122105000 -0300" stop="20261122115000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Feminina - Tóquio, Japão</title>
+  <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Brasil</title>
   </programme>
-  <programme start="20261122115000 -0300" stop="20261122125500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Masculina - Tóquio, Japão</title>
-  </programme>
-  <programme start="20261122125500 -0300" stop="20261122135500 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20261122100000 -0300" stop="20261122110500 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Canadá</title>
   </programme>
-  <programme start="20261122135500 -0300" stop="20261122163000 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20261122110500 -0300" stop="20261122112500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP Da Europa) - Rubinho</title>
+  </programme>
+  <programme start="20261122112500 -0300" stop="20261122115500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Lendas Ayrton Senna</title>
+  </programme>
+  <programme start="20261122115500 -0300" stop="20261122125000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Feminina - Tóquio, Japão</title>
+  </programme>
+  <programme start="20261122125000 -0300" stop="20261122135000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Masculina - Tóquio, Japão</title>
+  </programme>
+  <programme start="20261122135000 -0300" stop="20261122163000 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Troféu Perpétuo Roberto Marinho de Hipismo - Ao Vivo</title>
   </programme>
   <programme start="20261122163000 -0300" stop="20261122170000 -0300" channel="sportv_3_hd_.claro.br">
@@ -30672,56 +30702,74 @@
   <programme start="20261122170000 -0300" stop="20261122190000 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Fórmula 1 - GP de Las Vegas</title>
   </programme>
-  <programme start="20261122190000 -0300" stop="20261122200000 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20261122190000 -0300" stop="20261122200500 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Bahrein</title>
   </programme>
-  <programme start="20261122200000 -0300" stop="20261123012000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Circuito Mundial De Surfe - Melhores Momentos - Episódio Especial Yago Dora e Luana Silva</title>
+  <programme start="20261122200500 -0300" stop="20261122221000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
   </programme>
-  <programme start="20261123012000 -0300" stop="20261123041500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Jungle Fight 155</title>
+  <programme start="20261122221000 -0300" stop="20261122223000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Heróis do Futuro: Ítalo Ferreira - Surfe</title>
   </programme>
-  <programme start="20261123041500 -0300" stop="20261123051500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Jungle Fight 156 - Finais</title>
+  <programme start="20261122223000 -0300" stop="20261122233000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">WSL Replay 2026 - Inside Pro Surfing - Lexus Trestles Pro</title>
   </programme>
-  <programme start="20261123051500 -0300" stop="20261123061500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Jungle Fight 156 - Finais</title>
+  <programme start="20261122233000 -0300" stop="20261123003000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Feminina - Tóquio, Japão</title>
   </programme>
-  <programme start="20261123061500 -0300" stop="20261123082500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Jungle Fight 156 - Finais</title>
+  <programme start="20261123003000 -0300" stop="20261123014000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Copa do Mundo de Skate Street - Final Feminina - Utsunomiya - Ao Vivo</title>
   </programme>
-  <programme start="20261123082500 -0300" stop="20261123091000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Acesso Total - Ippon</title>
+  <programme start="20261123014000 -0300" stop="20261123031000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Copa do Mundo de Skate Street - Final Masculina - Utsunomiya - Ao Vivo</title>
   </programme>
-  <programme start="20261123091000 -0300" stop="20261123111000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP do Brasil - São Paulo</title>
+  <programme start="20261123031000 -0300" stop="20261123041500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Masculina - Tóquio, Japão</title>
   </programme>
-  <programme start="20261123111000 -0300" stop="20261123131500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP dos EUA</title>
+  <programme start="20261123041500 -0300" stop="20261123043500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Heróis do Futuro: Paulo André - Atletismo</title>
   </programme>
-  <programme start="20261123131500 -0300" stop="20261123141500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fórmula 1 - GP de Singapura - Melhores Momentos</title>
+  <programme start="20261123043500 -0300" stop="20261123045500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Heróis do Futuro: Vitória Rosa - Atletismo</title>
   </programme>
-  <programme start="20261123141500 -0300" stop="20261123144500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Lendas Ayrton Senna</title>
+  <programme start="20261123045500 -0300" stop="20261123070000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Diamond League - 11ª Etapa - Londres, Inglaterra</title>
   </programme>
-  <programme start="20261123144500 -0300" stop="20261123170000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Programação sportv 3</title>
+  <programme start="20261123070000 -0300" stop="20261123090000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Diamond League - 12ª Etapa - Lausanne, Suiça</title>
   </programme>
-  <programme start="20261123170000 -0300" stop="20261123190000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Futsal Feminina - Disputa de 3º Lugar</title>
+  <programme start="20261123090000 -0300" stop="20261123110500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Diamond League - 13ª Etapa - Silésia, Polônia</title>
   </programme>
-  <programme start="20261123190000 -0300" stop="20261123193000 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Fifa Movies</title>
+  <programme start="20261123110500 -0300" stop="20261123130000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Diamond League - 14ª Etapa - Zurique, Suiça</title>
   </programme>
-  <programme start="20261123193000 -0300" stop="20261123213000 -0300" channel="sportv_3_hd_.claro.br">
+  <programme start="20261123130000 -0300" stop="20261123150000 -0300" channel="sportv_3_hd_.claro.br">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
   </programme>
-  <programme start="20261123213000 -0300" stop="20261123234500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
+  <programme start="20261123150000 -0300" stop="20261123170000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Fórmula 1 - GP de Las Vegas</title>
   </programme>
-  <programme start="20261123234500 -0300" stop="20261124011500 -0300" channel="sportv_3_hd_.claro.br">
-    <title lang="pt">SLS - Liga Mundial De Skates Street - Final Feminina - Tóquio, Japão</title>
+  <programme start="20261123170000 -0300" stop="20261123190000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Fórmula 1 - GP do Brasil - São Paulo</title>
+  </programme>
+  <programme start="20261123190000 -0300" stop="20261123200000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Fórmula 1 - Melhores Momentos - GP do Canadá</title>
+  </programme>
+  <programme start="20261123200000 -0300" stop="20261123205500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">WSL Replay 2026 - Philippines Pro</title>
+  </programme>
+  <programme start="20261123205500 -0300" stop="20261123215000 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">WSL Replay 2026 - Inside Pro Surfing - Lexus Trestles Pro</title>
+  </programme>
+  <programme start="20261123215000 -0300" stop="20261123220500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Heróis do Futuro: Ítalo Ferreira - Surfe</title>
+  </programme>
+  <programme start="20261123220500 -0300" stop="20261123230500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Circuito Mundial De Surfe - Melhores Momentos - Episódio Especial Yago Dora e Luana Silva</title>
+  </programme>
+  <programme start="20261123230500 -0300" stop="20261124000500 -0300" channel="sportv_3_hd_.claro.br">
+    <title lang="pt">Circuito Mundial De Surfe - Melhores Momentos - Episódio Especial Yago Dora e Luana Silva</title>
   </programme>
   <programme start="20261122000000 -0300" stop="20261122023000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Cine Clube Arte 1: Terra de Deus</title>
@@ -30867,44 +30915,47 @@
   <programme start="20261123230000 -0300" stop="20261124010000 -0300" channel="arte_1_hd.claro.br">
     <title lang="pt">Cine Clube Arte 1 Clássicos: Fahrenheit 451</title>
   </programme>
-  <programme start="20261122000000 -0300" stop="20261122010000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Capitalismo Americano - O Culto à Riqueza: Riqueza Irrestrita</title>
+  <programme start="20261122000000 -0300" stop="20261122010500 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Jazz</title>
   </programme>
-  <programme start="20261122010000 -0300" stop="20261122013500 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Sessão PortaCurtas: Vinicius de Moraes, Um Rapaz de Família</title>
+  <programme start="20261122010500 -0300" stop="20261122020500 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Guignard: Mundo sem Chão</title>
   </programme>
-  <programme start="20261122013500 -0300" stop="20261122030000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Marisa Monte - Infinito ao Meu Redor</title>
+  <programme start="20261122020500 -0300" stop="20261122023500 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Explodindo o Passado - Reflexões no Presente: Energia Nuclear</title>
+  </programme>
+  <programme start="20261122023500 -0300" stop="20261122030000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Grandes Cenas: Morto Não Fala</title>
   </programme>
   <programme start="20261122030000 -0300" stop="20261122040000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">Palmares: Coração Brasileiro, Alma Africana</title>
   </programme>
   <programme start="20261122040000 -0300" stop="20261122043000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Fluxo Azul: Flores que Salvam Águas</title>
+    <title lang="pt">Fluxo Azul: Tecendo o Ciclo - Mulheres e Águas</title>
   </programme>
   <programme start="20261122043000 -0300" stop="20261122050000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">Cidades Possíveis</title>
   </programme>
   <programme start="20261122050000 -0300" stop="20261122053000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Incertezas Críticas: Alberto Manguel</title>
+    <title lang="pt">Incertezas Críticas: Tariq Ali</title>
   </programme>
   <programme start="20261122053000 -0300" stop="20261122060000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Os Ímpares: Rita Lee - Nina Becker e Juliana Linhares</title>
+    <title lang="pt">Os Ímpares: João Donato - Duda Brack e Thalma de Freitas</title>
   </programme>
   <programme start="20261122060000 -0300" stop="20261122063000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Potências da Imagem: Política e Ativismo</title>
+    <title lang="pt">Potências da Imagem: Corpo</title>
   </programme>
   <programme start="20261122063000 -0300" stop="20261122070000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Companhias do Teatro Brasileiro: Grupo Macunaíma</title>
+    <title lang="pt">Companhias do Teatro Brasileiro: Grupo Galpão</title>
   </programme>
   <programme start="20261122070000 -0300" stop="20261122080000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Fronteiras do Pensamento: Para Compreender o Século XXI</title>
+    <title lang="pt">Consciência</title>
   </programme>
   <programme start="20261122080000 -0300" stop="20261122090000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Onde Nascem as Ideias: Juçara</title>
+    <title lang="pt">Onde Nascem as Ideias: Angel Vianna</title>
   </programme>
   <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">As Aventuras da Arte Moderna: Meia Noite em Paris</title>
+    <title lang="pt">A História Oculta das Obras de Arte</title>
   </programme>
   <programme start="20261122100000 -0300" stop="20261122110000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">História do Anarquismo - Sem Deuses, Sem Mestres</title>
@@ -30913,130 +30964,118 @@
     <title lang="pt">Como Nascem os Heróis</title>
   </programme>
   <programme start="20261122114000 -0300" stop="20261122123000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Cineastas: Andrucha Waddington</title>
+    <title lang="pt">Cineastas: Sandra Kogut</title>
   </programme>
   <programme start="20261122123000 -0300" stop="20261122133000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Os Oligarcas de Putin: Conquistando o Ocidente</title>
+    <title lang="pt">Os Oligarcas de Putin: Financiando a Guerra da Ucrânia</title>
   </programme>
   <programme start="20261122133000 -0300" stop="20261122140000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Mistérios do Arquivo</title>
-  </programme>
-  <programme start="20261122140000 -0300" stop="20261122143000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">Agbara Dudu - Narrativas Negras</title>
   </programme>
-  <programme start="20261122143000 -0300" stop="20261122150000 -0300" channel="curta!_hd.claro.br">
+  <programme start="20261122140000 -0300" stop="20261122143000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">101 Canções que Tocaram o Brasil</title>
   </programme>
-  <programme start="20261122150000 -0300" stop="20261122153000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Os Manuscritos Secretos da História: Os Miseráveis de Victor Hugo</title>
+  <programme start="20261122143000 -0300" stop="20261122150000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Os Manuscritos Secretos da História</title>
   </programme>
-  <programme start="20261122153000 -0300" stop="20261122170000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Com a Palavra, Arnaldo Antunes</title>
+  <programme start="20261122150000 -0300" stop="20261122152000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Sessão PortaCurtas: Sergio Ricardo AKA Joao Lutfi</title>
   </programme>
-  <programme start="20261122170000 -0300" stop="20261122180000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Van Gogh, a Criação de Um Mestre</title>
+  <programme start="20261122152000 -0300" stop="20261122162500 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">A Indústria da Ignorância</title>
   </programme>
-  <programme start="20261122180000 -0300" stop="20261122183000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Impressões do Brasil: Viviane Mosé</title>
+  <programme start="20261122162500 -0300" stop="20261122180000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Som, Sol &amp; Surf - Saquarema</title>
   </programme>
-  <programme start="20261122183000 -0300" stop="20261122200000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Watoriki - Conversa com Davi Kopenawa</title>
+  <programme start="20261122180000 -0300" stop="20261122184000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Elas No Singular</title>
   </programme>
-  <programme start="20261122200000 -0300" stop="20261122213500 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Artéria: Poesia em Revista</title>
+  <programme start="20261122184000 -0300" stop="20261122203500 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Não é a Primeira Vez Que Lutamos Pelo Nosso Amor</title>
   </programme>
-  <programme start="20261122213500 -0300" stop="20261122223000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">O Cinema de Spike Lee</title>
+  <programme start="20261122203500 -0300" stop="20261122221500 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">1968 - Um Ano na Vida</title>
   </programme>
-  <programme start="20261122223000 -0300" stop="20261122233500 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">O Poder de Veto: Ameaça à Paz Mundial</title>
-  </programme>
-  <programme start="20261122233500 -0300" stop="20261123000000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Grandes Cenas</title>
+  <programme start="20261122221500 -0300" stop="20261123000000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Eu não sou seu Negro</title>
   </programme>
   <programme start="20261123000000 -0300" stop="20261123003000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Grandes Mitos: A Ilíada</title>
+    <title lang="pt">Grandes Mitos: A Ilíada e a Odisseia</title>
   </programme>
   <programme start="20261123003000 -0300" stop="20261123010000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Os Manuscritos Secretos da História: Os Miseráveis de Victor Hugo</title>
+    <title lang="pt">Os Manuscritos Secretos da História</title>
   </programme>
   <programme start="20261123010000 -0300" stop="20261123020000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Van Gogh, a Criação de Um Mestre</title>
+    <title lang="pt">A Indústria da Ignorância</title>
   </programme>
   <programme start="20261123020000 -0300" stop="20261123033500 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Moto Contínuo - Uma Imersão na São Paulo Companhia de Dança</title>
+    <title lang="pt">Som, Sol &amp; Surf - Saquarema</title>
   </programme>
   <programme start="20261123033500 -0300" stop="20261123040000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Grandes Cenas: Sem Asas</title>
+    <title lang="pt">Sessão PortaCurtas: Sergio Ricardo AKA Joao Lutfi</title>
   </programme>
-  <programme start="20261123040000 -0300" stop="20261123050000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Capitalismo Americano - O Culto à Riqueza: Riqueza Irrestrita</title>
-  </programme>
-  <programme start="20261123050000 -0300" stop="20261123060000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">O Poder de Veto: Ameaça à Paz Mundial</title>
+  <programme start="20261123040000 -0300" stop="20261123060000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Não é a Primeira Vez Que Lutamos Pelo Nosso Amor</title>
   </programme>
   <programme start="20261123060000 -0300" stop="20261123070000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">História do Anarquismo - Sem Deuses, Sem Mestres</title>
   </programme>
   <programme start="20261123070000 -0300" stop="20261123073000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Os Manuscritos Secretos da História: Os Miseráveis de Victor Hugo</title>
+    <title lang="pt">Os Manuscritos Secretos da História</title>
   </programme>
   <programme start="20261123073000 -0300" stop="20261123080000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Ideias para o Mundo: Pierre Lévy</title>
+    <title lang="pt">Elas No Singular</title>
   </programme>
-  <programme start="20261123080000 -0300" stop="20261123091000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Fronteiras do Pensamento: Para Compreender o Século XXI</title>
+  <programme start="20261123080000 -0300" stop="20261123090000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Fronteiras do Pensamento: Nós, Eles, os Outros</title>
   </programme>
-  <programme start="20261123091000 -0300" stop="20261123095000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Incertezas Críticas: Alberto Manguel</title>
+  <programme start="20261123090000 -0300" stop="20261123093000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Incertezas Críticas: Tariq Ali</title>
   </programme>
-  <programme start="20261123095000 -0300" stop="20261123102000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Caixa Postal: Onde Andará Dulce Veiga - Caio Fernando Abreu e Maria Adelaide Amaral</title>
+  <programme start="20261123093000 -0300" stop="20261123100000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Caixa Postal: O Ex-Mágico - Murilo Rubião e Otto Lara Resende</title>
   </programme>
-  <programme start="20261123102000 -0300" stop="20261123120000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Artéria: Poesia em Revista</title>
+  <programme start="20261123100000 -0300" stop="20261123110000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">A Indústria da Ignorância</title>
   </programme>
-  <programme start="20261123120000 -0300" stop="20261123130000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Capitalismo Americano - O Culto à Riqueza: Riqueza Irrestrita</title>
+  <programme start="20261123110000 -0300" stop="20261123120000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Consciência</title>
   </programme>
-  <programme start="20261123130000 -0300" stop="20261123140000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">O Poder de Veto: Ameaça à Paz Mundial</title>
+  <programme start="20261123120000 -0300" stop="20261123140000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Não é a Primeira Vez Que Lutamos Pelo Nosso Amor</title>
   </programme>
   <programme start="20261123140000 -0300" stop="20261123143000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Como Nascem os Heróis</title>
+    <title lang="pt">Histórias da Gente Brasileira: Colônia - Sobrevivência</title>
   </programme>
   <programme start="20261123143000 -0300" stop="20261123150000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">Mistérios do Arquivo</title>
   </programme>
-  <programme start="20261123150000 -0300" stop="20261123163000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Watoriki - Conversa com Davi Kopenawa</title>
+  <programme start="20261123150000 -0300" stop="20261123160000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Mokambo: Força da Tradição Bantu</title>
   </programme>
-  <programme start="20261123163000 -0300" stop="20261123180000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Henfil</title>
+  <programme start="20261123160000 -0300" stop="20261123180000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">Eu não sou seu Negro</title>
   </programme>
   <programme start="20261123180000 -0300" stop="20261123183000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">Cidades Possíveis</title>
   </programme>
   <programme start="20261123183000 -0300" stop="20261123190000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Impressões do Brasil: Fabrício Carpinejar</title>
+    <title lang="pt">Impressões do Brasil: Jeferson Tenório</title>
   </programme>
   <programme start="20261123190000 -0300" stop="20261123200000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Os Oligarcas de Putin: Financiando a Guerra da Ucrânia</title>
+    <title lang="pt">Decifrando a Criptomoeda</title>
   </programme>
   <programme start="20261123200000 -0300" stop="20261123204000 -0300" channel="curta!_hd.claro.br">
     <title lang="pt">101 Canções que Tocaram o Brasil</title>
   </programme>
   <programme start="20261123204000 -0300" stop="20261123212000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Os Ímpares: João Donato - Duda Brack e Thalma de Freitas</title>
+    <title lang="pt">Os Ímpares: Dona Ivone Lara - Marina Íris e Roberta Sá</title>
   </programme>
   <programme start="20261123212000 -0300" stop="20261123220000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Na Trilha do Som: André Abujamra</title>
+    <title lang="pt">Na Trilha do Som: Plínio Profeta</title>
   </programme>
-  <programme start="20261123220000 -0300" stop="20261123233500 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Som, Sol &amp; Surf - Saquarema</title>
-  </programme>
-  <programme start="20261123233500 -0300" stop="20261124000000 -0300" channel="curta!_hd.claro.br">
-    <title lang="pt">Sessão PortaCurtas: Sergio Ricardo AKA Joao Lutfi</title>
+  <programme start="20261123220000 -0300" stop="20261124000000 -0300" channel="curta!_hd.claro.br">
+    <title lang="pt">A Noite de Alaíde</title>
   </programme>
   <programme start="20261122000000 -0300" stop="20261122003000 -0300" channel="fish_tv_hd.claro.br">
     <title lang="pt">Alta Performance</title>
@@ -33217,7 +33256,7 @@
     <title lang="pt">ATP Tour: This Week</title>
   </programme>
   <programme start="20261122003000 -0300" stop="20261122013000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Arthur, Meio Campo do Santos</title>
   </programme>
   <programme start="20261122010000 -0300" stop="20261122020000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Sportscenter</title>
@@ -33226,10 +33265,10 @@
     <title lang="pt">Especial Sulamericana: Campanha do Campeão</title>
   </programme>
   <programme start="20261122020000 -0300" stop="20261122030000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Arthur, Meio Campo do Santos</title>
   </programme>
   <programme start="20261122020000 -0300" stop="20261122040000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Campeonato Brasileiro Série B</title>
+    <title lang="pt">VT - Criciúma x Novorizontino</title>
   </programme>
   <programme start="20261122030000 -0300" stop="20261122050000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">VT - Tottenham Hotspur x Ipswich</title>
@@ -33279,77 +33318,71 @@
   <programme start="20261122140000 -0300" stop="20261122160000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Tênis</title>
   </programme>
-  <programme start="20261122153000 -0300" stop="20261122163000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Especial: América Brasileña</title>
+  <programme start="20261122153000 -0300" stop="20261122170000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Mundo F - Ao Vivo</title>
   </programme>
-  <programme start="20261122160000 -0300" stop="20261122170000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">2026 Wimbledon Official Film</title>
-  </programme>
-  <programme start="20261122163000 -0300" stop="20261122184500 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Atalanta x Internazionale - Ao Vivo</title>
-  </programme>
-  <programme start="20261122170000 -0300" stop="20261122173000 -0300" channel="espn_hd_.claro.br">
+  <programme start="20261122160000 -0300" stop="20261122163000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">ATP Tour: This Week</title>
   </programme>
-  <programme start="20261122173000 -0300" stop="20261122180000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Premier League Stories</title>
+  <programme start="20261122163000 -0300" stop="20261122182500 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">VT - Washington Spirit x Kansas City Current</title>
   </programme>
-  <programme start="20261122180000 -0300" stop="20261122182500 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+  <programme start="20261122170000 -0300" stop="20261122181500 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20261122181500 -0300" stop="20261122203000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Atlético-GO x Vila Nova - Ao Vivo</title>
   </programme>
   <programme start="20261122182500 -0300" stop="20261122192500 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">NFL: Las Vegas Raiders x Denver Broncos - Ao Vivo</title>
   </programme>
-  <programme start="20261122184500 -0300" stop="20261122193000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
-  </programme>
   <programme start="20261122192500 -0300" stop="20261122213000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">NFL: Las Vegas Raiders x Denver Broncos - Ao Vivo</title>
   </programme>
-  <programme start="20261122193000 -0300" stop="20261122213000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Campeonato Argentino - Ao Vivo</title>
+  <programme start="20261122203000 -0300" stop="20261122213000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Equipe F - Ao Vivo</title>
   </programme>
   <programme start="20261122213000 -0300" stop="20261122223000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">ESPN FIlmes: Saban</title>
   </programme>
-  <programme start="20261122213000 -0300" stop="20261122230000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Linha de Passe: Mesa-Redonda - Ao Vivo</title>
+  <programme start="20261122213000 -0300" stop="20261122223000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
   </programme>
   <programme start="20261122223000 -0300" stop="20261123003000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">VT - Juventus x Venezia</title>
   </programme>
-  <programme start="20261122230000 -0300" stop="20261123000000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
+  <programme start="20261122223000 -0300" stop="20261122233000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Resenha: Mário Tilico e Flávio</title>
   </programme>
-  <programme start="20261123000000 -0300" stop="20261123010000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Resenha</title>
+  <programme start="20261122233000 -0300" stop="20261123003000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Especial: América Brasileña</title>
+  </programme>
+  <programme start="20261123003000 -0300" stop="20261123023000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">VT - Liverpool x Manchester United</title>
   </programme>
   <programme start="20261123003000 -0300" stop="20261123013000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Sportscenter</title>
   </programme>
-  <programme start="20261123010000 -0300" stop="20261123030000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">VT - Liverpool x Manchester United</title>
-  </programme>
   <programme start="20261123013000 -0300" stop="20261123040000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">VT - NFL: Tampa Bay Buccaneers x Detroit Lions</title>
   </programme>
-  <programme start="20261123030000 -0300" stop="20261123033000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Especial Sulamericana: Campanha do Campeão</title>
+  <programme start="20261123023000 -0300" stop="20261123033000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Bola da Vez: Arthur, Meio Campo do Santos</title>
   </programme>
-  <programme start="20261123033000 -0300" stop="20261123043000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Bola da Vez</title>
+  <programme start="20261123033000 -0300" stop="20261123053000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">VT - Sassuolo x Genoa</title>
   </programme>
   <programme start="20261123040000 -0300" stop="20261123060000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">VT - Rugby Nations Championship: França x Argentina</title>
   </programme>
-  <programme start="20261123043000 -0300" stop="20261123063000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">VT - Sassuolo x Genoa</title>
+  <programme start="20261123053000 -0300" stop="20261123060000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">Premier League Stories</title>
+  </programme>
+  <programme start="20261123060000 -0300" stop="20261123080000 -0300" channel="espn_hd_.claro.br">
+    <title lang="pt">VT - Kocaelispor x Fenerbahce</title>
   </programme>
   <programme start="20261123060000 -0300" stop="20261123070000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Sportscenter</title>
-  </programme>
-  <programme start="20261123063000 -0300" stop="20261123080000 -0300" channel="espn_hd_.claro.br">
-    <title lang="pt">Linha de Passe: Mesa-Redonda</title>
   </programme>
   <programme start="20261123070000 -0300" stop="20261123080000 -0300" channel="espn_hd_.claro.br">
     <title lang="pt">Sportscenter</title>
@@ -33606,58 +33639,73 @@
   <programme start="20261122010000 -0300" stop="20261122023000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Sail GP</title>
   </programme>
-  <programme start="20261122023000 -0300" stop="20261122043000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">VT - CSKA x Akhmat</title>
+  <programme start="20261122023000 -0300" stop="20261122041500 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">NDU: Economia Mackenzie x Atlética USCS - VT</title>
   </programme>
-  <programme start="20261122043000 -0300" stop="20261122063000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Programação BandSports</title>
+  <programme start="20261122041500 -0300" stop="20261122044500 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20261122044500 -0300" stop="20261122063000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Intercontinental de Futsal: Sporting x Palma - VT</title>
   </programme>
   <programme start="20261122063000 -0300" stop="20261122080000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Sail GP</title>
   </programme>
-  <programme start="20261122080000 -0300" stop="20261122093000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20261122080000 -0300" stop="20261122092000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Sail GP</title>
   </programme>
-  <programme start="20261122093000 -0300" stop="20261122103000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20261122092000 -0300" stop="20261122102500 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Porsche Cup Brasil</title>
   </programme>
-  <programme start="20261122103000 -0300" stop="20261122123000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20261122102500 -0300" stop="20261122123000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Dinamo Makhachkala x Spartak Moscou - Ao Vivo</title>
   </programme>
   <programme start="20261122123000 -0300" stop="20261122130000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Gearing Up</title>
+    <title lang="pt">Fórmula 4 Brasil</title>
   </programme>
   <programme start="20261122130000 -0300" stop="20261122140000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Porsche Cup Brasil</title>
   </programme>
   <programme start="20261122140000 -0300" stop="20261122150000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">AMG Cup</title>
+    <title lang="pt">Esporte Agora - Ao Vivo</title>
   </programme>
   <programme start="20261122150000 -0300" stop="20261122160000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">AMG Cup</title>
   </programme>
-  <programme start="20261122160000 -0300" stop="20261122180000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Catarinense de Vôlei Feminino: Brusque x Pinhalzinho - VT</title>
+  <programme start="20261122160000 -0300" stop="20261122163000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Fórmula 4 Brasil</title>
   </programme>
-  <programme start="20261122180000 -0300" stop="20261122200000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Catarinense de Vôlei Feminino: Brusque x Pinhalzinho - Ao Vivo</title>
-  </programme>
-  <programme start="20261122200000 -0300" stop="20261122213000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Encontro de Craques</title>
-  </programme>
-  <programme start="20261122213000 -0300" stop="20261122233000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">VT - Dinamo Makhachkala x Spartak Moscou</title>
-  </programme>
-  <programme start="20261122233000 -0300" stop="20261123003000 -0300" channel="band_sports_hd_.claro.br">
-    <title lang="pt">Porsche Cup Brasil</title>
-  </programme>
-  <programme start="20261123003000 -0300" stop="20261123013000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20261122163000 -0300" stop="20261122173000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">AMG Cup</title>
   </programme>
-  <programme start="20261123013000 -0300" stop="20261123030000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20261122173000 -0300" stop="20261122175000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20261122175000 -0300" stop="20261122195000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Catarinense de Vôlei Feminino: Brusque x Pinhalzinho - Ao Vivo</title>
+  </programme>
+  <programme start="20261122195000 -0300" stop="20261122213000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Fazenda Futsal x Traipu - Ao Vivo</title>
+  </programme>
+  <programme start="20261122213000 -0300" stop="20261122223000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Encontro de Craques</title>
+  </programme>
+  <programme start="20261122223000 -0300" stop="20261122230000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20261122230000 -0300" stop="20261123010000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">VT - Dinamo Makhachkala x Spartak Moscou</title>
+  </programme>
+  <programme start="20261123010000 -0300" stop="20261123013000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Fórmula 4 Brasil</title>
+  </programme>
+  <programme start="20261123013000 -0300" stop="20261123020000 -0300" channel="band_sports_hd_.claro.br">
+    <title lang="pt">Fórmula 4 Brasil</title>
+  </programme>
+  <programme start="20261123020000 -0300" stop="20261123033000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">Sail GP</title>
   </programme>
-  <programme start="20261123030000 -0300" stop="20261123050000 -0300" channel="band_sports_hd_.claro.br">
+  <programme start="20261123033000 -0300" stop="20261123050000 -0300" channel="band_sports_hd_.claro.br">
     <title lang="pt">SFT Combat</title>
   </programme>
   <programme start="20261123050000 -0300" stop="20261123060000 -0300" channel="band_sports_hd_.claro.br">
@@ -34891,40 +34939,40 @@
     <title lang="pt">VT - ESPN Knockout</title>
   </programme>
   <programme start="20261122030000 -0300" stop="20261122050000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">NWSL</title>
+    <title lang="pt">VT - Washington Spirit x Kansas City Current</title>
   </programme>
-  <programme start="20261122043000 -0300" stop="20261122063000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">VT - Kocaelispor x Fenerbahce</title>
+  <programme start="20261122043000 -0300" stop="20261122060000 -0300" channel="espn_5_hd.claro.br">
+    <title lang="pt">Mundial de Motovelocidade</title>
   </programme>
   <programme start="20261122050000 -0300" stop="20261122060000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">UEFA Nations League Match Day Highlights</title>
   </programme>
+  <programme start="20261122060000 -0300" stop="20261122080000 -0300" channel="espn_5_hd.claro.br">
+    <title lang="pt">VT - Kocaelispor x Fenerbahce</title>
+  </programme>
   <programme start="20261122060000 -0300" stop="20261122083000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">VT - ESPN Knockout</title>
   </programme>
-  <programme start="20261122063000 -0300" stop="20261122073000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Resenha</title>
-  </programme>
-  <programme start="20261122073000 -0300" stop="20261122090000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Mundial de Motovelocidade</title>
+  <programme start="20261122080000 -0300" stop="20261122090000 -0300" channel="espn_5_hd.claro.br">
+    <title lang="pt">Resenha: Mário Tilico e Flávio</title>
   </programme>
   <programme start="20261122083000 -0300" stop="20261122090000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">F1: The Inside Line</title>
   </programme>
   <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Bola da Vez</title>
+    <title lang="pt">Bola da Vez: Arthur, Meio Campo do Santos</title>
   </programme>
   <programme start="20261122090000 -0300" stop="20261122113000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">VT - NBA: Portland Trail Blazers x New York Knicks</title>
   </programme>
   <programme start="20261122100000 -0300" stop="20261122120000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">NWSL</title>
+    <title lang="pt">VT - Washington Spirit x Kansas City Current</title>
   </programme>
   <programme start="20261122113000 -0300" stop="20261122120000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">NBA Action</title>
   </programme>
   <programme start="20261122120000 -0300" stop="20261122140000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">VT - ESPN KnockOut: Yoali Mosqueda x Ruben Lezama</title>
+    <title lang="pt">VT - ESPN Knockout: Yoali Mosqueda x Carlos Mejia</title>
   </programme>
   <programme start="20261122120000 -0300" stop="20261122123000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">UEFA Women's Champions League Highlight Show</title>
@@ -34933,7 +34981,7 @@
     <title lang="pt">Mundial de Motovelocidade</title>
   </programme>
   <programme start="20261122140000 -0300" stop="20261122160000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Campeonato Brasileiro Série B</title>
+    <title lang="pt">VT - Criciúma x Novorizontino</title>
   </programme>
   <programme start="20261122140000 -0300" stop="20261122151500 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">Mundial de Motovelocidade</title>
@@ -34950,14 +34998,17 @@
   <programme start="20261122180000 -0300" stop="20261122183000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">Especial Sulamericana: Campanha do Campeão</title>
   </programme>
-  <programme start="20261122183000 -0300" stop="20261122193000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Especial: América Brasileña</title>
+  <programme start="20261122183000 -0300" stop="20261122190000 -0300" channel="espn_5_hd.claro.br">
+    <title lang="pt">UEFA Women's Champions League Highlight Show</title>
   </programme>
   <programme start="20261122183000 -0300" stop="20261122203000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">VT - Ajax x ADO Den Haag</title>
   </programme>
+  <programme start="20261122190000 -0300" stop="20261122193000 -0300" channel="espn_5_hd.claro.br">
+    <title lang="pt">Premier League Stories</title>
+  </programme>
   <programme start="20261122193000 -0300" stop="20261122203000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Mário Tilico e Flávio</title>
   </programme>
   <programme start="20261122203000 -0300" stop="20261122223000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">VT - Trabzonspor x Eyuspor</title>
@@ -34996,7 +35047,7 @@
     <title lang="pt">Especial Sulamericana: Campanha do Campeão</title>
   </programme>
   <programme start="20261123053000 -0300" stop="20261123073000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Campeonato Argentino</title>
+    <title lang="pt">VT - River Plate x Lanús</title>
   </programme>
   <programme start="20261123060000 -0300" stop="20261123080000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">VT - Ajax x ADO Den Haag</title>
@@ -35017,7 +35068,7 @@
     <title lang="pt">NBA Action</title>
   </programme>
   <programme start="20261123113000 -0300" stop="20261123133000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Campeonato Argentino</title>
+    <title lang="pt">VT - River Plate x Lanús</title>
   </programme>
   <programme start="20261123113000 -0300" stop="20261123133000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">VT - Tênis</title>
@@ -35035,25 +35086,25 @@
     <title lang="pt">Mundial de Motovelocidade</title>
   </programme>
   <programme start="20261123173000 -0300" stop="20261123193000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Campeonato Brasileiro Série B</title>
+    <title lang="pt">VT - Atlético-GO x Vila Nova</title>
   </programme>
   <programme start="20261123173000 -0300" stop="20261123180000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">Premier League Stories</title>
   </programme>
   <programme start="20261123180000 -0300" stop="20261123190000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Mário Tilico e Flávio</title>
   </programme>
   <programme start="20261123190000 -0300" stop="20261123200000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">ESPN FIlmes: Saban</title>
   </programme>
-  <programme start="20261123193000 -0300" stop="20261123203000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Especial: América Brasileña</title>
+  <programme start="20261123193000 -0300" stop="20261123213000 -0300" channel="espn_5_hd.claro.br">
+    <title lang="pt">VT - Criciúma x Fortaleza</title>
   </programme>
   <programme start="20261123200000 -0300" stop="20261123220000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">VT - Atlético-MG x Boca Juniors</title>
   </programme>
-  <programme start="20261123203000 -0300" stop="20261123223000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">Campeonato Brasileiro Série B</title>
+  <programme start="20261123213000 -0300" stop="20261123223000 -0300" channel="espn_5_hd.claro.br">
+    <title lang="pt">Especial: América Brasileña</title>
   </programme>
   <programme start="20261123220000 -0300" stop="20261123230000 -0300" channel="espn_5_hd.claro.br">
     <title lang="pt">VT - NFL: Tampa Bay Buccaneers x Detroit Lions</title>
@@ -35062,7 +35113,7 @@
     <title lang="pt">VT - Kocaelispor x Fenerbahce</title>
   </programme>
   <programme start="20261123230000 -0300" stop="20261124010000 -0300" channel="espn_5_hd.claro.br">
-    <title lang="pt">USL Championship</title>
+    <title lang="pt">VT - Sacramento Republic FC x Louisville City FC</title>
   </programme>
   <programme start="20261122015500 -0300" stop="20261122055500 -0300" channel="cnn_brasil_hd.claro.br">
     <title lang="pt">Programação CNN Brasil</title>
@@ -35275,7 +35326,7 @@
     <title lang="pt">Trato Feito</title>
   </programme>
   <programme start="20261122000000 -0300" stop="20261122020000 -0300" channel="espn_2_hd.claro.br">
-    <title lang="pt">ESPN KnockOut: Yoali Mosqueda x Ruben Lezama - Ao Vivo</title>
+    <title lang="pt">ESPN Knockout: Yoali Mosqueda x Carlos Mejia - Ao Vivo</title>
   </programme>
   <programme start="20261122020000 -0300" stop="20261122030000 -0300" channel="espn_2_hd.claro.br">
     <title lang="pt">Mundial de Motovelocidade</title>
@@ -35316,11 +35367,14 @@
   <programme start="20261122150000 -0300" stop="20261122180000 -0300" channel="espn_2_hd.claro.br">
     <title lang="pt">NFL: Tampa Bay Buccaneers x Detroit Lions - Ao Vivo</title>
   </programme>
-  <programme start="20261122180000 -0300" stop="20261122200000 -0300" channel="espn_2_hd.claro.br">
-    <title lang="pt">NWSL</title>
+  <programme start="20261122180000 -0300" stop="20261122183000 -0300" channel="espn_2_hd.claro.br">
+    <title lang="pt">UEFA Women's Champions League Highlight Show</title>
   </programme>
-  <programme start="20261122200000 -0300" stop="20261122210000 -0300" channel="espn_2_hd.claro.br">
-    <title lang="pt">Bola da Vez</title>
+  <programme start="20261122183000 -0300" stop="20261122185000 -0300" channel="espn_2_hd.claro.br">
+    <title lang="pt">Momento ESPN</title>
+  </programme>
+  <programme start="20261122185000 -0300" stop="20261122210000 -0300" channel="espn_2_hd.claro.br">
+    <title lang="pt">River Plate x Lanús - Ao Vivo</title>
   </programme>
   <programme start="20261122210000 -0300" stop="20261122233000 -0300" channel="espn_2_hd.claro.br">
     <title lang="pt">NHL: Pittsburgh Penguins x Dallas Stars - Ao Vivo</title>
@@ -35332,22 +35386,25 @@
     <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
   </programme>
   <programme start="20261123030000 -0300" stop="20261123050000 -0300" channel="espn_2_hd.claro.br">
-    <title lang="pt">Ncaa Field Hockey Championship</title>
+    <title lang="pt">VT - NCAA Field Hockey Championship: Harvard x Maryland</title>
   </programme>
   <programme start="20261123050000 -0300" stop="20261123070000 -0300" channel="espn_2_hd.claro.br">
-    <title lang="pt">Ncaa Field Hockey Championship</title>
+    <title lang="pt">VT - NCAA Field Hockey Championship: UConn x Northwestern</title>
   </programme>
   <programme start="20261123070000 -0300" stop="20261123090000 -0300" channel="espn_2_hd.claro.br">
-    <title lang="pt">VT - Tênis</title>
+    <title lang="pt">VT - Tênis: Nitto ATP Finals</title>
   </programme>
   <programme start="20261123090000 -0300" stop="20261123100000 -0300" channel="espn_2_hd.claro.br">
     <title lang="pt">Sportscenter Americano - Ao Vivo</title>
   </programme>
-  <programme start="20261123100000 -0300" stop="20261123113000 -0300" channel="espn_2_hd.claro.br">
-    <title lang="pt">Linha de Passe: Mesa-Redonda</title>
+  <programme start="20261123100000 -0300" stop="20261123103000 -0300" channel="espn_2_hd.claro.br">
+    <title lang="pt">Especial Sulamericana: Campanha do Campeão</title>
+  </programme>
+  <programme start="20261123103000 -0300" stop="20261123113000 -0300" channel="espn_2_hd.claro.br">
+    <title lang="pt">Bola da Vez: Arthur, Meio Campo do Santos</title>
   </programme>
   <programme start="20261123113000 -0300" stop="20261123123000 -0300" channel="espn_2_hd.claro.br">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Mário Tilico e Flávio</title>
   </programme>
   <programme start="20261123123000 -0300" stop="20261123150000 -0300" channel="espn_2_hd.claro.br">
     <title lang="pt">VT - NFL: Tampa Bay Buccaneers x Detroit Lions</title>
@@ -35359,7 +35416,7 @@
     <title lang="pt">Especial Sulamericana: Campanha do Campeão</title>
   </programme>
   <programme start="20261123180000 -0300" stop="20261123200000 -0300" channel="espn_2_hd.claro.br">
-    <title lang="pt">USL Championship</title>
+    <title lang="pt">VT - Sacramento Republic FC x Louisville City FC</title>
   </programme>
   <programme start="20261123200000 -0300" stop="20261123220000 -0300" channel="espn_2_hd.claro.br">
     <title lang="pt">Monday Night Countdown - Ao Vivo</title>
@@ -35680,70 +35737,43 @@
     <title lang="pt">The Night Shift</title>
   </programme>
   <programme start="20261122060000 -0300" stop="20261122070000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Bettys Diagnose</title>
+    <title lang="pt">Grey's Anatomy</title>
   </programme>
-  <programme start="20261122070000 -0300" stop="20261122080000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Bettys Diagnose</title>
-  </programme>
-  <programme start="20261122080000 -0300" stop="20261122083000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261122070000 -0300" stop="20261122073000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261122083000 -0300" stop="20261122090000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">The Nanny</title>
+  <programme start="20261122073000 -0300" stop="20261122092000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Pixels</title>
   </programme>
-  <programme start="20261122090000 -0300" stop="20261122093000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">The Nanny</title>
+  <programme start="20261122092000 -0300" stop="20261122115500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">007 - Operação Skyfall</title>
   </programme>
-  <programme start="20261122093000 -0300" stop="20261122100000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">The Nanny</title>
+  <programme start="20261122115500 -0300" stop="20261122133500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Busca Implacável</title>
   </programme>
-  <programme start="20261122100000 -0300" stop="20261122103000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  <programme start="20261122133500 -0300" stop="20261122151500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Busca Implacável 2</title>
   </programme>
-  <programme start="20261122103000 -0300" stop="20261122110000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  <programme start="20261122151500 -0300" stop="20261122171000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Busca Implacável 3</title>
   </programme>
-  <programme start="20261122110000 -0300" stop="20261122113000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  <programme start="20261122171000 -0300" stop="20261122190000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Corra!</title>
   </programme>
-  <programme start="20261122113000 -0300" stop="20261122120000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-  </programme>
-  <programme start="20261122120000 -0300" stop="20261122141000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Esquadrão Suicida</title>
-  </programme>
-  <programme start="20261122141000 -0300" stop="20261122143500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-  </programme>
-  <programme start="20261122143500 -0300" stop="20261122150000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-  </programme>
-  <programme start="20261122150000 -0300" stop="20261122172000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">O Ataque</title>
-  </programme>
-  <programme start="20261122172000 -0300" stop="20261122190500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">O Atirador: O Fim de Um Assassino</title>
-  </programme>
-  <programme start="20261122190500 -0300" stop="20261122220000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261122190000 -0300" stop="20261122220000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">John Wick 4: Baba Yaga</title>
   </programme>
-  <programme start="20261122220000 -0300" stop="20261122230000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+  <programme start="20261122220000 -0300" stop="20261123002000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">O Protetor</title>
   </programme>
-  <programme start="20261122230000 -0300" stop="20261122235000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Shaking The Bar</title>
+  <programme start="20261123002000 -0300" stop="20261123021000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Corra!</title>
   </programme>
-  <programme start="20261122235000 -0300" stop="20261123015500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Shaking The Bar</title>
-  </programme>
-  <programme start="20261123015500 -0300" stop="20261123025000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123021000 -0300" stop="20261123031000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Grey's Anatomy</title>
   </programme>
-  <programme start="20261123025000 -0300" stop="20261123034000 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123031000 -0300" stop="20261123041000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Grey's Anatomy</title>
-  </programme>
-  <programme start="20261123034000 -0300" stop="20261123041000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">The Nanny</title>
   </programme>
   <programme start="20261123041000 -0300" stop="20261123044000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
@@ -35757,62 +35787,59 @@
   <programme start="20261123060000 -0300" stop="20261123070000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261123070000 -0300" stop="20261123075500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123070000 -0300" stop="20261123080000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Bettys Diagnose</title>
   </programme>
-  <programme start="20261123075500 -0300" stop="20261123082500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123080000 -0300" stop="20261123083000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261123082500 -0300" stop="20261123085500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123083000 -0300" stop="20261123090000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261123085500 -0300" stop="20261123092500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123090000 -0300" stop="20261123093000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261123092500 -0300" stop="20261123095500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123093000 -0300" stop="20261123100000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">The Nanny</title>
   </programme>
-  <programme start="20261123095500 -0300" stop="20261123102500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">The Nanny</title>
-  </programme>
-  <programme start="20261123102500 -0300" stop="20261123105500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123100000 -0300" stop="20261123103000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123105500 -0300" stop="20261123112500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123103000 -0300" stop="20261123110000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123112500 -0300" stop="20261123115500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123110000 -0300" stop="20261123113000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123115500 -0300" stop="20261123122500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123113000 -0300" stop="20261123120000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123122500 -0300" stop="20261123142500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">O Vingador do Futuro</title>
+  <programme start="20261123120000 -0300" stop="20261123135000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Pixels</title>
   </programme>
-  <programme start="20261123142500 -0300" stop="20261123145500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123135000 -0300" stop="20261123142000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123145500 -0300" stop="20261123152500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123142000 -0300" stop="20261123145000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123152500 -0300" stop="20261123155500 -0300" channel="sony_hd_.claro.br">
+  <programme start="20261123145000 -0300" stop="20261123152000 -0300" channel="sony_hd_.claro.br">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
   </programme>
-  <programme start="20261123155500 -0300" stop="20261123162500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  <programme start="20261123152000 -0300" stop="20261123170500 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Vencer ou Morrer</title>
   </programme>
-  <programme start="20261123162500 -0300" stop="20261123181000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">De Volta Ao Jogo</title>
+  <programme start="20261123170500 -0300" stop="20261123200000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">John Wick 4: Baba Yaga</title>
   </programme>
-  <programme start="20261123181000 -0300" stop="20261123200000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Nico - Acima da Lei</title>
+  <programme start="20261123200000 -0300" stop="20261123215000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Segundas Retrô: Rambo Iii</title>
   </programme>
-  <programme start="20261123200000 -0300" stop="20261123224000 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">Segundas Retrô: Armageddon</title>
+  <programme start="20261123215000 -0300" stop="20261123234000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Reação Em Cadeia</title>
   </programme>
-  <programme start="20261123224000 -0300" stop="20261124002500 -0300" channel="sony_hd_.claro.br">
-    <title lang="pt">O Paciente - O Caso Tancredo Neves</title>
+  <programme start="20261123234000 -0300" stop="20261124003000 -0300" channel="sony_hd_.claro.br">
+    <title lang="pt">Mamonas Assassinas</title>
   </programme>
   <programme start="20261122000000 -0300" stop="20261122040000 -0300" channel="disney_channel_hd_.claro.br">
     <title lang="pt">COMUNICADO IMPORTANTE</title>
@@ -36034,13 +36061,13 @@
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261122212400 -0300" stop="20261122214700 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261122214700 -0300" stop="20261122220900 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261122220900 -0300" stop="20261122223200 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261122223200 -0300" stop="20261122225400 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
@@ -36172,10 +36199,10 @@
     <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261123114700 -0300" stop="20261123120900 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261123120900 -0300" stop="20261123123200 -0300" channel="gloob_hd_.claro.br">
-    <title lang="pt">Miraculous – As Aventuras De L</title>
+    <title lang="pt">Miraculous – As Aventuras De Ladybug</title>
   </programme>
   <programme start="20261123123200 -0300" stop="20261123125700 -0300" channel="gloob_hd_.claro.br">
     <title lang="pt">D.P.A. - Detetives Do Prédio A</title>
@@ -43053,7 +43080,7 @@
   <programme start="20261123235200 -0300" stop="20261124001500 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
-  <programme start="20261122010400 -0300" stop="20261122014600 -0300" channel="space_hd_.claro.br">
+  <programme start="20261122005300 -0300" stop="20261122014600 -0300" channel="space_hd_.claro.br">
     <title lang="pt">C.S.I. Miami</title>
   </programme>
   <programme start="20261122014600 -0300" stop="20261122023100 -0300" channel="space_hd_.claro.br">
@@ -46338,20 +46365,11 @@
   <programme start="20261122213000 -0300" stop="20261122223000 -0300" channel="rede_vida_hd.claro.br">
     <title lang="pt">Acima de Tudo o Amor</title>
   </programme>
-  <programme start="20261122223000 -0300" stop="20261122230000 -0300" channel="rede_vida_hd.claro.br">
+  <programme start="20261122223000 -0300" stop="20261122233000 -0300" channel="rede_vida_hd.claro.br">
+    <title lang="pt">Quem sou Eu?</title>
+  </programme>
+  <programme start="20261122233000 -0300" stop="20261123000000 -0300" channel="rede_vida_hd.claro.br">
     <title lang="pt">Kerigma</title>
-  </programme>
-  <programme start="20261122230000 -0300" stop="20261122233000 -0300" channel="rede_vida_hd.claro.br">
-    <title lang="pt">Redevida Serviço</title>
-  </programme>
-  <programme start="20261122233000 -0300" stop="20261122234000 -0300" channel="rede_vida_hd.claro.br">
-    <title lang="pt">Meditação da Palavra Com Frei Gilson</title>
-  </programme>
-  <programme start="20261122234000 -0300" stop="20261122235500 -0300" channel="rede_vida_hd.claro.br">
-    <title lang="pt">Terço da Misericórdia</title>
-  </programme>
-  <programme start="20261122235500 -0300" stop="20261123000000 -0300" channel="rede_vida_hd.claro.br">
-    <title lang="pt">Terço Bizantino</title>
   </programme>
   <programme start="20261123000000 -0300" stop="20261123010000 -0300" channel="rede_vida_hd.claro.br">
     <title lang="pt">Conta Comigo</title>
@@ -46683,14 +46701,17 @@
   <programme start="20261122083000 -0300" stop="20261122090000 -0300" channel="agro_mais_hd.claro.br">
     <title lang="pt">SC Agricultura</title>
   </programme>
-  <programme start="20261122090000 -0300" stop="20261122140000 -0300" channel="agro_mais_hd.claro.br">
-    <title lang="pt">Jumasa Máquinas</title>
+  <programme start="20261122090000 -0300" stop="20261122100000 -0300" channel="agro_mais_hd.claro.br">
+    <title lang="pt">Programa Leilões</title>
   </programme>
-  <programme start="20261122140000 -0300" stop="20261122170000 -0300" channel="agro_mais_hd.claro.br">
+  <programme start="20261122100000 -0300" stop="20261122140000 -0300" channel="agro_mais_hd.claro.br">
     <title lang="pt">Leilão Virtual Fazenda Preciosa Miguel Faitta</title>
   </programme>
-  <programme start="20261122170000 -0300" stop="20261122210000 -0300" channel="agro_mais_hd.claro.br">
+  <programme start="20261122140000 -0300" stop="20261122190000 -0300" channel="agro_mais_hd.claro.br">
     <title lang="pt">Leilão Virtual Fazenda Preciosa Miguel Faitta</title>
+  </programme>
+  <programme start="20261122190000 -0300" stop="20261122210000 -0300" channel="agro_mais_hd.claro.br">
+    <title lang="pt">Programa Leilões</title>
   </programme>
   <programme start="20261122210000 -0300" stop="20261122220000 -0300" channel="agro_mais_hd.claro.br">
     <title lang="pt">Coração de Pescador</title>
@@ -47040,17 +47061,20 @@
   <programme start="20261123175500 -0300" stop="20261123180000 -0300" channel="tv_aparecida_(espelho).claro.br">
     <title lang="pt">Mensagem de Fé</title>
   </programme>
-  <programme start="20261123180000 -0300" stop="20261123191500 -0300" channel="tv_aparecida_(espelho).claro.br">
-    <title lang="pt">Missa de Aparecida - Santuário Nacional</title>
+  <programme start="20261123180000 -0300" stop="20261123190000 -0300" channel="tv_aparecida_(espelho).claro.br">
+    <title lang="pt">Missa de Aparecida - Basílica Histórica</title>
   </programme>
-  <programme start="20261123191500 -0300" stop="20261123194500 -0300" channel="tv_aparecida_(espelho).claro.br">
+  <programme start="20261123190000 -0300" stop="20261123193000 -0300" channel="tv_aparecida_(espelho).claro.br">
     <title lang="pt">Terço de Aparecida</title>
   </programme>
-  <programme start="20261123194500 -0300" stop="20261123221500 -0300" channel="tv_aparecida_(espelho).claro.br">
+  <programme start="20261123193000 -0300" stop="20261123220000 -0300" channel="tv_aparecida_(espelho).claro.br">
     <title lang="pt">Aparecida Sertaneja</title>
   </programme>
-  <programme start="20261123221500 -0300" stop="20261123231500 -0300" channel="tv_aparecida_(espelho).claro.br">
+  <programme start="20261123220000 -0300" stop="20261123230000 -0300" channel="tv_aparecida_(espelho).claro.br">
     <title lang="pt">Viagem Cultural</title>
+  </programme>
+  <programme start="20261123230000 -0300" stop="20261123231500 -0300" channel="tv_aparecida_(espelho).claro.br">
+    <title lang="pt">Devotos Mirins Show</title>
   </programme>
   <programme start="20261123231500 -0300" stop="20261123232000 -0300" channel="tv_aparecida_(espelho).claro.br">
     <title lang="pt">Diálogos: Qual Caminho Seguir?</title>
