@@ -3231,15 +3231,6 @@
   <programme start="20261126230000 -0300" stop="20261127000000 -0300" channel="rede_tv.claro.br">
     <title lang="pt">Dinheiro Na Conta</title>
   </programme>
-  <programme start="20261125001500 -0300" stop="20261125011500 -0300" channel="sbt_(vtv).claro.br">
-    <title lang="pt">The Noite com Danilo Gentili</title>
-  </programme>
-  <programme start="20261125011500 -0300" stop="20261125013000 -0300" channel="sbt_(vtv).claro.br">
-    <title lang="pt">Operação Mesquita</title>
-  </programme>
-  <programme start="20261125013000 -0300" stop="20261125060000 -0300" channel="sbt_(vtv).claro.br">
-    <title lang="pt">SBT Notícias</title>
-  </programme>
   <programme start="20261125060000 -0300" stop="20261125083000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Se Liga Brasil</title>
   </programme>
@@ -3273,22 +3264,25 @@
   <programme start="20261125194500 -0300" stop="20261125204500 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">SBT Brasil</title>
   </programme>
-  <programme start="20261125204500 -0300" stop="20261125220000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20261125204500 -0300" stop="20261125214500 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Amor Valente</title>
   </programme>
-  <programme start="20261125220000 -0300" stop="20261125230000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20261125214500 -0300" stop="20261125221500 -0300" channel="sbt_(vtv).claro.br">
+    <title lang="pt">Sessão +SBT</title>
+  </programme>
+  <programme start="20261125221500 -0300" stop="20261125230000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Programa do Ratinho</title>
   </programme>
-  <programme start="20261125230000 -0300" stop="20261126000000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20261125230000 -0300" stop="20261125234500 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">The Voice Brasil - Edição Especial</title>
   </programme>
-  <programme start="20261126000000 -0300" stop="20261126010000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20261125234500 -0300" stop="20261126004500 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">The Noite com Danilo Gentili</title>
   </programme>
-  <programme start="20261126010000 -0300" stop="20261126013000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20261126004500 -0300" stop="20261126011500 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">Operação Mesquita</title>
   </programme>
-  <programme start="20261126013000 -0300" stop="20261126060000 -0300" channel="sbt_(vtv).claro.br">
+  <programme start="20261126011500 -0300" stop="20261126060000 -0300" channel="sbt_(vtv).claro.br">
     <title lang="pt">SBT Notícias</title>
   </programme>
   <programme start="20261126060000 -0300" stop="20261126083000 -0300" channel="sbt_(vtv).claro.br">
@@ -5032,19 +5026,19 @@
     <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
   </programme>
   <programme start="20261125000000 -0300" stop="20261125010000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
   </programme>
   <programme start="20261125010000 -0300" stop="20261125030000 -0300" channel="globonews.claro.br">
     <title lang="pt">GloboNews Em Pauta</title>
   </programme>
   <programme start="20261125030000 -0300" stop="20261125033000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Roberto D’Avila</title>
+    <title lang="pt">Roberto D'avila</title>
   </programme>
   <programme start="20261125033000 -0300" stop="20261125050000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+    <title lang="pt">Jornal Das Dez</title>
   </programme>
   <programme start="20261125050000 -0300" stop="20261125060000 -0300" channel="globonews.claro.br">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
   </programme>
   <programme start="20261125060000 -0300" stop="20261125063000 -0300" channel="globonews.claro.br">
     <title lang="pt">Jornal GloboNews - Ao Vivo</title>
@@ -5613,20 +5607,95 @@
   <programme start="20261126050000 -0300" stop="20261126063000 -0300" channel="multishow.claro.br">
     <title lang="pt">Cine Hahaha: Minha Mãe É Uma Peça</title>
   </programme>
-  <programme start="20261126063000 -0300" stop="20261126103000 -0300" channel="multishow.claro.br">
+  <programme start="20261126063000 -0300" stop="20261126070000 -0300" channel="multishow.claro.br">
     <title lang="pt">Tô De Graça</title>
   </programme>
-  <programme start="20261126103000 -0300" stop="20261126143000 -0300" channel="multishow.claro.br">
+  <programme start="20261126070000 -0300" stop="20261126072800 -0300" channel="multishow.claro.br">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20261126072800 -0300" stop="20261126075400 -0300" channel="multishow.claro.br">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20261126075400 -0300" stop="20261126080000 -0300" channel="multishow.claro.br">
+    <title lang="pt">Humor Multishow</title>
+  </programme>
+  <programme start="20261126080000 -0300" stop="20261126083000 -0300" channel="multishow.claro.br">
+    <title lang="pt">Top Tvz</title>
+  </programme>
+  <programme start="20261126083000 -0300" stop="20261126085900 -0300" channel="multishow.claro.br">
     <title lang="pt">Tô De Graça</title>
   </programme>
-  <programme start="20261126143000 -0300" stop="20261126183000 -0300" channel="multishow.claro.br">
+  <programme start="20261126085900 -0300" stop="20261126092900 -0300" channel="multishow.claro.br">
     <title lang="pt">Tô De Graça</title>
   </programme>
-  <programme start="20261126183000 -0300" stop="20261126223000 -0300" channel="multishow.claro.br">
+  <programme start="20261126092900 -0300" stop="20261126095800 -0300" channel="multishow.claro.br">
+    <title lang="pt">Volte Sempre</title>
+  </programme>
+  <programme start="20261126095800 -0300" stop="20261126102800 -0300" channel="multishow.claro.br">
     <title lang="pt">Tô De Graça</title>
   </programme>
-  <programme start="20261126223000 -0300" stop="20261127023000 -0300" channel="multishow.claro.br">
+  <programme start="20261126102800 -0300" stop="20261126105400 -0300" channel="multishow.claro.br">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20261126105400 -0300" stop="20261126112000 -0300" channel="multishow.claro.br">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20261126112000 -0300" stop="20261126120900 -0300" channel="multishow.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126120900 -0300" stop="20261126124200 -0300" channel="multishow.claro.br">
+    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
+  </programme>
+  <programme start="20261126124200 -0300" stop="20261126131500 -0300" channel="multishow.claro.br">
+    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
+  </programme>
+  <programme start="20261126131500 -0300" stop="20261126140200 -0300" channel="multishow.claro.br">
+    <title lang="pt">Sessão Nostalgia - Toma Lá Da Cá</title>
+  </programme>
+  <programme start="20261126140200 -0300" stop="20261126142700 -0300" channel="multishow.claro.br">
     <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20261126142700 -0300" stop="20261126151500 -0300" channel="multishow.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126151500 -0300" stop="20261126160700 -0300" channel="multishow.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126160700 -0300" stop="20261126165600 -0300" channel="multishow.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126165600 -0300" stop="20261126173000 -0300" channel="multishow.claro.br">
+    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
+  </programme>
+  <programme start="20261126173000 -0300" stop="20261126180000 -0300" channel="multishow.claro.br">
+    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
+  </programme>
+  <programme start="20261126180000 -0300" stop="20261126191500 -0300" channel="multishow.claro.br">
+    <title lang="pt">Tvz Ao Vivo: Tvz Com Wanessa Camargo E Gominho - Netto Brito e Belle Daltro (Ao Vivo)</title>
+  </programme>
+  <programme start="20261126191500 -0300" stop="20261126194600 -0300" channel="multishow.claro.br">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20261126194600 -0300" stop="20261126202900 -0300" channel="multishow.claro.br">
+    <title lang="pt">Sessão Nostalgia - Toma Lá Da Cá</title>
+  </programme>
+  <programme start="20261126202900 -0300" stop="20261126210400 -0300" channel="multishow.claro.br">
+    <title lang="pt">Sessão Nostalgia - A Grande Família</title>
+  </programme>
+  <programme start="20261126210400 -0300" stop="20261126213800 -0300" channel="multishow.claro.br">
+    <title lang="pt">Sessão Nostalgia - A Grande Família</title>
+  </programme>
+  <programme start="20261126213800 -0300" stop="20261126223100 -0300" channel="multishow.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126223100 -0300" stop="20261126230000 -0300" channel="multishow.claro.br">
+    <title lang="pt">Volte Sempre</title>
+  </programme>
+  <programme start="20261126230000 -0300" stop="20261126233300 -0300" channel="multishow.claro.br">
+    <title lang="pt">Atenção Para O Refrão</title>
+  </programme>
+  <programme start="20261126233300 -0300" stop="20261127010300 -0300" channel="multishow.claro.br">
+    <title lang="pt">Paulo Gustavo Em 3 Atos</title>
   </programme>
   <programme start="20261125000000 -0300" stop="20261125010000 -0300" channel="shoptime.claro.br">
     <title lang="pt">Casa e Conforto</title>
@@ -7044,11 +7113,8 @@
   <programme start="20261126230700 -0300" stop="20261126233400 -0300" channel="modo_viagem.claro.br">
     <title lang="pt">A Vida É Uma Passagem</title>
   </programme>
-  <programme start="20261126233400 -0300" stop="20261126235900 -0300" channel="modo_viagem.claro.br">
+  <programme start="20261126233400 -0300" stop="20261127000000 -0300" channel="modo_viagem.claro.br">
     <title lang="pt">A Vida É Uma Passagem</title>
-  </programme>
-  <programme start="20261126235900 -0300" stop="20261127002500 -0300" channel="modo_viagem.claro.br">
-    <title lang="pt">Vinícolas Ao Redor Do Mundo</title>
   </programme>
   <programme start="20261125002200 -0300" stop="20261125004900 -0300" channel="off.claro.br">
     <title lang="pt">Naufrágios</title>
@@ -19446,8 +19512,11 @@
   <programme start="20261126074000 -0300" stop="20261126094000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">João, O Maestro</title>
   </programme>
-  <programme start="20261126094000 -0300" stop="20261126113000 -0300" channel="canal_brasil.claro.br">
+  <programme start="20261126094000 -0300" stop="20261126112100 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Um Caipira Em Bariloche</title>
+  </programme>
+  <programme start="20261126112100 -0300" stop="20261126113000 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Noturnas: Isabelita Dos Patins</title>
   </programme>
   <programme start="20261126113000 -0300" stop="20261126124000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Quem É Essa Mulher?</title>
@@ -19470,8 +19539,11 @@
   <programme start="20261126141500 -0300" stop="20261126143000 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Esquinas - Pílulas - Limousine Party</title>
   </programme>
-  <programme start="20261126143000 -0300" stop="20261126155000 -0300" channel="canal_brasil.claro.br">
+  <programme start="20261126143000 -0300" stop="20261126154300 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Servidão</title>
+  </programme>
+  <programme start="20261126154300 -0300" stop="20261126155000 -0300" channel="canal_brasil.claro.br">
+    <title lang="pt">Noturnas: Lorna Washington</title>
   </programme>
   <programme start="20261126155000 -0300" stop="20261126172500 -0300" channel="canal_brasil.claro.br">
     <title lang="pt">Dedo Na Ferida</title>
@@ -19933,7 +20005,7 @@
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
   <programme start="20261125103000 -0300" stop="20261125123000 -0300" channel="tnt.claro.br">
-    <title lang="pt">Real Madrid x PSV - Ao Vivo</title>
+    <title lang="pt">VT - Real Madrid x PSV</title>
   </programme>
   <programme start="20261125123000 -0300" stop="20261125134700 -0300" channel="tnt.claro.br">
     <title lang="pt">Pré-Jogo UEFA Champions League</title>
@@ -19990,7 +20062,7 @@
     <title lang="pt">O Homem de Aço</title>
   </programme>
   <programme start="20261126084900 -0300" stop="20261126104900 -0300" channel="tnt.claro.br">
-    <title lang="pt">Paris Saint-Germain x Roma - Ao Vivo</title>
+    <title lang="pt">VT - Paris Saint-Germain x Roma</title>
   </programme>
   <programme start="20261126104900 -0300" stop="20261126111200 -0300" channel="tnt.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
@@ -25158,56 +25230,38 @@
   <programme start="20261125035000 -0300" stop="20261125055000 -0300" channel="combate.claro.br">
     <title lang="pt">Bkfc Fight Night: Richardson x Oxendine</title>
   </programme>
-  <programme start="20261125055000 -0300" stop="20261125072500 -0300" channel="combate.claro.br">
+  <programme start="20261125055000 -0300" stop="20261125095000 -0300" channel="combate.claro.br">
     <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125072500 -0300" stop="20261125101500 -0300" channel="combate.claro.br">
-    <title lang="pt">Glory 110</title>
+  <programme start="20261125095000 -0300" stop="20261125135000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125101500 -0300" stop="20261125135500 -0300" channel="combate.claro.br">
-    <title lang="pt">Acbjj 23</title>
+  <programme start="20261125135000 -0300" stop="20261125175000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125135500 -0300" stop="20261125161500 -0300" channel="combate.claro.br">
-    <title lang="pt">One Fight Night 49</title>
+  <programme start="20261125175000 -0300" stop="20261125215000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125161500 -0300" stop="20261125170000 -0300" channel="combate.claro.br">
-    <title lang="pt">Ippon - Ep. 3</title>
+  <programme start="20261125215000 -0300" stop="20261126015000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125170000 -0300" stop="20261125180000 -0300" channel="combate.claro.br">
-    <title lang="pt">Mundo Da Luta - Ep.16</title>
+  <programme start="20261126015000 -0300" stop="20261126055000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125180000 -0300" stop="20261125210000 -0300" channel="combate.claro.br">
-    <title lang="pt">Kings Championship</title>
+  <programme start="20261126055000 -0300" stop="20261126095000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125210000 -0300" stop="20261125234500 -0300" channel="combate.claro.br">
-    <title lang="pt">Boxe: Navarrete x Foster</title>
+  <programme start="20261126095000 -0300" stop="20261126135000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125234500 -0300" stop="20261126015000 -0300" channel="combate.claro.br">
-    <title lang="pt">Boxe - Fress x Xhoxhaj Iii</title>
+  <programme start="20261126135000 -0300" stop="20261126175000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261126015000 -0300" stop="20261126035000 -0300" channel="combate.claro.br">
-    <title lang="pt">Bkfc Fight Night: Richardson x Oxendine</title>
+  <programme start="20261126175000 -0300" stop="20261126215000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261126035000 -0300" stop="20261126075000 -0300" channel="combate.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126075000 -0300" stop="20261126115000 -0300" channel="combate.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126115000 -0300" stop="20261126155000 -0300" channel="combate.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126155000 -0300" stop="20261126195000 -0300" channel="combate.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126195000 -0300" stop="20261126235000 -0300" channel="combate.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126235000 -0300" stop="20261126235900 -0300" channel="combate.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126235900 -0300" stop="20261127040000 -0300" channel="combate.claro.br">
-    <title lang="pt">Programação Combate</title>
+  <programme start="20261126215000 -0300" stop="20261127015000 -0300" channel="combate.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
   <programme start="20261125000000 -0300" stop="20261125060000 -0300" channel="canal_de_vendas_net.claro.br">
     <title lang="pt">Adquira Produtos CLARO com Desconto</title>
@@ -26745,14 +26799,14 @@
   <programme start="20261126233000 -0300" stop="20261127000000 -0300" channel="tv_climatempo.claro.br">
     <title lang="pt">Brasil e China</title>
   </programme>
-  <programme start="20261125011000 -0300" stop="20261125022500 -0300" channel="tve_international.claro.br">
+  <programme start="20261125010000 -0300" stop="20261125022000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Al Cielo Con Ella</title>
   </programme>
-  <programme start="20261125022500 -0300" stop="20261125033000 -0300" channel="tve_international.claro.br">
+  <programme start="20261125022000 -0300" stop="20261125031500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Sukha</title>
   </programme>
-  <programme start="20261125033000 -0300" stop="20261125035000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Telediario Matinal</title>
+  <programme start="20261125031500 -0300" stop="20261125035000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Metropolis</title>
   </programme>
   <programme start="20261125035000 -0300" stop="20261125063500 -0300" channel="tve_international.claro.br">
     <title lang="pt">La Hora De La 1</title>
@@ -26778,16 +26832,19 @@
   <programme start="20261125114300 -0300" stop="20261125115000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Aqui La Tierra</title>
   </programme>
-  <programme start="20261125115000 -0300" stop="20261125135000 -0300" channel="tve_international.claro.br">
+  <programme start="20261125115000 -0300" stop="20261125135500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Directo Al Grano</title>
   </programme>
-  <programme start="20261125135000 -0300" stop="20261125145000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Senderos Del Mundo</title>
+  <programme start="20261125135500 -0300" stop="20261125145000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Senderos del Mundo</title>
   </programme>
-  <programme start="20261125145000 -0300" stop="20261125154000 -0300" channel="tve_international.claro.br">
+  <programme start="20261125145000 -0300" stop="20261125153500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Saber y Ganar</title>
   </programme>
-  <programme start="20261125154000 -0300" stop="20261125162500 -0300" channel="tve_international.claro.br">
+  <programme start="20261125153500 -0300" stop="20261125154500 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Aqui La Tierra</title>
+  </programme>
+  <programme start="20261125154500 -0300" stop="20261125162500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Malas Lenguas</title>
   </programme>
   <programme start="20261125162500 -0300" stop="20261125165500 -0300" channel="tve_international.claro.br">
@@ -26820,20 +26877,17 @@
   <programme start="20261125220000 -0300" stop="20261125223000 -0300" channel="tve_international.claro.br">
     <title lang="pt">TD Internacional 24 Horas</title>
   </programme>
-  <programme start="20261125223000 -0300" stop="20261125234500 -0300" channel="tve_international.claro.br">
+  <programme start="20261125223000 -0300" stop="20261125235000 -0300" channel="tve_international.claro.br">
     <title lang="pt">La Revuelta</title>
   </programme>
-  <programme start="20261125234500 -0300" stop="20261126005500 -0300" channel="tve_international.claro.br">
+  <programme start="20261125235000 -0300" stop="20261126010000 -0300" channel="tve_international.claro.br">
     <title lang="pt">El Perro Andaluz By Manu Sanchez</title>
   </programme>
-  <programme start="20261126005500 -0300" stop="20261126020000 -0300" channel="tve_international.claro.br">
+  <programme start="20261126010000 -0300" stop="20261126023500 -0300" channel="tve_international.claro.br">
     <title lang="pt">El Perro Andaluz By Manu Sanchez</title>
   </programme>
-  <programme start="20261126020000 -0300" stop="20261126031500 -0300" channel="tve_international.claro.br">
+  <programme start="20261126023500 -0300" stop="20261126035000 -0300" channel="tve_international.claro.br">
     <title lang="pt">La Cena de Los Idiotas</title>
-  </programme>
-  <programme start="20261126031500 -0300" stop="20261126035000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Metropolis</title>
   </programme>
   <programme start="20261126035000 -0300" stop="20261126063500 -0300" channel="tve_international.claro.br">
     <title lang="pt">La Hora De La 1</title>
@@ -26856,59 +26910,35 @@
   <programme start="20261126114000 -0300" stop="20261126114300 -0300" channel="tve_international.claro.br">
     <title lang="pt">Aqui La Tierra</title>
   </programme>
-  <programme start="20261126114300 -0300" stop="20261126114600 -0300" channel="tve_international.claro.br">
+  <programme start="20261126114300 -0300" stop="20261126115000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Aqui La Tierra</title>
   </programme>
-  <programme start="20261126114600 -0300" stop="20261126115000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Aqui La Tierra</title>
-  </programme>
-  <programme start="20261126115000 -0300" stop="20261126135000 -0300" channel="tve_international.claro.br">
+  <programme start="20261126115000 -0300" stop="20261126135500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Directo Al Grano</title>
   </programme>
-  <programme start="20261126135000 -0300" stop="20261126144500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Senderos Del Mundo</title>
+  <programme start="20261126135500 -0300" stop="20261126145000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Senderos del Mundo</title>
   </programme>
-  <programme start="20261126144500 -0300" stop="20261126154000 -0300" channel="tve_international.claro.br">
+  <programme start="20261126145000 -0300" stop="20261126153500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Saber y Ganar</title>
   </programme>
-  <programme start="20261126154000 -0300" stop="20261126162500 -0300" channel="tve_international.claro.br">
+  <programme start="20261126153500 -0300" stop="20261126154500 -0300" channel="tve_international.claro.br">
+    <title lang="pt">Aqui La Tierra</title>
+  </programme>
+  <programme start="20261126154500 -0300" stop="20261126164500 -0300" channel="tve_international.claro.br">
     <title lang="pt">Malas Lenguas</title>
   </programme>
-  <programme start="20261126162500 -0300" stop="20261126165500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Aqui La Tierra</title>
+  <programme start="20261126164500 -0300" stop="20261126210000 -0300" channel="tve_international.claro.br">
+    <title lang="pt">La Gran Decisión</title>
   </programme>
-  <programme start="20261126165500 -0300" stop="20261126175000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Telediario 2ª Edición</title>
-  </programme>
-  <programme start="20261126175000 -0300" stop="20261126175500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Teledeporte 2</title>
-  </programme>
-  <programme start="20261126175500 -0300" stop="20261126182500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Cifras y Letras</title>
-  </programme>
-  <programme start="20261126182500 -0300" stop="20261126185500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Cifras y Letras</title>
-  </programme>
-  <programme start="20261126185500 -0300" stop="20261126194000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Valle Salvaje</title>
-  </programme>
-  <programme start="20261126194000 -0300" stop="20261126204000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">La Promesa</title>
-  </programme>
-  <programme start="20261126204000 -0300" stop="20261126213000 -0300" channel="tve_international.claro.br">
+  <programme start="20261126210000 -0300" stop="20261126220000 -0300" channel="tve_international.claro.br">
     <title lang="pt">Sukha</title>
-  </programme>
-  <programme start="20261126213000 -0300" stop="20261126220000 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Aqui La Tierra</title>
   </programme>
   <programme start="20261126220000 -0300" stop="20261126223000 -0300" channel="tve_international.claro.br">
     <title lang="pt">TD Internacional 24 Horas</title>
   </programme>
-  <programme start="20261126223000 -0300" stop="20261126234500 -0300" channel="tve_international.claro.br">
+  <programme start="20261126223000 -0300" stop="20261127000000 -0300" channel="tve_international.claro.br">
     <title lang="pt">La Revuelta</title>
-  </programme>
-  <programme start="20261126234500 -0300" stop="20261127012500 -0300" channel="tve_international.claro.br">
-    <title lang="pt">Cine</title>
   </programme>
   <programme start="20261125002000 -0300" stop="20261125004100 -0300" channel="sexy_hot.claro.br">
     <title lang="pt">Supermarket</title>
@@ -29637,11 +29667,8 @@
   <programme start="20261126230700 -0300" stop="20261126233400 -0300" channel="modo_viagem_hd.claro.br">
     <title lang="pt">A Vida É Uma Passagem</title>
   </programme>
-  <programme start="20261126233400 -0300" stop="20261126235900 -0300" channel="modo_viagem_hd.claro.br">
+  <programme start="20261126233400 -0300" stop="20261127000000 -0300" channel="modo_viagem_hd.claro.br">
     <title lang="pt">A Vida É Uma Passagem</title>
-  </programme>
-  <programme start="20261126235900 -0300" stop="20261127002500 -0300" channel="modo_viagem_hd.claro.br">
-    <title lang="pt">Vinícolas Ao Redor Do Mundo</title>
   </programme>
   <programme start="20261125002100 -0300" stop="20261125004300 -0300" channel="tlc_hd_.claro.br">
     <title lang="pt">O Vestido Ideal</title>
@@ -30876,20 +30903,95 @@
   <programme start="20261126050000 -0300" stop="20261126063000 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Cine Hahaha: Minha Mãe É Uma Peça</title>
   </programme>
-  <programme start="20261126063000 -0300" stop="20261126103000 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20261126063000 -0300" stop="20261126070000 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Tô De Graça</title>
   </programme>
-  <programme start="20261126103000 -0300" stop="20261126143000 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20261126070000 -0300" stop="20261126072800 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20261126072800 -0300" stop="20261126075400 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20261126075400 -0300" stop="20261126080000 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Humor Multishow</title>
+  </programme>
+  <programme start="20261126080000 -0300" stop="20261126083000 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Top Tvz</title>
+  </programme>
+  <programme start="20261126083000 -0300" stop="20261126085900 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Tô De Graça</title>
   </programme>
-  <programme start="20261126143000 -0300" stop="20261126183000 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20261126085900 -0300" stop="20261126092900 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Tô De Graça</title>
   </programme>
-  <programme start="20261126183000 -0300" stop="20261126223000 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20261126092900 -0300" stop="20261126095800 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Volte Sempre</title>
+  </programme>
+  <programme start="20261126095800 -0300" stop="20261126102800 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Tô De Graça</title>
   </programme>
-  <programme start="20261126223000 -0300" stop="20261127023000 -0300" channel="multishow_hd_.claro.br">
+  <programme start="20261126102800 -0300" stop="20261126105400 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20261126105400 -0300" stop="20261126112000 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20261126112000 -0300" stop="20261126120900 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126120900 -0300" stop="20261126124200 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
+  </programme>
+  <programme start="20261126124200 -0300" stop="20261126131500 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
+  </programme>
+  <programme start="20261126131500 -0300" stop="20261126140200 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Sessão Nostalgia - Toma Lá Da Cá</title>
+  </programme>
+  <programme start="20261126140200 -0300" stop="20261126142700 -0300" channel="multishow_hd_.claro.br">
     <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20261126142700 -0300" stop="20261126151500 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126151500 -0300" stop="20261126160700 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126160700 -0300" stop="20261126165600 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126165600 -0300" stop="20261126173000 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
+  </programme>
+  <programme start="20261126173000 -0300" stop="20261126180000 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
+  </programme>
+  <programme start="20261126180000 -0300" stop="20261126191500 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Tvz Ao Vivo: Tvz Com Wanessa Camargo E Gominho - Netto Brito e Belle Daltro (Ao Vivo)</title>
+  </programme>
+  <programme start="20261126191500 -0300" stop="20261126194600 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20261126194600 -0300" stop="20261126202900 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Sessão Nostalgia - Toma Lá Da Cá</title>
+  </programme>
+  <programme start="20261126202900 -0300" stop="20261126210400 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Sessão Nostalgia - A Grande Família</title>
+  </programme>
+  <programme start="20261126210400 -0300" stop="20261126213800 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Sessão Nostalgia - A Grande Família</title>
+  </programme>
+  <programme start="20261126213800 -0300" stop="20261126223100 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20261126223100 -0300" stop="20261126230000 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Volte Sempre</title>
+  </programme>
+  <programme start="20261126230000 -0300" stop="20261126233300 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Atenção Para O Refrão</title>
+  </programme>
+  <programme start="20261126233300 -0300" stop="20261127010300 -0300" channel="multishow_hd_.claro.br">
+    <title lang="pt">Paulo Gustavo Em 3 Atos</title>
   </programme>
   <programme start="20261125010000 -0300" stop="20261125010500 -0300" channel="sportv_hd_.claro.br">
     <title lang="pt">Pílula Futebol Feminino: Olho Nelas</title>
@@ -31048,19 +31150,19 @@
     <title lang="pt">Troca de Passes - Ao Vivo</title>
   </programme>
   <programme start="20261125000000 -0300" stop="20261125010000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
   </programme>
   <programme start="20261125010000 -0300" stop="20261125030000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">GloboNews Em Pauta</title>
   </programme>
   <programme start="20261125030000 -0300" stop="20261125033000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Roberto D’Avila</title>
+    <title lang="pt">Roberto D'avila</title>
   </programme>
   <programme start="20261125033000 -0300" stop="20261125050000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal das Dez</title>
+    <title lang="pt">Jornal Das Dez</title>
   </programme>
   <programme start="20261125050000 -0300" stop="20261125060000 -0300" channel="globonews_hd_.claro.br">
-    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+    <title lang="pt">Jornal GloboNews (5h) - Ao Vivo</title>
   </programme>
   <programme start="20261125060000 -0300" stop="20261125063000 -0300" channel="globonews_hd_.claro.br">
     <title lang="pt">Jornal GloboNews - Ao Vivo</title>
@@ -44074,7 +44176,7 @@
     <title lang="pt">Todo Mundo Odeia O Chris</title>
   </programme>
   <programme start="20261125103000 -0300" stop="20261125123000 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Real Madrid x PSV - Ao Vivo</title>
+    <title lang="pt">VT - Real Madrid x PSV</title>
   </programme>
   <programme start="20261125123000 -0300" stop="20261125134700 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Pré-Jogo UEFA Champions League</title>
@@ -44131,7 +44233,7 @@
     <title lang="pt">O Homem de Aço</title>
   </programme>
   <programme start="20261126084900 -0300" stop="20261126104900 -0300" channel="tnt_hd_.claro.br">
-    <title lang="pt">Paris Saint-Germain x Roma - Ao Vivo</title>
+    <title lang="pt">VT - Paris Saint-Germain x Roma</title>
   </programme>
   <programme start="20261126104900 -0300" stop="20261126111200 -0300" channel="tnt_hd_.claro.br">
     <title lang="pt">Um Maluco no Pedaço</title>
@@ -45099,8 +45201,11 @@
   <programme start="20261126074000 -0300" stop="20261126094000 -0300" channel="canal_brasil_hd_.claro.br">
     <title lang="pt">João, O Maestro</title>
   </programme>
-  <programme start="20261126094000 -0300" stop="20261126113000 -0300" channel="canal_brasil_hd_.claro.br">
+  <programme start="20261126094000 -0300" stop="20261126112100 -0300" channel="canal_brasil_hd_.claro.br">
     <title lang="pt">Um Caipira Em Bariloche</title>
+  </programme>
+  <programme start="20261126112100 -0300" stop="20261126113000 -0300" channel="canal_brasil_hd_.claro.br">
+    <title lang="pt">Noturnas: Isabelita Dos Patins</title>
   </programme>
   <programme start="20261126113000 -0300" stop="20261126124000 -0300" channel="canal_brasil_hd_.claro.br">
     <title lang="pt">Quem É Essa Mulher?</title>
@@ -45123,8 +45228,11 @@
   <programme start="20261126141500 -0300" stop="20261126143000 -0300" channel="canal_brasil_hd_.claro.br">
     <title lang="pt">Esquinas - Pílulas - Limousine Party</title>
   </programme>
-  <programme start="20261126143000 -0300" stop="20261126155000 -0300" channel="canal_brasil_hd_.claro.br">
+  <programme start="20261126143000 -0300" stop="20261126154300 -0300" channel="canal_brasil_hd_.claro.br">
     <title lang="pt">Servidão</title>
+  </programme>
+  <programme start="20261126154300 -0300" stop="20261126155000 -0300" channel="canal_brasil_hd_.claro.br">
+    <title lang="pt">Noturnas: Lorna Washington</title>
   </programme>
   <programme start="20261126155000 -0300" stop="20261126172500 -0300" channel="canal_brasil_hd_.claro.br">
     <title lang="pt">Dedo Na Ferida</title>
@@ -46635,7 +46743,7 @@
   <programme start="20261126234000 -0300" stop="20261127012000 -0300" channel="telecine_premium_hd_.claro.br">
     <title lang="pt">O Legado do Apocalipse</title>
   </programme>
-  <programme start="20261125021000 -0300" stop="20261125040500 -0300" channel="hbo_hd_.claro.br">
+  <programme start="20261125021500 -0300" stop="20261125040500 -0300" channel="hbo_hd_.claro.br">
     <title lang="pt">O Caminho de Volta</title>
   </programme>
   <programme start="20261125040500 -0300" stop="20261125060000 -0300" channel="hbo_hd_.claro.br">
@@ -46656,17 +46764,14 @@
   <programme start="20261125115000 -0300" stop="20261125140500 -0300" channel="hbo_hd_.claro.br">
     <title lang="pt">Homem-Aranha: De Volta Ao Lar</title>
   </programme>
-  <programme start="20261125140500 -0300" stop="20261125151000 -0300" channel="hbo_hd_.claro.br">
-    <title lang="pt">HBO Movies</title>
+  <programme start="20261125140500 -0300" stop="20261125155100 -0300" channel="hbo_hd_.claro.br">
+    <title lang="pt">A Idade Dourada</title>
   </programme>
-  <programme start="20261125151000 -0300" stop="20261125154500 -0300" channel="hbo_hd_.claro.br">
-    <title lang="pt">HBO Movies</title>
-  </programme>
-  <programme start="20261125154500 -0300" stop="20261125180000 -0300" channel="hbo_hd_.claro.br">
+  <programme start="20261125155100 -0300" stop="20261125180000 -0300" channel="hbo_hd_.claro.br">
     <title lang="pt">Mickey 17</title>
   </programme>
   <programme start="20261125180000 -0300" stop="20261125183500 -0300" channel="hbo_hd_.claro.br">
-    <title lang="pt">HBO Movies</title>
+    <title lang="pt">Entre Fãs com Tiago Abravanel</title>
   </programme>
   <programme start="20261125183500 -0300" stop="20261125192500 -0300" channel="hbo_hd_.claro.br">
     <title lang="pt">Carlinhos Brown em Meia Lua Inteira</title>
@@ -48201,56 +48306,38 @@
   <programme start="20261125035000 -0300" stop="20261125055000 -0300" channel="combate_hd.claro.br">
     <title lang="pt">Bkfc Fight Night: Richardson x Oxendine</title>
   </programme>
-  <programme start="20261125055000 -0300" stop="20261125072500 -0300" channel="combate_hd.claro.br">
+  <programme start="20261125055000 -0300" stop="20261125095000 -0300" channel="combate_hd.claro.br">
     <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125072500 -0300" stop="20261125101500 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Glory 110</title>
+  <programme start="20261125095000 -0300" stop="20261125135000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125101500 -0300" stop="20261125135500 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Acbjj 23</title>
+  <programme start="20261125135000 -0300" stop="20261125175000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125135500 -0300" stop="20261125161500 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">One Fight Night 49</title>
+  <programme start="20261125175000 -0300" stop="20261125215000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125161500 -0300" stop="20261125170000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Ippon - Ep. 3</title>
+  <programme start="20261125215000 -0300" stop="20261126015000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125170000 -0300" stop="20261125180000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Mundo Da Luta - Ep.16</title>
+  <programme start="20261126015000 -0300" stop="20261126055000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125180000 -0300" stop="20261125210000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Kings Championship</title>
+  <programme start="20261126055000 -0300" stop="20261126095000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125210000 -0300" stop="20261125234500 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Boxe: Navarrete x Foster</title>
+  <programme start="20261126095000 -0300" stop="20261126135000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261125234500 -0300" stop="20261126015000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Boxe - Fress x Xhoxhaj Iii</title>
+  <programme start="20261126135000 -0300" stop="20261126175000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261126015000 -0300" stop="20261126035000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Bkfc Fight Night: Richardson x Oxendine</title>
+  <programme start="20261126175000 -0300" stop="20261126215000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
-  <programme start="20261126035000 -0300" stop="20261126075000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126075000 -0300" stop="20261126115000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126115000 -0300" stop="20261126155000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126155000 -0300" stop="20261126195000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126195000 -0300" stop="20261126235000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126235000 -0300" stop="20261126235900 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Oktagon 98</title>
-  </programme>
-  <programme start="20261126235900 -0300" stop="20261127040000 -0300" channel="combate_hd.claro.br">
-    <title lang="pt">Programação Combate</title>
+  <programme start="20261126215000 -0300" stop="20261127015000 -0300" channel="combate_hd.claro.br">
+    <title lang="pt">Power Slap 26</title>
   </programme>
   <programme start="20261125000000 -0300" stop="20261125020000 -0300" channel="premiere_hd_2.claro.br">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
